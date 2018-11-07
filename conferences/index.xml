@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences on CAPWIC</title>
+    <link>//capwic.org/conferences/</link>
+    <description>Recent content in Conferences on CAPWIC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate>
+    
+	<atom:link href="//capwic.org/conferences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

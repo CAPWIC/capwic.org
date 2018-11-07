@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>//capwic.org/conferences/2019/</loc>
+    <lastmod>2018-11-06T22:14:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/contact/</loc>
+    <lastmod>2018-07-14T17:09:20+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/conferences/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/gallery/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/service/</loc>
+    <lastmod>2018-07-14T12:58:14+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/about/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/portfolio/caramel-bottle/</loc>
+    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/portfolio/shopping-bag-concept/</loc>
+    <lastmod>2018-07-12T16:58:55+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/portfolio/makeup-element/</loc>
+    <lastmod>2018-07-12T16:57:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/portfolio/table-design/</loc>
+    <lastmod>2018-07-12T16:56:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/portfolio/bottle-mockup/</loc>
+    <lastmod>2018-07-12T16:54:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/portfolio/dew-drop/</loc>
+    <lastmod>2018-07-12T16:53:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/</loc>
+    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/portfolio/</loc>
+    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
