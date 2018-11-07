@@ -1,0 +1,9 @@
+enable  : true
+conferenceImages :
+  - image : images/banner2019.png
+  - image : images/banner2017.png
+  - image : images/banner2016.png
+  - image : images/banner2015.png
+  - image : images/banner2014.png
+  - image : images/banner2013.png
+  - image : images/banner2012.png

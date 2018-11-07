@@ -1,0 +1,194 @@
+enable  : true
+title   : Register by February 16 to secure your spot at CAPWIC 2019!
+description: >
+  Register to attend, sponsor us, or volunteer to help review submissions to the technical program.
+deadlines:
+  - date: February January 9, 2019
+    description: Volunteer to Review Submissions!
+  - date: February 9, 2019
+    description: Abstract Submission
+  - date: February 16, 2019
+    description: Registration
+image   : images/banner2019.png
+rates:
+  - description: Single Hotel Room
+    cost: $100.00
+  - description: Double Hotel Room*
+    cost: $75.00
+  - description: Triple Hotel Room*
+    cost: $50.00
+  - description: Conference Registration without lodging
+    cost: $25.00
+sponsorship:
+  - type: General
+    perks: 
+      - name: Get a Table at the Career Fair
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: 2 FREE tickets to attend the celebration
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Send Engineers/Mentors
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Host a Technical Workshop
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Hold a keynote or a presentation
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: false
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+  - type: Recruiting and Branding
+    perks: 
+      - name: Swag in Attendee bag
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Blurb in Program & Website
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Company Logo on Attendee bag
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Receive Resume Book
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Company Logo on event t-shirt
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Award Branded Prize
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: false
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+aboutItem:
+  - title : Registration
+    type: registration
+    description: > 
+      Student registration rates are made possible by our sponsors. All levels include a conference registration.
+
+  - title : Sponsorship
+    type: sponsorship
+    description: > 
+      Join our distinguished cohort of sponsors and help make CAPWIC 2019 happen! CAPWIC is in its 10th year, and we are so thankful for all the support over the years.
+
+  - title : Scholarships
+    description: > 
+      Scholarships 💰 are available to attend CAPWIC every year! Information for student scholarship applications is coming soon.

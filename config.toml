@@ -1,0 +1,117 @@
+baseURL = "//capwic.org/"
+languageCode = "en-us"
+title = "CAPWIC"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/v2/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    #[[menu.nav]]
+    #    name    = "Service"
+    #    url     = "/service"
+    #    weight  = 3
+    #[[menu.nav]]
+    #    name    = "Gallery"
+    #    url     = "/gallery"
+    #    weight  = 4
+    [[menu.nav]]
+        name    = "Conferences"
+        url     = "/conferences"
+        weight  = 4
+    #[[menu.nav]]
+    #    name    = "Blog"
+    #    url     = "/blog"
+    #    weight  = 5
+    [[menu.nav]]
+        name    = "Contact"
+        url     = "/contact"
+        weight  = 6
+    #[[menu.nav]]
+    #    name    = "About"
+    #    url     = "/about"
+    #    weight  = 7
+
+# Site Params
+[params]
+    home = "Home"
+    dateFormat = "6 January 2006"
+    #
+    # You can use either an image or text as logo.
+    # To use an image use 'logo' (logo itself) and 'logo_alt' (alternative text if image cannot displayed)
+    # To use text as logo use 'logo_text'
+    logo = "images/logo-40.png"
+    logo_alt = "logo"
+    #logo_text = "logo_text"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/banner.png"
+        heading = "🗓 SAVE THE DATE FOR CAPWIC 2019!<br>March 22-23, 2019 at James Madison University in Harrisonburg, VA"
+        description = "The <u>Cap</u>ital Region Celebration of <u>W</u>omen <u>i</u>n <u>C</u>omputing Conference registration is opening <i>soon</i>"
+        btn     = true
+        btnText = "Learn More"
+        btnURL  = "/conferences/2019"
+        [[params.banner.flipText]]
+            title   = "🎤 KEYNOTE SPEAKERS"
+        [[params.banner.flipText]]
+            title   = "BIRDS OF A FEATHER 🦉"
+        [[params.banner.flipText]]
+            title   = "WORKSHOPS"
+        [[params.banner.flipText]]
+            title   = "RESEARCH SHORTS "
+        [[params.banner.flipText]]
+            title   = "⚡️FLASH TALKS"
+        [[params.banner.flipText]]
+            title   = "RESEARCH POSTERS 👩‍🏫"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "CAPWIC"
+        content = "The Capital Region includes Colleges and Universities as far North as Pennsylvania, and as far south as Virginia. The Capital Region Celebration of Women in Computing Conference brings together students, faculty, and industry partners to engage with research and development in computing through discussion and community-building."
+        image   = "images/capwic logo.png"
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "Join Us!"
+        content = "Whether you would like to sponsor our conference, volunteer to organize, or simply to attend or keep in touch, we'd love to hear from you."
+        btnText = "Contact us"
+        btnURL  = "/contact"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = false
+    #    title   = "Latest Works"
+    #    subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    # Feature Product Section
+    [params.featureProduct]
+        enable  = false
+    #    title   = "SOME OF OUR FEATURES WORKS"
+    #    subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    # Footer section
+    [params.footer]
+        customized  = true # Set this variable to true if you customized the design.
+        copyright_owner = "CAPWIC"
+        copyright_since = "2018"
+        [[params.footer.social]]
+            icon = "ion-social-facebook"
+            link = "https://facebook.com"
+        [[params.footer.social]]
+            icon = "ion-social-twitter"
+            link = "https://twitter.com"
+        [[params.footer.social]]
+            icon = "ion-social-linkedin"
+            link = "https://linkedin.com"
+        [[params.footer.social]]
+            icon = "ion-social-googleplus"
+            link = "https://googleplus.com"
+        [[params.footer.social]]
+            icon = "ion-social-github"
+            link = "https://github.com"
+    
