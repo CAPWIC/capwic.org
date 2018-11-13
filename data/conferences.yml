@@ -1,9 +1,21 @@
 enable  : true
-conferenceImages :
-  - image : images/banner2019.png
-  - image : images/banner2017.png
-  - image : images/banner2016.png
-  - image : images/banner2015.png
-  - image : images/banner2014.png
-  - image : images/banner2013.png
-  - image : images/banner2012.png
+conferences :
+  - name: 2019
+    image : images/banner2019.png
+    url: /conferences/2019/
+    when: March 22-23, 2019
+    institution: James Madison University
+    where: Harrisonburg, VA
+  # - image : images/banner2017.png
+  - name: 2016
+    image : images/banner2016.png
+    url: /conferences/2016/
+    when: March 4-5, 2016
+    institution: Christopher Newport University
+    where: Newport News, VA
+    title: CAPWIC 2016
+    description: Thank you all for making CAPWIC 2016 a huge success!
+  # - image : images/banner2015.png
+  # - image : images/banner2014.png
+  # - image : images/banner2013.png
+  # - image : images/banner2012.png

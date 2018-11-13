@@ -41,15 +41,15 @@ theme = "timer-hugo"
     # You can use either an image or text as logo.
     # To use an image use 'logo' (logo itself) and 'logo_alt' (alternative text if image cannot displayed)
     # To use text as logo use 'logo_text'
-    logo = "images/logo-40.png"
+    logo = "images/capwic-logo-2-bw-40.jpeg"
     logo_alt = "logo"
     #logo_text = "logo_text"
 
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "images/banner.png"
-        heading = "🗓 SAVE THE DATE FOR CAPWIC 2019!<br>March 22-23, 2019 at James Madison University in Harrisonburg, VA"
+        bgImage = "images/conferences/IMG_1523-zoomed.jpeg"
+        heading = "🗓 SAVE THE DATE FOR CAPWIC 2019!<br>March 22-23, 2019 <br> James Madison University <br> Harrisonburg, VA"
         description = "The <u>Cap</u>ital Region Celebration of <u>W</u>omen <u>i</u>n <u>C</u>omputing Conference registration is opening <i>soon</i>"
         btn     = true
         btnText = "Learn More"
@@ -57,7 +57,7 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "🎤 KEYNOTE SPEAKERS"
         [[params.banner.flipText]]
-            title   = "BIRDS OF A FEATHER 🦉"
+            title   = "BIRDS OF A FEATHER 🐦"
         [[params.banner.flipText]]
             title   = "WORKSHOPS"
         [[params.banner.flipText]]

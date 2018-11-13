@@ -21,6 +21,19 @@ rates:
     cost: $50.00
   - description: Conference Registration without lodging
     cost: $25.00
+sponsorshipCosts:
+  - name: diamond
+    cost: $6000
+  - name: platinum
+    cost: $4000
+  - name: gold
+    cost: $2000
+  - name: silver
+    cost: $1000
+  - name: recruiter
+    cost: $500
+  - name: non
+    cost: $300
 sponsorship:
   - type: General
     perks: 
@@ -184,12 +197,12 @@ aboutItem:
   - title : Registration
     type: registration
     description: > 
-      Student registration rates are made possible by our sponsors. All levels include a conference registration.
+      Student registration rates are made possible by our sponsors. All levels include a conference registration. <a href="capwic-student-flyer.pdf" download>Download our flyer</a> to share with other students!
 
   - title : Sponsorship
     type: sponsorship
     description: > 
-      Join our distinguished cohort of sponsors and help make CAPWIC 2019 happen! CAPWIC is in its 10th year, and we are so thankful for all the support over the years.
+      Join our distinguished cohort of sponsors and help make CAPWIC 2019 happen! CAPWIC is in its 10th year, and we are so thankful for all the support over the years. [Download our flyer](/capwic-sponsor-flyer.pdf), or see below for more information.
 
   - title : Scholarships
     description: > 
