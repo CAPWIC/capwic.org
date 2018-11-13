@@ -72,7 +72,7 @@ theme = "timer-hugo"
         enable  = true
         title   = "CAPWIC"
         content = "The Capital Region includes Colleges and Universities as far North as Pennsylvania, and as far south as Virginia. The Capital Region Celebration of Women in Computing Conference brings together students, faculty, and industry partners to engage with research and development in computing through discussion and community-building."
-        image   = "images/capwic logo.png"
+        image   = "images/capwic-logo-2-bw.jpg"
 
     # Call to Action
     [params.cta]
