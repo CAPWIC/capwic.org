@@ -10,6 +10,20 @@ members  :
     linkedIn    : https://www.linkedin.com/themefisher
     googleplus  : https://plus.google.com/themefisher
   
+  - name: Dr. Sharon Simmons
+    designation: Co-chair
+    link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+    image: https://www.jmu.edu/cs/images/faculty-staff-images/simmons.jpg
+    email: info@capwic.org
+    description: James Madison University
+
+  - name: Dr. Michael Stewart
+    designation: Co-chair
+    link: https://www.jmu.edu/cs/people/faculty-staff/stewart-michael.shtml
+    image: https://www.jmu.edu/cs/images/faculty-staff-images/stewart.jpg
+    email: info@capwic.org
+    description: James Madison University
+
   - name  : Jesmin Martina
     image : images/team/team-2.jpg
     designation : CEO, Project Manager
