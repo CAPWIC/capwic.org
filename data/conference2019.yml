@@ -320,3 +320,81 @@ organizers:
   - name: Dr. Lynn Lambert
     link: http://www.pcs.cnu.edu/~lambert/
     affiliation: Christopher Newport University
+organizer_photos:
+- name: Dr. Sharon Simmons
+  last_name: Simmons
+  link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+  avatar: https://www.jmu.edu/cs/images/faculty-staff-images/simmons.jpg
+  email: info@capwic.org
+  affiliation: James Madison University
+- name: Dr. Michael Stewart
+  last_name: Stewart
+  link: https://www.jmu.edu/cs/people/faculty-staff/stewart-michael.shtml
+  avatar: https://www.jmu.edu/cs/images/faculty-staff-images/stewart.jpg
+  email: info@capwic.org
+  affiliation: James Madison University
+- name: Ms. Melissa Heatwole
+  last_name: Heatwole
+  link: https://www.jmu.edu/outreach/about/staff-bios/outreach/heatwole-melissa.shtml
+  avatar: https://www.jmu.edu/_images/outreach/staff/staff-2017/melissa-heatwole.jpg
+  email: info@capwic.org
+  affiliation: James Madison University
+- name: Dr. Swapneel Sheth
+  last_name: Sheth
+  link: https://www.cis.upenn.edu/~swapneel/
+  avatar: https://www.cis.upenn.edu/~swapneel/images/me.JPG
+  email: registration@capwic.org
+  affiliation: University of Pennsylvania
+- name: Dr. Robin Givens
+  last_name: Givens
+  link: https://www.rmc.edu/departments/computer-science/faculty
+  affiliation: Randolph-Macon College
+- name: Carolyn Bertrand
+  last_name: Bertrand
+  affiliation: Western Albemarle High School
+- name: Dr. Kelly Shaw
+  last_name: Shaw
+  link: https://cs.richmond.edu/faculty/kshaw/
+  avatar: https://cs.richmond.edu/_common_KP3/images/faculty-staff-bio/as/large/shaw_kelly.jpg
+  email: scholarship2019@capwic.org
+  affiliation: University of Richmond
+- name: Dr. Jessica Self
+  last_name: Self
+  link: https://www.umw.edu/directory/employee/jessica-self-jzeitz/
+  avatar: https://cas.umw.edu/computerscience/files/2017/08/jzeitz.jpg
+  email: programcommittee2019@capwic.org
+  affiliation: University of Mary Washington
+- name: Dr. Dee Weikle
+  last_name: Weikle
+  link: https://w3.cs.jmu.edu/weikleda/
+  avatar: https://www.jmu.edu/cs/images/faculty-staff-images/weikle
+  affiliation: James Madison University
+- name: Dr. Lorraine Parker
+  last_name: Parker
+  link: https://egr.vcu.edu/directory/lorraineparker/
+  avatar: https://media-speakerfile-pre.s3.amazonaws.com/images_avatars/d6d3679a3642c77d67523ee26cdd48da1482181006_l.jpg
+  affiliation: Virginia Commonwealth University
+- name: Dr. Emily York
+  last_name: York
+  link: https://www.jmu.edu/isat/people/faculty/york-emily.shtml
+  avatar: https://www.jmu.edu/isat/_images/faculty-staff/york.jpg
+  affiliation: James Madison University
+- name: Dr. Michele Co
+  last_name: Co
+  link: http://www.cs.virginia.edu/~mc2zk/
+  avatar: http://www.cs.virginia.edu/~mc2zk/images/mc2zk_resize.jpg
+  affiliation: University of Virginia
+- name: Dr. Donna Schaeffer
+  last_name: Schaeffer
+  link: https://www.marymount.edu/Home/Contact-Us/Directory/?profileid=190
+  avatar: https://www.marymount.edu/marymount.edu/media/Faculty-Staff/140924donna-schaffer_business0001.jpg?width=231&height=193&ext=.jpg
+  affiliation: Marymount University
+- name: Dr. Jason Forsyth
+  last_name: Forsyth
+  link: https://www.jmu.edu/engineering/people/all-people/forsyth-jason.shtml
+  avatar: https://scholar.google.com/citations?view_op=medium_photo&user=EY6SBHcAAAAJ&citpid=3
+  affiliation: James Madison University
+- name: Dr. Lynn Lambert
+  last_name: Lambert
+  link: http://www.pcs.cnu.edu/~lambert/
+  affiliation: Christopher Newport University
