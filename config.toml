@@ -16,10 +16,10 @@ theme = "timer-hugo"
     #    name    = "Gallery"
     #    url     = "/gallery"
     #    weight  = 4
-    [[menu.nav]]
-        name    = "Conferences"
-        url     = "/conferences"
-        weight  = 4
+    #[[menu.nav]]
+    #    name    = "Conferences"
+    #    url     = "/conferences"
+    #    weight  = 4
     #[[menu.nav]]
     #    name    = "Blog"
     #    url     = "/blog"
@@ -44,6 +44,7 @@ theme = "timer-hugo"
     logo = "images/capwic-logo-2-bw-40.jpeg"
     logo_alt = "logo"
     #logo_text = "logo_text"
+    current_conf_year = "2019"
 
     # Banner Section
     [params.banner]
