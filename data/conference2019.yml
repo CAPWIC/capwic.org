@@ -279,13 +279,13 @@ organizers:
       email: scholarship2019@capwic.org
       affiliation: University of Richmond
   - Technical Program:
-    - name: Dr. Jessica Self
+    - name: Dr. Jessica Zeitz
       link: https://www.umw.edu/directory/employee/jessica-self-jzeitz/
       avatar: https://cas.umw.edu/computerscience/files/2017/08/jzeitz.jpg
       email: programcommittee2019@capwic.org
       affiliation: University of Mary Washington
   - Program Committee:
-    - name: Dr. Jessica Self
+    - name: Dr. Jessica Zeitz
       link: https://www.umw.edu/directory/employee/jessica-self-jzeitz/
       avatar: https://cas.umw.edu/computerscience/files/2017/08/jzeitz.jpg
       email: programcommittee2019@capwic.org
@@ -403,6 +403,7 @@ nav:
   - name: CAPWIC 2019
     url: /conferences/2019
   - name: Registration
+    class: external-link
     url: https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP
   - name: Sponsorship
     url: /conferences/2019/sponsorship
