@@ -446,6 +446,11 @@ sponsors:
     - name: CounterFlow
       img: CounterFlow.png
       link: https://www.counterflow.ai/
+      class: dark
+    - name: CISE
+      img: cise_logo_purp_web.svg
+      link: https://www.jmu.edu/cise/
+      class: light
   - level: Silver
     sponsors: []
   - level: Bronze

@@ -8,7 +8,7 @@
             {{ end }}
             {{ range $sponsor := $i.sponsors}}
                 <div class="card sponsor">
-                    <img class="card-img-top" src="/{{$yr}}/sponsors/{{$sponsor.img}}" alt="Card image cap">
+                    <img class="card-img-top {{$sponsor.class}}" src="/{{$yr}}/sponsors/{{$sponsor.img}}" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title text-center">
                             <a href="{{$sponsor.link}}" rel="noopener noreferrer" target="_blank">{{$sponsor.name}}</a>
