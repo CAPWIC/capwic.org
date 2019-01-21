@@ -471,3 +471,14 @@ speakers:
       Prof. Lou has published over 200 papers. Her works are widely cited. As per Google Scholar, her publications have been cited over 27,000 times and her H-index number is 71. Prof. Lou received many awards for her outstanding research accomplishment. Most recently she was honored with the Virginia Tech Alumni Award for Research Excellence, which is the highest university level award for faculty research excellence, awarded to no more than two recipients each year. Prof. Lou is also a recipient of US National Science Foundation’s CAREER award in 2008. 
   
       From August 2014 to August 2017, Prof. Lou served as a Program Director at the US National Science Foundation (NSF). At NSF, her responsibilities included the Networking Technology and Systems (NeTS) program, a core program of the Computer and Network Systems (CNS) division within the Directorate for Computer & Information Science & Engineering (CISE), and the Secure and Trustworthy Cyberspace (SaTC) program, a cross-cutting security program led by CISE/CNS.
+flyers:
+  - link: capwic-call-for-participation.pdf
+    text: Call for participation
+  - link: capwic-call-for-submissions.pdf
+    text: Call for Submissions
+  - link: capwic-highschool.pdf
+    text: Information for High School Students
+  - link: capwic-sponsor-flyer.pdf
+    text: Information for Sponsors
+  - link: capwic-student-flyer.pdf
+    text: General Information for Students
