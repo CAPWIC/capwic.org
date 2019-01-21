@@ -478,7 +478,11 @@ flyers:
     text: Call for Submissions
   - link: capwic-highschool.pdf
     text: Information for High School Students
-  - link: capwic-sponsor-flyer.pdf
-    text: Information for Sponsors
   - link: capwic-student-flyer.pdf
     text: General Information for Students
+  - link: capwic-sponsor-flyer.pdf
+    text: Information for Sponsors
+policies:
+  - name: Code of Conduct
+    body: |
+      CAPWIC's top priority is that participants feel welcome, comfortable, respected, and safe while attending. As an official ACM-W celebration, we adhere to <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener noreferrer">the ACM Code of Conduct <i class="icon ion-ios-open"></i></a>.
