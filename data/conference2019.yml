@@ -407,10 +407,12 @@ nav:
   - name: Registration
     class: external-link
     url: https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP
-  - name: Sponsorship
-    url: /conferences/2019/sponsorship
   - name: Participation
     url: /conferences/2019/participation
+  - name: Schedule
+    url: /conferences/2019/schedule
+  - name: Sponsorship
+    url: /conferences/2019/sponsorship
   - name: Organizers
     url: /conferences/2019/organizers
 submission:
@@ -439,6 +441,16 @@ submission:
       description: >
         25 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
 sponsors:
+  - level: PRE
+    sponsors:
+    - name: ACM
+      img: acm.jpg
+      link: https://www.acm.org/
+      class: light
+    - name: Microsoft
+      img: microsoft.png
+      link: https://www.microsoft.com/en-us/
+      class: light
   - level: Diamond
     sponsors: []
   - level: Platinum
@@ -459,8 +471,32 @@ sponsors:
       img: cs_multiline.png
       link: https://www.jmu.edu/cs/
       class: light
-  - level: Bronze
-    sponsors: []
+  - level: Recruiter
+    sponsors:
+    - name: CapTech
+      img: captech_400x400.jpg
+      link: https://www.captechconsulting.com/
+      class: light
+    - name: Chiedo Labs
+      img: chiedo.jpg
+      link: https://labs.chiedo.com/
+      class: light
+    - name: Booz Allen Hamilton
+      img: boozallenhamilton.jpg
+      link: https://www.boozallen.com/
+      class: light
+  - level: Academic
+    sponsors:
+    - name: UVA Computer Science
+      img: uva_cs.png
+      link: https://engineering.virginia.edu/departments/computer-science
+      class: light
+  - level: POST
+    sponsors:
+    - name: Speakers provided by CRA-W
+      img: cra-w.jpg
+      link: https://cra.org/cra-w/
+      class: light
 speakers:
   - name: Dr. Wenjing Lou
     link: https://www.cnsr.ictas.vt.edu/WJLou.html
@@ -486,3 +522,8 @@ policies:
   - name: Code of Conduct
     body: |
       CAPWIC's top priority is that participants feel welcome, comfortable, respected, and safe while attending. As an official ACM-W celebration, we adhere to <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener noreferrer">the ACM Code of Conduct <i class="icon ion-ios-open"></i></a>.
+schedule:
+  heading: In development
+  body: |
+    The CAPWIC 2019 is under heavy development. Stay tuned for more information. To have an idea of how the schedule will look, take a look at <a href="https://nvite.com/PHICWIC2018" target="_blank" rel="noopener noreferrer">last year's PHICWIC Schedule <i class="icon ion-ios-open"></i></a>.
+  days: []

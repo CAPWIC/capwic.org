@@ -3,7 +3,7 @@
     {{$data := print "conference" $yr}}
     {{with index .Site.Data $data }}
         {{ range $i := .sponsors}}
-            {{if gt (len $i.sponsors) 0}}
+            {{if and (gt (len $i.sponsors) 0) (and (ne $i.level "PRE") (ne $i.level "POST"))}}
                 <h2>{{$i.level}} Sponsors</h2>
             {{ end }}
             {{ range $sponsor := $i.sponsors}}
