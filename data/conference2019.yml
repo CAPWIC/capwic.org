@@ -497,6 +497,10 @@ sponsors:
       img: cra-w.jpg
       link: https://cra.org/cra-w/
       class: light
+    - name: GitHub
+      img: github.jpg
+      link: https://github.com
+      class: light
 speakers:
   - name: Dr. Wenjing Lou
     link: https://www.cnsr.ictas.vt.edu/WJLou.html
