@@ -471,6 +471,10 @@ sponsors:
       img: cs_multiline.png
       link: https://www.jmu.edu/cs/
       class: light
+    - name: JMU Computer Information Systems and Business Analytics
+      img: jmu-cis.jpg
+      link: https://www.jmu.edu/cob/cis/
+      class: light
   - level: Recruiter
     sponsors:
     - name: CapTech
@@ -490,6 +494,10 @@ sponsors:
     - name: UVA Computer Science
       img: uva_cs.png
       link: https://engineering.virginia.edu/departments/computer-science
+      class: light
+    - name: CNU Computer Science
+      img: cnu-stacked.jpg
+      link: http://cnu.edu/academics/departments/pcse/
       class: light
   - level: POST
     sponsors:
