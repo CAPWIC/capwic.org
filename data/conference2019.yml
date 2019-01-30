@@ -465,6 +465,10 @@ sponsors:
       img: cise_logo_purp_web.svg
       link: https://www.jmu.edu/cise/
       class: light
+    - name: UPenn Computer Science
+      img: upenn-engr.gif
+      link: http://www.cis.upenn.edu/index.php
+      class: dark
   - level: Silver
     sponsors:
     - name: JMU Computer Science
