@@ -515,6 +515,13 @@ sponsors:
       link: https://github.com
       class: light
 speakers:
+  - name: Dr. Amelia Estwick
+    link: https://www.nationalcybersecurityinstitute.org/about/program-manager/
+    img: Dr_AmeliaEstwick.jpg
+    bio: |
+      Dr. Amelia Estwick, Program Manager for the National Cybersecurity Institute at Excelsior College and Cybersecurity Faculty Program Director within Excelsior College’s School of Graduate Studies, is a Thought Leader for the College’s cybersecurity research, training, and academic initiatives. Prior to her academic position, she worked for the National Security Agency as a Technical Director within their Threat Operations Center which was responsible for monitoring and securing the Department of Defense against cyberattacks.  
+      
+      Dr. Estwick has over 20 years of government IT and cybersecurity experience, is a National Physical Sciences Consortium Fellow, a Certified Ethical Hacker, and a U.S. Army Veteran. She earned her Doctorate in Computer Science from The George Washington University and is passionate about diversity and inclusion initiatives to include increasing the pipeline for women and minority professionals in STEM, IT, and Cybersecurity.  Dr. Estwick currently serves as the Vice President for the Women in Cybersecurity Mid-Atlantic Affiliate.
   - name: Dr. Wenjing Lou
     link: https://www.cnsr.ictas.vt.edu/WJLou.html
     img: Wenjing-Lou.png
