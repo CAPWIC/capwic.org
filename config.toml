@@ -57,8 +57,8 @@ theme = "timer-hugo"
             btnURL  = "/conferences/2019"
         [[params.banner.btn]]
             btnText = "Register Now"
-            btnURL  = "http://jmu.co1.qualtrics.com/jfe/form/SV_6eSJOie1jQk7q6x"
-    #        btnURL  = "https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP"
+            btnURL  = "https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP"
+    #        btnURL  = "http://jmu.co1.qualtrics.com/jfe/form/SV_6eSJOie1jQk7q6x"
             
         [[params.banner.flipText]]
             title   = "🎤 KEYNOTE SPEAKERS"
