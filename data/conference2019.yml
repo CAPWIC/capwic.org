@@ -206,7 +206,7 @@ aboutItem:
   - title : Registration
     type: registration
     description: > 
-      Student registration rates are made possible by our sponsors. All levels include a conference registration. <a href="/capwic-student-flyer.pdf" download>Download our flyer</a> to share with other students or <a href="https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP" targe="_blank" rel="noreferrer noopener">register now</a>.
+      Student registration rates are made possible by our sponsors. All levels include a conference registration. <a href="/capwic-student-flyer.pdf" download>Download our flyer</a> to share with other students or <a href ="http://jmu.co1.qualtrics.com/jfe/form/SV_6eSJOie1jQk7q6x">register now (temporary site while registration system is down)</a><!--<a href="https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP" targe="_blank" rel="noreferrer noopener">register now</a>-->.
 
   - title : Scholarships
     description: > 
@@ -404,9 +404,10 @@ organizer_photos:
 nav:
   - name: CAPWIC 2019
     url: /conferences/2019
-  - name: Registration
+  - name: Registration (temporary link while registration site is down)
     class: external-link
-    url: https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP
+    # url: https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP
+    url: http://jmu.co1.qualtrics.com/jfe/form/SV_6eSJOie1jQk7q6x
   - name: Participation
     url: /conferences/2019/participation
   - name: Schedule
