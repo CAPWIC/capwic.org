@@ -521,6 +521,10 @@ sponsors:
       img: boozallenhamilton.jpg
       link: https://www.boozallen.com/
       class: light
+    - name: FireEye
+      img: fireeye.png
+      link: https://www.fireeye.com/
+      class: light
   - level: Academic
     sponsors:
     - name: UVA Computer Science
