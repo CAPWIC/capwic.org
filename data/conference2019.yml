@@ -525,6 +525,10 @@ sponsors:
       img: fireeye.png
       link: https://www.fireeye.com/
       class: light
+    - name: WillowTree
+      img: willowtree.jpg
+      link: https://willowtreeapps.com/
+      class: light
   - level: Academic
     sponsors:
     - name: UVA Computer Science
@@ -534,6 +538,10 @@ sponsors:
     - name: CNU Computer Science
       img: cnu-stacked.jpg
       link: http://cnu.edu/academics/departments/pcse/
+      class: light
+    - name: William & Mary Computer Science
+      img: wm.png
+      link: https://www.wm.edu/as/computerscience/
       class: light
   - level: POST
     sponsors:
