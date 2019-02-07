@@ -558,6 +558,10 @@ sponsors:
       img: github.jpg
       link: https://github.com
       class: light
+    - name: Google
+      img: google.jpg
+      link: https://google.com
+      class: light
 speakers:
   - name: Dr. Amelia Estwick
     link: https://www.nationalcybersecurityinstitute.org/about/program-manager/
