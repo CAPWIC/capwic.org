@@ -254,6 +254,7 @@ organizers:
   - Publicity and Communications:
     - name: Dr. Robin Givens
       link: https://www.rmc.edu/departments/computer-science/faculty
+      avatar: /2019/organizers/robin.jpg
       affiliation: Randolph-Macon College
   - Sponsorship and Job Fair:
     - name: Dr. Sharon Simmons
@@ -275,6 +276,7 @@ organizers:
   - High School Liaison:
     - name: Carolyn Bertrand
       affiliation: Western Albemarle High School
+      avatar: /2019/organizers/Caroline head shot.jpg
   - Scholarships:
     - name: Dr. Kelly Shaw
       link: https://cs.richmond.edu/faculty/kshaw/
@@ -303,6 +305,7 @@ organizers:
       affiliation: James Madison University
     - name: Dr. Lynn Lambert
       link: http://www.pcs.cnu.edu/~lambert/
+      avatar: /2019/organizers/lynn lambert.jpeg
       affiliation: Christopher Newport University
     - name: Dr. Callie Miller
       link: https://www.jmu.edu/engineering/people/all-people/miller-callie.shtml
@@ -363,11 +366,13 @@ organizer_photos:
     affiliation: University of Pennsylvania
   - name: Dr. Robin Givens
     last_name: Givens
+    avatar: /2019/organizers/robin.jpg
     link: https://www.rmc.edu/departments/computer-science/faculty
     affiliation: Randolph-Macon College
   - name: Carolyn Bertrand
     last_name: Bertrand
     affiliation: Western Albemarle High School
+    avatar: /2019/organizers/Caroline head shot.jpg
   - name: Dr. Kelly Shaw
     last_name: Shaw
     link: https://cs.richmond.edu/faculty/kshaw/
@@ -413,6 +418,7 @@ organizer_photos:
   - name: Dr. Lynn Lambert
     last_name: Lambert
     link: http://www.pcs.cnu.edu/~lambert/
+    avatar: /2019/organizers/lynn lambert.jpeg
     affiliation: Christopher Newport University
   - name: Dr. Callie Miller
     last_name: Miller
