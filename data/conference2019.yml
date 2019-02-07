@@ -530,6 +530,10 @@ sponsors:
       img: willowtree.jpg
       link: https://willowtreeapps.com/
       class: light
+    - name: Piazza
+      img: Piazza-Icon.png
+      link: https://piazza.com/
+      class: light
   - level: Academic
     sponsors:
     - name: UVA Computer Science
@@ -547,6 +551,10 @@ sponsors:
     - name: Marymount University
       img: marymount.png
       link: https://www.marymount.edu/Academics/School-of-Business-and-Technology/Undergraduate-Programs/Information-Technology-(B-S-)/Program-Requirements/Information-Technology-(B-S-)
+      class: light
+    - name: Center for Open Science
+      img: cos_logo.png
+      link: https://cos.io/
       class: light
   - level: POST
     sponsors:
