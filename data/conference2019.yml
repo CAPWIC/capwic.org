@@ -487,7 +487,11 @@ sponsors:
       link: https://www.microsoft.com/en-us/
       class: light
   - level: Diamond
-    sponsors: []
+    sponsors:
+    - name: Verizon
+      img: vzlogo_lg.png
+      link: https://www.verizon.com
+      class: light
   - level: Platinum
     sponsors: []
   - level: Gold
