@@ -622,7 +622,7 @@ schedule:
       events: 
         - name: Registration
           location: >
-            2 locations: (1) Co-located with JMU Showcase and (2) Sleep Inn
+            2 locations: <ol><li>Co-located with JMU Showcase (convenient to those lodging at the Hotel Madison)</li><li>Sleep Inn</li></ol>
           time_start: 3:00PM
           time_end: 6:30PM
           description: > 
