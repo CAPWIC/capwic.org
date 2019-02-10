@@ -615,5 +615,60 @@ policies:
 schedule:
   heading: In development
   body: |
-    The CAPWIC 2019 is under heavy development. Stay tuned for more information. To have an idea of how the schedule will look, take a look at <a href="https://nvite.com/PHICWIC2018" target="_blank" rel="noopener noreferrer">last year's PHICWIC Schedule <i class="icon ion-ios-open"></i></a>.
-  days: []
+    The CAPWIC 2019 is under heavy development. Stay tuned for more information. To have an idea of how the schedule will look, take a look at <a href="https://nvite.com/PHICWIC2018" target="_blank" rel="noopener noreferrer">last year's PHICWIC Schedule <i class="icon ion-ios-open"></i></a>, and follow the updates below.
+  days:
+    - name: Friday March 22, 2019
+      color: capwic-primary
+      events: 
+        - name: Registration
+          location: >
+            2 locations: (1) Co-located with JMU Showcase and (2) Sleep Inn
+          time_start: 3:00PM
+          time_end: 6:30PM
+          description: > 
+            Check in at Registration.
+
+        - name: Registration
+          location: ISAT/CS Atrium
+          time_start: 6:30PM
+          time_end: 10:00PM
+          description: > 
+            Check in at Registration.
+
+        - name: JMU Showcase
+          location: Presidents Hall
+          time_start: 3:30PM
+          time_end: 5:00PM
+          description: > 
+            Learn about JMU: our spaces, academic units, and initiatives.
+
+        - name: Dinner and Opening Keynote
+          location: Presidents Hall
+          time_start: 5:00PM
+          time_end: 6:30PM
+          description: > 
+            Dine together and learn from our distinguished Keynote speaker.
+
+        - name: High School Game Night
+          location: ISAT/CS 246
+          time_start: 7:00PM
+          time_end: 10:00PM
+          description: > 
+            Meet other High School students and enjoy each other's comapny while playing games.
+
+        - name: Rube Goldberg Machine Coding Jam
+          location: ISAT/CS 259
+          time_start: 7:00PM
+          time_end: 10:00PM
+          description: > 
+            Work together in teams to make a hardware/software <a href ="https://en.wikipedia.org/wiki/Rube_Goldberg_machine" target="_blank" rel="noopener noreferrer">Rube Goldberg Machine <i class="icon ion-ios-open"></i></a> with technical support from our sponsor WillowTree.
+
+    - name: Saturday March 23, 2019
+      color: warning
+      events: 
+        - name: Registration and Breakfast
+          location: ISAT/CS Atrium
+          time_start: 8:00AM
+          time_end: 9:00AM
+          description: > 
+            Kick off the day with Breakfast in the Atrium.
