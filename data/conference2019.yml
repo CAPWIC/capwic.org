@@ -566,6 +566,10 @@ sponsors:
       img: cos_logo.png
       link: https://cos.io/
       class: light
+    - name: VCU College of Engineering
+      img: vcu.png
+      link: https://egr.vcu.edu/
+      class: light
   - level: POST
     sponsors:
     - name: Speakers provided by CRA-W
