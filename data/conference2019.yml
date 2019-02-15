@@ -547,7 +547,7 @@ sponsors:
   - level: Academic
     sponsors:
     - name: UVA Computer Science
-      img: uva_cs.png
+      img: uva_cs.jpg
       link: https://engineering.virginia.edu/departments/computer-science
       class: light
     - name: CNU Computer Science
@@ -569,6 +569,10 @@ sponsors:
     - name: VCU College of Engineering
       img: vcu.png
       link: https://egr.vcu.edu/
+      class: light
+    - name: UVA Electrical and Computer Engineering
+      img: uva_engr.jpg
+      link: https://engineering.virginia.edu/departments/electrical-and-computer-engineering
       class: light
   - level: POST
     sponsors:
