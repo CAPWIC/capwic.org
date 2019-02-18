@@ -13,7 +13,7 @@ deadlines:
     description: Notification of Acceptances
   - date: February 15, 2019
     description: >
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSepLsjh5cEkcN9b0WaePUsJOJ-ZnESRPz5X6X2Z5Fby8IUD5w/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Scholarship Submission  <i class="icon ion-ios-open"></i></a>
+      <s><a href="#" target="_blank" rel="noopener noreferrer">Scholarship Submission  <i class="icon ion-ios-open"></i></a></s>Scholarship applications have been reviewed.
   - date: February 18, 2019
     description: Scholarship Notification
   - date: February 20, 2019
@@ -211,7 +211,7 @@ aboutItem:
 
   - title : Scholarships
     description: > 
-      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardess have ranged from first-year students in high school, to senior Ph.D. student in graduate school. We are happy to report that we have typically hada very high rate of funding of scholarship applicants. <a href="https://docs.google.com/forms/d/e/1FAIpQLSepLsjh5cEkcN9b0WaePUsJOJ-ZnESRPz5X6X2Z5Fby8IUD5w/viewform?usp=sf_link">APPLY NOW!</a>
+      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardess have ranged from first-year students in high school, to senior Ph.D. student in graduate school. We are happy to report that we have typically hada very high rate of funding of scholarship applicants.
 
   - title : Sponsorship
     type: sponsorship
