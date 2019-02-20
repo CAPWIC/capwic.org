@@ -544,6 +544,10 @@ sponsors:
       img: piazza_logo_blue.jpg
       link: https://piazza.com/
       class: light
+    - name: Hexagon PPM
+      img: PPM logo.png
+      link: https://hexagonppm.com/
+      class: light
   - level: Academic
     sponsors:
     - name: UVA Computer Science
