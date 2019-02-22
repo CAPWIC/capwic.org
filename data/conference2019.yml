@@ -610,6 +610,13 @@ speakers:
       Prof. Lou has published over 200 papers. Her works are widely cited. As per Google Scholar, her publications have been cited over 27,000 times and her H-index number is 71. Prof. Lou received many awards for her outstanding research accomplishment. Most recently she was honored with the Virginia Tech Alumni Award for Research Excellence, which is the highest university level award for faculty research excellence, awarded to no more than two recipients each year. Prof. Lou is also a recipient of US National Science Foundation’s CAREER award in 2008. 
   
       From August 2014 to August 2017, Prof. Lou served as a Program Director at the US National Science Foundation (NSF). At NSF, her responsibilities included the Networking Technology and Systems (NeTS) program, a core program of the Computer and Network Systems (CNS) division within the Directorate for Computer & Information Science & Engineering (CISE), and the Secure and Trustworthy Cyberspace (SaTC) program, a cross-cutting security program led by CISE/CNS.
+  - name: Dr. Deb Crawford
+    link: https://ibi.gmu.edu/deb-crawford/
+    img: deb crawford.png
+    bio: |
+      Dr. Deborah Crawford has served as Vice President for Research at George Mason University since April 2016, and is responsible for coordinating and overseeing the full range of the university’s research activities. She joined Mason from the International Computer Science Institute, an independent, non-profit research organization affiliated with the University of California Berkeley, where she served as President and Executive Director. Prior to that, she served as Senior Vice Provost for Research at Drexel University. She has worked at the National Science Foundation (NSF) in executive and program management positions in the Directorates for Computer and Information Science and Engineering, Education and Human Resources, and engineering. She also worked in the Office of the Director, while also serving as NSF’s liaison to the National Science and Technology Council, the Office of Science and Technology Policy, and the National Institutes of Health.
+
+      Deb was recognized by the President of the United States for her contributions to science and science policy, receiving a Presidential Rank Award in 2006 and in 2010. 
 flyers:
   - link: capwic-call-for-participation.pdf
     text: Call for participation
@@ -655,7 +662,7 @@ schedule:
           description: > 
             Learn about JMU: our spaces, academic units, and initiatives.
 
-        - name: Dinner and Opening Keynote
+        - name: Dinner and Opening Keynote with Dr.&nbsp;Wengjing&nbsp;Lou
           location: Presidents Hall
           time_start: 5:00PM
           time_end: 6:30PM
@@ -685,3 +692,9 @@ schedule:
           time_end: 9:00AM
           description: > 
             Kick off the day with Breakfast in the Atrium.
+        - name: Saturday Opening Keynote with Dr.&nbsp;Deb&nbsp;Crawford
+          location: ISAT/CS 259 "nTelos"
+          time_start: 9:00AM
+          time_end: 9:45AM
+          description: > 
+            Landscape of CS Research.
