@@ -4,21 +4,22 @@ name    : CAPWIC 2019
 description: >
   Register to attend, sponsor us, or volunteer to help review submissions to the technical program.
 deadlines:
-  - date: January 9, 2019
+  - date: January 9, 2019 <i class="icon ion-ios-checkbox"></i>
     description: >
       <a href="mailto:programcommittee2019@capwic.org">Volunteer to Review Submissions!</a>
-  - date: February 8, 2019
+  - date: February 8, 2019 <i class="icon ion-ios-checkbox"></i>
     description: Abstract Submission
-  - date: February 12, 2019
+  - date: February 12, 2019 <i class="icon ion-ios-checkbox"></i>
     description: Notification of Acceptances
-  - date: February 15, 2019
+  - date: February 15, 2019 <i class="icon ion-ios-checkbox"></i>
     description: >
       <s><a href="#" target="_blank" rel="noopener noreferrer">Scholarship Submission  <i class="icon ion-ios-open"></i></a></s>Scholarship applications have been reviewed.
-  - date: February 18, 2019
+  - date: February 18, 2019 <i class="icon ion-ios-checkbox"></i>
     description: Scholarship Notification
-  - date: February 20, 2019
+  - date: >
+      <s>February 20, 2019 <i class="icon ion-ios-checkbox"></i></s> February 29, 2019
     description: >
-      <a href="https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP">Registration <i class="icon ion-ios-open"></i></a>
+      <a href="https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP">Registration deadline EXTENDED <i class="icon ion-ios-open"></i></a>
   - date: March 22-23, 2019
     description: ATTEND!
 image   : images/banner2019.png
