@@ -17,7 +17,7 @@ deadlines:
   - date: February 18, 2019 <i class="icon ion-ios-checkbox"></i>
     description: Scholarship Notification
   - date: >
-      <s>February 20, 2019 <i class="icon ion-ios-checkbox"></i></s> March 1, 2019
+      <s>February 20, 2019</s> March 8, 2019 <i class="icon ion-ios-checkbox"></i>
     description: >
       <a href="https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP">Registration deadline EXTENDED <i class="icon ion-ios-open"></i></a>
   - date: March 22-23, 2019
@@ -548,6 +548,10 @@ sponsors:
     - name: Hexagon PPM
       img: PPM logo.png
       link: https://hexagonppm.com/
+      class: light
+    - name: Jenzabar
+      img: jenzabar_logo.jpg
+      link: https://www.jenzabar.com/
       class: light
   - level: Academic
     sponsors:
