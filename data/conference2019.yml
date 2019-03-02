@@ -521,29 +521,21 @@ sponsors:
       class: light
   - level: Recruiter
     sponsors:
+    - name: Capital One
+      img: capitalone.png
+      link: https://www.capitalone.com/
+      class: light
     - name: CapTech
       img: captech_400x400.jpg
       link: https://www.captechconsulting.com/
       class: light
     - name: Chiedo Labs
-      img: chiedo.jpg
+      img: chiedolabs.jpg
       link: https://labs.chiedo.com/
-      class: light
-    - name: Booz Allen Hamilton
-      img: boozallenhamilton.jpg
-      link: https://www.boozallen.com/
       class: light
     - name: FireEye
       img: fireeye.png
       link: https://www.fireeye.com/
-      class: light
-    - name: WillowTree
-      img: willowtree.jpg
-      link: https://willowtreeapps.com/
-      class: light
-    - name: Piazza
-      img: piazza_logo_blue.jpg
-      link: https://piazza.com/
       class: light
     - name: Hexagon PPM
       img: PPM logo.png
@@ -552,6 +544,18 @@ sponsors:
     - name: Jenzabar
       img: jenzabar_logo.jpg
       link: https://www.jenzabar.com/
+      class: light
+    - name: Piazza
+      img: piazza_logo_blue.jpg
+      link: https://piazza.com/
+      class: light
+    - name: Two Six Labs
+      img: twosixlabs.png
+      link: https://www.twosixlabs.com/
+      class: light
+    - name: WillowTree
+      img: willowtree.jpg
+      link: https://willowtreeapps.com/
       class: light
   - level: Academic
     sponsors:
