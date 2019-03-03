@@ -43,7 +43,8 @@ sponsorshipCosts:
     cost: $1000
   - name: recruiter
     cost: $500
-  - name: non-profit/academic
+  - name: non-profit/
+          academic
     cost: $300
 sponsorship:
   - type: General
