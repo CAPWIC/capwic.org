@@ -494,7 +494,11 @@ sponsors:
       link: https://www.verizon.com
       class: light
   - level: Platinum
-    sponsors: []
+    sponsors:
+    - name: Capital One
+      img: capitalone.png
+      link: https://www.capitalone.com/
+      class: light
   - level: Gold
     sponsors:
     - name: CounterFlow
@@ -511,20 +515,16 @@ sponsors:
       class: dark
   - level: Silver
     sponsors:
-    - name: JMU Computer Science
-      img: cs_multiline.png
-      link: https://www.jmu.edu/cs/
-      class: light
     - name: JMU Computer Information Systems and Business Analytics
       img: jmu-cis.jpg
       link: https://www.jmu.edu/cob/cis/
       class: light
+    - name: JMU Computer Science
+      img: cs_multiline.png
+      link: https://www.jmu.edu/cs/
+      class: light
   - level: Recruiter
     sponsors:
-    - name: Capital One
-      img: capitalone.png
-      link: https://www.capitalone.com/
-      class: light
     - name: CapTech
       img: captech_400x400.jpg
       link: https://www.captechconsulting.com/
@@ -559,33 +559,33 @@ sponsors:
       class: light
   - level: Academic
     sponsors:
-    - name: UVA Computer Science
-      img: uva_cs.jpg
-      link: https://engineering.virginia.edu/departments/computer-science
+    - name: Center for Open Science
+      img: cos_logo.png
+      link: https://cos.io/
       class: light
     - name: CNU Computer Science
       img: cnu-stacked.jpg
       link: http://cnu.edu/academics/departments/pcse/
       class: light
-    - name: William & Mary Computer Science
-      img: wm.png
-      link: https://www.wm.edu/as/computerscience/
-      class: light
     - name: Marymount University
       img: marymount.png
       link: https://www.marymount.edu/Academics/School-of-Business-and-Technology/Undergraduate-Programs/Information-Technology-(B-S-)/Program-Requirements/Information-Technology-(B-S-)
       class: light
-    - name: Center for Open Science
-      img: cos_logo.png
-      link: https://cos.io/
+    - name: UVA Computer Science
+      img: uva_cs.jpg
+      link: https://engineering.virginia.edu/departments/computer-science
+      class: light
+    - name: UVA Electrical and Computer Engineering
+      img: uva_engr.jpg
+      link: https://engineering.virginia.edu/departments/electrical-and-computer-engineering
       class: light
     - name: VCU College of Engineering
       img: vcu.png
       link: https://egr.vcu.edu/
       class: light
-    - name: UVA Electrical and Computer Engineering
-      img: uva_engr.jpg
-      link: https://engineering.virginia.edu/departments/electrical-and-computer-engineering
+    - name: William & Mary Computer Science
+      img: wm.png
+      link: https://www.wm.edu/as/computerscience/
       class: light
   - level: POST
     sponsors:
