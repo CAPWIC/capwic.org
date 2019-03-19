@@ -654,42 +654,53 @@ policies:
     body: |
       CAPWIC's top priority is that participants feel welcome, comfortable, respected, and safe while attending. As an official ACM-W celebration, we adhere to <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener noreferrer">the ACM Code of Conduct <i class="icon ion-ios-open"></i></a>.
 schedule:
-  heading: In development
+  heading: Hott off the press!
   body: |
-    The CAPWIC 2019 is under heavy development. Stay tuned for more information. To have an idea of how the schedule will look, take a look at <a href="https://nvite.com/PHICWIC2018" target="_blank" rel="noopener noreferrer">last year's PHICWIC Schedule <i class="icon ion-ios-open"></i></a>, and follow the updates below.
+    The CAPWIC 2019 is ready! <a href="https://hcientist.cs.jmu.edu/download/581/">Download it here <i class="icon ion-md-cloud-download"></i></a>. 
   days:
     - name: Friday March 22, 2019
       color: capwic-primary
       font: white
       events: 
         - name: Registration
-          location: >
-            2 locations: <ol><li>Co-located with JMU Showcase (convenient to those lodging at the Hotel Madison)</li><li>Sleep Inn</li></ol>
+          location: Hall of President's Room
           time_start: 3:00PM
           time_end: 6:30PM
           description: > 
             Check in at Registration.
 
+        - name: JMU Showcase and Career Fair
+          location: Hall of President's Room
+          time_start: 3:30PM
+          time_end: 5:00PM
+          description: > 
+            Meet our sponsoring recruiters and learn about our host campus for 2019 of James Madison University.
+
+        - name: >
+            Keynote: Blockchain, smart contract, and the gap between expectation and reality
+          location: Hall of President's Room
+          time_start: 5:00PM
+          time_end: 5:40PM
+          description: > 
+            Dr.&nbsp;Wengjing&nbsp;Lou, W.C. English Professor of Computer Science at Virginia Tech and Fellow of the IEEE
+
+        - name: Break
+          location: Hall of President's Room
+          time_start: 5:40PM
+          time_end: 5:45PM
+          description: Break
+
+        - name: Dinner and Keynote
+          location: Hall of President's Room
+          time_start: 5:45PM
+          time_end: 6:30PM
+          description: Karen Jackson, President of Apogee Strategic Partners
+        
         - name: Registration
           location: ISAT/CS Atrium
           time_start: 6:30PM
           time_end: 10:00PM
-          description: > 
-            Check in at Registration.
-
-        - name: JMU Showcase
-          location: Presidents Hall
-          time_start: 3:30PM
-          time_end: 5:00PM
-          description: > 
-            Learn about JMU: our spaces, academic units, and initiatives.
-
-        - name: Dinner and Opening Keynote with Dr.&nbsp;Wengjing&nbsp;Lou
-          location: Presidents Hall
-          time_start: 5:00PM
-          time_end: 6:30PM
-          description: > 
-            Dine together and learn from our distinguished Keynote speaker.
+          description: On-site registration.
 
         - name: High School Game Night
           location: ISAT/CS 246
@@ -698,29 +709,57 @@ schedule:
           description: > 
             Meet other High School students and enjoy each other's company while playing games.
 
-        - name: Rube Goldberg Machine Coding Jam
+        - name: <a href ="https://en.wikipedia.org/wiki/Rube_Goldberg_machine" target="_blank" rel="noopener noreferrer">Rube Goldberg Machine <i class="icon ion-ios-open"></i></a> Coding Jam
           location: ISAT/CS 259
           time_start: 7:00PM
           time_end: 10:00PM
-          description: > 
-            Work together in teams to make a hardware/software <a href ="https://en.wikipedia.org/wiki/Rube_Goldberg_machine" target="_blank" rel="noopener noreferrer">Rube Goldberg Machine <i class="icon ion-ios-open"></i></a> with technical support from our sponsor WillowTree.
+          description: Work together in teams to make a series of programs that will trigger each other with technical support from our sponsor <a href ="https://willowtreeapps.com/" target="_blank" rel="noopener noreferrer">WillowTree <i class="icon ion-ios-open"></i></a>.
 
     - name: Saturday March 23, 2019
       color: warning
       font: dark
       events: 
-        - name: Registration and Breakfast
+        - name: Breakfast and Registration
           location: ISAT/CS Atrium
           time_start: 8:00AM
-          time_end: 9:00AM
+          time_end: 8:45AM
           description: > 
             Kick off the day with Breakfast in the Atrium.
-        - name: Saturday Opening Keynote with Dr.&nbsp;Deb&nbsp;Crawford
-          location: ISAT/CS 259 "nTelos"
-          time_start: 9:00AM
-          time_end: 9:45AM
+        - name: Opening Remarks
+          location: ISAT/CS Atrium
+          time_start: 8:45AM
+          time_end: 9:00AM
           description: > 
-            Landscape of CS Research.
+            Welcome to CAPWIC 2019.
+        - name: >
+            Keynote: Computing and Me: An Unlikely Partnership
+          location: EnGeo 2301
+          time_start: 9:00AM
+          time_end: 9:40AM
+          description: > 
+            Dr.&nbsp;Deb&nbsp;Crawford, Vice President for Research at George Mason University
+        - name: Break
+          location: CS/ISAT
+          time_start: 9:40AM
+          time_end: 9:45AM
+          description: Break
+        - name: 1A Parallel Sessions
+          time_start: 9:45AM
+          time_end: 10:45AM
+          sessions:
+            - location: ISAT/CS 243
+              name: Research Shorts
+              details: >
+                <ol><li>Reasoning Over RDF Knowledge Bases Using Deep Learning<ul><li>Monireh Ebrahimi</li><li>Md Kamruzzaman Sarker</li><li>Federico Bianchi</li><li>Ning Xie</li></ul></li>
+                <li>Determining the Probabilistic Cybersecurity Risk Assessment using Bayesian Approach<ul><li>Ana Valentin</li></ul></li>
+                <li></li></ol>
+            - location: ISAT/CS 259
+              name: >
+                Panel: Graduate School - Is it for me?
+              details: 
+            - location: ISAT/CS 159
+              name: Flash Talks
+              details: 
         - name: TBD Saturday Program (including research presentations, flashtalks, career fair, posters and workshops)
           location: >
             ISAT/CS (Rooms: TBD)
