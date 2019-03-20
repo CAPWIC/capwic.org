@@ -750,23 +750,150 @@ schedule:
             - location: ISAT/CS 243
               name: Research Shorts
               details: >
-                <ol><li>Reasoning Over RDF Knowledge Bases Using Deep Learning<ul><li>Monireh Ebrahimi</li><li>Md Kamruzzaman Sarker</li><li>Federico Bianchi</li><li>Ning Xie</li></ul></li>
-                <li>Determining the Probabilistic Cybersecurity Risk Assessment using Bayesian Approach<ul><li>Ana Valentin</li></ul></li>
-                <li></li></ol>
+                <div class="card-body">
+                  <h7 class="card-title">Reasoning Over RDF Knowledge Bases Using Deep Learning</h7>
+                  <p class="card-text">with Monireh Ebrahimi, Md Kamruzzaman Sarker, Federico Bianchi, Ning Xie, Derek Doran, and Pascal Hitzler</p>
+
+                  <h8 class="card-title">Determining the Probabilistic Cybersecurity Risk Assessment using Bayesian Approach</h8>
+                  <p class="card-text">with Ana Valentin</p>
+
+                  <h8 class="card-title">Deep Reinforcement Learning for UAV Battery Lifetime Prediction  On the Perspective of On-the-Fly Wireless Charging</h8>
+                  <p class="card-text">with Rozhin Galledari and Danella Zhao</p>
+                </div>
             - location: ISAT/CS 259
-              name: >
-                Panel: Graduate School - Is it for me?
-              details: 
+              name: Panel
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title">Graduate School - Is it for me?</h8>
+                  <p class="card-text">with Dr. Wenjing Lou, Dr. Amelia Estwick, Dr. Dana Willner, Tierra Sharae, Edidiong Okon, Ada Li, Shamali Joshi, Rosalind Shinkle, and Anupama Jha</p>
+                </div>
             - location: ISAT/CS 159
               name: Flash Talks
-              details: 
-        - name: TBD Saturday Program (including research presentations, flashtalks, career fair, posters and workshops)
-          location: >
-            ISAT/CS (Rooms: TBD)
-          time_start: 10:00AM
-          time_end: 3:45PM
-          description: > 
-            research presentations, flashtalks, career fair, posters and workshops
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title">Soft Skills in a Technical World</h8>
+                  <p class="card-text">with Madeleine Larrieu</p>
+
+                  <h8 class="card-title">Women, the Humanities, and Technology</h8>
+                  <p class="card-text">with Francesca Gibson</p>
+
+                  <h8 class="card-title"> Is Student Success Embedded in Technology?</h8>
+                  <p class="card-text">with La Toria Tookes and Andrea Foster</p>
+
+                  <h8 class="card-title"> Earth Hacks: A University Hackathon to Generate Interdisciplinary Solutions to Pressing Environmental Problems</h8>
+                  <p class="card-text">with Sanjana Paul</p>
+
+                  <h8 class="card-title"> Six Hours of Cybersecurity</h8>
+                  <p class="card-text">with Emily Wu</p>
+
+                  <h8 class="card-title"> Website Design for Optimal User Experience</h8>
+                  <p class="card-text">with Brooke Nixon</p>
+                </div>
+        - name: Break
+          location: ISAT/CS
+          time_start: 10:45AM
+          time_end: 10:50AM
+          description: Break
+        - name: 1B Parallel Sessions
+          time_start: 10:50AM
+          time_end: 11:30AM
+          sessions:
+            - location: ISAT/CS 243
+              name: Workshop
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title">Agile Tools: Epics to User Stories</h8>
+                </div>
+            - location: ISAT/CS 259
+              name: Panel
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title">Women in Leadership</h7>
+                  <p class="card-text">with Dr. Deb Crawford, Karen Jackson, Dr. Linda Thomas, Erin Johnson, Katherine Yoder, and Caitlin McGarry</p>
+                </div>
+            - location: ISAT/CS 159
+              name: Flash Talks
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title">Cybersecurity Issues for Drones</h8>
+                  <p class="card-text">with Donna Schaeffer and Patrick Olson</p>
+
+                  <h8 class="card-title">Asymmetric Label Noise for Multiclass Classification</h8>
+                  <p class="card-text">with Jane Lee</p>
+
+                  <h8 class="card-title"> Density Functional Theory Investigation of Ethanol Catalysis on Metal Surface</h8>
+                  <p class="card-text">with Dariia Yehorova, Kendra Letchworth Weaver, and Ashleigh Baber</p>
+
+                  <h8 class="card-title"> Earth Hacks: A University Hackathon to Generate Interdisciplinary Solutions to Pressing Environmental Problems</h8>
+                  <p class="card-text">with Sanjana Paul</p>
+
+                  <h8 class="card-title"> Scalar Adjective Research through Model Assessment</h8>
+                  <p class="card-text">with Jiawen Zhang and Kellie Dihn</p>
+                </div>
+        - name: Break
+          location: ISAT/CS
+          time_start: 11:30AM
+          time_end: 11:40AM
+          description: Break
+        - name: 2A Parallel Sessions
+          time_start: 11:40AM
+          time_end: 12:40PM
+          sessions:
+            - location: ISAT/CS 243
+              name: Research Shorts
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title">Case Study on the Information Technology Infrastructure of a K-12 School System</h7>
+                  <p class="card-text">with Claudia Reutemann, Michael Spears, Kristina Mosqueda, and Yun Zhang</p>
+
+                  <h7 class="card-title">Student’s Computer Anxiety in First Computer Programming Course</h7>
+                  <p class="card-text">with Hannah Ford, Alexis Fischer, Dandan Li, Nan Jiang, Lingjia Kong, and Yun Zhang</p>
+
+                  <h7 class="card-title">Case Rethinking Smart Built Environments Design: Introducing A Mixed Reality Based User-Centric Design Framework</h7>
+                  <p class="card-text">with Archi Dasgupta, Mark Manuel, Nicole Buckingham, and Denis Gracanin</p>
+                </div>
+            - location: ISAT/CS 264
+              name: Birds-of-a-Feather Discussions
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title">Women of Color</h7>
+                  <p class="card-text">with Dr. Linda Thomas</p>
+
+                  <h7 class="card-title">Imposter Syndrome</h7>
+                  <p class="card-text">with Christianna Kobert & Marin Walters/p>
+                </div>
+            - location: ISAT/CS 159
+              name: Techinal Talks
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title">Open Source Expressive Software for Calculation of Quantum Mechanical Systems in Liquid</h8>
+                  <p class="card-text">with Dr. Kendra Letchworth Weaver</p>
+
+                  <h8 class="card-title">The Business of Bots</h8>
+                  <p class="card-text">with Margaret Mayer</p>
+                </div>
+        - name: > 
+            <div>
+              Lunch<br>Poster Session<br>Career Fair
+            </div>
+          location: ISAT/CS
+          time_start: 12:40PM
+          time_end: 1:50PM
+          sessions:
+            - name: Lunch
+            - name: Posters
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title">Case Study on the Information Technology Infrastructure of a K-12 School System</h7>
+                  <p class="card-text">with Claudia Reutemann, Michael Spears, Kristina Mosqueda, and Yun Zhang</p>
+
+                  <h7 class="card-title">Student’s Computer Anxiety in First Computer Programming Course</h7>
+                  <p class="card-text">with Hannah Ford, Alexis Fischer, Dandan Li, Nan Jiang, Lingjia Kong, and Yun Zhang</p>
+
+                  <h7 class="card-title">Case Rethinking Smart Built Environments Design: Introducing A Mixed Reality Based User-Centric Design Framework</h7>
+                  <p class="card-text">with Archi Dasgupta, Mark Manuel, Nicole Buckingham, and Denis Gracanin</p>
+                </div>
+            - name: Career Fair
         - name: Closing Keynote
           location: >
             ISAT/CS (Rooms: TBD)
