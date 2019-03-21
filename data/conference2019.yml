@@ -43,8 +43,7 @@ sponsorshipCosts:
     cost: $1000
   - name: recruiter
     cost: $500
-  - name: non-profit/
-          academic
+  - name: non-profit/academic
     cost: $300
 sponsorship:
   - type: General
@@ -477,6 +476,7 @@ submission:
     - name: Technical Talks
       description: >
         25 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
+
 sponsors:
   - level: PRE
     sponsors:
@@ -602,6 +602,7 @@ sponsors:
       img: google.jpg
       link: https://google.com
       class: light
+
 speakers:
   - name: Amelia Estwick
     link: https://www.nationalcybersecurityinstitute.org/about/program-manager/
@@ -638,6 +639,7 @@ speakers:
       <p>She remains an ardent advocate of STEM education and Women in Technology.</p>
 
       <p>Ms. Jackson currently serves on a number of Boards including the Advisory Board of the Apex Systems Center for Innovation and Entrepreneurship at Virginia Tech, the Advisory Board of Sera Brynn, the Advisory Board of ITA International, LLC,  the Board of Directors for the Online Virginia Authority, and the Board of Directors for Sweet Briar College.  </p>
+
 flyers:
   - link: capwic-call-for-participation.pdf
     text: Call for participation
@@ -649,97 +651,125 @@ flyers:
     text: General Information for Students
   - link: capwic-sponsor-flyer.pdf
     text: Information for Sponsors
+
 policies:
   - name: Code of Conduct
     body: |
       CAPWIC's top priority is that participants feel welcome, comfortable, respected, and safe while attending. As an official ACM-W celebration, we adhere to <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener noreferrer">the ACM Code of Conduct <i class="icon ion-ios-open"></i></a>.
+
 schedule:
   heading: 🔥Hottt off the press!
   body: |
-    The CAPWIC 2019 is ready! <a href="https://hcientist.cs.jmu.edu/download/581/">Download it here <i class="icon ion-md-cloud-download"></i></a>. 
+    The CAPWIC 2019 schedule is ready! <a href="https://hcientist.cs.jmu.edu/download/581/">Download it here <i class="icon ion-md-cloud-download"></i></a>. 
   days:
     - name: Friday March 22, 2019
       color: capwic-primary
       font: white
       events: 
         - name: Registration
-          location: Hall of President's Room
+          location: President's Hall
           time_start: 3:00PM
           time_end: 6:30PM
           description: > 
             Check in at Registration.
 
-        - name: JMU Showcase and Career Fair
-          location: Hall of President's Room
+        - name: JMU Showcase<br>and Career Fair
+          location: President's Hall
           time_start: 3:30PM
           time_end: 5:00PM
           description: > 
             Meet our sponsoring recruiters and learn about our host campus for 2019 of James Madison University.
 
         - name: >
-            Keynote: Blockchain, smart contract, and the gap between expectation and reality
-          location: Hall of President's Room
+            Keynote: <i>Blockchain, Smart Contract, and the Gap Between Expectation and Reality</i>
+          location: President's Hall
           time_start: 5:00PM
           time_end: 5:40PM
-          description: > 
-            Dr.&nbsp;Wengjing&nbsp;Lou, W.C. English Professor of Computer Science at Virginia Tech and Fellow of the IEEE
+          description: >
+            <div>
+              <h7>Dr. Wengjing Lou<h7>
+              <p><i>W.C. English Professor of Computer Science at Virginia Tech and Fellow of the IEEE</i></p>
+            </div>
 
         - name: Break
-          location: Hall of President's Room
+          location: President's Hall
           time_start: 5:40PM
           time_end: 5:45PM
           description: Break
 
         - name: Dinner and Keynote
-          location: Hall of President's Room
+          location: President's Hall
           time_start: 5:45PM
           time_end: 6:30PM
-          description: Karen Jackson, President of Apogee Strategic Partners
-        
+          description: >
+            <div>
+              <h7>Karen Jackson<h7>
+              <p><i>President of Apogee Strategic Partners</i></p>
+            </div>
         - name: Registration
           location: ISAT/CS Atrium
           time_start: 6:30PM
           time_end: 10:00PM
           description: On-site registration.
 
-        - name: High School Game Night
-          location: ISAT/CS 246
+        # - name: High School Game Night
+        #   location: ISAT/CS 246
+        #   time_start: 7:00PM
+        #   time_end: 10:00PM
+        #   description: > 
+        #     Meet other High School students and enjoy each other's company while playing games.
+
+        # - name: <a href ="https://en.wikipedia.org/wiki/Rube_Goldberg_machine" target="_blank" rel="noopener noreferrer">Rube Goldberg Machine <i class="icon ion-ios-open"></i></a> Coding Jam
+        #   location: ISAT/CS 259
+        #   time_start: 7:00PM
+        #   time_end: 10:00PM
+        #   description: Work together in teams to make a series of programs that will trigger each other with technical support from our sponsor <a href ="https://willowtreeapps.com/" target="_blank" rel="noopener noreferrer">WillowTree <i class="icon ion-ios-open"></i></a>.
+
+        - name: High School Game Night and <a href ="https://en.wikipedia.org/wiki/Rube_Goldberg_machine" target="_blank" rel="noopener noreferrer">Rube Goldberg Machine <i class="icon ion-ios-open"></i></a> Coding Jam
           time_start: 7:00PM
           time_end: 10:00PM
-          description: > 
-            Meet other High School students and enjoy each other's company while playing games.
-
-        - name: <a href ="https://en.wikipedia.org/wiki/Rube_Goldberg_machine" target="_blank" rel="noopener noreferrer">Rube Goldberg Machine <i class="icon ion-ios-open"></i></a> Coding Jam
-          location: ISAT/CS 259
-          time_start: 7:00PM
-          time_end: 10:00PM
-          description: Work together in teams to make a series of programs that will trigger each other with technical support from our sponsor <a href ="https://willowtreeapps.com/" target="_blank" rel="noopener noreferrer">WillowTree <i class="icon ion-ios-open"></i></a>.
-
+          sessions:
+            - location: ISAT/CS 246
+              name: High School Game Night
+              details: >
+                <div class="card-body">
+                  <p class="card-text"><i>Meet other High School students and enjoy each other's company while playing games.</i></p>
+                </div>
+            - location: ISAT/CS 259
+              name: Rube Goldberg Coding Jam
+              details: >
+                <div class="card-body">
+                  <p class="card-text"><i>Work together in teams to make a series of programs that will trigger each other with technical support from our sponsor <a href ="https://willowtreeapps.com/" target="_blank" rel="noopener noreferrer">WillowTree <i class="icon ion-ios-open"></i></a>.</i></p>
+                </div>
     - name: Saturday March 23, 2019
       color: warning
       font: dark
       events: 
-        - name: Breakfast and Registration
+        - name: Breakfast<br>and Registration
           location: ISAT/CS Atrium
           time_start: 8:00AM
           time_end: 8:45AM
           description: > 
             Kick off the day with Breakfast in the Atrium.
         - name: Opening Remarks
-          location: ISAT/CS Atrium
+          location: EnGeo 2301
           time_start: 8:45AM
           time_end: 9:00AM
           description: > 
             Welcome to CAPWIC 2019.
         - name: >
-            Keynote: Computing and Me: An Unlikely Partnership
+            Keynote: <i>Computing and Me: An Unlikely Partnership</i>
           location: EnGeo 2301
           time_start: 9:00AM
           time_end: 9:40AM
-          description: > 
-            Dr.&nbsp;Deb&nbsp;Crawford, Vice President for Research at George Mason University
+          description: >
+            <div>
+              <h7>Dr. Deb Crawford<h7>
+              <p><i>Vice President for Research at George Mason University</i></p>
+            </div> 
+
         - name: Break
-          location: CS/ISAT
+          location: ISAT/CS
           time_start: 9:40AM
           time_end: 9:45AM
           description: Break
@@ -751,43 +781,43 @@ schedule:
               name: Research Shorts
               details: >
                 <div class="card-body">
-                  <h7 class="card-title">Reasoning Over RDF Knowledge Bases Using Deep Learning</h7>
-                  <p class="card-text">with Monireh Ebrahimi, Md Kamruzzaman Sarker, Federico Bianchi, Ning Xie, Derek Doran, and Pascal Hitzler</p>
+                  <h7 class="card-title"><i>Reasoning Over RDF Knowledge Bases Using Deep Learning</i></h7>
+                  <p class="card-text"></p>
 
-                  <h8 class="card-title">Determining the Probabilistic Cybersecurity Risk Assessment using Bayesian Approach</h8>
-                  <p class="card-text">with Ana Valentin</p>
+                  <h8 class="card-title"><i>Determining the Probabilistic Cybersecurity Risk Assessment using Bayesian Approach</i></h8>
+                  <p class="card-text"></p>
 
-                  <h8 class="card-title">Deep Reinforcement Learning for UAV Battery Lifetime Prediction  On the Perspective of On-the-Fly Wireless Charging</h8>
-                  <p class="card-text">with Rozhin Galledari and Danella Zhao</p>
+                  <h8 class="card-title"><i>Deep Reinforcement Learning for UAV Battery Lifetime Prediction  On the Perspective of On-the-Fly Wireless Charging</i></h8>
+                  <p class="card-text"></p>
                 </div>
             - location: ISAT/CS 259
               name: Panel
               details: >
                 <div class="card-body">
-                  <h8 class="card-title">Graduate School - Is it for me?</h8>
-                  <p class="card-text">with Dr. Wenjing Lou, Dr. Amelia Estwick, Dr. Dana Willner, Tierra Sharae, Edidiong Okon, Ada Li, Shamali Joshi, Rosalind Shinkle, and Anupama Jha</p>
+                  <h8 class="card-title"><i>Graduate School - Is it for me?</i></h8>
+                  <p class="card-text"></p>
                 </div>
             - location: ISAT/CS 159
               name: Flash Talks
               details: >
                 <div class="card-body">
-                  <h8 class="card-title">Soft Skills in a Technical World</h8>
-                  <p class="card-text">with Madeleine Larrieu</p>
+                  <h8 class="card-title"><i>Soft Skills in a Technical World</i></h8>
+                  <p class="card-text"></p>
 
-                  <h8 class="card-title">Women, the Humanities, and Technology</h8>
-                  <p class="card-text">with Francesca Gibson</p>
+                  <h8 class="card-title"><i>Women, the Humanities, and Technology</i></h8>
+                  <p class="card-text"></p>
 
-                  <h8 class="card-title"> Is Student Success Embedded in Technology?</h8>
-                  <p class="card-text">with La Toria Tookes and Andrea Foster</p>
+                  <h8 class="card-title"><i>Is Student Success Embedded in Technology?</i></h8>
+                  <p class="card-text"></p>
 
-                  <h8 class="card-title"> Earth Hacks: A University Hackathon to Generate Interdisciplinary Solutions to Pressing Environmental Problems</h8>
-                  <p class="card-text">with Sanjana Paul</p>
+                  <h8 class="card-title"><i>Earth Hacks: A University Hackathon to Generate Interdisciplinary Solutions to Pressing Environmental Problems</i></h8>
+                  <p class="card-text"></p>
 
-                  <h8 class="card-title"> Six Hours of Cybersecurity</h8>
-                  <p class="card-text">with Emily Wu</p>
+                  <h8 class="card-title"><i>Six Hours of Cybersecurity</i></h8>
+                  <p class="card-text"></p>
 
-                  <h8 class="card-title"> Website Design for Optimal User Experience</h8>
-                  <p class="card-text">with Brooke Nixon</p>
+                  <h8 class="card-title"><i>Website Design for Optimal User Experience</i></h8>
+                  <p class="card-text"></p>
                 </div>
         - name: Break
           location: ISAT/CS
@@ -802,33 +832,33 @@ schedule:
               name: Workshop
               details: >
                 <div class="card-body">
-                  <h8 class="card-title">Agile Tools: Epics to User Stories</h8>
+                  <h8 class="card-title"><i>Agile Tools: Epics to User Stories</i></h8>
                 </div>
             - location: ISAT/CS 259
               name: Panel
               details: >
                 <div class="card-body">
-                  <h7 class="card-title">Women in Leadership</h7>
-                  <p class="card-text">with Dr. Deb Crawford, Karen Jackson, Dr. Linda Thomas, Erin Johnson, Katherine Yoder, and Caitlin McGarry</p>
+                  <h7 class="card-title"><i>Women in Leadership</i></h7>
+                  <p class="card-text"></p>
                 </div>
             - location: ISAT/CS 159
               name: Flash Talks
               details: >
                 <div class="card-body">
-                  <h8 class="card-title">Cybersecurity Issues for Drones</h8>
-                  <p class="card-text">with Donna Schaeffer and Patrick Olson</p>
+                  <h8 class="card-title"><i>Cybersecurity Issues for Drones</i></h8>
+                  <p class="card-text"></p>
 
-                  <h8 class="card-title">Asymmetric Label Noise for Multiclass Classification</h8>
-                  <p class="card-text">with Jane Lee</p>
+                  <h8 class="card-title"><i>Asymmetric Label Noise for Multiclass Classification</i></h8>
+                  <p class="card-text"></p>
 
-                  <h8 class="card-title"> Density Functional Theory Investigation of Ethanol Catalysis on Metal Surface</h8>
-                  <p class="card-text">with Dariia Yehorova, Kendra Letchworth Weaver, and Ashleigh Baber</p>
+                  <h8 class="card-title"><i>Density Functional Theory Investigation of Ethanol Catalysis on Metal Surface</i></h8>
+                  <p class="card-text"></p>
 
-                  <h8 class="card-title"> Earth Hacks: A University Hackathon to Generate Interdisciplinary Solutions to Pressing Environmental Problems</h8>
-                  <p class="card-text">with Sanjana Paul</p>
+                  <h8 class="card-title"><i>Earth Hacks: A University Hackathon to Generate Interdisciplinary Solutions to Pressing Environmental Problems</i></h8>
+                  <p class="card-text"></p>
 
-                  <h8 class="card-title"> Scalar Adjective Research through Model Assessment</h8>
-                  <p class="card-text">with Jiawen Zhang and Kellie Dihn</p>
+                  <h8 class="card-title"><i>Scalar Adjective Research through Model Assessment</i></h8>
+                  <p class="card-text"></p>
                 </div>
         - name: Break
           location: ISAT/CS
@@ -843,61 +873,216 @@ schedule:
               name: Research Shorts
               details: >
                 <div class="card-body">
-                  <h7 class="card-title">Case Study on the Information Technology Infrastructure of a K-12 School System</h7>
-                  <p class="card-text">with Claudia Reutemann, Michael Spears, Kristina Mosqueda, and Yun Zhang</p>
+                  <h7 class="card-title"><i>Case Study on the Information Technology Infrastructure of a K-12 School System</i></h7>
+                  <p class="card-text"></p>
 
-                  <h7 class="card-title">Student’s Computer Anxiety in First Computer Programming Course</h7>
-                  <p class="card-text">with Hannah Ford, Alexis Fischer, Dandan Li, Nan Jiang, Lingjia Kong, and Yun Zhang</p>
+                  <h7 class="card-title"><i>Student’s Computer Anxiety in First Computer Programming Course</i></h7>
+                  <p class="card-text"></p>
 
-                  <h7 class="card-title">Case Rethinking Smart Built Environments Design: Introducing A Mixed Reality Based User-Centric Design Framework</h7>
-                  <p class="card-text">with Archi Dasgupta, Mark Manuel, Nicole Buckingham, and Denis Gracanin</p>
+                  <h7 class="card-title"><i>Case Rethinking Smart Built Environments Design: Introducing A Mixed Reality Based User-Centric Design Framework</i></h7>
+                  <p class="card-text"></p>
                 </div>
-            - location: ISAT/CS 264
+            - location: ISAT/CS 246
               name: Birds-of-a-Feather Discussions
               details: >
                 <div class="card-body">
-                  <h7 class="card-title">Women of Color</h7>
-                  <p class="card-text">with Dr. Linda Thomas</p>
+                  <h7 class="card-title"><i>Women of Color</i></h7>
+                  <p class="card-text"></p>
 
-                  <h7 class="card-title">Imposter Syndrome</h7>
-                  <p class="card-text">with Christianna Kobert & Marin Walters/p>
+                  <h7 class="card-title"><i>Imposter Syndrome</i></h7>
+                  <p class="card-text"></p>
                 </div>
             - location: ISAT/CS 159
-              name: Techinal Talks
+              name: Technical Talks
               details: >
                 <div class="card-body">
-                  <h8 class="card-title">Open Source Expressive Software for Calculation of Quantum Mechanical Systems in Liquid</h8>
-                  <p class="card-text">with Dr. Kendra Letchworth Weaver</p>
+                  <h8 class="card-title"><i>Open Source Expressive Software for Calculation of Quantum Mechanical Systems in Liquid</i></h8>
+                  <p class="card-text"></p>
 
-                  <h8 class="card-title">The Business of Bots</h8>
-                  <p class="card-text">with Margaret Mayer</p>
+                  <h8 class="card-title"><i>The Business of Bots</i></h8>
+                  <p class="card-text"></p>
+                </div>
+            - location: ISAT/CS 140
+              name: Workshop
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>What Would You Say or Do? Interrupting Bias in Academic Settings</i></h8>
+                  <p class="card-text"></p>
                 </div>
         - name: > 
             <div>
-              Lunch<br>Poster Session<br>Career Fair
+              Lunch,<br>Poster Session,<br>and Career Fair
             </div>
-          location: ISAT/CS
           time_start: 12:40PM
           time_end: 1:50PM
           sessions:
-            - name: Lunch
-            - name: Posters
+            - location: ISAT/CS
+              name: Lunch
+            - location: ISAT/CS
+              name: Posters
               details: >
                 <div class="card-body">
-                  <h7 class="card-title">Case Study on the Information Technology Infrastructure of a K-12 School System</h7>
-                  <p class="card-text">with Claudia Reutemann, Michael Spears, Kristina Mosqueda, and Yun Zhang</p>
+                  <h8 class="card-title"><i>Empowering Student Voice Through Writing and Technology</i></h8>
+                  <p class="card-text"></p>
 
-                  <h7 class="card-title">Student’s Computer Anxiety in First Computer Programming Course</h7>
-                  <p class="card-text">with Hannah Ford, Alexis Fischer, Dandan Li, Nan Jiang, Lingjia Kong, and Yun Zhang</p>
+                  <h8 class="card-title"><i>Grow-Slow: An Interactive Hourglass for Promoting Self-Growth</i></h8>
+                  <p class="card-text"></p>
 
-                  <h7 class="card-title">Case Rethinking Smart Built Environments Design: Introducing A Mixed Reality Based User-Centric Design Framework</h7>
-                  <p class="card-text">with Archi Dasgupta, Mark Manuel, Nicole Buckingham, and Denis Gracanin</p>
+                  <h8 class="card-title"><i>A Multisensory Design Probe: An Approach for Reducing Technostress</i></h8>
+                  <p class="card-text"></p>
+
+                  <h8 class="card-title"><i>An Interactive Application for Inversive Geometry</i></h8>
+                  <p class="card-text"></p>
+
+                  <h8 class="card-title"><i>Calculating the Probability of an Exactly Tied Rlection in a Statistically Tied Race</i></h8>
+                  <p class="card-text"></p>
+                  
+                  <h8 class="card-title"><i>Dialect-Specific Models for Automatic Speech Recognition of African American Vernacular English</i></h8>
+                  <p class="card-text"></p>
+                  
+                  <h8 class="card-title"><i>Cybersecurity applied in Non-Profits</i></h8>
+                  <p class="card-text"></p>
+                  
+                  <h8 class="card-title"><i>Leveraging Vehicles as Compute Resources on the Road in Smart Cities</i></h8>
+                  <p class="card-text"></p>
+
+                  <h8 class="card-title"><i>Dukes Inspiring Girls Into Technology Across Limits (DIGITAL) - A Technology Conference for Middle and High School Girls</i></h8>
+                  <p class="card-text"></p>
+
+                  <h8 class="card-title"><i>The Ethical Simulator</i></h8>
+                  <p class="card-text"></p>
+
+                  <h8 class="card-title"><i>Educating Young Girls</i></h8>
+                  <p class="card-text"></p>
                 </div>
-            - name: Career Fair
-        - name: Closing Keynote
-          location: >
-            ISAT/CS (Rooms: TBD)
-          time_start: 4:00PM
-          time_end: 5:00PM
-          description: > 
-            CAPWIC Closing Keynote with Dr. Amelia Estwick.
+            - location: ISAT/CS
+              name: Career Fair
+        - name: 2B Parallel Sessions
+          time_start: 1:50PM
+          time_end: 2:30PM
+          sessions:
+            - location: ISAT/CS 159
+              name: Flash Talks
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>Wearable Computing for Physical Rehabilitation</i></h8>
+                  <p class="card-text"></p>
+
+                  <h8 class="card-title"><i>Assistive Tech for Pedestrian Navigation with Populations with Low or Impaired Vision</i></h8>
+                  <p class="card-text"></p>
+                </div>
+            - location: ISAT/CS 159
+              name: Technical Talk
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>With Great Power Comes Great Responsibility: Web Accessibility</i></h8>
+                  <p class="card-text"></p>
+                </div>
+            - location: ISAT/CS 143
+              name: Workshop
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>Intro to Machine Learning for Beginners</i></h8>
+                </div>
+            - location: ISAT/CS 250
+              name: Workshop
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>Learn How to Find and Manage All Your Bibliographic Sources – Make Zotero Work for You!</i></h8>
+                </div>
+            - location: ISAT/CS 246
+              name: Birds-of-a-Feather Discussion
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>Women in Leadership</i></h8>
+                  <p class="card-text"></p>
+                </div>
+        - name: Break
+          location: ISAT/CS
+          time_start: 2:30PM
+          time_end: 2:35PM
+          description: Break
+        - name: 3A Parallel Sessions
+          time_start: 2:35PM
+          time_end: 3:35PM
+          sessions:
+            - location: ISAT/CS 243
+              name: Research Shorts
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>Assessing Bias Removal from Word Embeddings</i></h8>
+                  <p class="card-text"></p>
+
+                  <h8 class="card-title"><i>Data Mining and Manipulation for Explorations of Water Megamaser Disks</i></h8>
+                  <p class="card-text"></p>
+
+                  <h8 class="card-title"><i>Cave Explorer VR</i></h8>
+                  <p class="card-text"></p>
+                </div>
+            - location: ISAT/CS 140
+              name: Workshop
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>What Would You Say or Do? Interrupting Bias in Academic Settings</i></h8>
+                  <p class="card-text"></p>
+                </div>
+            - location: ISAT/CS 159
+              name: Technical Talks
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>Think Globally, Act Locally: Best Practices for Software Internationalization</i></h8>
+                  <p class="card-text"></p>
+
+                  <h8 class="card-title"><i>The Basics of Cryptography</i></h8>
+                  <p class="card-text"></p>
+                </div>
+        - name: Break
+          location: ISAT/CS
+          time_start: 3:35PM
+          time_end: 3:45PM
+          description: Break
+        - name: 3B Parallel Sessions
+          time_start: 3:45PM
+          time_end: 4:25PM
+          sessions:
+            - location: ISAT/CS 259
+              name: Panel
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>Tech Careers 101: An Introduction to the Realities of Tech Careers</i></h8>
+                  <p class="card-text"></p>
+                </div>
+            - location: ISAT/CS 143
+              name: Workshop
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>The Power of CSS</i></h8>
+                  <p class="card-text"></p>
+                </div>
+            - location: ISAT/CS 246
+              name: Birds-of-a-Feather Discussion
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>Male Allies</i></h8>
+                  <p class="card-text"></p>
+                </div>
+        - name: Break
+          location: ISAT/CS
+          time_start: 4:25PM
+          time_end: 4:30PM
+          description: Break
+        - name: >
+            Keynote: <i>Blazing Your Own Trail in Cybersecurity</i>
+          location: ISAT/CS
+          time_start: 4:30PM
+          time_end: 5:10PM
+          description: >
+            <div>
+            <h7>Dr. Amelia Estwick</h7>
+            <p><i>Program Manager for the National Cybersecurity Institute at Excelsior College and Cybersecurity Faculty Program Director within Excelsior College's School of Graduate Studies</i></p>
+            </div>
+        - name: Closing Session<br>and Awards Ceremony
+          location: EnGeo 2301
+          time_start: 5:10PM
+          time_end: 5:30PM
+          description: 
