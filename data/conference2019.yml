@@ -20,7 +20,7 @@ deadlines:
       <s>February 20, 2019 <i class="icon ion-ios-checkbox"></i></s> March 8, 2019 <i class="icon ion-ios-checkbox"></i>
     description: >
       <a href="https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP">Registration deadline EXTENDED <i class="icon ion-ios-open"></i></a>
-  - date: March 22-23, 2019
+  - date: March 22-23, 2019 <i class="icon ion-ios-checkbox"></i></s>
     description: ATTEND!
 image   : images/banner2019.png
 rates:
@@ -191,7 +191,7 @@ sponsorship:
           - name: non
             enabled: false
       - name: Award Branded Prize
-        levels: 
+        levels:
           - name: diamond
             enabled: true
           - name: platinum
@@ -212,12 +212,13 @@ aboutItem:
 
   - title : Scholarships
     description: > 
-      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardess have ranged from first-year students in high school, to senior Ph.D. student in graduate school. We are happy to report that we have typically hada very high rate of funding of scholarship applicants.
+      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. We are happy to report that we have typically hada very high rate of funding of scholarship applicants.
 
   - title : Sponsorship
     type: sponsorship
     description: > 
       Join our distinguished cohort of sponsors and help make CAPWIC 2019 happen! CAPWIC is in its 10th year, and we are so thankful for all the support over the years. [Download our flyer](/capwic-sponsor-flyer.pdf), or see below for more information. If you have any questoins or concerns please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>
+
 organizers:
   - Chairs:
     - name: Dr. Sharon Simmons
@@ -436,6 +437,7 @@ organizer_photos:
     link: https://engineering.virginia.edu/faculty/ray-pettit
     avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/Pettit3.JPG?itok=zH2_9kbl
     affiliation: University of Virginia
+
 nav:
   - name: CAPWIC 2019
     url: /conferences/2019
@@ -451,6 +453,7 @@ nav:
     url: /conferences/2019/sponsorship
   - name: Organizers
     url: /conferences/2019/organizers
+
 submission:
   link: https://easychair.org/conferences/?conf=capwic2019
   deadline: February 8, 2019
@@ -476,6 +479,31 @@ submission:
     - name: Technical Talks
       description: >
         25 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
+
+participation:
+  title: Technical Program Awards
+  awards:
+    - name: Best Research Short
+      awardee: CLARE ARRINGTON
+      school: University of Mary Washington
+      presentation: 'Assessing Bias Removal from Word Embeddings'
+    - name: Best Flash Talk
+      awardee: SANJANA PAUL
+      school: Virginia Commonwealth University
+      presentation: 'Earth Hacks: A University Hackathon to Generate Interdisciplinary Solutions to Pressing Environmental Problems'
+    - name: Best Poster
+      awardee: RACHEL DORN, BRIDGET MCINNES, AND SCOTT VRANA
+      school: Virginia Commonwealth University
+      presentation: 'Dialect-Specific Models for Automatic Speech Recognition of African-American Vernacular English'
+    - name: Honorable Mention Poster
+      awardee: AMANDA PEARCE AND LAUREN CAREY
+      school: James Madison University
+      presentation: >
+        Dukes Inspiring Girls Into Technology Across Limits (DIGITAL) - A Technology Conference for Middle and High School Girls
+    - name: Honorable Mention Poster
+      awardee: OLIVIA SAVAGE AND LILLY FOSTER
+      school: Western Albemarle High School
+      presentation: 'Educating Young Girls'
 
 sponsors:
   - level: PRE
@@ -711,19 +739,6 @@ schedule:
           time_start: 6:30PM
           time_end: 10:00PM
           description: On-site registration.
-
-        # - name: High School Game Night
-        #   location: ISAT/CS 246
-        #   time_start: 7:00PM
-        #   time_end: 10:00PM
-        #   description: > 
-        #     Meet other High School students and enjoy each other's company while playing games.
-
-        # - name: <a href ="https://en.wikipedia.org/wiki/Rube_Goldberg_machine" target="_blank" rel="noopener noreferrer">Rube Goldberg Machine <i class="icon ion-ios-open"></i></a> Coding Jam
-        #   location: ISAT/CS 259
-        #   time_start: 7:00PM
-        #   time_end: 10:00PM
-        #   description: Work together in teams to make a series of programs that will trigger each other with technical support from our sponsor <a href ="https://willowtreeapps.com/" target="_blank" rel="noopener noreferrer">WillowTree <i class="icon ion-ios-open"></i></a>.
 
         - name: High School Game Night and <a href ="https://en.wikipedia.org/wiki/Rube_Goldberg_machine" target="_blank" rel="noopener noreferrer">Rube Goldberg Machine <i class="icon ion-ios-open"></i></a> Coding Jam
           time_start: 7:00PM
