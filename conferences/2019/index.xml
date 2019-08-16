@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAPWIC 2019 on CAPWIC</title>
+    <link>//capwic.org/conferences/2019/</link>
+    <description>Recent content in CAPWIC 2019 on CAPWIC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Nov 2018 22:14:57 -0500</lastBuildDate>
+    
+	<atom:link href="//capwic.org/conferences/2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Schedule</title>
+      <link>//capwic.org/conferences/2019/schedule/</link>
+      <pubDate>Wed, 23 Jan 2019 22:14:57 -0500</pubDate>
+      
+      <guid>//capwic.org/conferences/2019/schedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>//capwic.org/conferences/2019/organizers/</link>
+      <pubDate>Tue, 06 Nov 2018 22:14:57 -0500</pubDate>
+      
+      <guid>//capwic.org/conferences/2019/organizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participation</title>
+      <link>//capwic.org/conferences/2019/participation/</link>
+      <pubDate>Tue, 06 Nov 2018 22:14:57 -0500</pubDate>
+      
+      <guid>//capwic.org/conferences/2019/participation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsorship</title>
+      <link>//capwic.org/conferences/2019/sponsorship/</link>
+      <pubDate>Tue, 06 Nov 2018 22:14:57 -0500</pubDate>
+      
+      <guid>//capwic.org/conferences/2019/sponsorship/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

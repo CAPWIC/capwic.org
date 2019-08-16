@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences on CAPWIC</title>
+    <link>//capwic.org/conferences/</link>
+    <description>Recent content in Conferences on CAPWIC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate>
+    
+	<atom:link href="//capwic.org/conferences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CAPWIC 2016</title>
+      <link>//capwic.org/conferences/2016/</link>
+      <pubDate>Tue, 06 Nov 2018 22:14:57 -0500</pubDate>
+      
+      <guid>//capwic.org/conferences/2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAPWIC 2019</title>
+      <link>//capwic.org/conferences/2019/</link>
+      <pubDate>Tue, 06 Nov 2018 22:14:57 -0500</pubDate>
+      
+      <guid>//capwic.org/conferences/2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
