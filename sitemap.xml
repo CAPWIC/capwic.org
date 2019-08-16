@@ -58,17 +58,7 @@
   </url>
   
   <url>
-    <loc>//capwic.org/</loc>
-    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//capwic.org/portfolio/caramel-bottle/</loc>
-    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//capwic.org/portfolio/</loc>
     <lastmod>2018-07-12T16:59:54+06:00</lastmod>
   </url>
   
@@ -98,11 +88,25 @@
   </url>
   
   <url>
+    <loc>//capwic.org/</loc>
+    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>//capwic.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//capwic.org/portfolio/</loc>
+    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>//capwic.org/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

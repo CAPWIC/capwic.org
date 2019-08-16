@@ -11,23 +11,5 @@
 	<atom:link href="//capwic.org/conferences/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>CAPWIC 2016</title>
-      <link>//capwic.org/conferences/2016/</link>
-      <pubDate>Tue, 06 Nov 2018 22:14:57 -0500</pubDate>
-      
-      <guid>//capwic.org/conferences/2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CAPWIC 2019</title>
-      <link>//capwic.org/conferences/2019/</link>
-      <pubDate>Tue, 06 Nov 2018 22:14:57 -0500</pubDate>
-      
-      <guid>//capwic.org/conferences/2019/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
