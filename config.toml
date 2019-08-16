@@ -50,14 +50,14 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/conferences/IMG_1523-zoomed.jpeg"
-        heading = "🗓 SAVE THE DATE FOR CAPWIC 2019!<br>March 22-23, 2019 <br> James Madison University <br> Harrisonburg, VA"
+        heading = "🗓 SAVE THE DATE FOR CAPWIC 2020!<br>March 27-28, 2020 <br> Christopher Newport University <br> Newport News, VA"
         description = "The <u>Cap</u>ital Region Celebration of <u>W</u>omen <u>i</u>n <u>C</u>omputing Conference."
-        [[params.banner.btn]]
-            btnText = "Learn More"
-            btnURL  = "/conferences/2019"
-        [[params.banner.btn]]
-            btnText = "Register Now"
-            btnURL  = "https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP"
+    #    [[params.banner.btn]]
+    #        btnText = "Learn More"
+    #        btnURL  = "/conferences/2019"
+    #    [[params.banner.btn]]
+    #        btnText = "Register Now"
+    #        btnURL  = "https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP"
     #        btnURL  = "http://jmu.co1.qualtrics.com/jfe/form/SV_6eSJOie1jQk7q6x"
             
         [[params.banner.flipText]]
