@@ -437,6 +437,11 @@ organizer_photos:
     link: https://engineering.virginia.edu/faculty/ray-pettit
     avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/Pettit3.JPG?itok=zH2_9kbl
     affiliation: University of Virginia
+  - name: Dr. Robbie Hott
+    last_name: Hott
+    link: https://engineering.virginia.edu/faculty/john-r-hott
+    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg?itok=VsPBmqqo
+    affiliation: University of Virginia
 
 nav:
   - name: CAPWIC 2019
