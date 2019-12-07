@@ -35,6 +35,7 @@ theme = "timer-hugo"
 
 # Site Params
 [params]
+    title = "CAPWIC"
     home = "Home"
     dateFormat = "6 January 2006"
     #
@@ -44,7 +45,7 @@ theme = "timer-hugo"
     logo = "images/capwic-logo-2-bw-40.jpeg"
     logo_alt = "logo"
     #logo_text = "logo_text"
-    current_conf_year = "2019"
+    current_conf_year = "2020"
 
     # Banner Section
     [params.banner]
