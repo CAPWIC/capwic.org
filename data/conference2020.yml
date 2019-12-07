@@ -1,0 +1,872 @@
+enable  : true
+title   : March 27-28, 2020 at Christopher Newport University 
+name    : CAPWIC 2020
+description: >
+  Register to attend, sponsor us, or volunteer to help review submissions to the technical program.
+image   : images/banner2020.png
+deadlines:
+  - date: January 24, 2020 <i class="icon ion-ios-checkbox"></i>
+    description: >
+      <a href="mailto:programcommittee2019@capwic.org">Volunteer to Review Submissions!</a>
+  - date: January 31, 2020 <i class="icon ion-ios-checkbox"></i>
+    description: Abstract Submission
+  - date: February 14, 2020 <i class="icon ion-ios-checkbox"></i>
+    description: Notification of Acceptances
+  - date: >
+      February 21, 2020 <i class="icon ion-ios-checkbox"></i>
+    description: >
+      Registration deadline
+  - date: March 27-28, 2020 <i class="icon ion-ios-checkbox"></i></s>
+    description: ATTEND!
+# rates:
+#   - description: Single Hotel Room
+#     cost: $100.00
+#   - description: Double Hotel Room*
+#     cost: $75.00
+#   - description: Triple Hotel Room*
+#     cost: $50.00
+#   - description: Conference Registration without lodging
+#     cost: $25.00
+# sponsorshipCosts:
+#   - name: diamond
+#     cost: $6000
+#   - name: platinum
+#     cost: $4000
+#   - name: gold
+#     cost: $2000
+#   - name: silver
+#     cost: $1000
+#   - name: recruiter
+#     cost: $500
+#   - name: non-profit/academic
+#     cost: $300
+# sponsorship:
+#   - type: General
+#     perks: 
+#       - name: Get a Table at the Career Fair
+#         levels: 
+#           - name: diamond
+#             enabled: true
+#           - name: platinum
+#             enabled: true
+#           - name: gold
+#             enabled: true
+#           - name: silver
+#             enabled: true
+#           - name: recruiter
+#             enabled: true
+#           - name: non
+#             enabled: true
+#       - name: 2 FREE tickets to attend the celebration
+#         levels: 
+#           - name: diamond
+#             enabled: true
+#           - name: platinum
+#             enabled: true
+#           - name: gold
+#             enabled: true
+#           - name: silver
+#             enabled: true
+#           - name: recruiter
+#             enabled: true
+#           - name: non
+#             enabled: true
+#       - name: Send Engineers/Mentors
+#         levels: 
+#           - name: diamond
+#             enabled: true
+#           - name: platinum
+#             enabled: true
+#           - name: gold
+#             enabled: true
+#           - name: silver
+#             enabled: true
+#           - name: recruiter
+#             enabled: false
+#           - name: non
+#             enabled: false
+#       - name: Host a Technical Workshop
+#         levels: 
+#           - name: diamond
+#             enabled: true
+#           - name: platinum
+#             enabled: true
+#           - name: gold
+#             enabled: false
+#           - name: silver
+#             enabled: false
+#           - name: recruiter
+#             enabled: false
+#           - name: non
+#             enabled: false
+#       - name: Hold a keynote or a presentation
+#         levels: 
+#           - name: diamond
+#             enabled: true
+#           - name: platinum
+#             enabled: false
+#           - name: gold
+#             enabled: false
+#           - name: silver
+#             enabled: false
+#           - name: recruiter
+#             enabled: false
+#           - name: non
+#             enabled: false
+#   - type: Recruiting and Branding
+#     perks: 
+#       - name: Swag in Attendee bag
+#         levels: 
+#           - name: diamond
+#             enabled: true
+#           - name: platinum
+#             enabled: true
+#           - name: gold
+#             enabled: true
+#           - name: silver
+#             enabled: true
+#           - name: recruiter
+#             enabled: true
+#           - name: non
+#             enabled: true
+#       - name: Blurb in Program & Website
+#         levels: 
+#           - name: diamond
+#             enabled: true
+#           - name: platinum
+#             enabled: true
+#           - name: gold
+#             enabled: true
+#           - name: silver
+#             enabled: true
+#           - name: recruiter
+#             enabled: true
+#           - name: non
+#             enabled: true
+#       - name: Company Logo on Attendee bag
+#         levels: 
+#           - name: diamond
+#             enabled: true
+#           - name: platinum
+#             enabled: true
+#           - name: gold
+#             enabled: true
+#           - name: silver
+#             enabled: false
+#           - name: recruiter
+#             enabled: false
+#           - name: non
+#             enabled: false
+#       - name: Receive Resume Book
+#         levels: 
+#           - name: diamond
+#             enabled: true
+#           - name: platinum
+#             enabled: true
+#           - name: gold
+#             enabled: false
+#           - name: silver
+#             enabled: false
+#           - name: recruiter
+#             enabled: false
+#           - name: non
+#             enabled: false
+#       - name: Company Logo on event t-shirt
+#         levels: 
+#           - name: diamond
+#             enabled: true
+#           - name: platinum
+#             enabled: true
+#           - name: gold
+#             enabled: false
+#           - name: silver
+#             enabled: false
+#           - name: recruiter
+#             enabled: false
+#           - name: non
+#             enabled: false
+#       - name: Award Branded Prize
+#         levels:
+#           - name: diamond
+#             enabled: true
+#           - name: platinum
+#             enabled: false
+#           - name: gold
+#             enabled: false
+#           - name: silver
+#             enabled: false
+#           - name: recruiter
+#             enabled: false
+#           - name: non
+#             enabled: false
+aboutItem:
+  - title : Registration
+    type: registration
+    description: > 
+      Student registration rates are made possible by our sponsors. More information coming soon...
+    else: >
+      All levels include a conference registration. <a href="/capwic-student-flyer.pdf" download>Download our flyer</a> to share with other students or <a href="https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP" targe="_blank" rel="noreferrer noopener">register now</a>.
+
+  - title : Scholarships
+    description: > 
+      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. We are happy to report that we have typically had a very high rate of funding of scholarship applicants.
+
+  - title : Sponsorship
+    type: sponsorship
+    description: > 
+      Join our distinguished cohort of sponsors and help make CAPWIC 2020 happen! More information coming soon... If you have any questions please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>.
+    else: >
+      CAPWIC is in its 11th year, and we are so thankful for all the support over the years. [Download our flyer](/capwic-sponsor-flyer.pdf), or see below for more information. If you have any questions or concerns please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>
+
+organizers:
+  - Chairs:
+    - name: Dr. Lynn Lambert
+      link: http://cnu.edu/people/llambert/
+      avatar: /2020/organizers/lynn lambert.jpeg
+      email: info@capwic.org
+      affiliation: Christopher Newport University
+  - Local Arrangements:
+    - name: Dr. Lynn Lambert
+      link: http://cnu.edu/people/llambert/
+      avatar: /2020/organizers/lynn lambert.jpeg
+      email: info@capwic.org
+      affiliation: Christopher Newport University
+  - Web and Registration:
+    - name: Dr. Michael Stewart
+      link: https://www.jmu.edu/cs/people/faculty-staff/stewart-michael.shtml
+      avatar: https://www.jmu.edu/cs/images/faculty-staff-images/stewart.jpg
+      email: info@capwic.org
+      affiliation: James Madison University
+    - name: Dr. Robbie Hott
+      last_name: Hott
+      link: https://engineering.virginia.edu/faculty/john-r-hott
+      avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg?itok=VsPBmqqo
+      affiliation: University of Virginia
+  - Publicity and Communications:
+    - name: Dr. Sharon Simmons
+      link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+      avatar: https://www.jmu.edu/cs/images/faculty-staff-images/simmons.jpg
+      email: info@capwic.org
+      affiliation: James Madison University
+    - name: Miya Washington
+      affiliation: Christopher Newport University
+  - Sponsorship and Job Fair:
+    - name: Dr. Lynn Lambert
+      link: http://cnu.edu/people/llambert/
+      avatar: /2020/organizers/lynn lambert.jpeg
+      email: info@capwic.org
+      affiliation: Christopher Newport University
+    - name: Miya Washington
+      affiliation: Christopher Newport University
+    - name: Dr. Swapneel Sheth
+      link: https://www.cis.upenn.edu/~swapneel/
+      avatar: https://www.cis.upenn.edu/~swapneel/images/me.JPG
+      email: registration@capwic.org
+      affiliation: University of Pennsylvania
+    - name: Dr. Sharon Simmons
+      link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+      avatar: https://www.jmu.edu/cs/images/faculty-staff-images/simmons.jpg
+      email: info@capwic.org
+      affiliation: James Madison University
+  - Finance:
+    - name: Dr. Lynn Lambert
+      link: http://cnu.edu/people/llambert/
+      avatar: /2020/organizers/lynn lambert.jpeg
+      email: info@capwic.org
+      affiliation: Christopher Newport University
+    - name: Dr. Sharon Simmons
+      link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+      avatar: https://www.jmu.edu/cs/images/faculty-staff-images/simmons.jpg
+      email: info@capwic.org
+      affiliation: James Madison University
+  - High School Liaison:
+    - name: Georgia Danehy
+      affiliation: Governor's School for Science and Technology
+  - Scholarships:
+    - name: Dr. Donna Schaeffer
+      link: https://www.marymount.edu/Home/Contact-Us/Directory/?profileid=190
+      avatar: https://www.marymount.edu/marymount.edu/media/Faculty-Staff/140924donna-schaffer_business0001.jpg?width=231&height=193&ext=.jpg
+      affiliation: Marymount University
+  - Technical Program:
+    - name: Dr. Robin Givens
+      last_name: Givens
+      avatar: /2019/organizers/robin.jpg
+      link: https://www.rmc.edu/departments/computer-science/faculty
+      affiliation: Randolph-Macon College
+  - Program Committee:
+    - name: Dr. Robin Givens (Chair)
+      last_name: Givens
+      avatar: /2019/organizers/robin.jpg
+      link: https://www.rmc.edu/departments/computer-science/faculty
+      affiliation: Randolph-Macon College
+    - name: Dr. Jason Forsyth
+      link: https://www.jmu.edu/engineering/people/all-people/forsyth-jason.shtml
+      avatar: https://scholar.google.com/citations?view_op=medium_photo&user=EY6SBHcAAAAJ&citpid=3
+      affiliation: James Madison University
+    - name: Dr. Donna Schaeffer
+      link: https://www.marymount.edu/Home/Contact-Us/Directory/?profileid=190
+      avatar: https://www.marymount.edu/marymount.edu/media/Faculty-Staff/140924donna-schaffer_business0001.jpg?width=231&height=193&ext=.jpg
+      affiliation: Marymount University
+    - name: Dr. Dee Weikle
+      link: https://w3.cs.jmu.edu/weikleda/
+      avatar: https://www.jmu.edu/cs/images/faculty-staff-images/weikle
+      affiliation: James Madison University
+    - name: Dr. Veena Ravishankar
+      link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
+      avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2018/04/Ravishankar_Veena_149c-150x150.jpg
+      affiliation: University of Mary Washington
+    - name: Dr. Faryaneh Poursardar
+      link: http://cnu.edu/people/faryanehpoursardar/
+      avatar: http://cnu.edu/_assets/img/_people/6ad6650c4a6e021cc85dffa7a9379d38/headshot.jpg
+      affiliation: Christopher Newport University
+organizer_photos:
+  - name: Dr. Sharon Simmons
+    last_name: Simmons
+    link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+    avatar: https://www.jmu.edu/cs/images/faculty-staff-images/simmons.jpg
+    email: info@capwic.org
+    affiliation: James Madison University
+  - name: Dr. Michael Stewart
+    last_name: Stewart
+    link: https://www.jmu.edu/cs/people/faculty-staff/stewart-michael.shtml
+    avatar: https://www.jmu.edu/cs/images/faculty-staff-images/stewart.jpg
+    email: info@capwic.org
+    affiliation: James Madison University
+  - name: Dr. Swapneel Sheth
+    last_name: Sheth
+    link: https://www.cis.upenn.edu/~swapneel/
+    avatar: https://www.cis.upenn.edu/~swapneel/images/me.JPG
+    email: registration@capwic.org
+    affiliation: University of Pennsylvania
+  - name: Dr. Robin Givens
+    last_name: Givens
+    avatar: /2019/organizers/robin.jpg
+    link: https://www.rmc.edu/departments/computer-science/faculty
+    affiliation: Randolph-Macon College
+  - name: Dr. Dee Weikle
+    last_name: Weikle
+    link: https://w3.cs.jmu.edu/weikleda/
+    avatar: https://www.jmu.edu/cs/images/faculty-staff-images/weikle
+    affiliation: James Madison University
+  - name: Dr. Donna Schaeffer
+    last_name: Schaeffer
+    link: https://www.marymount.edu/Home/Contact-Us/Directory/?profileid=190
+    avatar: https://www.marymount.edu/marymount.edu/media/Faculty-Staff/140924donna-schaffer_business0001.jpg?width=231&height=193&ext=.jpg
+    affiliation: Marymount University
+  - name: Dr. Jason Forsyth
+    last_name: Forsyth
+    link: https://www.jmu.edu/engineering/people/all-people/forsyth-jason.shtml
+    avatar: https://scholar.google.com/citations?view_op=medium_photo&user=EY6SBHcAAAAJ&citpid=3
+    affiliation: James Madison University
+  - name: Dr. Lynn Lambert
+    last_name: Lambert
+    link: http://www.pcs.cnu.edu/~lambert/
+    avatar: /2019/organizers/lynn lambert.jpeg
+    affiliation: Christopher Newport University
+  - name: Dr. Robbie Hott
+    last_name: Hott
+    link: https://engineering.virginia.edu/faculty/john-r-hott
+    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg?itok=VsPBmqqo
+    affiliation: University of Virginia
+  - name: Dr. Veena Ravishankar
+    link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
+    avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2018/04/Ravishankar_Veena_149c-150x150.jpg
+    affiliation: University of Mary Washington
+  - name: Dr. Faryaneh Poursardar
+    link: http://cnu.edu/people/faryanehpoursardar/
+    avatar: http://cnu.edu/_assets/img/_people/6ad6650c4a6e021cc85dffa7a9379d38/headshot.jpg
+    affiliation: Christopher Newport University
+  - name: Georgia Danehy
+    affiliation: Governor's School for Science and Technology
+  - name: Miya Washington
+    affiliation: Christopher Newport University
+  - name: Dr. Robbie Hott
+    last_name: Hott
+    link: https://engineering.virginia.edu/faculty/john-r-hott
+    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg?itok=VsPBmqqo
+    affiliation: University of Virginia
+nav:
+  - name: CAPWIC 2020
+    url: /conferences/2020
+  - name: Participation
+    url: /conferences/2020/participation
+  - name: Schedule
+    url: /conferences/2020/schedule
+  - name: Sponsorship
+    url: /conferences/2020/sponsorship
+  - name: Organizers
+    url: /conferences/2020/organizers
+
+submission:
+  lead: |
+    <p class="lead">There are seven tracks to which you can submit your work.
+      Please submit by the <span style="font-weight: bold;">January 31</span><strong>, 2020 submission deadline</strong> for full consideration. <br><br>
+
+      CAPWIC 2020, the ACM Capital Region Celebration of Women in Computing, will be held at
+      Christopher Newport University, in Newport News, Virginia. The goal of CAPWIC
+      is to bring together female students and allies to promote the recruitment,
+      retention, and progression of women in computing fields. We invite submissions
+      in the area of computing research as well as on efforts to increase diversity
+      in computing in the following formats:</p>
+    <p>Our call for participation flyer is <a href="/capwic-call-for-participation.pdf" download>available for download here<i class="ion-ios-cloud-download"></i></a>.</p>
+    <p>We also have <a href="/capwic-call-for-submissions.pdf" download>a submission flyer<i class="ion-ios-cloud-download"></i></a> that has the detailed information below.</p>
+    <hr class="my-4">
+    <p>Unfortunately, we are unable to sponsor visas for international travel for CAPWIC.
+        <a class="float-right btn btn-primary btn-lg" rel="noopener noreferrer" target='_blank' href="{{.submission.link}}" role="button">Submit now!</a>
+    </p>
+  tracks:
+    - name: Flash Talks
+      description: >
+        Five-minute presentations with five minutes for questions. Fast-paced talks on preliminary results, work-in progress, or anything fun and creative related to the conference are welcome in this category. All levels of experience are welcome.
+    - name: Student Posters
+      description: >
+        Before the conference, presenters create a 24” x 32” poster of research, a class project, or other type of work-in-progress including efforts to diversify computing and are present at the poster during the session to discuss content. Open to all students. Prizes will be awarded. 
+    - name: Student Research Shorts
+      description: >
+        Research shorts are an opportunity to give a 15-minute presentation with an additional 5 minutes for questions, similar to a talk at a research conference. Work should be technical in nature, investigating new ideas in any area of computer science. The intention is to give presenters a friendly environment in which to practice a future technical talk or work out details in an ongoing project to get constructive feedback. Only an abstract is required, so future publication of the work is not limited. 
+    - name: Technical Workshops
+      description: >
+        Workshops present a valuable and current technical skill in a hands-on training session. Proposals must include abstract, the intended audience and power/AV equipment/space needs.
+    - name: Panels
+      description: >
+        Panels present multiple perspectives on a topic. Proposals should include abstract, a list of presenters including their affiliation and perspective, along with a proposed length of 25 or 50 minutes.
+    - name: Birds-of-a-Feather
+      description: >
+        Birds-of-a-feather (BOF) sessions are opportunities for a group of participants with similar concerns to have an informal discussion. BOF sessions will be 30 minutes.
+    - name: Technical Talks
+      description: >
+        25 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
+
+flyers:
+  - link: capwic-2020-flyer-call-submissions.pdf
+    text: Call for participation
+#   - link: capwic-call-for-submissions.pdf
+#     text: Call for Submissions
+#   - link: capwic-highschool.pdf
+#     text: Information for High School Students
+#   - link: capwic-student-flyer.pdf
+#     text: General Information for Students
+#   - link: capwic-sponsor-flyer.pdf
+#     text: Information for Sponsors
+
+policies:
+  - name: Code of Conduct
+    body: |
+      CAPWIC's top priority is that participants feel welcome, comfortable, respected, and safe while attending. As an official ACM-W celebration, we adhere to <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener noreferrer">the ACM Code of Conduct <i class="icon ion-ios-open"></i></a>.
+
+# schedule:
+#   heading: 🔥Hottt off the press!
+#   body: |
+#     The CAPWIC 2019 schedule is ready! <a href="https://hcientist.cs.jmu.edu/download/581/">Download it here <i class="icon ion-md-cloud-download"></i></a>. 
+#   days:
+#     - name: Friday March 22, 2019
+#       color: capwic-primary
+#       font: white
+#       events: 
+#         - name: Registration
+#           location: President's Hall
+#           time_start: 3:00PM
+#           time_end: 6:30PM
+#           description: > 
+#             Check in at Registration.
+
+#         - name: JMU Showcase<br>and Career Fair
+#           location: President's Hall
+#           time_start: 3:30PM
+#           time_end: 5:00PM
+#           description: > 
+#             Meet our sponsoring recruiters and learn about our host campus for 2019 of James Madison University.
+
+#         - name: >
+#             Keynote: <i>Blockchain, Smart Contract, and the Gap Between Expectation and Reality</i>
+#           location: President's Hall
+#           time_start: 5:00PM
+#           time_end: 5:40PM
+#           description: >
+#             <div>
+#               <h7>Dr. Wengjing Lou<h7>
+#               <p><i>W.C. English Professor of Computer Science at Virginia Tech and Fellow of the IEEE</i></p>
+#             </div>
+
+#         - name: Break
+#           location: President's Hall
+#           time_start: 5:40PM
+#           time_end: 5:45PM
+#           description: Break
+
+#         - name: Dinner and Keynote
+#           location: President's Hall
+#           time_start: 5:45PM
+#           time_end: 6:30PM
+#           description: >
+#             <div>
+#               <h7>Karen Jackson<h7>
+#               <p><i>President of Apogee Strategic Partners</i></p>
+#             </div>
+#         - name: Registration
+#           location: ISAT/CS Atrium
+#           time_start: 6:30PM
+#           time_end: 10:00PM
+#           description: On-site registration.
+
+#         - name: High School Game Night and <a href ="https://en.wikipedia.org/wiki/Rube_Goldberg_machine" target="_blank" rel="noopener noreferrer">Rube Goldberg Machine <i class="icon ion-ios-open"></i></a> Coding Jam
+#           time_start: 7:00PM
+#           time_end: 10:00PM
+#           sessions:
+#             - location: ISAT/CS 246
+#               name: High School Game Night
+#               details: >
+#                 <div class="card-body">
+#                   <p class="card-text"><i>Meet other High School students and enjoy each other's company while playing games.</i></p>
+#                 </div>
+#             - location: ISAT/CS 259
+#               name: Rube Goldberg Coding Jam
+#               details: >
+#                 <div class="card-body">
+#                   <p class="card-text"><i>Work together in teams to make a series of programs that will trigger each other with technical support from our sponsor <a href ="https://willowtreeapps.com/" target="_blank" rel="noopener noreferrer">WillowTree <i class="icon ion-ios-open"></i></a>.</i></p>
+#                 </div>
+#     - name: Saturday March 23, 2019
+#       color: warning
+#       font: dark
+#       events: 
+#         - name: Breakfast<br>and Registration
+#           location: ISAT/CS Atrium
+#           time_start: 8:00AM
+#           time_end: 8:45AM
+#           description: > 
+#             Kick off the day with Breakfast in the Atrium.
+#         - name: Opening Remarks
+#           location: EnGeo 2301
+#           time_start: 8:45AM
+#           time_end: 9:00AM
+#           description: > 
+#             Welcome to CAPWIC 2019.
+#         - name: >
+#             Keynote: <i>Computing and Me: An Unlikely Partnership</i>
+#           location: EnGeo 2301
+#           time_start: 9:00AM
+#           time_end: 9:40AM
+#           description: >
+#             <div>
+#               <h7>Dr. Deb Crawford<h7>
+#               <p><i>Vice President for Research at George Mason University</i></p>
+#             </div> 
+
+#         - name: Break
+#           location: ISAT/CS
+#           time_start: 9:40AM
+#           time_end: 9:45AM
+#           description: Break
+#         - name: 1A Parallel Sessions
+#           time_start: 9:45AM
+#           time_end: 10:45AM
+#           sessions:
+#             - location: ISAT/CS 243
+#               name: Research Shorts
+#               details: >
+#                 <div class="card-body">
+#                   <h7 class="card-title"><i>Reasoning Over RDF Knowledge Bases Using Deep Learning</i></h7>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Determining the Probabilistic Cybersecurity Risk Assessment using Bayesian Approach</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Deep Reinforcement Learning for UAV Battery Lifetime Prediction  On the Perspective of On-the-Fly Wireless Charging</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS 259
+#               name: Panel
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Graduate School - Is it for me?</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS 159
+#               name: Flash Talks
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Soft Skills in a Technical World</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Women, the Humanities, and Technology</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Is Student Success Embedded in Technology?</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Earth Hacks: A University Hackathon to Generate Interdisciplinary Solutions to Pressing Environmental Problems</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Six Hours of Cybersecurity</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Website Design for Optimal User Experience</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#         - name: Break
+#           location: ISAT/CS
+#           time_start: 10:45AM
+#           time_end: 10:50AM
+#           description: Break
+#         - name: 1B Parallel Sessions
+#           time_start: 10:50AM
+#           time_end: 11:30AM
+#           sessions:
+#             - location: ISAT/CS 243
+#               name: Workshop
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Agile Tools: Epics to User Stories</i></h8>
+#                 </div>
+#             - location: ISAT/CS 259
+#               name: Panel
+#               details: >
+#                 <div class="card-body">
+#                   <h7 class="card-title"><i>Women in Leadership</i></h7>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS 159
+#               name: Flash Talks
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Cybersecurity Issues for Drones</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Asymmetric Label Noise for Multiclass Classification</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Density Functional Theory Investigation of Ethanol Catalysis on Metal Surface</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Earth Hacks: A University Hackathon to Generate Interdisciplinary Solutions to Pressing Environmental Problems</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Scalar Adjective Research through Model Assessment</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#         - name: Break
+#           location: ISAT/CS
+#           time_start: 11:30AM
+#           time_end: 11:40AM
+#           description: Break
+#         - name: 2A Parallel Sessions
+#           time_start: 11:40AM
+#           time_end: 12:40PM
+#           sessions:
+#             - location: ISAT/CS 243
+#               name: Research Shorts
+#               details: >
+#                 <div class="card-body">
+#                   <h7 class="card-title"><i>Case Study on the Information Technology Infrastructure of a K-12 School System</i></h7>
+#                   <p class="card-text"></p>
+
+#                   <h7 class="card-title"><i>Student’s Computer Anxiety in First Computer Programming Course</i></h7>
+#                   <p class="card-text"></p>
+
+#                   <h7 class="card-title"><i>Case Rethinking Smart Built Environments Design: Introducing A Mixed Reality Based User-Centric Design Framework</i></h7>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS 246
+#               name: Birds-of-a-Feather Discussions
+#               details: >
+#                 <div class="card-body">
+#                   <h7 class="card-title"><i>Women of Color</i></h7>
+#                   <p class="card-text"></p>
+
+#                   <h7 class="card-title"><i>Imposter Syndrome</i></h7>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS 159
+#               name: Technical Talks
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Open Source Expressive Software for Calculation of Quantum Mechanical Systems in Liquid</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>The Business of Bots</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS 140
+#               name: Workshop
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>What Would You Say or Do? Interrupting Bias in Academic Settings</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#         - name: > 
+#             <div>
+#               Lunch,<br>Poster Session,<br>and Career Fair
+#             </div>
+#           time_start: 12:40PM
+#           time_end: 1:50PM
+#           sessions:
+#             - location: ISAT/CS
+#               name: Lunch
+#             - location: ISAT/CS
+#               name: Posters
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Empowering Student Voice Through Writing and Technology</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Grow-Slow: An Interactive Hourglass for Promoting Self-Growth</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>A Multisensory Design Probe: An Approach for Reducing Technostress</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>An Interactive Application for Inversive Geometry</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Calculating the Probability of an Exactly Tied Rlection in a Statistically Tied Race</i></h8>
+#                   <p class="card-text"></p>
+                  
+#                   <h8 class="card-title"><i>Dialect-Specific Models for Automatic Speech Recognition of African American Vernacular English</i></h8>
+#                   <p class="card-text"></p>
+                  
+#                   <h8 class="card-title"><i>Cybersecurity applied in Non-Profits</i></h8>
+#                   <p class="card-text"></p>
+                  
+#                   <h8 class="card-title"><i>Leveraging Vehicles as Compute Resources on the Road in Smart Cities</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Dukes Inspiring Girls Into Technology Across Limits (DIGITAL) - A Technology Conference for Middle and High School Girls</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>The Ethical Simulator</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Educating Young Girls</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS
+#               name: Career Fair
+#         - name: 2B Parallel Sessions
+#           time_start: 1:50PM
+#           time_end: 2:30PM
+#           sessions:
+#             - location: ISAT/CS 159
+#               name: Flash Talks
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Wearable Computing for Physical Rehabilitation</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Assistive Tech for Pedestrian Navigation with Populations with Low or Impaired Vision</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS 159
+#               name: Technical Talk
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>With Great Power Comes Great Responsibility: Web Accessibility</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS 143
+#               name: Workshop
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Intro to Machine Learning for Beginners</i></h8>
+#                 </div>
+#             - location: ISAT/CS 250
+#               name: Workshop
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Learn How to Find and Manage All Your Bibliographic Sources – Make Zotero Work for You!</i></h8>
+#                 </div>
+#             - location: ISAT/CS 246
+#               name: Birds-of-a-Feather Discussion
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Women in Leadership</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#         - name: Break
+#           location: ISAT/CS
+#           time_start: 2:30PM
+#           time_end: 2:35PM
+#           description: Break
+#         - name: 3A Parallel Sessions
+#           time_start: 2:35PM
+#           time_end: 3:35PM
+#           sessions:
+#             - location: ISAT/CS 243
+#               name: Research Shorts
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Assessing Bias Removal from Word Embeddings</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Data Mining and Manipulation for Explorations of Water Megamaser Disks</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>Cave Explorer VR</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS 140
+#               name: Workshop
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>What Would You Say or Do? Interrupting Bias in Academic Settings</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS 159
+#               name: Technical Talks
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Think Globally, Act Locally: Best Practices for Software Internationalization</i></h8>
+#                   <p class="card-text"></p>
+
+#                   <h8 class="card-title"><i>The Basics of Cryptography</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#         - name: Break
+#           location: ISAT/CS
+#           time_start: 3:35PM
+#           time_end: 3:45PM
+#           description: Break
+#         - name: 3B Parallel Sessions
+#           time_start: 3:45PM
+#           time_end: 4:25PM
+#           sessions:
+#             - location: ISAT/CS 259
+#               name: Panel
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Tech Careers 101: An Introduction to the Realities of Tech Careers</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS 143
+#               name: Workshop
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>The Power of CSS</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#             - location: ISAT/CS 246
+#               name: Birds-of-a-Feather Discussion
+#               details: >
+#                 <div class="card-body">
+#                   <h8 class="card-title"><i>Male Allies</i></h8>
+#                   <p class="card-text"></p>
+#                 </div>
+#         - name: Break
+#           location: ISAT/CS
+#           time_start: 4:25PM
+#           time_end: 4:30PM
+#           description: Break
+#         - name: >
+#             Keynote: <i>Blazing Your Own Trail in Cybersecurity</i>
+#           location: EnGeo 2301
+#           time_start: 4:30PM
+#           time_end: 5:10PM
+#           description: >
+#             <div>
+#             <h7>Dr. Amelia Estwick</h7>
+#             <p><i>Program Manager for the National Cybersecurity Institute at Excelsior College and Cybersecurity Faculty Program Director within Excelsior College's School of Graduate Studies</i></p>
+#             </div>
+#         - name: Closing Session<br>and Awards Ceremony
+#           location: EnGeo 2301
+#           time_start: 5:10PM
+#           time_end: 5:30PM
+#           description: 
