@@ -15,7 +15,7 @@ deadlines:
   - date: >
       February 21, 2020 <i class="icon ion-ios-checkbox"></i>
     description: >
-      Registration deadline
+      <a target="_top" rel="noopener noreferrer" href="https://cnu.irisregistration.com/Form/2020CAPWIC">Registration deadline <i class="icon ion-ios-open"></i></a>
   - date: March 27-28, 2020 <i class="icon ion-ios-checkbox"></i></s>
     description: ATTEND!
 # rates:
@@ -388,6 +388,9 @@ organizer_photos:
 nav:
   - name: CAPWIC 2020
     url: /conferences/2020
+  - name: Registration
+    class: external-link
+    url: https://cnu.irisregistration.com/Form/2020CAPWIC
   - name: Participation
     url: /conferences/2020/participation
   - name: Schedule
