@@ -9,7 +9,7 @@ deadlines:
     description: >
       <a href="mailto:programcommittee2019@capwic.org">Volunteer to Review Submissions!</a>
   - date: January 31, 2020 <i class="icon ion-ios-checkbox"></i>
-    description: Abstract Submission
+    description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2020">Abstract Submission <i class="icon ion-ios-open"></i></a>
   - date: February 14, 2020 <i class="icon ion-ios-checkbox"></i>
     description: Notification of Acceptances
   - date: >
@@ -415,7 +415,7 @@ submission:
     <p>We also have <a href="/capwic-call-for-submissions.pdf" download>a submission flyer<i class="ion-ios-cloud-download"></i></a> that has the detailed information below.</p>
     <hr class="my-4">
     <p>Unfortunately, we are unable to sponsor visas for international travel for CAPWIC.
-        <a class="float-right btn btn-primary btn-lg" rel="noopener noreferrer" target='_blank' href="{{.submission.link}}" role="button">Submit now!</a>
+        <a class="float-right btn btn-primary btn-lg" rel="noopener noreferrer" target='_blank' href="https://easychair.org/conferences/?conf=acmcapwic2020" role="button">Submit now!</a>
     </p>
   tracks:
     - name: Flash Talks
