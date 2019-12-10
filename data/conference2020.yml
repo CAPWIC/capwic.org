@@ -199,6 +199,13 @@ deadlines:
 #             enabled: false
 #           - name: non
 #             enabled: false
+sponsors:
+  - level: PRE
+    sponsors:
+    - name: You?
+      img: sponsor-capwic.png
+      link: /conferences/2020/sponsorship/
+      class: light
 aboutItem:
   - title : Registration
     type: registration
