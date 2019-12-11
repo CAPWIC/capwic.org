@@ -4,6 +4,8 @@ name    : CAPWIC 2020
 description: >
   Register to attend, sponsor us, or volunteer to help review submissions to the technical program.
 image   : images/banner2020.png
+
+#controlling text for "deadlines" on conference main/home page
 deadlines:
   - date: January 24, 2020 <i class="icon ion-ios-checkbox"></i>
     description: >
@@ -199,6 +201,8 @@ deadlines:
 #             enabled: false
 #           - name: non
 #             enabled: false
+
+#sponsors list that is present on all pages left-hand side
 sponsors:
   - level: PRE
     sponsors:
@@ -206,6 +210,8 @@ sponsors:
       img: sponsor-capwic.png
       link: /conferences/2020/sponsorship/
       class: light
+
+#fields that appear at bottom of home page
 aboutItem:
   - title : Registration
     type: registration
@@ -218,6 +224,7 @@ aboutItem:
     description: > 
       Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. We are happy to report that we have typically had a very high rate of funding of scholarship applicants.
 
+#this field however ends up as its own Sponsorship page
   - title : Sponsorship
     type: sponsorship
     description: > 
@@ -225,6 +232,7 @@ aboutItem:
     else: >
       CAPWIC is in its 11th year, and we are so thankful for all the support over the years. [Download our flyer](/capwic-sponsor-flyer.pdf), or see below for more information. If you have any questions or concerns please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>
 
+#This section modifies the list of organizers (chairs, local arrangements...etc) that runs down the right-hand side of the organizers page
 organizers:
   - Chairs:
     - name: Dr. Lynn Lambert
@@ -326,6 +334,8 @@ organizers:
       link: http://cnu.edu/people/faryanehpoursardar/
       avatar: http://cnu.edu/_assets/img/_people/6ad6650c4a6e021cc85dffa7a9379d38/headshot.jpg
       affiliation: Christopher Newport University
+
+#This section populates the organizers page with images and contact information. This data is NOT replicated from above.
 organizer_photos:
   - name: Dr. Sharon Simmons
     last_name: Simmons
@@ -392,6 +402,8 @@ organizer_photos:
     link: https://engineering.virginia.edu/faculty/john-r-hott
     avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg?itok=VsPBmqqo
     affiliation: University of Virginia
+
+#This is the global navigation bar that run across the top of all pages
 nav:
   - name: CAPWIC 2020
     url: /conferences/2020
@@ -407,6 +419,7 @@ nav:
   - name: Organizers
     url: /conferences/2020/organizers
 
+#This governs the PARTICIPATION page as across the main menu bar
 submission:
   lead: |
     <p class="lead">There are seven tracks to which you can submit your work.
@@ -447,6 +460,7 @@ submission:
       description: >
         25 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
 
+#Flier information that exists on main page
 flyers:
   - link: capwic-2020-flyer-call-submissions.pdf
     text: Call for participation
@@ -459,6 +473,7 @@ flyers:
 #   - link: capwic-sponsor-flyer.pdf
 #     text: Information for Sponsors
 
+#Community standard that exists on main page
 policies:
   - name: Code of Conduct
     body: |
