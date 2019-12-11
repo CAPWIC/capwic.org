@@ -106,19 +106,19 @@ theme = "timer-hugo"
         customized  = true # Set this variable to true if you customized the design.
         copyright_owner = "CAPWIC"
         copyright_since = "2018"
-        [[params.footer.social]]
-            icon = "icon ion-logo-facebook"
-            link = "https://facebook.com"
-        [[params.footer.social]]
-            icon = "icon ion-logo-twitter"
-            link = "https://twitter.com"
-        [[params.footer.social]]
-            icon = "icon ion-logo-linkedin"
-            link = "https://linkedin.com"
-        [[params.footer.social]]
-            icon = "icon ion-logo-googleplus"
-            link = "https://googleplus.com"
-        [[params.footer.social]]
-            icon = "icon ion-logo-github"
-            link = "https://github.com"
+        #[[params.footer.social]]
+        #    icon = "icon ion-logo-facebook"
+        #    link = "https://facebook.com"
+        #[[params.footer.social]]
+        #    icon = "icon ion-logo-twitter"
+        #    link = "https://twitter.com"
+        #[[params.footer.social]]
+        #    icon = "icon ion-logo-linkedin"
+        #    link = "https://linkedin.com"
+        #[[params.footer.social]]
+        #    icon = "icon ion-logo-googleplus"
+        #    link = "https://googleplus.com"
+        #[[params.footer.social]]
+        #    icon = "icon ion-logo-github"
+        #    link = "https://github.com"
     
