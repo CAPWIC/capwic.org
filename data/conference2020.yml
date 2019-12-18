@@ -203,12 +203,17 @@ deadlines:
 #             enabled: false
 
 #sponsors list that is present on all pages left-hand side
+#images for sponsors are located in static/2020/sponsors/*
 sponsors:
   - level: PRE
     sponsors:
     - name: You?
       img: sponsor-capwic.png
       link: /conferences/2020/sponsorship/
+      class: light
+    - name: ACM
+      img: acm.jpg
+      link: https://www.acm.org/
       class: light
 
 #fields that appear at bottom of home page
