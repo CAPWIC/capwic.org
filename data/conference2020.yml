@@ -436,8 +436,7 @@ submission:
       retention, and progression of women in computing fields. We invite submissions
       in the area of computing research as well as on efforts to increase diversity
       in computing in the following formats:</p>
-    <p>Our call for participation flyer is <a href="/capwic-call-for-participation.pdf" download>available for download here<i class="ion-ios-cloud-download"></i></a>.</p>
-    <p>We also have <a href="/capwic-call-for-submissions.pdf" download>a submission flyer<i class="ion-ios-cloud-download"></i></a> that has the detailed information below.</p>
+    <p>Our <a href="/2020/flyers/capwic-2020-flyer-call-submissions.pdf" download>call for submissions flyer<i class="ion-ios-cloud-download"></i> is available for download here</a>.</p>
     <hr class="my-4">
     <p>Unfortunately, we are unable to sponsor visas for international travel for CAPWIC.
         <a class="float-right btn btn-primary btn-lg" rel="noopener noreferrer" target='_blank' href="https://easychair.org/conferences/?conf=acmcapwic2020" role="button">Submit now!</a>
@@ -468,7 +467,7 @@ submission:
 #Flier information that exists on main page
 flyers:
   - link: capwic-2020-flyer-call-submissions.pdf
-    text: Call for participation
+    text: Call for submissions
 #   - link: capwic-call-for-submissions.pdf
 #     text: Call for Submissions
 #   - link: capwic-highschool.pdf
