@@ -236,6 +236,15 @@ aboutItem:
       Join our distinguished cohort of sponsors and help make CAPWIC 2020 happen! More information coming soon... If you have any questions please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>.
     else: >
       CAPWIC is in its 11th year, and we are so thankful for all the support over the years. [Download our flyer](/capwic-sponsor-flyer.pdf), or see below for more information. If you have any questions or concerns please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>
+rates:
+  - description: Single Hotel Room
+    cost: $100.00
+  - description: Double Hotel Room*
+    cost: $75.00
+  - description: Triple Hotel Room*
+    cost: $50.00
+  - description: Conference Registration without lodging
+    cost: $25.00
 sponsorshipCosts:
   - name: diamond
     cost: $6000
