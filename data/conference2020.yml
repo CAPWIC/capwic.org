@@ -236,7 +236,178 @@ aboutItem:
       Join our distinguished cohort of sponsors and help make CAPWIC 2020 happen! More information coming soon... If you have any questions please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>.
     else: >
       CAPWIC is in its 11th year, and we are so thankful for all the support over the years. [Download our flyer](/capwic-sponsor-flyer.pdf), or see below for more information. If you have any questions or concerns please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>
-
+sponsorshipCosts:
+  - name: diamond
+    cost: $6000
+  - name: platinum
+    cost: $4000
+  - name: gold
+    cost: $2000
+  - name: silver
+    cost: $1000
+  - name: recruiter
+    cost: $500
+  - name: non-profit/academic
+    cost: $300
+sponsorship:
+  - type: General
+    perks: 
+      - name: Get a Table at the Career Fair
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: 2 FREE tickets to attend the celebration
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Send Engineers/Mentors
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Host a Technical Workshop
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Hold a keynote or a presentation
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: false
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+  - type: Recruiting and Branding
+    perks: 
+      - name: Swag in Attendee bag
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Blurb in Program & Website
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Company Logo on Attendee bag
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Receive Resume Book
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Company Logo on event t-shirt
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Award Branded Prize
+        levels:
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: false
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
 #This section modifies the list of organizers (chairs, local arrangements...etc) that runs down the right-hand side of the organizers page
 organizers:
   - Chairs:
@@ -474,8 +645,8 @@ flyers:
 #     text: Information for High School Students
 #   - link: capwic-student-flyer.pdf
 #     text: General Information for Students
-#   - link: capwic-sponsor-flyer.pdf
-#     text: Information for Sponsors
+  - link: 2020-capwic-sponsor.pdf
+    text: Information for Sponsors
 
 #Community standard that exists on main page
 policies:
