@@ -1,5 +1,11 @@
 enable  : true
 conferences :
+  - name: 2020
+    image : images/banner2020.jpg
+    url: /conferences/2020/
+    when: March 27-28, 2020
+    institution: Christopher Newport University
+    where: Newport News, VA
   - name: 2019
     image : images/banner2019.png
     url: /conferences/2019/
