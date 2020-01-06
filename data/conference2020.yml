@@ -571,22 +571,21 @@ organizer_photos:
     avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg?itok=VsPBmqqo
     affiliation: University of Virginia
   - name: Dr. Veena Ravishankar
+    last_name: Ravishankar
     link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
     avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2018/04/Ravishankar_Veena_149c-150x150.jpg
     affiliation: University of Mary Washington
   - name: Dr. Faryaneh Poursardar
+    last_name: Poursardar
     link: http://cnu.edu/people/faryanehpoursardar/
     avatar: http://cnu.edu/_assets/img/_people/6ad6650c4a6e021cc85dffa7a9379d38/headshot.jpg
     affiliation: Christopher Newport University
   - name: Georgia Danehy
+    last_name: Danehy
     affiliation: Governor's School for Science and Technology
   - name: Miya Washington
+    last_name: Washington
     affiliation: Christopher Newport University
-  - name: Dr. Robbie Hott
-    last_name: Hott
-    link: https://engineering.virginia.edu/faculty/john-r-hott
-    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg?itok=VsPBmqqo
-    affiliation: University of Virginia
 
 #This is the global navigation bar that run across the top of all pages
 nav:
