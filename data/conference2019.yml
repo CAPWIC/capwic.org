@@ -949,6 +949,10 @@ schedule:
           sessions:
             - location: ISAT/CS
               name: Lunch
+              details: > 
+                <div>
+                  Lunch
+                </div>
             - location: ISAT/CS
               name: Posters
               details: >
