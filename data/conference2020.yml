@@ -216,6 +216,15 @@ sponsors:
       link: https://www.acm.org/
       class: light
 
+
+#list of speakers that appears on front page
+speakers:
+  - name: Colleen Lewis
+    #link: https://www.nationalcybersecurityinstitute.org/about/program-manager/
+    img: Dr_Colleen_Lewis.jpeg
+    bio: |
+      <p>Colleen Lewis is the McGregor-Girand Associate Professor of computer science at Harvey Mudd College. At UC Berkeley, Lewis completed a PhD in science and mathematics education, an MS in computer science, and a BS in electrical engineering and computer science. Her research seeks to identify effective teaching practices for creating equitable learning spaces where all students have the opportunity to learn. Lewis curates CSTeachingTips.org, a NSF-sponsored project for disseminating effective computer science teaching practices. Lewis has received the NCWIT.org Undergraduate Mentoring Award and the AnitaB.org Emerging Leader Award for her efforts to broaden participation in computing. </p>
+
 #fields that appear at bottom of home page
 aboutItem:
   - title : Registration
