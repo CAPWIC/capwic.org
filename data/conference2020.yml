@@ -2,7 +2,12 @@ enable  : true
 title   : March 27-28, 2020 at Christopher Newport University 
 name    : CAPWIC 2020
 description: >
-  Register to attend, sponsor us, or volunteer to help review submissions to the technical program.
+  CAPWIC is the ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women in computing. The participants include female students, faculty, and professionals, as well as male supporters of women in computing. <br> <br>
+ 
+  The event provides a venue for future computing professionals to gain confidence in their skills, network with each other, and learn from accomplished technical women. The event includes distinguished speakers, panels on academia and industry, student and faculty presentations, a student research poster contest, and a career fair for students in computing fields. <br> <br>
+ 
+  CAPWIC 2020 will be held at Christopher Newport University in Newport News, Virginia on March 27-28.  All levels of experience are welcome. <br> <br>
+
 image   : images/banner2020.png
 
 #controlling text for "deadlines" on conference main/home page
