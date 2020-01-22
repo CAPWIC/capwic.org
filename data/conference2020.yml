@@ -22,190 +22,9 @@ deadlines:
   - date: >
       February 21, 2020 <i class="icon ion-ios-checkbox"></i>
     description: >
-      <a target="_top" rel="noopener noreferrer" href="https://cnu.irisregistration.com/Form/2020CAPWIC">Registration deadline <i class="icon ion-ios-open"></i></a>
+      <a rel="noopener noreferrer" target='_blank' href="#" data-toggle="modal" data-target="#registration-details-modal">Registration deadline <i class="icon ion-ios-open"></i></a>
   - date: March 27-28, 2020 <i class="icon ion-ios-checkbox"></i></s>
     description: ATTEND!
-# rates:
-#   - description: Single Hotel Room
-#     cost: $100.00
-#   - description: Double Hotel Room*
-#     cost: $75.00
-#   - description: Triple Hotel Room*
-#     cost: $50.00
-#   - description: Conference Registration without lodging
-#     cost: $25.00
-# sponsorshipCosts:
-#   - name: diamond
-#     cost: $6000
-#   - name: platinum
-#     cost: $4000
-#   - name: gold
-#     cost: $2000
-#   - name: silver
-#     cost: $1000
-#   - name: recruiter
-#     cost: $500
-#   - name: non-profit/academic
-#     cost: $300
-# sponsorship:
-#   - type: General
-#     perks: 
-#       - name: Get a Table at the Career Fair
-#         levels: 
-#           - name: diamond
-#             enabled: true
-#           - name: platinum
-#             enabled: true
-#           - name: gold
-#             enabled: true
-#           - name: silver
-#             enabled: true
-#           - name: recruiter
-#             enabled: true
-#           - name: non
-#             enabled: true
-#       - name: 2 FREE tickets to attend the celebration
-#         levels: 
-#           - name: diamond
-#             enabled: true
-#           - name: platinum
-#             enabled: true
-#           - name: gold
-#             enabled: true
-#           - name: silver
-#             enabled: true
-#           - name: recruiter
-#             enabled: true
-#           - name: non
-#             enabled: true
-#       - name: Send Engineers/Mentors
-#         levels: 
-#           - name: diamond
-#             enabled: true
-#           - name: platinum
-#             enabled: true
-#           - name: gold
-#             enabled: true
-#           - name: silver
-#             enabled: true
-#           - name: recruiter
-#             enabled: false
-#           - name: non
-#             enabled: false
-#       - name: Host a Technical Workshop
-#         levels: 
-#           - name: diamond
-#             enabled: true
-#           - name: platinum
-#             enabled: true
-#           - name: gold
-#             enabled: false
-#           - name: silver
-#             enabled: false
-#           - name: recruiter
-#             enabled: false
-#           - name: non
-#             enabled: false
-#       - name: Hold a keynote or a presentation
-#         levels: 
-#           - name: diamond
-#             enabled: true
-#           - name: platinum
-#             enabled: false
-#           - name: gold
-#             enabled: false
-#           - name: silver
-#             enabled: false
-#           - name: recruiter
-#             enabled: false
-#           - name: non
-#             enabled: false
-#   - type: Recruiting and Branding
-#     perks: 
-#       - name: Swag in Attendee bag
-#         levels: 
-#           - name: diamond
-#             enabled: true
-#           - name: platinum
-#             enabled: true
-#           - name: gold
-#             enabled: true
-#           - name: silver
-#             enabled: true
-#           - name: recruiter
-#             enabled: true
-#           - name: non
-#             enabled: true
-#       - name: Blurb in Program & Website
-#         levels: 
-#           - name: diamond
-#             enabled: true
-#           - name: platinum
-#             enabled: true
-#           - name: gold
-#             enabled: true
-#           - name: silver
-#             enabled: true
-#           - name: recruiter
-#             enabled: true
-#           - name: non
-#             enabled: true
-#       - name: Company Logo on Attendee bag
-#         levels: 
-#           - name: diamond
-#             enabled: true
-#           - name: platinum
-#             enabled: true
-#           - name: gold
-#             enabled: true
-#           - name: silver
-#             enabled: false
-#           - name: recruiter
-#             enabled: false
-#           - name: non
-#             enabled: false
-#       - name: Receive Resume Book
-#         levels: 
-#           - name: diamond
-#             enabled: true
-#           - name: platinum
-#             enabled: true
-#           - name: gold
-#             enabled: false
-#           - name: silver
-#             enabled: false
-#           - name: recruiter
-#             enabled: false
-#           - name: non
-#             enabled: false
-#       - name: Company Logo on event t-shirt
-#         levels: 
-#           - name: diamond
-#             enabled: true
-#           - name: platinum
-#             enabled: true
-#           - name: gold
-#             enabled: false
-#           - name: silver
-#             enabled: false
-#           - name: recruiter
-#             enabled: false
-#           - name: non
-#             enabled: false
-#       - name: Award Branded Prize
-#         levels:
-#           - name: diamond
-#             enabled: true
-#           - name: platinum
-#             enabled: false
-#           - name: gold
-#             enabled: false
-#           - name: silver
-#             enabled: false
-#           - name: recruiter
-#             enabled: false
-#           - name: non
-#             enabled: false
 
 #sponsors list that is present on all pages left-hand side
 #images for sponsors are located in static/2020/sponsors/*
@@ -220,9 +39,19 @@ sponsors:
       img: ncwit.png
       link: https://www.ncwit.org/
       class: dark
-    - name: You?
-      img: sponsor-capwic.png
-      link: /conferences/2020/sponsorship/
+  - level: Academic
+    sponsors:
+    - name: CNU Computer Science
+      img: cnu-stacked.jpg
+      link: http://cnu.edu/academics/departments/pcse/
+      class: light
+    - name: JMU CISE
+      img: College of Integrated Science and Engineering_vert_purple.png
+      link: https://www.jmu.edu/cise/
+      class: light
+    - name: Randolph-Macon College
+      img: rmclogo.png
+      link: https://www.rmc.edu/
       class: light
     
 
@@ -619,6 +448,14 @@ nav:
     url: /conferences/2020/sponsorship
   - name: Organizers
     url: /conferences/2020/organizers
+registration_info:
+  name: IRIS
+  url: https://cnu.irisregistration.com/Form/2020CAPWIC
+  warning:
+    header: Head's up! 👀
+    body:
+      <p>In order to register for CAPWIC, you must create an account on "IRIS" the events management web application for Christopher Newport University (where CAPWIC is hosted this year).</p>
+                    <p>Simply click <code>Sign Up</code> on the next page</p>
 
 #This governs the PARTICIPATION page as across the main menu bar
 submission:
