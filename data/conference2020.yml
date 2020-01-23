@@ -14,7 +14,7 @@ image   : images/banner2020.png
 deadlines:
   - date: January 24, 2020 <i class="icon ion-ios-checkbox"></i>
     description: >
-      <a href="mailto:techchair@capwic.org">Volunteer to Review Submissions!</a>
+      <a href="mailto:techchair@capwic.org">Volunteer to Review! <i class="icon ion-ios-mail"></i></a>
   - date: January 31, 2020 <i class="icon ion-ios-checkbox"></i>
     description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2020">Abstract Submission <i class="icon ion-ios-open"></i></a>
   - date: February 14, 2020 <i class="icon ion-ios-checkbox"></i>
