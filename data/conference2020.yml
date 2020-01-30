@@ -15,15 +15,15 @@ deadlines:
   - date: January 24, 2020 <i class="icon ion-ios-checkbox"></i>
     description: >
       <a href="mailto:techchair@capwic.org">Volunteer to Review! <i class="icon ion-ios-mail"></i></a>
-  - date: January 31, 2020 <i class="icon ion-ios-checkbox"></i>
+  - date: February 7, 2020<i class="icon ion-ios-square-outline"></i><br><del>January 31, 2020</del>
     description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2020">Abstract Submission <i class="icon ion-ios-open"></i></a>
-  - date: February 14, 2020 <i class="icon ion-ios-checkbox"></i>
+  - date: February 14, 2020 <i class="icon ion-ios-square-outline"></i>
     description: Notification of Acceptances
   - date: >
-      February 21, 2020 <i class="icon ion-ios-checkbox"></i>
+      February 21, 2020 <i class="icon ion-ios-square-outline"></i>
     description: >
       <a rel="noopener noreferrer" target='_blank' href="#" data-toggle="modal" data-target="#registration-details-modal">Registration deadline <i class="icon ion-ios-open"></i></a>
-  - date: March 27-28, 2020 <i class="icon ion-ios-checkbox"></i></s>
+  - date: March 27-28, 2020 <i class="icon ion-ios-square-outline"></i></s>
     description: ATTEND!
 
 #sponsors list that is present on all pages left-hand side
