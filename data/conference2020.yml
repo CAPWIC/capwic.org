@@ -39,6 +39,12 @@ sponsors:
       img: ncwit.png
       link: https://www.ncwit.org/
       class: dark
+  - level: Gold
+    sponsors:
+    - name: UPenn Computer Science
+      img: upenn-engr.gif
+      link: http://www.cis.upenn.edu/index.php
+      class: dark
   - level: Academic
     sponsors:
     - name: CNU Computer Science
