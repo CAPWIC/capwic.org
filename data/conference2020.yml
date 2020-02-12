@@ -15,10 +15,14 @@ deadlines:
   - date: January 24, 2020 <i class="icon ion-ios-checkbox"></i>
     description: >
       <a href="mailto:techchair@capwic.org">Volunteer to Review! <i class="icon ion-ios-mail"></i></a>
-  - date: February 7, 2020<i class="icon ion-ios-square-outline"></i><br><del>January 31, 2020</del>
+  - date: February 7, 2020<i class="icon ion-ios-checkbox"></i>
     description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2020">Abstract Submission <i class="icon ion-ios-open"></i></a>
   - date: February 14, 2020 <i class="icon ion-ios-square-outline"></i>
     description: Notification of Acceptances
+  - date: >
+      February 17, 2020 <i class="icon ion-ios-square-outline"></i>
+    description: >
+      <a rel="noopener noreferrer" target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSfjrZR8nLLqoiT1Ii6a9xxem6TFUwrD_MG7SFrwUkAFT9rD8Q/viewform?usp=sf_link">Scholarship Application <i class="icon ion-ios-open"></i></a>
   - date: >
       February 21, 2020 <i class="icon ion-ios-square-outline"></i>
     description: >
@@ -77,11 +81,11 @@ aboutItem:
     description: > 
       Student registration rates are made possible by our sponsors. More information coming soon...
     else: >
-      All levels include a conference registration. <a href="/capwic-student-flyer.pdf" download>Download our flyer</a> to share with other students or <a href="https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP" targe="_blank" rel="noreferrer noopener">register now</a>.
+      All levels include a conference registration. <a href="/capwic-student-flyer.pdf" download>Download our flyer</a> to share with other students or <a href="https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP" target="_blank" rel="noreferrer noopener">register now</a>.
 
   - title : Scholarships
-    description: > 
-      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. We are happy to report that we have typically had a very high rate of funding of scholarship applicants.
+    description: | 
+      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjrZR8nLLqoiT1Ii6a9xxem6TFUwrD_MG7SFrwUkAFT9rD8Q/viewform?usp=sf_link" class="btn btn-large btn-warning" target="_blank" rel="noreferrer noopener">Apply now!</a>
 
 #this field however ends up as its own Sponsorship page
   - title : Sponsorship
