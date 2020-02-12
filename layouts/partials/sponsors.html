@@ -2,9 +2,9 @@
     {{ $yr := .Params.year }}
     {{$data := print "conference" $yr}}
     {{with index .Site.Data $data }}
+    <h2>Sponsors</h2>
         {{ range $i := .sponsors}}
             {{ if gt (len $i.sponsors) 0 }}
-                    <h2>Sponsors</h2>
                 {{ if and (ne $i.level "PRE") (ne $i.level "POST") }}
                     <h3>{{$i.level}}</h3>
                 {{ else if eq $i.level "POST" }}
