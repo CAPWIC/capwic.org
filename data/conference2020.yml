@@ -20,11 +20,14 @@ deadlines:
   - date: February 14, 2020 <i class="icon ion-ios-square-outline"></i>
     description: Notification of Acceptances
   - date: >
-      February 17, 2020 <i class="icon ion-ios-square-outline"></i>
+      February 19, 2020 <i class="icon ion-ios-square-outline"></i>
     description: >
       <a rel="noopener noreferrer" target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSfjrZR8nLLqoiT1Ii6a9xxem6TFUwrD_MG7SFrwUkAFT9rD8Q/viewform?usp=sf_link">Scholarship Application <i class="icon ion-ios-open"></i></a>
   - date: >
-      February 21, 2020 <i class="icon ion-ios-square-outline"></i>
+      February 26, 2020 <i class="icon ion-ios-square-outline"></i>
+    description: Notification of Scholarship Acceptances
+  - date: >
+      March 4, 2020 <i class="icon ion-ios-square-outline"></i>
     description: >
       <a rel="noopener noreferrer" target='_blank' href="#" data-toggle="modal" data-target="#registration-details-modal">Registration deadline <i class="icon ion-ios-open"></i></a>
   - date: March 27-28, 2020 <i class="icon ion-ios-square-outline"></i></s>
