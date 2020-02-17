@@ -66,6 +66,12 @@ sponsors:
       img: rmclogo.png
       link: https://www.rmc.edu/
       class: light
+  - level: POST
+    sponsors:
+    - name: GitHub
+      img: github.jpg
+      link: https://github.com
+      class: light
     
 
 
