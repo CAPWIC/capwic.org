@@ -17,12 +17,12 @@ deadlines:
       <a href="mailto:techchair@capwic.org">Volunteer to Review! <i class="icon ion-ios-mail"></i></a>
   - date: February 7, 2020<i class="icon ion-ios-checkbox"></i>
     description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2020">Abstract Submission <i class="icon ion-ios-open"></i></a>
-  - date: February 14, 2020 <i class="icon ion-ios-square-outline"></i>
+  - date: February 14, 2020 <i class="icon ion-ios-checkbox"></i>
     description: Notification of Acceptances
   - date: >
-      February 19, 2020 <i class="icon ion-ios-square-outline"></i>
+      February 19, 2020 <i class="icon ion-ios-checkbox"></i>
     description: >
-      <a rel="noopener noreferrer" target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSfjrZR8nLLqoiT1Ii6a9xxem6TFUwrD_MG7SFrwUkAFT9rD8Q/viewform?usp=sf_link">Scholarship Application <i class="icon ion-ios-open"></i></a>
+      Scholarship Application
   - date: >
       February 26, 2020 <i class="icon ion-ios-square-outline"></i>
     description: Notification of Scholarship Acceptances
@@ -115,7 +115,7 @@ aboutItem:
 
   - title : Scholarships
     description: | 
-      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjrZR8nLLqoiT1Ii6a9xxem6TFUwrD_MG7SFrwUkAFT9rD8Q/viewform?usp=sf_link" class="btn btn-large btn-warning" target="_blank" rel="noreferrer noopener">Apply now!</a>
+      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school.
 
 #this field however ends up as its own Sponsorship page
   - title : Sponsorship
