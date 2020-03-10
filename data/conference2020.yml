@@ -30,8 +30,8 @@ deadlines:
       March 4, 2020 <i class="icon ion-ios-square-outline"></i>
     description: >
       <a rel="noopener noreferrer" target='_blank' href="#" data-toggle="modal" data-target="#registration-details-modal">Registration deadline <i class="icon ion-ios-open"></i></a>
-  - date: March 27-28, 2020 <i class="icon ion-ios-square-outline"></i></s>
-    description: ATTEND!
+  - date: <del>March 27-28, 2020 <i class="icon ion-ios-square-outline"></i></del>
+    description: <del>ATTEND!</del><br>CANCELLED 😢 due to COVID-19
 
 #sponsors list that is present on all pages left-hand side
 #images for sponsors are located in static/2020/sponsors/*
