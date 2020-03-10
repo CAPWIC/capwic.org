@@ -488,6 +488,11 @@ organizer_photos:
     affiliation: Christopher Newport University
 
 #This is the global navigation bar that run across the top of all pages
+major_announcement:
+  header: CAPWIC 2020 Cancelled 😢 - Plan for CAPWIC 2021 at University of Mary Washington
+  body: | 
+    <p>Dear CAPWIC Community,</p><p>Today the conference leadership decided to cancel CAPWIC 2020 at Christopher Newport University. We are disappointed we won’t see all of you in person or have our exciting panels, keynotes and fun evening events but we are also convinced this is the responsible decision in light of recent events surrounding Coronavirus (COVID-19).</p><p>The most important consideration in our decision is the safety and well-being of our community. The COVID-19 virus is spreading within the United States, cases now exist in Virginia, indications are they will only grow, and if they do so the conference is likely to be cancelled later. By cancelling now, we can refund your registration costs and we hope that you will be able to cancel your travel plans and get refunds.</p><p>We encourage sponsors to leave their sponsorship funds for next year's conference, but they can also receive refunds if preferred. We'll be in touch separately to ask your preference and discuss the details.</p><p>We will not be able this year to provide a complete online version of the conference, but organizers are looking into what we can provide to support you locally in mentoring one another and encouraging the participation of women in computing. You will be receiving more detailed information from us about that in the days and weeks to come.</p><p>In the meantime planning for CAPWIC 2021 at the University of Mary Washington is already underway. Organizers will also be considering how to plan for a variety of online and in-person participation at that celebration. We hope that you can join us then!</p><p>Thank you for your support and participation in CAPWIC 2020. The conference has really grown with over 300 registrations this year. Seeing all the submissions and interacting with so many of you has been wonderful. Keep up the good work everyone!</p><p>With deep appreciation,<br>Lynn Lambert and Dee A. B. Weikle<br>CAPWIC 2020 Co-Chairs</p>
+
 nav:
   - name: CAPWIC 2020
     url: /conferences/2020
