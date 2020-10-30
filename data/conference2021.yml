@@ -1,0 +1,42 @@
+enable  : true
+title   : March 26-27, 2021 ALL VIRTUAL (Hosted by University Mary Washington)
+name    : CAPWIC 2021
+description: >
+  CAPWIC is the ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women in computing. The participants include female students, faculty, and professionals, as well as male supporters of women in computing. <br> <br>
+ 
+  The event provides a venue for future computing professionals to gain confidence in their skills, network with each other, and learn from accomplished technical women. The event includes distinguished speakers, panels on academia and industry, student and faculty presentations, a student research poster contest, and a career fair for students in computing fields. <br> <br>
+ 
+  CAPWIC 2021 will be held entirely online, hosted by University Mary Washington on March 26-27.  All levels of experience are welcome. <br> <br>
+
+image   : images/banner2021.png
+
+#controlling text for "deadlines" on conference main/home page
+
+nav:
+  - name: CAPWIC 2021
+    url: /conferences/2021
+  # - name: Registration
+  #   class: external-link
+  #   url: https://cnu.irisregistration.com/Form/2020CAPWIC
+  # - name: Participation
+  #   url: /conferences/2021/participation
+  # - name: Schedule
+  #   url: /conferences/2021/schedule
+  # - name: Sponsorship
+  #   url: /conferences/2021/sponsorship
+  # - name: Organizers
+  #   url: /conferences/2021/organizers
+# registration_info:
+#   name: IRIS
+#   url: https://cnu.irisregistration.com/Form/2020CAPWIC
+#   warning:
+#     header: Head's up! 👀
+#     body:
+#       <p>In order to register for CAPWIC, you must create an account on "IRIS" the events management web application for Christopher Newport University (where CAPWIC is hosted this year).</p>
+#                     <p>Simply click <code>Sign Up</code> on the next page</p>
+
+#Community standard that exists on main page
+policies:
+  - name: Code of Conduct
+    body: |
+      CAPWIC's top priority is that participants feel welcome, comfortable, respected, and safe while attending. As an official ACM-W celebration, we adhere to <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener noreferrer">the ACM Code of Conduct <i class="icon ion-ios-open"></i></a>.

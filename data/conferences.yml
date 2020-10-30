@@ -1,5 +1,11 @@
 enable  : true
 conferences :
+  - name: 2021
+    image : images/banner2021.jpg
+    url: /conferences/2021/
+    when: March 26-27, 2021
+    institution: University Mary Washington
+    where: All Virtual
   - name: 2020
     image : images/banner2020.jpg
     url: /conferences/2020/

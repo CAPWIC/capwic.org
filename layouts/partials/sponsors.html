@@ -1,26 +1,28 @@
+{{ $yr := .Params.year }}
+{{$data := print "conference" $yr}}
+{{with index .Site.Data $data }}
+    {{ with .sponsors }}
 <div class="col-md-2 order-md-first order-lg-first order-xl-first order-last wow fadeInLeft" data-wow-delay=".3s">
-    {{ $yr := .Params.year }}
-    {{$data := print "conference" $yr}}
-    {{with index .Site.Data $data }}
     <h2>Sponsors</h2>
-        {{ range $i := .sponsors}}
-            {{ if gt (len $i.sponsors) 0 }}
-                {{ if and (ne $i.level "PRE") (ne $i.level "POST") }}
-                    <h3>{{$i.level}}</h3>
-                {{ else if eq $i.level "POST" }}
-                    <hr>
-                {{ end }}
+    {{ range $i := .}}
+        {{ if gt (len $i.sponsors) 0 }}
+            {{ if and (ne $i.level "PRE") (ne $i.level "POST") }}
+                <h3>{{$i.level}}</h3>
+            {{ else if eq $i.level "POST" }}
+                <hr>
             {{ end }}
-            {{ range $sponsor := $i.sponsors}}
-                <div class="card sponsor">
-                    <img class="card-img-top {{$sponsor.class}}" src="/{{$yr}}/sponsors/{{$sponsor.img}}" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title text-center">
-                            <a href="{{$sponsor.link}}" rel="noopener noreferrer" target="_blank">{{$sponsor.name}}</a>
-                        </h5>
-                    </div>
+        {{ end }}
+        {{ range $sponsor := $i.sponsors}}
+            <div class="card sponsor">
+                <img class="card-img-top {{$sponsor.class}}" src="/{{$yr}}/sponsors/{{$sponsor.img}}" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title text-center">
+                        <a href="{{$sponsor.link}}" rel="noopener noreferrer" target="_blank">{{$sponsor.name}}</a>
+                    </h5>
                 </div>
-            {{ end }}
+            </div>
         {{ end }}
     {{ end }}
 </div>
+    {{ end }}
+{{ end }}

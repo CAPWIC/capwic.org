@@ -45,13 +45,13 @@ theme = "timer-hugo"
     logo = "images/capwic-logo-2-bw-40.jpeg"
     logo_alt = "logo"
     #logo_text = "logo_text"
-    current_conf_year = "2020"
+    current_conf_year = "2021"
 
     # Banner Section
     [params.banner]
         enable  = true
         bgImage = "images/conferences/IMG_1523-zoomed.jpeg"
-        heading = "🗓 SAVE THE DATE FOR CAPWIC 2020!<br>March 27-28, 2020 <br> Christopher Newport University <br> Newport News, VA"
+        heading = "SAVE THE DATE FOR CAPWIC 2021!<br>March 26-27, 2021 <br> VIRTUAL (Hosted by University of Mary Washington)"
         description = "The <u>Cap</u>ital Region Celebration of <u>W</u>omen <u>i</u>n <u>C</u>omputing Conference."
     #    [[params.banner.btn]]
     #        btnText = "Learn More"
