@@ -51,7 +51,7 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/conferences/IMG_1523-zoomed.jpeg"
-        heading = "SAVE THE DATE FOR CAPWIC 2021!<br>March 26-27, 2021 <br> VIRTUAL (Hosted by University of Mary Washington)"
+        heading = "SAVE THE DATE FOR CAPWIC 2021!<br>March 26-27, 2021 <br> VIRTUAL"
         description = "The <u>Cap</u>ital Region Celebration of <u>W</u>omen <u>i</u>n <u>C</u>omputing Conference."
     #    [[params.banner.btn]]
     #        btnText = "Learn More"

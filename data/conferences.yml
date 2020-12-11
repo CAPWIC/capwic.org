@@ -1,10 +1,9 @@
 enable  : true
 conferences :
   - name: 2021
-    image : images/banner2021.jpg
+    image : images/capwic 2021 list tile.jpg
     url: /conferences/2021/
     when: March 26-27, 2021
-    institution: University Mary Washington
     where: All Virtual
   - name: 2020
     image : images/banner2020.jpg
