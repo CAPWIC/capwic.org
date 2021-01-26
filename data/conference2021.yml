@@ -22,8 +22,8 @@ nav:
   #   url: /conferences/2021/participation
   # - name: Schedule
   #   url: /conferences/2021/schedule
-  # - name: Sponsorship
-  #   url: /conferences/2021/sponsorship
+  - name: Sponsorship
+    url: /conferences/2021/sponsorship
   - name: Organizers
     url: /conferences/2021/organizers
 # registration_info:
@@ -161,3 +161,106 @@ organizer_photos:
     avatar: https://cas.umw.edu/computerscience/files/2017/08/jzeitz.jpg
     affiliation: University of Mary Washington
 
+aboutItem:
+  - title : Registration
+    type: registration
+    description: > 
+      Student registration rates are made possible by our sponsors. More information coming soon...
+    else: >
+      All levels include a conference registration. <a href="/capwic-student-flyer.pdf" download>Download our flyer</a> to share with other students or <a href="https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP" target="_blank" rel="noreferrer noopener">register now</a>.
+
+  - title : Scholarships
+    description: | 
+      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school.
+
+#this field however ends up as its own Sponsorship page
+  - title : Sponsorship
+    type: sponsorship
+    description: > 
+      CAPWIC is in its 12th year, and we are so thankful for all the support over the years. See below for more information. If you have any questions or concerns please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>
+
+sponsorshipCosts:
+  - name: gold
+    cost: $1000
+  - name: silver
+    cost: $500
+  - name: non-profit/academic
+    cost: $100
+
+sponsorship:
+  - type: General
+    perks: 
+      - name: Participate in Virtual Career Fair 
+        levels: 
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: non
+            enabled: true
+      - name: 2 FREE tickets to attend the virtual celebration
+        levels: 
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Host a Technical Workshop
+        levels: 
+          - name: gold
+            enabled: true 
+          - name: silver
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Hold a keynote or a presentation
+        levels: 
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: false
+          - name: non
+            enabled: false
+  - type: Recruiting and Branding
+    perks: 
+      - name: Swag in attendee mailer
+        levels: 
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Blurb in Program & Website
+        levels: 
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Receive Resume Book
+        levels: 
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: non
+            enabled: false
+      - name: Early access to Resume Book 
+        levels: 
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Award branded prize
+        levels:
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: false
+          - name: non
+            enabled: false
