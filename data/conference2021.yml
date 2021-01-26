@@ -24,8 +24,8 @@ nav:
   #   url: /conferences/2021/schedule
   # - name: Sponsorship
   #   url: /conferences/2021/sponsorship
-  # - name: Organizers
-  #   url: /conferences/2021/organizers
+  - name: Organizers
+    url: /conferences/2021/organizers
 # registration_info:
 #   name: IRIS
 #   url: https://cnu.irisregistration.com/Form/2020CAPWIC
@@ -40,3 +40,119 @@ policies:
   - name: Code of Conduct
     body: |
       CAPWIC's top priority is that participants feel welcome, comfortable, respected, and safe while attending. As an official ACM-W celebration, we adhere to <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener noreferrer">the ACM Code of Conduct <i class="icon ion-ios-open"></i></a>.
+
+#This section modifies the list of organizers (chairs, local arrangements...etc) that runs down the right-hand side of the organizers page
+organizers:
+  - Chairs:
+    - name: Dr. Robin Givens
+      last_name: Givens
+      link: https://www.rmc.edu/departments/computer-science/faculty
+      affiliation: Randolph-Macon College
+      email: info@capwic.org
+    - name: Dr. Jessica Zeitz
+      link: https://www.umw.edu/directory/employee/jessica-self-jzeitz/
+      email: info@capwic.org
+      affiliation: University of Mary Washington
+  - Sponsorship, Job Fair, and Finance:
+    - name: Dr. Lynn Lambert
+      link: http://cnu.edu/people/llambert/
+      affiliation: Christopher Newport University
+    - name: Dr. Swapneel Sheth
+      link: https://www.cis.upenn.edu/~swapneel/
+      affiliation: University of Pennsylvania
+  - Scholarships:
+    - name: Dr. Donna Schaeffer
+      link: https://www.marymount.edu/Home/Contact-Us/Directory/?profileid=190
+      affiliation: Marymount University
+  - Platform Arrangements:
+    - name: Dr. Robbie Hott
+      link: https://engineering.virginia.edu/faculty/john-r-hott
+      affiliation: University of Virginia
+  - Web and Registration:
+    - name: Dr. Michael Stewart
+      link: https://www.jmu.edu/cs/people/faculty-staff/stewart-michael.shtml
+      affiliation: James Madison University
+    - name: Dr. Robbie Hott
+      link: https://engineering.virginia.edu/faculty/john-r-hott
+      affiliation: University of Virginia
+    - name: Dr. Jason Forsyth
+      link: https://www.jasonforsyth.net
+      affiliation: James Madison University
+  - Technical Program:
+    - name: Dr. Veena Ravishankar
+      link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
+      affiliation: University of Mary Washington
+  - Program Committee:
+    - name: Dr. Jason Forsyth
+      link: https://www.jasonforsyth.net
+      affiliation: James Madison University
+    - name: Dr. Dee Weikle
+      link: https://w3.cs.jmu.edu/weikleda/
+      affiliation: James Madison University
+    - name: Dr. Veena Ravishankar
+      link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
+      affiliation: University of Mary Washington
+    - name: Dr. Nada Basit 
+      last_name: Basit
+      link: https://engineering.virginia.edu/faculty/nada-basit
+      avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public//NadaBasit_headshot.jpg?itok=NfTyLG4y
+      affiliation: University of Virginia
+    - name: Joseph Shelton 
+
+#This section populates the organizers page with images and contact information. This data is NOT replicated from above.
+organizer_photos:
+  - name: Dr. Michael Stewart
+    last_name: Stewart
+    link: https://www.jmu.edu/cs/people/faculty-staff/stewart-michael.shtml
+    avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg 
+    affiliation: James Madison University
+  - name: Dr. Swapneel Sheth
+    last_name: Sheth
+    link: https://www.cis.upenn.edu/~swapneel/
+    avatar: https://www.cis.upenn.edu/~swapneel/images/me.JPG
+    affiliation: University of Pennsylvania
+  - name: Dr. Robin Givens
+    last_name: Givens
+    avatar: /2019/organizers/robin.jpg
+    link: https://www.rmc.edu/departments/computer-science/faculty
+    affiliation: Randolph-Macon College
+  - name: Dr. Dee Weikle
+    last_name: Weikle
+    link: https://w3.cs.jmu.edu/weikleda/
+    avatar: https://www.jmu.edu/cs/_images/faculty-staff-images/weikle
+    affiliation: James Madison University
+  - name: Dr. Donna Schaeffer
+    last_name: Schaeffer
+    link: https://www.marymount.edu/Home/Contact-Us/Directory/?profileid=190
+    avatar: https://www.marymount.edu/marymount.edu/media/Faculty-Staff/140924donna-schaffer_business0001.jpg?width=231&height=193&ext=.jpg
+    affiliation: Marymount University
+  - name: Dr. Jason Forsyth
+    last_name: Forsyth
+    link: https://www.jasonforsyth.net
+    avatar: https://scholar.google.com/citations?view_op=medium_photo&user=EY6SBHcAAAAJ&citpid=3
+    affiliation: James Madison University
+  - name: Dr. Lynn Lambert
+    last_name: Lambert
+    link: http://www.pcs.cnu.edu/~lambert/
+    avatar: /2019/organizers/lynn lambert.jpeg
+    affiliation: Christopher Newport University
+  - name: Dr. Robbie Hott
+    last_name: Hott
+    link: https://engineering.virginia.edu/faculty/john-r-hott
+    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg?itok=VsPBmqqo
+    affiliation: University of Virginia
+  - name: Dr. Veena Ravishankar
+    last_name: Ravishankar
+    link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
+    avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2018/04/Ravishankar_Veena_149c-150x150.jpg
+    affiliation: University of Mary Washington
+  - name: Dr. Nada Basit 
+    last_name: Basit
+    link: https://engineering.virginia.edu/faculty/nada-basit
+    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public//NadaBasit_headshot.jpg?itok=NfTyLG4y
+    affiliation: University of Virginia
+  - name: Dr. Joseph Shelton 
+    last_name: Shelton
+    link: https://www.vsu.edu/cet/departments/engineering/faculty-staff/shelton-joseph.php 
+    affiliation: Virginia State University 
+
