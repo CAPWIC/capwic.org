@@ -155,4 +155,9 @@ organizer_photos:
     last_name: Shelton
     link: https://www.vsu.edu/cet/departments/engineering/faculty-staff/shelton-joseph.php 
     affiliation: Virginia State University 
+  - name: Dr. Jessica Zeitz
+    last_name: Zeitz 
+    link: https://www.umw.edu/directory/employee/jessica-self-jzeitz/
+    avatar: https://cas.umw.edu/computerscience/files/2017/08/jzeitz.jpg
+    affiliation: University of Mary Washington
 
