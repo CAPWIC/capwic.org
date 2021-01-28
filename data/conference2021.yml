@@ -11,6 +11,34 @@ description: >
 image   : images/banner2021.png
 
 #controlling text for "deadlines" on conference main/home page
+deadlines:
+  #- date: January 24, 2020 <i class="icon ion-ios-checkbox"></i>
+  #  description: >
+  #    <a href="mailto:techchair@capwic.org">Volunteer to Review! <i class="icon ion-ios-mail"></i></a>
+
+  - date: February 23, 2021
+    description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2021">Abstract Submission <i class="icon ion-ios-open"></i></a>
+
+  - date: March 9, 2021 
+    description: Notification of Acceptances
+
+  - date: >
+      March 16, 2021 
+    description: >
+      Scholarship Application Deadline
+
+  - date: >
+      March 29, 2021 
+    description: Notification of Scholarship Acceptances
+
+  - date: >
+      March 23, 2021 
+    description: Registration deadline
+
+  - date: >
+      March 26-27, 2021
+    description: Attend Virtually!!
+
 
 nav:
   - name: CAPWIC 2021
