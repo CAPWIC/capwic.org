@@ -16,6 +16,9 @@ deadlines:
   #  description: >
   #    <a href="mailto:techchair@capwic.org">Volunteer to Review! <i class="icon ion-ios-mail"></i></a>
 
+  - date: January 28, 2021
+    description: <a href="/2021/flyers/capwic-2021-submission-call.pdf"> Call for Submissions </a>
+
   - date: February 23, 2021
     description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2021">Abstract Submission <i class="icon ion-ios-open"></i></a>
 
@@ -46,8 +49,8 @@ nav:
   # - name: Registration
   #   class: external-link
   #   url: https://cnu.irisregistration.com/Form/2020CAPWIC
-  # - name: Participation
-  #   url: /conferences/2021/participation
+  - name: Participation
+    url: /conferences/2021/participation
   # - name: Schedule
   #   url: /conferences/2021/schedule
   - name: Sponsorship
@@ -62,6 +65,45 @@ nav:
 #     body:
 #       <p>In order to register for CAPWIC, you must create an account on "IRIS" the events management web application for Christopher Newport University (where CAPWIC is hosted this year).</p>
 #                     <p>Simply click <code>Sign Up</code> on the next page</p>
+#This governs the PARTICIPATION page as across the main menu bar
+submission:
+  lead: |
+    <p class="lead">There are seven tracks to which you can submit your work.
+      Please submit by the <span style="font-weight: bold;">February 3</span><strong>, 2021 submission deadline</strong> for full consideration. <br><br>
+
+      CAPWIC 2021, the ACM Capital Region Celebration of Women in Computing, will be held virtually. The goal of CAPWIC
+      is to bring together female students and allies to promote the recruitment,
+      retention, and progression of women in computing fields. We invite submissions
+      in the area of computing research as well as on efforts to increase diversity
+      in computing in the following formats:</p>
+    <p>Our <a href="/2021/flyers/capwic-2021-submission-call.pdf" download>call for submissions flyer<i class="ion-ios-cloud-download"></i> is available for download here</a>.</p>
+    <hr class="my-4">
+    <p>Unfortunately, we are unable to sponsor visas for international travel for CAPWIC.
+        <a class="float-right btn btn-primary btn-lg" rel="noopener noreferrer" target='_blank' href="https://easychair.org/conferences/?conf=acmcapwic2021" role="button">Submit now!</a>
+    </p>
+  tracks:
+    - name: Flash Talks
+      description: >
+        Five-minute presentations with five minutes for questions. Fast-paced talks on preliminary results, work-in progress, or anything fun and creative related to the conference are welcome in this category. All levels of experience are welcome.
+    - name: Student Posters
+      description: >
+        Before the conference, presenters create a 24” x 32” poster of research, a class project, or other type of work-in-progress including efforts to diversify computing and are present at the poster during the session to discuss content. Open to all students. Prizes will be awarded. 
+    - name: Student Research Shorts
+      description: >
+        Research shorts are an opportunity to give a 15-minute presentation with an additional 5 minutes for questions, similar to a talk at a research conference. Work should be technical in nature, investigating new ideas in any area of computer science. The intention is to give presenters a friendly environment in which to practice a future technical talk or work out details in an ongoing project to get constructive feedback. Only an abstract is required, so future publication of the work is not limited. 
+    - name: Technical Workshops
+      description: >
+        Workshops present a valuable and current technical skill in a hands-on training session. Proposals must include abstract, the intended audience and power/AV equipment/space needs.
+    - name: Panels
+      description: >
+        Panels present multiple perspectives on a topic. Proposals should include abstract, a list of presenters including their affiliation and perspective, along with a proposed length of 25 or 50 minutes.
+    - name: Birds-of-a-Feather
+      description: >
+        Birds-of-a-feather (BOF) sessions are opportunities for a group of participants with similar concerns to have an informal discussion. BOF sessions will be 30 minutes.
+    - name: Technical Talks
+      description: >
+        25 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
+
 
 #Community standard that exists on main page
 policies:
@@ -147,7 +189,7 @@ organizer_photos:
   - name: Dr. Dee Weikle
     last_name: Weikle
     link: https://w3.cs.jmu.edu/weikleda/
-    avatar: https://www.jmu.edu/cs/_images/faculty-staff-images/weikle
+    avatar: https://www.jmu.edu/cs/_images/faculty-staff-images/weikle.jpg
     affiliation: James Madison University
   - name: Dr. Donna Schaeffer
     last_name: Schaeffer
