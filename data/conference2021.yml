@@ -69,7 +69,7 @@ nav:
 submission:
   lead: |
     <p class="lead">There are seven tracks to which you can submit your work.
-      Please submit by the <span style="font-weight: bold;">February 3</span><strong>, 2021 submission deadline</strong> for full consideration. <br><br>
+      Please submit by the <span style="font-weight: bold;">February 23</span><strong>, 2021 submission deadline</strong> for full consideration. <br><br>
 
       CAPWIC 2021, the ACM Capital Region Celebration of Women in Computing, will be held virtually. The goal of CAPWIC
       is to bring together female students and allies to promote the recruitment,
@@ -104,6 +104,18 @@ submission:
       description: >
         25 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
 
+#Flier information that exists on main page
+flyers:
+  - link: capwic-2020-flyer-call-submissions.pdf
+    text: Call for submissions
+#   - link: capwic-call-for-submissions.pdf
+#     text: Call for Submissions
+#   - link: capwic-highschool.pdf
+#     text: Information for High School Students
+#   - link: capwic-student-flyer.pdf
+#     text: General Information for Students
+  - link: 2020-capwic-sponsor.pdf
+    text: Information for Sponsors
 
 #Community standard that exists on main page
 policies:
