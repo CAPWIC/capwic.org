@@ -179,7 +179,11 @@ organizers:
       link: https://engineering.virginia.edu/faculty/nada-basit
       avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public//NadaBasit_headshot.jpg?itok=NfTyLG4y
       affiliation: University of Virginia
-    - name: Joseph Shelton 
+    - name: Dr. Joseph Shelton
+      last_name: Shelton
+      link: https://www.vsu.edu/cet/departments/engineering/faculty-staff/shelton-joseph.php
+      avatar: /images/team/shelton-headshot.png
+      affiliation: Virginia State University
 
 #This section populates the organizers page with images and contact information. This data is NOT replicated from above.
 organizer_photos:
@@ -236,6 +240,7 @@ organizer_photos:
   - name: Dr. Joseph Shelton 
     last_name: Shelton
     link: https://www.vsu.edu/cet/departments/engineering/faculty-staff/shelton-joseph.php 
+    avatar: /images/team/shelton-headshot.png
     affiliation: Virginia State University 
   - name: Dr. Jessica Zeitz
     last_name: Zeitz 
