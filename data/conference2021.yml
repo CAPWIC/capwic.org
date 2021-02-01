@@ -106,15 +106,15 @@ submission:
 
 #Flier information that exists on main page
 flyers:
-  - link: capwic-2020-flyer-call-submissions.pdf
+  - link: capwic-2021-submission-call.pdf
     text: Call for submissions
-#   - link: capwic-call-for-submissions.pdf
+#   - link: capwic-2021-submission-call.pdf
 #     text: Call for Submissions
-#   - link: capwic-highschool.pdf
-#     text: Information for High School Students
-#   - link: capwic-student-flyer.pdf
+#  - link: capwic-2021-highschool-flyer.pdf
+#    text: Information for High School Students
+#   - link: capwic-2021-main-flyer.pdf
 #     text: General Information for Students
-  - link: 2020-capwic-sponsor.pdf
+  - link: capwic-2021-sponsor-flyer.pdf
     text: Information for Sponsors
 
 #Community standard that exists on main page
