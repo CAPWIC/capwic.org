@@ -351,3 +351,37 @@ sponsorship:
             enabled: false
           - name: non
             enabled: false
+
+#sponsors list that is present on all pages left-hand side
+#images for sponsors are located in static/2021/sponsors/*
+sponsors:
+  - level: PRE
+    sponsors:
+    - name: ACM
+      img: acm.jpg
+      link: https://www.acm.org/
+      class: light
+  - level: Gold
+    sponsors:
+    - name: UPenn Computer Science
+      img: upenn-engr.gif
+      link: http://www.cis.upenn.edu/index.php
+      class: dark
+      #- level: Silver 
+      #sponsors:
+  - level: Academic
+    sponsors:
+    - name: CNU Computer Science
+      img: cnu-stacked.jpg
+      link: http://cnu.edu/academics/departments/pcse/
+      class: light
+    - name: Marymount University
+      img: marymount.png
+      link: https://www.marymount.edu/Academics/School-of-Business-and-Technology/Undergraduate-Programs/Information-Technology-(B-S-)/Program-Requirements/Information-Technology-(B-S-)
+      class: light
+    - name: UVA Computer Science
+      img: uva_cs.jpg
+      link: https://engineering.virginia.edu/departments/computer-science
+      class: light
+      #- level: POST
+      # sponsors:
