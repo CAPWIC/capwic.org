@@ -383,5 +383,14 @@ sponsors:
       img: uva_cs.jpg
       link: https://engineering.virginia.edu/departments/computer-science
       class: light
-      #- level: POST
-      # sponsors:
+    - name: Virginia State University 
+      img: vsu.png
+      link: https://www.vsu.edu/cet/departments/engineering/programs/computer-science/index.php 
+      class: light
+  - level: POST
+    sponsors:
+    - name: GitHub Education
+      img: github.jpg
+      link: https://github.com
+      class: light
+      subtext: Provider of GitHub Education Swag

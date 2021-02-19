@@ -19,6 +19,9 @@
                     <h5 class="card-title text-center">
                         <a href="{{$sponsor.link}}" rel="noopener noreferrer" target="_blank">{{$sponsor.name}}</a>
                     </h5>
+                    {{ if $sponsor.subtext }}
+                    <p class="text-center" style="font-size: 13px; line-height: normal;">{{$sponsor.subtext}}</p>
+                    {{ end }}
                 </div>
             </div>
         {{ end }}
