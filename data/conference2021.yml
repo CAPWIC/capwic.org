@@ -6,6 +6,8 @@ description: >
  
   The conference will be held entirely online, on March 26-27.  All levels of experience are welcome. <br> <br>
 
+  Registration is now open via <a href="https://www.eventbrite.com/e/145803673713">Eventbrite</a>. After registering you will receive a seperate email containing information about connecting to our virtual conference on Hopin. 
+
 image   : images/banner2021.png
 
 #controlling text for "deadlines" on conference main/home page
@@ -25,6 +27,9 @@ deadlines:
 
   - date: March 10, 2021
     description: <a href="https://forms.gle/9xtguEq8zD8V8oBj8">Student Scholarship Application Open!</a>
+
+  - date: March 13, 2021
+    description: <a href="https://www.eventbrite.com/e/145803673713">Registration Open!</a>
 
   - date: >
       March 16, 2021 
@@ -58,6 +63,8 @@ nav:
     url: /conferences/2021/sponsorship
   - name: Organizers
     url: /conferences/2021/organizers
+#  - name: Registration
+#    url: /conferences/2021/registration
 # registration_info:
 #   name: IRIS
 #   url: https://cnu.irisregistration.com/Form/2020CAPWIC
