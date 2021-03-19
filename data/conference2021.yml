@@ -263,6 +263,12 @@ organizer_photos:
     link: https://www.umw.edu/directory/employee/jessica-self-jzeitz/
     avatar: https://cas.umw.edu/computerscience/files/2017/08/jzeitz.jpg
     affiliation: University of Mary Washington
+  - name: Dr. Faryaneh Poursardar
+    last_name: Poursardar
+    avatar: https://www.odu.edu/content/dam/odu/faculty-staff/f/fpoursar-faryaneh-poursardar.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg 
+    affiliation: University of Mary Washington
+    link: https://www.odu.edu/directory/people/f/fpoursar
+    affiliation: Old Dominion University
 
 aboutItem:
   - title : Registration
