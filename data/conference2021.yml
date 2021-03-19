@@ -4,7 +4,7 @@ name    : CAPWIC 2021
 description: >
   CAPWIC is the ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women in computing. The participants include female students, faculty, and professionals, as well as male supporters of women in computing. <br> <br>
 
-  Registration is now open via <a href="https://www.eventbrite.com/e/145803673713">Eventbrite</a>. After registering you will receive a seperate email containing information about connecting to our virtual conference on Hopin. Current schedule available as <a href="/2021/capwic-2021-web-schedule.pdf">PDF</a>. Web-friendly page coming soon. 
+  Registration is now open via <a href="https://www.eventbrite.com/e/145803673713">Eventbrite</a>. After registering you will receive a seperate email containing information about connecting to our virtual conference on Hopin. <a href="/2021/schedule">Click here</a> to view the full schedule of events.
 
 image   : images/banner2021.png
 
@@ -57,6 +57,8 @@ nav:
     url: /conferences/2021/participation
   - name: Schedule 
     url: /conferences/2021/schedule
+  - name: Speakers 
+    url: /conferences/2021/speakers
   - name: Sponsorship
     url: /conferences/2021/sponsorship
   - name: Organizers
@@ -417,6 +419,27 @@ sponsors:
 
 #list of speakers that appears on front page
 speakers:
+  - name: Cheryl Seals
+    img: cseals.jpg
+    bio: |
+      <p>Cheryl Denise Seals is the Charles W. Barkley Endowed Professor of Computer Science and Software Engineering at Auburn University. She has taught and developed eight courses during her tenure (i.e. HCI, UI, AI, etc.) and directed the development of dozens of software systems through iterative development and participatory design related to her background in Human-Computer Interaction and Usability Evaluation. Dr. Seals current research develops Advanced Learning Technologies for multiple domains (i.e. Linguistics, Medical Training, Building Science, Teaching and Learning) and some of these applications include the use of training supported with Virtual Reality applications. Seals is practiced in methods needed to evaluate and illicit participatory feedback from novice and professional audiences.</p> 
+      <p>Seals has also performed research funded by NSF in Broadening Participation in Computing (BPC). One project was the STARS alliance connecting 50 partner institutions actively in BPC. The STARS alliance creates opportunities for students to work in the areas of research, outreach or service to increase the number of under-represented students in the computing pipeline (and created a national conference iEEE RESPECT as a venue to publish BPC research.</p> 
+      <p>Dr. Seals is a Co-Principal Investigator of IAAMCS “I-am-CS” Alliance, which works also to increase the computing pipeline and further develop an ecosystem that creates opportunities for African American students to learn more about research and academic careers, through summer and academic year research experience and research training. IAAMCS facilitates mentoring, computing research, and skill-building for undergraduates and graduate students and helped to found and supports an annual BPC conference NSBC.org (the National Society of Blacks in Computing).</p>
+      <p>Dr. Cheryl D. Seals is an Alumnus of Grambling State University, North Carolina A&T State University, and received her Ph.D. from Virginia Tech and worked as a member of the Center for HCI.</p>
+  - name: Cheryl Howard
+    img: cheryl-howard.jpeg
+    bio: |
+      <p>Dr. Cheryl Howard is a Principal Data Scientist in IBM’s Data and AI Expert Labs (DAELL) North American Government Delivery Team.  She works directly with clients to architect, build, and deploy machine learning solutions to solve challenging business problems across a broad range of commercial and government applications. </p>
+      <p>Her current focus is on deployment end-to-end data science solutions in hybrid cloud environments. Over more than two decades, Cheryl has developed and deployed impactful predictive solutions in the areas of fraud and insider-threat detection, predictive maintenance optimization, and customer relationship management. She especially enjoys sharing and applying machine learning and AI best practices with clients and emerging data scientists.</p> 
+      <p>Cheryl holds Doctoral and Master’s degrees in Computer Engineering from The George Washington University and an undergraduate degree from The University of Rochester.</p> 
+  - name: NASA Modern Figures Panel 
+    img: nasa-panel.jpg
+    bio: |
+        <p>Hidden Figures is a movie and book based on actual events. While the movie dramatizes some aspects, it is true to the struggles of the women at the center of the story. The victories for racial and gender rights were not achieved easily or quickly, and our work is not done. Today, NASA strives to make sure their legacy of inclusion and excellence lives on.</p>
+        <p>As seen in the movie Hidden Figures, NASA has a long-standing cultural commitment to excellence that is largely driven by data, including data about our people. And our data shows progress is driven by questioning our assumptions and cultural prejudices – by embracing and nurturing all the talent we have available, regardless of gender, race or other protected status, to build a workforce as diverse as its mission. This is how we, as a nation, will take the next giant leap in exploration.</p>
+        <p>As a world leader in science, aeronautics, space exploration and technology, NASA has a diverse mission that demands talent from every corner of America, and every walk of life. With the human computers portrayed in Hidden Figures, NASA began leading the way in building a workforce as diverse as its mission – a workforce that will use the International Space Station to help put humans on Mars; make exciting discoveries about our universe; carry out research that will create greener, safer, quieter and faster air travel; monitor the health of our home planet; and develop cutting-edge technologies to explore our solar system and improve life on Earth.</p>
+        <p>In the 1960's, NASA was on an ambitious journey to the moon, and the human computers portrayed in Hidden Figures helped get us there. Today, NASA is on an even more ambitious journey toward sustainable Human lunar exploration and then on to human exploration at Mars.  NASA calls this the "Artemis Generation Moon to Mars". We are building a vibrant, innovative workforce that reflects a vast diversity of discipline and thought, embracing and nurturing all the talent we have available, regardless of gender, race or other protected status.</p>
+speakersbios:
   - name: Cheryl Seals
     img: cseals.jpg
     bio: |
