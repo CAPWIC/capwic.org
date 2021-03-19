@@ -55,8 +55,8 @@ nav:
   #   url: https://cnu.irisregistration.com/Form/2020CAPWIC
   - name: Participation
     url: /conferences/2021/participation
-  # - name: Schedule
-  #   url: /conferences/2021/schedule
+  - name: Schedule 
+    url: /conferences/2021/schedule
   - name: Sponsorship
     url: /conferences/2021/sponsorship
   - name: Organizers
@@ -437,3 +437,340 @@ speakers:
         <p>As seen in the movie Hidden Figures, NASA has a long-standing cultural commitment to excellence that is largely driven by data, including data about our people. And our data shows progress is driven by questioning our assumptions and cultural prejudices – by embracing and nurturing all the talent we have available, regardless of gender, race or other protected status, to build a workforce as diverse as its mission. This is how we, as a nation, will take the next giant leap in exploration.</p>
         <p>As a world leader in science, aeronautics, space exploration and technology, NASA has a diverse mission that demands talent from every corner of America, and every walk of life. With the human computers portrayed in Hidden Figures, NASA began leading the way in building a workforce as diverse as its mission – a workforce that will use the International Space Station to help put humans on Mars; make exciting discoveries about our universe; carry out research that will create greener, safer, quieter and faster air travel; monitor the health of our home planet; and develop cutting-edge technologies to explore our solar system and improve life on Earth.</p>
         <p>In the 1960's, NASA was on an ambitious journey to the moon, and the human computers portrayed in Hidden Figures helped get us there. Today, NASA is on an even more ambitious journey toward sustainable Human lunar exploration and then on to human exploration at Mars.  NASA calls this the "Artemis Generation Moon to Mars". We are building a vibrant, innovative workforce that reflects a vast diversity of discipline and thought, embracing and nurturing all the talent we have available, regardless of gender, race or other protected status.</p>
+
+schedule:
+  heading: 🔥Hottt off the press!
+  body: |
+    The CAPWIC 2021 schedule is ready! <a href="">Download it here <i class="icon ion-md-cloud-download"></i></a>. 
+  days:
+    - name: Friday March 26, 2021
+      color: capwic-primary
+      font: white
+      events: 
+        - name: Opening Remarks
+          location: 
+          time_start: 3:00PM
+          time_end: 3:15PM
+          description: > 
+
+        - name: 0A Parallel Sessions
+          time_start: 3:15PM
+          time_end: 4:15PM
+          sessions:
+            - location: Track 1
+              name: Technical Workshop
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>Exploring Data-Driven Advocacy</i></h8>
+                  <p class="card-text">Weizhen Sheng, Stephanie Tang, and Lucia Huo</p>
+                </div>
+            - location: Track 2
+              name: Technical Workshop
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>How do Computer Systems Work?</i></h7>
+                  <p class="card-text">Peter Henderson</p>
+                </div>
+            - location: Track 3
+              name: Technical Workshop
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>Difficult Conversations - 3 Keys to Mastery</i></h8>
+                  <p class="card-text">Leslie Fiorenzo</p>
+                </div>
+        - name: Break
+          location: 
+          time_start: 4:15PM 
+          time_end: 4:30PM
+          description: Break
+        - name: >
+            Keynote 
+          location: 
+          time_start: 5:00PM
+          time_end: 5:40PM
+          description: >
+            <div>
+              <h7><i>NASA Modern Figures Panel</i><h7>
+              <p>Julie Williams-Byrd, Debbie Garrett-Cook, Devin Pugh-Thomas, Debbie Martinez, Michelle Ferebee</p>
+            </div>
+
+        - name: Dinner Break / Career Fair
+          location: 
+          time_start: 5:30PM
+          time_end: 6:30PM
+          description: Break
+        - name: Socialize virtually 
+          time_start: 6:30PM
+          time_end: 7:30PM
+    - name: Saturday March 27, 2021
+      color: warning
+      font: dark
+      events: 
+        - name: Introduction 
+          location: 
+          time_start: 8:45AM
+          time_end: 9:00AM
+          description: > 
+        - name: >
+            Keynote 
+          location: 
+          time_start: 5:00PM
+          time_end: 5:40PM
+          description: >
+            <div>
+              <h7><i>Is Data Scientist Really the Best Job in America?</i><h7>
+              <p>Cheryl Howard</p>
+            </div>
+        - name: Break
+          location: 
+          time_start: 10:00AM
+          time_end: 10:05AM
+          description: Break
+        - name: 1A Parallel Sessions
+          time_start: 10:05AM
+          time_end: 11:05AM
+          sessions:
+            - location: Track 1
+              name: Technical Talk 
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>Imbalanced data can throw you off balance</i></h8>
+                  <p class="card-text">Neli Chakarova</p>
+                </div>
+            - location: Track 2
+              name: Research Shorts
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Renewable Energy Aware Job Scheduling in Green Data Centers</i></h7>
+                  <p class="card-text">Vanamala Venkataswamy</p>
+                  <h7 class="card-title"><i>Wearable Computing for Physical Rehabilitation</i></h7>
+                  <p class="card-text">Sophia Cronin, Tyler Webster, Jason Forsyth</p>
+                  <h7 class="card-title"><i>Using Mobility Data to Understand and Forecast COVID19 Dynamics</i></h7>
+                  <p class="card-text">Lijing Wang</p>
+                </div>
+            - location: Track 3
+              name: Research Shorts
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Multi-Cause Effect Estimation with Disentangled Confounder Representation</i></h7>
+                  <p class="card-text">Jing Ma</p>
+                  <h7 class="card-title"><i>Factors affecting nonprofits' information security readiness during crises: A study of COVID-19 impact on Small and Medium Nonprofit Organizations (NPOs) in DMV Area</i></h7>
+                  <p class="card-text">Natalia Ermicioi</p>
+                  <h7 class="card-title"><i>Extracting Information from Electronic Thesis and Dissertations</i></h7>
+                  <p class="card-text">Bipasha Banerjee, William A. Ingram, and Edward A. Fox</p>
+                </div>
+            - location: Track 4
+              name: Technical Talk 
+              details: >
+                <div class="card-body">
+                <h8 class="card-title"><i>#ilooklikeanengineer: Challenging Gender Stereotypes Since 1940</i></h8>
+                  <p class="card-text">Laura Puaca</p>
+                </div>
+        - name: Break
+          location: 
+          time_start: 11:05AM
+          time_end: 11:10AM
+          description: Break
+        - name: 1B Parallel Sessions
+          time_start: 11:10AM
+          time_end: 11:50AM
+          sessions:
+            - location: Track 1
+              name: Research Shorts
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Auction-oriented Parking-based Vehicular Cloud Management</i></h7>
+                  <p class="card-text">Susan Zehra, Syed Rizvi, Stephan Olariu</p>
+                  <h7 class="card-title"><i>A Novel Word Embedding Intrinsic Evaluation Test: Quantifying Valence in Semantics Derived from Language Corpora</i></h7>
+                  <p class="card-text">Autumn Toney, Aylin Caliskan</p>
+                </div>
+            - location: Track 2
+              name: Research Shorts
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Exploring technical skills and competencies for future information technology workforce</i></h7>
+                  <p class="card-text">Ana Valentin</p>
+                  <h7 class="card-title"><i>The impact of mobile technology on child development</i></h7>
+                  <p class="card-text">Brooke Nixon</p>
+                </div>
+            - location: Track 3
+              name: Technical Talk 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Considerations on ethics, machine learning, and social media research</i></h7>
+                  <p class="card-text">Agoritsa Polyzou, Lisa Singh</p>
+                </div>
+            - location: Track 4
+              name: Flash Talks 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>The role of Data Science in combating the COVID-19 pandemic</i></h7>
+                  <p class="card-text">Zahra Rizvi</p>
+                  <h7 class="card-title"><i>Characterizing the role of newspapers in conversations around the 2020 election candidates</i></h7>
+                  <p class="card-text">Meenakshi Balan</p>
+                  <h7 class="card-title"><i>CSIT XXX – Applied Programming for All Majors: A Contextualized Course Based on Inter-Disciplinary Curriculum Development</i></h7>
+                  <p class="card-text">Pamela Bogdan, Sylvia Riviello</p>
+                  <h7 class="card-title"><i>Secondary Science Teachers’ Intentionality of Using Computational Thinking to Create Learning Opportunities for BIPOC Students</i></h7>
+                  <p class="card-text">Kristina Kramarczuk</p>
+                </div>
+        - name: Break
+          location: 
+          time_start: 11:50AM
+          time_end: 11:55AM
+          description: Break
+        - name: 2A Parallel Sessions
+          time_start: 11:55AM
+          time_end: 12:55PM
+          sessions:
+            - location: Track 1
+              name: Flash Talks 
+              details: >
+                <div class="card-body">
+                <h7 class="card-title"><i>RLSched, Adaptive Container Scheduling in Cloud Data Centers using Deep Reinforcement Learning</i></h7>
+                  <p class="card-text">Tania Lorido-Botran, Muhammad Khurram Bhatti </p>
+                  <h7 class="card-title"><i>AI Advancing Social Welfare During Pandemics</i></h7>
+                  <p class="card-text">Donna Schaeffer, Patrick Olson</p>
+                  <h7 class="card-title"><i>Connected Relationships using Internet of Things</i></h7>
+                  <p class="card-text">Cassie Bedard, Garrett Hutson, Evelyn Munstermann, Katelyn Anderson, Shraddha Joshi</p>
+                  <h7 class="card-title"><i>Hands on Cyber Security Education using MITRE's CALDERA</i></h7>
+                  <p class="card-text">Darshea'L Cook, Joseph Shelton</p>
+                  <h7 class="card-title"><i>Social Media as a Driver for Social Change, Analyzing the #MeToo and #BlackLivesMatter Movements on Twitter</i></h7>
+                  <p class="card-text">Samantha Dies, Autumn Toney, Lisa Singh</p>
+                  <h7 class="card-title"><i>Combined Human Factors and A.I. Approach for Detecting Manipulated Video</i></h7>
+                  <p class="card-text">Toriyonnah Lundy, Snaie Minott, Joseph Shelton</p>
+                </div>
+            - location: Track 2
+              name: Flash Talks 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>RelEx: A system for multi-class clinical relation extraction</i></h7>
+                  <p class="card-text">Darshini Mahendran and Bridget McInnes</p>
+                  <h7 class="card-title"><i>Determining the Optimal Training Data Size for Recognizing Handwriting</i></h7>
+                  <p class="card-text">Elizabeth Chason</p>
+                  <h7 class="card-title"><i>Cybersecurity Considerations in Small Business, Economic Impact</i></h7>
+                  <p class="card-text">Brandi Fabel</p>
+                
+                </div>
+            - location: Track 3
+              name: Technical Talk 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Discover the Power of Community with WIC Groups and NCWIT Aspirations in Computing</i></h7>
+                  <p class="card-text">Gretchen Achenbach</p>
+                </div>
+            - location: Track 4
+              name: Panel 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Graduate School - Is It for Me?</i></h7>
+                  <p class="card-text">Christina Burton and Rita Powell</p>
+                </div>
+        - name: Break
+          location: 
+          time_start: 12:55PM
+          time_end: 1:00PM
+          description: Break
+        - name: >
+            Lunch/Keynote
+          location: 
+          time_start: 1:00PM
+          time_end: 2:00PM
+          description: >
+            <div>
+            <h7>A Case for Diversity in Computing: How working with diverse teams foster innovation<h7>
+              <p>Cheryl Seals</p>
+            </div>
+        - name: >
+            Posters/Career Fair 
+          location: 
+          time_start: 2:00PM
+          time_end: 3:00PM
+          description: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Improving the Explainability of Neural Sentiment Classifiers via Data Augmentation</i></h7>
+                  <p class="card-text">Hanjie Chen, Yangfeng Ji and Hanjie Chen</p>
+                  <h7 class="card-title"><i>Development of a project proposal applying project management principles</i></h7>
+                  <p class="card-text">Ana Valentin and Sharon Lee Reagan Diaz</p>
+                  <h7 class="card-title"><i>Privacy Concerns Pertaining to Smart Home Devices</i></h7>
+                  <p class="card-text">Katie Zhang and Carol Fung</p>
+                  <h7 class="card-title"><i>Analysis of Secondary Structure Geometry Accuracy in Ab Initio Protein Structure Predictions</i></h7>
+                  <p class="card-text">Maytha Alshammari and Jing He</p>
+                  <h7 class="card-title"><i>NPGREAT: A method for assembling the human subtelomeres with the use of ultralong Nanopore and Linked-Read datasets</i></h7>
+                  <p class="card-text">Eleni Adam, Desh Ranjan and Harold Riethman</p>
+                </div>
+        - name: Break
+          location: 
+          time_start: 3:00PM
+          time_end: 3:05PM
+          description: Break
+        - name: 2B Parallel Sessions
+          time_start: 3:05PM
+          time_end: 3:45PM
+          sessions:
+            - location: Track 2
+              name: Research Shorts 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Can Patterns in Mystery Novels Be Detected?</i></h7>
+                  <p class="card-text">Maya Ramani, Aaron Thompson and John R Hott</p>
+                  <h7 class="card-title"><i>The Dark Side: A dive into Dark Patterns and Data Brokers</i></h7>
+                  <p class="card-text">Jennifer Hurst and Dr. Faleh Alshameri</p>
+                </div>
+            - location: Track 3
+              name: Research Shorts 
+              details: >
+                <div class="card-body">
+                <h7 class="card-title"><i>A Walk Down Memory Lane: Analysis of Memory and Computer Systems From 1995 to Present-Day</i></h7>
+                  <p class="card-text">Lalitha Kuppa, Tanvi Haldankar and Margaret Ellis</p>
+                  <h7 class="card-title"><i>Characterizing Antimicrobial Peptides with Computational Techniques</i></h7>
+                  <p class="card-text">Emma Macaluso and Kevin Molloy</p>
+                </div>
+            - location: Track 4
+              name: Technical Talk 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Game theory in Mobile Crowdsensing Networks (MCS)</i></h7>
+                  <p class="card-text">Zhuojun Duan</p>
+                </div>
+        - name: Break
+          location: 
+          time_start: 3:45PM
+          time_end: 3:50PM
+          description: Break
+        - name: 3A Parallel Sessions
+          time_start: 3:50PM
+          time_end: 4:50PM
+          sessions:
+            - location: Track 2
+              name: Technical Talk 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Demand Forecasting of Service Request (SR) Volume with Human-in-the-loop (HitL)</i></h7>
+                  <p class="card-text">Shubhi Asthana, Bing Zhang, Aly Megahed, Pawan Chowdhary and Taiga Nakamura</p>
+                </div>
+            - location: Track 3
+              name: Research Shorts 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Measuring Gender Bias in Word Embeddings of Gendered Languages Requires Removing the Grammatical Gender from the Vector Space</i></h7>
+                  <p class="card-text">Shiva Omrani Sabbaghi and Aylin Caliskan</p>
+                  <h7 class="card-title"><i>A Novel Word Embedding Intrinsic Evaluation Test: Quantifying Valence in Semantics Derived from Language Corpora</i></h7>
+                  <p class="card-text">Autumn Toney and Aylin Caliskan</p>
+                  <h7 class="card-title"><i>Auction-oriented Parking-based Vehicular Cloud Management</i></h7>
+                  <p class="card-text">Susan Zehra, Syed Rizvi and Stephan Olariu</p>
+                </div>
+        - name: Break
+          location: 
+          time_start: 4:050PM
+          time_end: 5:00PM
+          description: Break
+        - name: Closing Remarks 
+          location: 
+          time_start: 5:00PM
+          time_end: 5:15PM
+          description: Closing Remarks
+        - name: Planning 
+          location: 
+          time_start: 5:30PM
+          time_end: 6:30PM
+          description: CAPWIC 2022 Planning 
