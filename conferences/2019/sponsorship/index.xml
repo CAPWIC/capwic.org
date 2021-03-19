@@ -6,6 +6,10 @@
     <description>Recent content in Sponsorship on CAPWIC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Nov 2018 22:14:57 -0500</lastBuildDate><atom:link href="//capwic.org/conferences/2019/sponsorship/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Nov 2018 22:14:57 -0500</lastBuildDate>
+    
+	<atom:link href="//capwic.org/conferences/2019/sponsorship/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
