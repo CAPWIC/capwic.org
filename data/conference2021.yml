@@ -41,7 +41,7 @@ deadlines:
     description: Notification of Scholarship Acceptances
 
   - date: >
-      March 23, 2021 
+      March 25, 2021 
     description: Registration deadline
 
   - date: >
@@ -527,8 +527,8 @@ schedule:
         - name: >
             Keynote 
           location: 
-          time_start: 5:00PM
-          time_end: 5:40PM
+          time_start: 4:30PM
+          time_end: 5:30PM
           description: >
             <div>
               <h7><i>NASA Modern Figures Panel</i><h7>
@@ -555,8 +555,8 @@ schedule:
         - name: >
             Keynote 
           location: 
-          time_start: 5:00PM
-          time_end: 5:40PM
+          time_start: 9:00AM
+          time_end: 10:00AM
           description: >
             <div>
               <h7><i>Is Data Scientist Really the Best Job in America?</i><h7>
@@ -681,7 +681,7 @@ schedule:
                   <p class="card-text">Toriyonnah Lundy, Snaie Minott, Joseph Shelton</p>
                 </div>
             - location: Track 2
-              name: Flash Talks 
+              name: Research Shorts 
               details: >
                 <div class="card-body">
                   <h7 class="card-title"><i>RelEx: A system for multi-class clinical relation extraction</i></h7>
