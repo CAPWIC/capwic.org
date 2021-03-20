@@ -405,6 +405,10 @@ sponsors:
       img: marymount.png
       link: https://www.marymount.edu/Academics/School-of-Business-and-Technology/Undergraduate-Programs/Information-Technology-(B-S-)/Program-Requirements/Information-Technology-(B-S-)
       class: light
+    - name: Randolph-Macon College 
+      img: rmclogo.png
+      link: https://www.rmc.edu/departments/computer-science
+      class: light
     - name: University of Mary Washington
       img: UMW-master-monogram.png
       link: https://cas.umw.edu/computerscience/
@@ -480,9 +484,9 @@ speakersbios:
         <h8>Julie Williams-Byrd</h8>
         <p>Ms. Julie Williams-Byrd is an Electro-Optics Engineer at NASA Langley Research Center (LaRC).  As NASA Langley’s Center Chief Technologist, Ms. Williams-Byrd advises the LaRC Office of Director and the Centers’ senior leadership on research and technology development matters aligned with the center’s strategic goals and provides technical leadership for planning, management and evaluation of comprehensive, Center-wide technology development activities with an emphasis on early stage technologies.  She also leads and performs technology related studies and activities for the NASA Chief Technologist at NASA Headquarters.</p>
 schedule:
-  heading: 🔥Hottt off the press!
+  heading: Schedule of Events 
   body: |
-    The CAPWIC 2021 schedule is ready! <a href="">Download it here <i class="icon ion-md-cloud-download"></i></a>. 
+    The CAPWIC 2021 abstract listing is ready! <a href="/2021/CAPWIC-2021-abstracts.pdf">Download it here <i class="icon ion-md-cloud-download"></i></a>. 
   days:
     - name: Friday March 26, 2021
       color: capwic-primary
