@@ -620,15 +620,6 @@ schedule:
           time_start: 11:10AM
           time_end: 11:50AM
           sessions:
-            - location: Track 1
-              name: Research Shorts
-              details: >
-                <div class="card-body">
-                  <h7 class="card-title"><i>Auction-oriented Parking-based Vehicular Cloud Management</i></h7>
-                  <p class="card-text">Susan Zehra, Syed Rizvi, Stephan Olariu</p>
-                  <h7 class="card-title"><i>A Novel Word Embedding Intrinsic Evaluation Test: Quantifying Valence in Semantics Derived from Language Corpora</i></h7>
-                  <p class="card-text">Autumn Toney, Aylin Caliskan</p>
-                </div>
             - location: Track 2
               name: Research Shorts
               details: >
