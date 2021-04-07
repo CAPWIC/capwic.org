@@ -626,7 +626,7 @@ schedule:
                 <div class="card-body">
                   <h7 class="card-title"><i>Exploring technical skills and competencies for future information technology workforce</i></h7>
                   <p class="card-text">Ana Valentin</p>
-                  <h7 class="card-title"><i>The impact of mobile technology on child development</i></h7>
+                  <h7 class="card-title"><i>The impact of mobile technology on child development</i> <b>-- Winner Best Research Short</b></h7>
                   <p class="card-text">Brooke Nixon</p>
                 </div>
             - location: Track 3
@@ -642,10 +642,6 @@ schedule:
                 <div class="card-body">
                   <h7 class="card-title"><i>The role of Data Science in combating the COVID-19 pandemic</i></h7>
                   <p class="card-text">Zahra Rizvi</p>
-                  <h7 class="card-title"><i>Characterizing the role of newspapers in conversations around the 2020 election candidates</i></h7>
-                  <p class="card-text">Meenakshi Balan</p>
-                  <h7 class="card-title"><i>CSIT XXX – Applied Programming for All Majors: A Contextualized Course Based on Inter-Disciplinary Curriculum Development</i></h7>
-                  <p class="card-text">Pamela Bogdan, Sylvia Riviello</p>
                   <h7 class="card-title"><i>Secondary Science Teachers’ Intentionality of Using Computational Thinking to Create Learning Opportunities for BIPOC Students</i></h7>
                   <p class="card-text">Kristina Kramarczuk</p>
                 </div>
@@ -662,13 +658,11 @@ schedule:
               name: Flash Talks 
               details: >
                 <div class="card-body">
-                <h7 class="card-title"><i>RLSched, Adaptive Container Scheduling in Cloud Data Centers using Deep Reinforcement Learning</i></h7>
-                  <p class="card-text">Tania Lorido-Botran, Muhammad Khurram Bhatti </p>
                   <h7 class="card-title"><i>AI Advancing Social Welfare During Pandemics</i></h7>
                   <p class="card-text">Donna Schaeffer, Patrick Olson</p>
                   <h7 class="card-title"><i>Connected Relationships using Internet of Things</i></h7>
                   <p class="card-text">Cassie Bedard, Garrett Hutson, Evelyn Munstermann, Katelyn Anderson, Shraddha Joshi</p>
-                  <h7 class="card-title"><i>Hands on Cyber Security Education using MITRE's CALDERA</i></h7>
+                  <h7 class="card-title"><i>Hands on Cyber Security Education using MITRE's CALDERA</i> <b>-- Winner Best Flash Talk</b></h7>
                   <p class="card-text">Darshea'L Cook, Joseph Shelton</p>
                   <h7 class="card-title"><i>Social Media as a Driver for Social Change, Analyzing the #MeToo and #BlackLivesMatter Movements on Twitter</i></h7>
                   <p class="card-text">Samantha Dies, Autumn Toney, Lisa Singh</p>
@@ -723,7 +717,7 @@ schedule:
           time_end: 3:00PM
           description: >
                 <div class="card-body">
-                  <h7 class="card-title"><i>Improving the Explainability of Neural Sentiment Classifiers via Data Augmentation</i></h7>
+                  <h7 class="card-title"><i>Improving the Explainability of Neural Sentiment Classifiers via Data Augmentation</i> <b>-- Winner Best Poster</b></h7>
                   <p class="card-text">Hanjie Chen, Yangfeng Ji and Hanjie Chen</p>
                   <h7 class="card-title"><i>Development of a project proposal applying project management principles</i></h7>
                   <p class="card-text">Ana Valentin and Sharon Lee Reagan Diaz</p>
