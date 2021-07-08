@@ -1,5 +1,5 @@
 # capwic.org
-Capital Region Celebration of Women in Computing organization website
+Capital Region Celebration of Women in Computing organization website.
 
 
 ## Notes
