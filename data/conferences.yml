@@ -1,5 +1,11 @@
 enable  : true
 conferences :
+  - name: 2022
+    image : images/banner2022.png
+    url: /conferences/2022/
+    when: March 25-26, 2022
+    where: All Virtual
+    institution: University of Mary Washington
   - name: 2021
     image : images/capwic 2021 list tile.jpg
     url: /conferences/2021/

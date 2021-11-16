@@ -45,13 +45,13 @@ theme = "timer-hugo"
     logo = "images/capwic-logo-2-bw-40.jpeg"
     logo_alt = "logo"
     #logo_text = "logo_text"
-    current_conf_year = "2021"
+    current_conf_year = "2022"
 
     # Banner Section
     [params.banner]
         enable  = true
         bgImage = "images/conferences/IMG_1523-zoomed.jpeg"
-        heading = "SAVE THE DATE FOR CAPWIC 2021!<br>March 26-27, 2021 <br> VIRTUAL"
+        heading = "SAVE THE DATE FOR CAPWIC 2022!<br>March 24-25, 2022 <br> VIRTUAL"
         description = "The <u>Cap</u>ital Region Celebration of <u>W</u>omen <u>i</u>n <u>C</u>omputing Conference."
     #    [[params.banner.btn]]
     #        btnText = "Learn More"
