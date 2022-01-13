@@ -9,12 +9,47 @@ description: >
 image   : images/banner2022.png
 
 #controlling text for "deadlines" on conference main/home page
+deadlines:
+  #- date: January 24, 2020 <i class="icon ion-ios-checkbox"></i>
+  #  description: >
+  #    <a href="mailto:techchair@capwic.org">Volunteer to Review! <i class="icon ion-ios-mail"></i></a>
+
+    #- date: January 28, 2021
+    #description: <a href="/2021/flyers/capwic-2021-submission-call.pdf"> Call for Submissions </a>
+
+  - date: February 2, 2022
+    description: Abstract Submission Deadline
+    #description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2021">Abstract Submission <i class="icon ion-ios-open"></i></a>
+
+  - date: February 23, 2022
+    description: Notification of Acceptances
+
+  - date: March 2, 2022
+    description: Student Scholarship Application Deadline
+
+  - date: March 9, 2022
+    description: Notification of Scholarship Acceptances
+  - date: March 16, 2022
+    description: Deadline for Group Registration
+
+  - date: March 25, 2022 
+    description: Deadline to Register Individually
+  - date: March 25-26, 2021
+    description: Attend Virtually!!
 nav:
   - name: CAPWIC 2022
     url: /conferences/2022
     #submission:
 #Flier information that exists on main page
-#flyers:
+flyers:
+#  - link: capwic-2021-submission-call.pdf
+#     text: Call for submissions
+#   - link: capwic-2021-submission-call.pdf
+#     text: Call for Submissions
+#  - link: capwic-2021-highschool-flyer.pdf
+#    text: Information for High School Students
+   - link: capwic-2022-main-flyer.pdf
+     text: General Information for Students
 #Community standard that exists on main page
 policies:
   - name: Code of Conduct
@@ -156,3 +191,14 @@ organizer_photos:
     link: https://www.odu.edu/directory/people/f/fpoursar
     affiliation: Old Dominion University
 
+aboutItem:
+  - title : Registration
+    type: registration
+    description: > 
+      Student registration rates are made possible by our sponsors. More information coming soon...
+    else: >
+      All levels include a conference registration. <a href="/capwic-student-flyer.pdf" download>Download our flyer</a> to share with other students or <a href="https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP" target="_blank" rel="noreferrer noopener">register now</a>.
+
+  - title : Scholarships
+    description: | 
+      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school.
