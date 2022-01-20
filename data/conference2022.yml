@@ -39,6 +39,10 @@ deadlines:
 nav:
   - name: CAPWIC 2022
     url: /conferences/2022
+  - name: Participation
+    url: /conferences/2022/participation
+  - name: Organizers
+    url: /conferences/2022/organizers
     #submission:
 #Flier information that exists on main page
 flyers:
@@ -62,10 +66,17 @@ organizers:
     - name: Dr. Veena Ravishankar
       link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
       affiliation: University of Mary Washington
-  - Sponsorship, Job Fair, and Finance:
+  - Sponsorship:
+    - name: Dr. Swapneel Sheth
+      link: https://www.cis.upenn.edu/~swapneel/
+      affiliation: University of Pennsylvania
+  - Finance:
     - name: Dr. Lynn Lambert
       link: http://cnu.edu/people/llambert/
       affiliation: Christopher Newport University
+  - Career Fair:
+    - name: Karen Anewalt
+      affiliation: University of Mary Washington 
     - name: Dr. Swapneel Sheth
       link: https://www.cis.upenn.edu/~swapneel/
       affiliation: University of Pennsylvania
@@ -74,12 +85,12 @@ organizers:
       link: https://www.marymount.edu/Home/Contact-Us/Directory/?profileid=190
       affiliation: Marymount University
   - Platform Arrangements:
-    - name: Dr. Robbie Hott
-      link: https://engineering.virginia.edu/faculty/john-r-hott
-      affiliation: University of Virginia
     - name: Dr. Jason Forsyth
       link: https://www.jasonforsyth.net
       affiliation: James Madison University
+    - name: Dr. Robbie Hott
+      link: https://engineering.virginia.edu/faculty/john-r-hott
+      affiliation: University of Virginia
   - Web and Registration:
     - name: Dr. Robbie Hott
       link: https://engineering.virginia.edu/faculty/john-r-hott
@@ -87,44 +98,25 @@ organizers:
     - name: Dr. Jason Forsyth
       link: https://www.jasonforsyth.net
       affiliation: James Madison University
-    - name: Dr. Michael Stewart
-      link: https://www.jmu.edu/cs/people/faculty-staff/stewart-michael.shtml
-      affiliation: James Madison University
   - Technical Program:
-    - name: Dr. Veena Ravishankar
-      link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
-      affiliation: University of Mary Washington
+    - name: TBD 
   - Program Committee:
+    - name: Dr. Briana Morrison 
+      link: https://engineering.virginia.edu/faculty/briana-morrison
+      avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/Morrison03.JPG?itok=TLYFroEY 
+      affiliation: University of Virginia
     - name: Dr. Nada Basit 
-      last_name: Basit
       link: https://engineering.virginia.edu/faculty/nada-basit
       avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public//NadaBasit_headshot.jpg?itok=NfTyLG4y
       affiliation: University of Virginia
-    - name: Dr. Jason Forsyth
-      link: https://www.jasonforsyth.net
-      affiliation: James Madison University
-    - name: Dr. Veena Ravishankar
-      link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
-      affiliation: University of Mary Washington
     - name: Dr. Faryaneh Poursardar
       link: https://www.odu.edu/directory/people/f/fpoursar
       affiliation: Old Dominion University
-    - name: Dr. Joseph Shelton
-      last_name: Shelton
-      link: https://www.vsu.edu/cet/departments/engineering/faculty-staff/shelton-joseph.php
-      avatar: /images/team/shelton-headshot.png
-      affiliation: Virginia State University
-    - name: Dr. Dee Weikle
-      link: https://w3.cs.jmu.edu/weikleda/
-      affiliation: James Madison University
+    - name: Dr. Jennifer Kay 
+      affiliation: Rowan University
 
 #This section populates the organizers page with images and contact information. This data is NOT replicated from above.
 organizer_photos:
-  - name: Dr. Michael Stewart
-    last_name: Stewart
-    link: https://www.jmu.edu/cs/people/faculty-staff/stewart-michael.shtml
-    avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg 
-    affiliation: James Madison University
   - name: Dr. Swapneel Sheth
     last_name: Sheth
     link: https://www.cis.upenn.edu/~swapneel/
@@ -135,11 +127,6 @@ organizer_photos:
     avatar: /2019/organizers/robin.jpg
     link: https://www.rmc.edu/departments/computer-science/faculty
     affiliation: Randolph-Macon College
-  - name: Dr. Dee Weikle
-    last_name: Weikle
-    link: https://w3.cs.jmu.edu/weikleda/
-    avatar: https://www.jmu.edu/cs/_images/faculty-staff-images/weikle.jpg
-    affiliation: James Madison University
   - name: Dr. Donna Schaeffer
     last_name: Schaeffer
     link: https://www.marymount.edu/Home/Contact-Us/Directory/?profileid=190
