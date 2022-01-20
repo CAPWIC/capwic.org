@@ -43,13 +43,9 @@ nav:
 #Flier information that exists on main page
 flyers:
   - link: capwic-2022-submission-call.pdf
-     text: Call for submissions
-#   - link: capwic-2021-submission-call.pdf
-#     text: Call for Submissions
-#  - link: capwic-2021-highschool-flyer.pdf
-#    text: Information for High School Students
-   - link: capwic-2022-main-flyer.pdf
-     text: General Information for Students
+    text: Call for submissions
+  - link: capwic-2022-main-flyer.pdf
+    text: General Information for Students
 #Community standard that exists on main page
 policies:
   - name: Code of Conduct
