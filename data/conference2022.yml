@@ -74,16 +74,8 @@ organizers:
     - name: Dr. Veena Ravishankar
       link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
       affiliation: University of Mary Washington
-  - Sponsorship:
-    - name: Dr. Swapneel Sheth
-      link: https://www.cis.upenn.edu/~swapneel/
-      affiliation: University of Pennsylvania
-  - Finance:
-    - name: Dr. Lynn Lambert
-      link: http://cnu.edu/people/llambert/
-      affiliation: Christopher Newport University
-  - Career Fair:
-    - name: Karen Anewalt
+  - Sponsorship / Career Fair:
+    - name: Dr. Karen Anewalt
       affiliation: University of Mary Washington 
     - name: Dr. Swapneel Sheth
       link: https://www.cis.upenn.edu/~swapneel/
@@ -92,6 +84,14 @@ organizers:
     - name: Dr. Donna Schaeffer
       link: https://www.marymount.edu/Home/Contact-Us/Directory/?profileid=190
       affiliation: Marymount University
+  - Finance:
+    - name: Dr. Jessica Zeitz
+      link: https://www.umw.edu/directory/employee/jessica-self-jzeitz/
+      email: info@capwic.org
+      affiliation: University of Mary Washington
+    - name: Dr. Lynn Lambert
+      link: http://cnu.edu/people/llambert/
+      affiliation: Christopher Newport University
   - Platform Arrangements:
     - name: Dr. Jason Forsyth
       link: https://www.jasonforsyth.net
@@ -99,15 +99,26 @@ organizers:
     - name: Dr. Robbie Hott
       link: https://engineering.virginia.edu/faculty/john-r-hott
       affiliation: University of Virginia
-  - Web and Registration:
+  - Website:
     - name: Dr. Robbie Hott
       link: https://engineering.virginia.edu/faculty/john-r-hott
       affiliation: University of Virginia
     - name: Dr. Jason Forsyth
       link: https://www.jasonforsyth.net
       affiliation: James Madison University
+  - Publicity: 
+    - name: Dr. Zhuojun Duan 
+      last_name: Duan
+      affiliation: James Madison University 
+  - Publicity Materials Designer: 
+    - name: Dr. Robin Givens
+      last_name: Givens
+      link: https://www.rmc.edu/departments/computer-science/faculty
+      affiliation: Randolph-Macon College
   - Technical Program:
-    - name: TBD 
+    - name: Dr. Veena Ravishankar
+      link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
+      affiliation: University of Mary Washington
   - Program Committee:
     - name: Dr. Briana Morrison 
       link: https://engineering.virginia.edu/faculty/briana-morrison
@@ -122,9 +133,41 @@ organizers:
       affiliation: Old Dominion University
     - name: Dr. Jennifer Kay 
       affiliation: Rowan University
+    - name: Dr. Joseph Shelton 
+      last_name: Shelton
+      link: https://www.vsu.edu/cet/departments/engineering/faculty-staff/shelton-joseph.php 
+      affiliation: Virginia State University 
+    - name: Dr. Upsorn Praphamontripong 
+      link: https://engineering.virginia.edu/faculty/upsorn-praphamontripong
+      affiliation: University of Virginia
 
 #This section populates the organizers page with images and contact information. This data is NOT replicated from above.
 organizer_photos:
+  - name: Dr. Jennifer Kay
+    last_name: Kay 
+    avatar: https://csm.rowan.edu/_images/facultystaffmain/kay1.jpg
+    link: https://csm.rowan.edu/departments/cs/facultystaff/compsci_full_part/kay.html
+    affiliation: Rowan University
+  - name: Dr. Karen Anewalt
+    last_name: Anewalt
+    avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2015/07/Anewalt-Karen09-150x150.jpg
+    link: https://www.umw.edu/directory/employee/karen-anewalt/
+    affiliation: University of Mary Washington 
+  - name: Dr. Zhuojun Duan 
+    last_name: Duan
+    avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/duan.png
+    link: https://www.jmu.edu/cise/cs/people/faculty-staff/duan-zhuojun.shtml
+    affiliation: James Madison University 
+  - name: Dr. Briana Morrison 
+    last_name: Morrison
+    link: https://engineering.virginia.edu/faculty/briana-morrison
+    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/Morrison03.JPG?itok=TLYFroEY 
+    affiliation: University of Virginia
+  - name: Dr. Upsorn Praphamontripong 
+    last_name: Praphamontripong
+    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/UpsornPraphamontripong_headshot_0.jpg?itok=W_GkyxKG 
+    link: https://engineering.virginia.edu/faculty/upsorn-praphamontripong
+    affiliation: University of Virginia
   - name: Dr. Swapneel Sheth
     last_name: Sheth
     link: https://www.cis.upenn.edu/~swapneel/
