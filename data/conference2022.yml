@@ -81,9 +81,7 @@ organizers:
       link: https://www.cis.upenn.edu/~swapneel/
       affiliation: University of Pennsylvania
   - Scholarships:
-    - name: Dr. Donna Schaeffer
-      link: https://www.marymount.edu/Home/Contact-Us/Directory/?profileid=190
-      affiliation: Marymount University
+    - name: TBD 
   - Finance:
     - name: Dr. Jessica Zeitz
       link: https://www.umw.edu/directory/employee/jessica-self-jzeitz/
@@ -178,11 +176,6 @@ organizer_photos:
     avatar: /2019/organizers/robin.jpg
     link: https://www.rmc.edu/departments/computer-science/faculty
     affiliation: Randolph-Macon College
-  - name: Dr. Donna Schaeffer
-    last_name: Schaeffer
-    link: https://www.marymount.edu/Home/Contact-Us/Directory/?profileid=190
-    avatar: https://www.marymount.edu/marymount.edu/media/Faculty-Staff/140924donna-schaffer_business0001.jpg?width=231&height=193&ext=.jpg
-    affiliation: Marymount University
   - name: Dr. Jason Forsyth
     last_name: Forsyth
     link: https://www.jasonforsyth.net
