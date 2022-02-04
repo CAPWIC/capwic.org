@@ -17,8 +17,8 @@ deadlines:
     #- date: January 28, 2021
     #description: <a href="/2021/flyers/capwic-2021-submission-call.pdf"> Call for Submissions </a>
 
-  - date: February 2, 2022
-    description: Abstract Submission Deadline
+  - date: February 7, 2022
+    description: Abstract Submission Deadline (Extended)
     description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2022">Abstract Submission <i class="icon ion-ios-open"></i></a>
 
   - date: February 23, 2022
@@ -47,9 +47,15 @@ nav:
 #Flier information that exists on main page
 flyers:
   - link: capwic-2022-submission-call.pdf
+    text: High School  
+  - link: capwic-2022-submission-call.pdf
     text: Call for submissions
+  - link: capwic-2022-highschool.pdf
+    text: Information for High School Students
   - link: capwic-2022-main-flyer.pdf
     text: General Information for Students
+  - link: capwic-2022-sponsor-flyer.pdf
+    text: Information for Sponsors
 #Community standard that exists on main page
 policies:
   - name: Code of Conduct
