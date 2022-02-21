@@ -41,6 +41,8 @@ nav:
     url: /conferences/2022
   - name: Participation
     url: /conferences/2022/participation
+  - name: Speakers 
+    url: /conferences/2022/speakers
   - name: Sponsorship
     url: /conferences/2022/sponsorship
   - name: Organizers
@@ -335,3 +337,46 @@ sponsorship:
             enabled: true
           - name: non
             enabled: true
+sponsors:
+  - level: PRE
+    sponsors:
+    - name: ACM
+      img: acm.jpg
+      link: https://www.acm.org/
+      class: light
+  - level: Academic
+    sponsors:
+    - name: University of Mary Washington
+      img: UMW-master-monogram.png
+      link: https://cas.umw.edu/computerscience/
+      class: light
+    - name: Rowan University Department of Computer Science
+      img: rowan.jpg
+      link: https://csm.rowan.edu/departments/cs/index.html
+      class: light
+    - name: JMU Engineering 
+      img: jmuengineering.png
+      link: https://www.jmu.edu/cise/engineering/index.shtml 
+      class: light
+speakers:
+  - name: Colleen Lewis
+    img: Lewis2022.jpg
+    bio: |
+      <p>Hi! My name is Colleen - I’m a CS prof at the University of Illinois at Urbana-Champaign and I research how people learn CS and feel about learning CS. I’m excited to share some of my stories about my path in CS and life! For example, you probably wouldn’t guess that when I first took data structures as an undergrad, I had to late drop the class so that I wouldn’t fail. I was really lucky that none of my friends or family told me I just wasn’t cut out for CS. However, lots of random people told me that I shouldn’t do CS b/c I’m a “people person.” What nonsense - there isn’t just one way to be in CS!</p>
+      <p>Colleen Lewis is an Associate Professor of computer science (CS) at the University of Illinois Urbana-Champaign. Lewis was previously the McGregor-Girand Associate Professor of CS at  Harvey Mudd College. At the University of California, Berkeley, Lewis completed a PhD in science and mathematics education, an MS in computer science, and a BS in electrical engineering and computer science. Her research seeks to identify and remove barriers to CS learning and understand and optimize CS learning. Lewis curates CSTeachingTips.org, a NSF-sponsored project for disseminating effective CS teaching practices. Lewis has received the NSF CAREER Award, the NCWIT.org Undergraduate Mentoring Award and the AnitaB.org Emerging Leader Award for her efforts to broaden participation in computing.   </p>
+  - name: Angela Orebaugh 
+    img: AO_UVA.jpg
+    bio: |
+        <p>Angela Orebaugh is saving the world bit-by-bit.  She is an Assistant Professor at the University of Virginia’s Computer Science Department where her teaching and research is focused on keeping us safe and secure in the cyber world.  She was the 2020 recipient of the prestigious Adelle F. Robertson Award for Excellence in Teaching.  Prior to joining academia as a professor, Angela worked in industry for over 25 years providing cybersecurity expertise to clients such as the National Institute of Standards and Technology (NIST), the Department of Defense (DoD), intelligence agencies, small businesses, and start-ups.  Her mission in academia is to leverage her industry expertise to add value and create exceptional learning experiences for students.</p>
+        <p>Angela completed her Ph.D. at George Mason University’s Volgenau School of Engineering with published papers in the areas of behavioral biometrics, data mining, authorship analysis, and cyber forensics.  She completed her Master of Science in Computer Science and her Bachelor of Business Administration at James Madison University.  Angela is an internationally recognized author of several bestselling technology books, over thirty published articles, and co-author of seven NIST publications. She was honored in the 2019 book Women Know Cyber as one of the 100 Fascinating Females Fighting Cybercrime.  Dr. Orebaugh was selected as one of Information Magazine’s Security 7 in 2013 and was appointed as a Booz Allen Hamilton Fellow in 2012.</p>
+speakersbios:
+  - name: Colleen Lewis
+    img: Lewis2022.jpg
+    bio: |
+      <p>Hi! My name is Colleen - I’m a CS prof at the University of Illinois at Urbana-Champaign and I research how people learn CS and feel about learning CS. I’m excited to share some of my stories about my path in CS and life! For example, you probably wouldn’t guess that when I first took data structures as an undergrad, I had to late drop the class so that I wouldn’t fail. I was really lucky that none of my friends or family told me I just wasn’t cut out for CS. However, lots of random people told me that I shouldn’t do CS b/c I’m a “people person.” What nonsense - there isn’t just one way to be in CS!</p>
+      <p>Colleen Lewis is an Associate Professor of computer science (CS) at the University of Illinois Urbana-Champaign. Lewis was previously the McGregor-Girand Associate Professor of CS at  Harvey Mudd College. At the University of California, Berkeley, Lewis completed a PhD in science and mathematics education, an MS in computer science, and a BS in electrical engineering and computer science. Her research seeks to identify and remove barriers to CS learning and understand and optimize CS learning. Lewis curates CSTeachingTips.org, a NSF-sponsored project for disseminating effective CS teaching practices. Lewis has received the NSF CAREER Award, the NCWIT.org Undergraduate Mentoring Award and the AnitaB.org Emerging Leader Award for her efforts to broaden participation in computing.   </p>
+  - name: Angela Orebaugh 
+    img: AO_UVA.jpg
+    bio: |
+        <p>Angela Orebaugh is saving the world bit-by-bit.  She is an Assistant Professor at the University of Virginia’s Computer Science Department where her teaching and research is focused on keeping us safe and secure in the cyber world.  She was the 2020 recipient of the prestigious Adelle F. Robertson Award for Excellence in Teaching.  Prior to joining academia as a professor, Angela worked in industry for over 25 years providing cybersecurity expertise to clients such as the National Institute of Standards and Technology (NIST), the Department of Defense (DoD), intelligence agencies, small businesses, and start-ups.  Her mission in academia is to leverage her industry expertise to add value and create exceptional learning experiences for students.</p>
+        <p>Angela completed her Ph.D. at George Mason University’s Volgenau School of Engineering with published papers in the areas of behavioral biometrics, data mining, authorship analysis, and cyber forensics.  She completed her Master of Science in Computer Science and her Bachelor of Business Administration at James Madison University.  Angela is an internationally recognized author of several bestselling technology books, over thirty published articles, and co-author of seven NIST publications. She was honored in the 2019 book Women Know Cyber as one of the 100 Fascinating Females Fighting Cybercrime.  Dr. Orebaugh was selected as one of Information Magazine’s Security 7 in 2013 and was appointed as a Booz Allen Hamilton Fellow in 2012.</p>
