@@ -27,7 +27,7 @@ deadlines:
     description: Notification of Acceptances
 
   - date: February 24, 2022
-    description: <a href="https://forms.gle/oZUqCeP9bi1v6FT49">Student Scholarship Applications Open!</a>
+    description: Student Scholarship Applications
 
   - date: February 25, 2022
     description: <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-276332948287">Registration Open!</a>
@@ -354,6 +354,10 @@ sponsors:
       class: light
   - level: Academic
     sponsors:
+    - name: CodeVA 
+      img: codeva.png
+      link: https://www.codevirginia.org/
+      class: light
     - name: University of Mary Washington
       img: UMW-master-monogram.png
       link: https://cas.umw.edu/computerscience/
@@ -366,6 +370,23 @@ sponsors:
       img: jmuengineering.png
       link: https://www.jmu.edu/cise/engineering/index.shtml 
       class: light
+    - name: University of Virginia Computer Science 
+      img: uva_cs.jpg
+      link: https://engineering.virginia.edu/departments/computer-science 
+      class: light
+    - name: Virginia Tech Innovation Campus 
+      img: vt_ic.jpg
+      link: https://vt.edu/innovationcampus/index.html
+      class: light
+    - name: University of Pennsylvania Engineering
+      img: upenn-engr.gif
+      link: https://www.cis.upenn.edu/
+      class: light
+    - name: Loyola University Maryland
+      img: loyola.jpg
+      link: https://www.loyola.edu/academics/computer-science
+      class: light
+
 speakers:
   - name: Colleen Lewis
     img: Lewis2022.jpg
