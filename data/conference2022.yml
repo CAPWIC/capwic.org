@@ -352,6 +352,12 @@ sponsors:
       img: acm.jpg
       link: https://www.acm.org/
       class: light
+  - level: Gold 
+    sponsors:
+    - name: Bloomberg
+      img: bloomberg.jpg
+      link: http://www.bloomberg.com/engineering
+      class: light
   - level: Academic
     sponsors:
     - name: CodeVA 
@@ -381,7 +387,7 @@ sponsors:
     - name: University of Pennsylvania Engineering
       img: upenn-engr.gif
       link: https://www.cis.upenn.edu/
-      class: light
+      class: dark
     - name: Loyola University Maryland
       img: loyola.jpg
       link: https://www.loyola.edu/academics/computer-science
