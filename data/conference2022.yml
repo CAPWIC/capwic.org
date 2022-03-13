@@ -196,6 +196,11 @@ organizer_photos:
     link: http://www.pcs.cnu.edu/~lambert/
     avatar: /2019/organizers/lynn lambert.jpeg
     affiliation: Christopher Newport University
+  - name: Dr. Megan Olsen 
+    last_name: Olsen
+    link: https://www.loyola.edu/about/community/faculty/olsen
+    avatar: http://www.cs.loyola.edu/~olsen/me.jpg 
+    affiliation: Loyola University Maryland
   - name: Dr. Robbie Hott
     last_name: Hott
     link: https://engineering.virginia.edu/faculty/john-r-hott
@@ -358,6 +363,10 @@ sponsors:
       img: bloomberg.jpg
       link: http://www.bloomberg.com/engineering
       class: light
+    - name: Full Visibility 
+      img: fv.png
+      link: https://www.fullvisibility.com/
+      class: light
   - level: Academic
     sponsors:
     - name: CodeVA 
@@ -404,6 +413,11 @@ speakers:
     bio: |
         <p>Angela Orebaugh is saving the world bit-by-bit.  She is an Assistant Professor at the University of Virginia’s Computer Science Department where her teaching and research is focused on keeping us safe and secure in the cyber world.  She was the 2020 recipient of the prestigious Adelle F. Robertson Award for Excellence in Teaching.  Prior to joining academia as a professor, Angela worked in industry for over 25 years providing cybersecurity expertise to clients such as the National Institute of Standards and Technology (NIST), the Department of Defense (DoD), intelligence agencies, small businesses, and start-ups.  Her mission in academia is to leverage her industry expertise to add value and create exceptional learning experiences for students.</p>
         <p>Angela completed her Ph.D. at George Mason University’s Volgenau School of Engineering with published papers in the areas of behavioral biometrics, data mining, authorship analysis, and cyber forensics.  She completed her Master of Science in Computer Science and her Bachelor of Business Administration at James Madison University.  Angela is an internationally recognized author of several bestselling technology books, over thirty published articles, and co-author of seven NIST publications. She was honored in the 2019 book Women Know Cyber as one of the 100 Fascinating Females Fighting Cybercrime.  Dr. Orebaugh was selected as one of Information Magazine’s Security 7 in 2013 and was appointed as a Booz Allen Hamilton Fellow in 2012.</p>
+  - name: Ria Galanos 
+    img: galanos.jpg
+    bio: |
+      <p>Ria Galanos is the software engineering lead for learning and development at Yext. She creates materials for new engineers at Yext to help them get acclimated to Yext's systems, tools, and workflow so they feel empowered to tackle their first tasks on their own.  She tries out new ways to increase the diversity among the engineers at Yext and mentors both high school and college students to help retain them in the field.  Ria noticed upon joining Yext that there isn't a great way to predict how a candidate is going to perform during technical interviews based on their resume. After poking around, she has learned that students have drastic differences in their familiarity with the software engineering interview process. She is working to change that so some students aren't at a disadvantage before they arrive for their interview.</p>
+      <p>Ria is also an adjunct professor in American University's Computer Science Department. She runs professional development workshops for AP Computer Science A teachers for the College Board and has participated in both the scoring of and writing of the AP Computer Science A exam.  Prior to joining Yext, Ria taught high school computer science for 16 years. Her current educational passions are building the confidence of women in computer science courses and creating interdisciplinary real-world computer science assignments that help make computing relevant and personal for all her students.  She was awarded the 2011 Aspirations in Computing Educator Award sponsored by the National Center for Women & Information Technology and Google for her support of young women’s participation in computing and technology.  Ria holds a BS in Aeronautical Engineering from Rensselaer Polytechnic Institute, a MAEd in Secondary Mathematics Education from Virginia Polytechnic Institute and State University, and an advanced teaching diploma from Emory University.</p>
 speakersbios:
   - name: Colleen Lewis
     img: Lewis2022.jpg
@@ -415,3 +429,8 @@ speakersbios:
     bio: |
         <p>Angela Orebaugh is saving the world bit-by-bit.  She is an Assistant Professor at the University of Virginia’s Computer Science Department where her teaching and research is focused on keeping us safe and secure in the cyber world.  She was the 2020 recipient of the prestigious Adelle F. Robertson Award for Excellence in Teaching.  Prior to joining academia as a professor, Angela worked in industry for over 25 years providing cybersecurity expertise to clients such as the National Institute of Standards and Technology (NIST), the Department of Defense (DoD), intelligence agencies, small businesses, and start-ups.  Her mission in academia is to leverage her industry expertise to add value and create exceptional learning experiences for students.</p>
         <p>Angela completed her Ph.D. at George Mason University’s Volgenau School of Engineering with published papers in the areas of behavioral biometrics, data mining, authorship analysis, and cyber forensics.  She completed her Master of Science in Computer Science and her Bachelor of Business Administration at James Madison University.  Angela is an internationally recognized author of several bestselling technology books, over thirty published articles, and co-author of seven NIST publications. She was honored in the 2019 book Women Know Cyber as one of the 100 Fascinating Females Fighting Cybercrime.  Dr. Orebaugh was selected as one of Information Magazine’s Security 7 in 2013 and was appointed as a Booz Allen Hamilton Fellow in 2012.</p>
+  - name: Ria Galanos 
+    img: galanos.jpg
+    bio: |
+      <p>Ria Galanos is the software engineering lead for learning and development at Yext. She creates materials for new engineers at Yext to help them get acclimated to Yext's systems, tools, and workflow so they feel empowered to tackle their first tasks on their own.  She tries out new ways to increase the diversity among the engineers at Yext and mentors both high school and college students to help retain them in the field.  Ria noticed upon joining Yext that there isn't a great way to predict how a candidate is going to perform during technical interviews based on their resume. After poking around, she has learned that students have drastic differences in their familiarity with the software engineering interview process. She is working to change that so some students aren't at a disadvantage before they arrive for their interview.</p>
+      <p>Ria is also an adjunct professor in American University's Computer Science Department. She runs professional development workshops for AP Computer Science A teachers for the College Board and has participated in both the scoring of and writing of the AP Computer Science A exam.  Prior to joining Yext, Ria taught high school computer science for 16 years. Her current educational passions are building the confidence of women in computer science courses and creating interdisciplinary real-world computer science assignments that help make computing relevant and personal for all her students.  She was awarded the 2011 Aspirations in Computing Educator Award sponsored by the National Center for Women & Information Technology and Google for her support of young women’s participation in computing and technology.  Ria holds a BS in Aeronautical Engineering from Rensselaer Polytechnic Institute, a MAEd in Secondary Mathematics Education from Virginia Polytechnic Institute and State University, and an advanced teaching diploma from Emory University.</p>
