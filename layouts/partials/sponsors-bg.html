@@ -1,0 +1,36 @@
+{{ $yr := .Params.year }}
+{{$data := print "conference" $yr}}
+{{with index .Site.Data $data }}
+    {{ with .sponsors }}
+<div class="row order-last wow fadeInLeft" data-wow-delay=".3s">
+    <div class="col-md-12">
+    <h2>Sponsors</h2>
+    <div class="row justify-content-center">
+    {{ range $i := .}}
+        {{ if gt (len $i.sponsors) 0 }}
+            {{ if and (ne $i.level "PRE") (ne $i.level "POST") }}
+                </div><div class="row"><div class="col-md-12"><h3>{{$i.level}}</h3></div></div><div class="row justify-content-center">
+            {{ else if eq $i.level "POST" }}
+                <hr>
+            {{ end }}
+        {{ end }}
+        {{ range $sponsor := $i.sponsors}}
+            {{ if eq $i.level "Gold" }}
+            <div class="col-md-4">
+            {{ else }}
+            <div class="col-md-3">
+            {{ end }}
+            <div class="card sponsor" style="min-height: 300px; vertical-align:center;">
+                <div class="card-body d-flex">
+                    <p class="text-center align-self-center"><a href="{{$sponsor.link}}" rel="noopener noreferrer" target="_blank" class="align-self-center mx-auto"><img class="card-img-top {{$sponsor.class}} my-auto img-fluid align-self-center" src="/{{$yr}}/sponsors/{{$sponsor.img}}" alt="{{$sponsor.name}}"></a></p>
+                {{ if $sponsor.subtext }}
+                    <p class="text-center" style="font-size: 13px; line-height: normal;">{{$sponsor.subtext}}</p>
+                {{ end }}
+                </div>
+            </div>
+            </div>
+        {{ end }}
+    {{ end }}
+</div>
+    {{ end }}
+{{ end }}

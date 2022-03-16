@@ -14,15 +14,12 @@
         {{ end }}
         {{ range $sponsor := $i.sponsors}}
             <div class="card sponsor">
-                <img class="card-img-top {{$sponsor.class}}" src="/{{$yr}}/sponsors/{{$sponsor.img}}" alt="Card image cap">
+                <a href="{{$sponsor.link}}" rel="noopener noreferrer" target="_blank"><img class="card-img-top {{$sponsor.class}}" src="/{{$yr}}/sponsors/{{$sponsor.img}}" alt="{{$sponsor.name}}"></a>
+                {{ if $sponsor.subtext }}
                 <div class="card-body">
-                    <h5 class="card-title text-center">
-                        <a href="{{$sponsor.link}}" rel="noopener noreferrer" target="_blank">{{$sponsor.name}}</a>
-                    </h5>
-                    {{ if $sponsor.subtext }}
                     <p class="text-center" style="font-size: 13px; line-height: normal;">{{$sponsor.subtext}}</p>
-                    {{ end }}
                 </div>
+                {{ end }}
             </div>
         {{ end }}
     {{ end }}
