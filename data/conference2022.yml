@@ -450,7 +450,7 @@ schedule:
           time_end: 3:15PM
           description: > 
 
-        - name: Parallel Sessions
+        - name: 0A Parallel Sessions
           time_start: 3:15PM
           time_end: 4:15PM
           sessions:
@@ -522,7 +522,7 @@ schedule:
           time_start: 10:00AM
           time_end: 10:10AM
           description: Break
-        - name: Parallel Sessions
+        - name: 1A Parallel Sessions
           time_start: 10:10AM
           time_end: 11:10AM
           sessions:
@@ -564,7 +564,7 @@ schedule:
           time_start: 11:10AM
           time_end: 11:20AM
           description: Break
-        - name: Parallel Sessions
+        - name: 1B Parallel Sessions
           time_start: 11:20AM
           time_end: 12:00PM
           sessions:
@@ -602,7 +602,7 @@ schedule:
             <div>
             <h7>Career Fair, Poster Session<h7>
             </div>
-        - name: Parallel Sessions
+        - name: 2A Parallel Sessions
           time_start: 1:30PM
           time_end: 2:30PM
           sessions:
@@ -649,7 +649,7 @@ schedule:
           time_start: 2:30PM
           time_end: 2:40PM
           description: Break
-        - name: Parallel Sessions
+        - name: 2B Parallel Sessions
           time_start: 2:40PM
           time_end: 3:20PM
           sessions:
