@@ -387,6 +387,10 @@ sponsors:
       img: jmuengineering.png
       link: https://www.jmu.edu/cise/engineering/index.shtml 
       class: light
+    - name: JMU Computer Science
+      img: jmucs.png
+      link: https://www.jmu.edu/cise/cs/index.shtml 
+      class: light
     - name: University of Virginia Computer Science 
       img: uva_cs.jpg
       link: https://engineering.virginia.edu/departments/computer-science 
