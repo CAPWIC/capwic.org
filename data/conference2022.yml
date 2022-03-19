@@ -459,20 +459,13 @@ schedule:
           time_end: 4:15PM
           sessions:
             - location: Track 1
-              name: Technical Workshop
-              details: >
-                <div class="card-body">
-                  <h8 class="card-title"><i>Exploring Data-Driven Advocacy</i></h8>
-                  <p class="card-text">Weizhen Sheng, Stephanie Tang, and Lucia Huo</p>
-                </div>
-            - location: Track 2
               name: Panel 
               details: >
                 <div class="card-body">
                   <h7 class="card-title"><i>Careers in Computing</i></h7>
                   <p class="card-text">Rachel Shorey, Rachel Kemper, Dr. Nadine Shillingford, Dolapo Martins</p>
                 </div>
-            - location: Track 3
+            - location: Track 2
               name: Technical Workshop
               details: >
                 <div class="card-body">
@@ -563,6 +556,13 @@ schedule:
                   <h7 class="card-title"><i>Pursuing Graduate School in Computing</i></h7>
                   <p class="card-text">Clare Arrington, Christina Russo, Harshini Sri Ramulu, Sydney Pugh; Moderator: Ocek Eke</p>
                 </div>
+            - location: Track 4
+              name: Technical Workshop
+              details: >
+                <div class="card-body">
+                  <h8 class="card-title"><i>The Basics of Mobile Malware Analysis</i></h8>
+                  <p class="card-text">Aisha Ali-Gombe</p>
+                </div>
         - name: Break
           location: 
           time_start: 11:10AM
@@ -585,7 +585,7 @@ schedule:
                 <div class="card-body">
                   <h7 class="card-title"><i>Quantifying and Measuring Transparency in Computer Science Research</i></h7>
                   <p class="card-text">Samantha Dies and Lisa Singh</p>
-                  <h7 class="card-title"><i>Analysis of an Existing Method in Refinement of Protein Structure Predictions using Cryo-EM Images</i></h7>
+                  <h7 class="card-title"><i>The Psychology of Texting: Mimicry in Computer-Mediated Communications</i></h7>
                   <p class="card-text">Brooke Nixon and Nicole Guajardo</p>
                 </div>
             - location: Track 3
