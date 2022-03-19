@@ -6,6 +6,8 @@ description: >
 
   The conference will be hosted by the University of Mary Washington and held entirely online, on March 25-26.  All levels of experience are welcome. <br> <br>
 
+  <p class="text-center"><a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-276332948287" class="btn btn-primary">Register Now via Eventbrite</a></p>
+
   Registration is now open via <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-276332948287">Eventbrite</a>! After registering you will receive a separate email containing information about connecting to our virtual conference on Hopin.
 
 image   : images/banner2022.png
@@ -239,7 +241,9 @@ aboutItem:
   - title : Registration
     type: registration
     description: > 
-      Student registration rates are made possible by our sponsors. More information coming soon...
+      Student registration rates are made possible by our sponsors.
+  
+      <p class="text-center"><a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-276332948287" class="btn btn-secondary">Register Now via Eventbrite</a></p>
     else: >
       All levels include a conference registration. <a href="/capwic-student-flyer.pdf" download>Download our flyer</a> to share with other students or <a href="https://aceware.jmu.edu/wconnect/CourseStatus.awp?course=YP19CAP" target="_blank" rel="noreferrer noopener">register now</a>.
 
