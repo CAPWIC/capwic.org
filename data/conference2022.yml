@@ -152,6 +152,9 @@ organizers:
     - name: Dr. Upsorn Praphamontripong 
       link: https://engineering.virginia.edu/faculty/upsorn-praphamontripong
       affiliation: University of Virginia
+    - name: Dr. Megan Olsen 
+      link: https://www.loyola.edu/about/community/faculty/olsen
+      affiliation: Loyola University Maryland
 
 #This section populates the organizers page with images and contact information. This data is NOT replicated from above.
 organizer_photos:
