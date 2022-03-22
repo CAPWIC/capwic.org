@@ -450,6 +450,7 @@ speakersbios:
 schedule:
   heading: Schedule of Events 
   body: |
+    The CAPWIC 2022 abstract listing is ready! <a href="/2022/CAPWIC-2022-abstracts.pdf">Download it here <i class="icon ion-md-cloud-download"></i></a>. 
   days:
     - name: Friday March 25, 2022
       color: capwic-primary
