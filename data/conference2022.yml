@@ -616,7 +616,7 @@ schedule:
             </div>
           sessions:
             - location: Track 1
-              name: Posters and Career & Graduate School
+              name: Posters
               details: >
                 <div class="card-body">
                 <h7 class="card-title"><i>Increasing Confidence and Interest in STEM: A 3-Year Computing Camp as a Gateway to Persistence for Young Women</i></h7>
@@ -633,6 +633,21 @@ schedule:
                   <p class="card-text">Endre Szakal, Allison Tucker, Leah Wilczynski, Mia Pham, Mace Bentley, Zhojun Duan, Tobias Gerken, Dudley Bonsal and Henry Way</p>
                   <h7 class="card-title"><i>NotPetya Wiper Malware Disrupted Business Operations</i></h7>
                   <p class="card-text">Sharon Lee Reagan Díaz Bba, Khoanam Nguyen Msc and Ana H Valentin Torres Dsc</p>
+                </div>
+            - location: Track 2
+              name: Career & Graduate School Fair
+              details: >
+                <div class="card-body">
+                  <p class="card-text">Bloomberg</p>
+                  <p class="card-text">Cask Government Services</p>
+                  <p class="card-text">CodeVA</p>
+                  <p class="card-text">Full Visibility, LLC</p>
+                  <p class="card-text">Internal Revenue Service</p>
+                  <p class="card-text">NSWC</p>
+                  <p class="card-text">University of Maryland - Loyola</p>
+                  <p class="card-text">University of Pennsylvania</p>
+                  <p class="card-text">SimVentions</p>
+                  <p class="card-text">Virginia Tech MS in CS&CE</p>
                 </div>
         - name: 2A Parallel Sessions
           time_start: 1:30PM
