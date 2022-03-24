@@ -55,8 +55,10 @@ nav:
     url: /conferences/2022/speakers
   - name: Schedule 
     url: /conferences/2022/schedule
-  - name: Sponsorship
-    url: /conferences/2022/sponsorship
+    #- name: Sponsorship
+    #url: /conferences/2022/sponsorship
+  - name: Career and Grad Fair
+    url: /conferences/2022/fair
   - name: Organizers
     url: /conferences/2022/organizers
     #submission:
@@ -415,6 +417,72 @@ sponsors:
       link: https://www.loyola.edu/academics/computer-science
       class: light
 
+careerfair:
+  - level: Gold 
+    careerfair:
+    - name: Full Visibility, LLC 
+      img: fv.png
+      link: https://www.fullvisibility.com/
+      class: light
+      description: >
+         <p>We are a growing technology solutions company that supports federal and state government agencies,
+         specializing in data analytics and custom software solutions. We focus on the full employee by
+         providing our exceptionally skilled, committed, and motivated workforce customized benefits and
+         perks, top-tier professional resources, and a supportive company culture.</p>
+         <p>Our listed achievements demonstrate our success - Inc. 5000 "Fastest-Growing Private Companies" list
+         from 2014 to 2021; nine-time honoree of the Washington Business Journal's "Best Places to Work",
+         ranked #1 in 2021.</p> 
+  - level: Academic
+    careerfair:
+    - name: CodeVA 
+      img: codeva.png
+      link: https://www.codevirginia.org/
+      class: light
+      description: >
+    - name: University of Pennsylvania Engineering
+      img: upenn-engr.gif
+      link: https://www.cis.upenn.edu/
+      class: dark
+      description: >
+         <p>Penn Engineering offers students the theoretical foundation and practical instruction needed to
+         develop innovative solutions to real-world problems. With a beautiful campus located in the heart of
+         Philadelphia, our students have the unique opportunity to study in an Ivy League, multidisciplinary
+         environment with access to top-tier research facilities.</p>
+         <p>With 16 master's and 6 doctoral programs, Penn Engineering's faculty and alumni networks offer
+         unparalleled access to opportunities for our graduates as they go on to careers in industry or academia.
+         Visit our website to learn how Penn Engineering can help you to succeed:
+             https://gradadm.seas.upenn.edu/</p> 
+    - name: Loyola University Maryland
+      img: loyola.jpg
+      link: https://www.loyola.edu/academics/computer-science
+      class: light
+      description: >
+         <p>Take your career to the next level with an online Master of Science in Data Science from Loyola
+         University Maryland.</p>
+         <p>Learn Python to turn messy web data into clean data, mine and analyze data with SAS, and apply
+         sophisticated statistical modeling using R to answer complex, data-driven problems.</p>
+         <p>The online learning format means work-life-class balance. And upon graduation enjoy a rewarding
+         career path with high earning potential in a field that consistently ranks as one of the best.</p> 
+  - level: CareerFairOnly 
+    careerfair:
+    - name: Cask Government Services 
+      description: >
+         <p>Cask provides consulting services to Acquisition, System, and Technology leaders in the Federal
+         Government that require support to achieve mission, ensure compliance, and maintain continuous
+         technological transformation. Your team, continuously tailored to meet your mission needs – today
+         and in the future.</p> 
+    - name: Virginia Tech Graduate School
+      description: >
+         <p>The Virginia Tech Innovation Campus will be both a place and a culture that unlocks the power of
+         diverse people and ideas to solve the world’s most pressing problems through technology. We have
+         set the goal to be the most diverse graduate tech program in the country. Masters degrees in Computer
+         Science and Computer Engineering will include project based learning and strong industry and
+         government partnerships. Accelerated Bachelor's to Masters (4+1) programs are available to fast track
+         the degree. Apply at vt.edu/masters and send questions to techtalent@vt.edu.</p> 
+    - name: Internal Revenue Service (IRS) 
+      description: >
+    - name: Naval Surface Warfare Center (NSWC) 
+      description: >
 speakers:
   - name: Colleen Lewis
     img: Lewis2022.jpg

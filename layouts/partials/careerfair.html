@@ -1,0 +1,25 @@
+{{ $yr := .Params.year }}
+{{$data := print "conference" $yr}}
+{{with index .Site.Data $data }}
+    {{ with .careerfair }}
+<div class="row order-last wow fadeInLeft" data-wow-delay=".3s">
+    <div class="col-md-12">
+    <h2 style="border-bottom: 1px solid #bbb;">Career and Graduate School Fair</h2>
+    <div class="row justify-content-center">
+    {{ range $i := .}}
+        {{ range $cfp := $i.careerfair}}
+            <div class="col-md-12 mb-4">
+                {{ if $cfp.link }}
+                <h4 class=""><a href="{{$cfp.link}}" rel="noopener noreferrer" target="_blank">{{$cfp.name}}</a></h4>
+                {{ else }}
+                <h4 class="">{{$cfp.name}}</h4>
+                {{ end }}
+                {{ if $cfp.description }}
+                    {{$cfp.description | safeHTML}}
+                {{ end }}
+            </div>
+        {{ end }}
+    {{ end }}
+</div>
+    {{ end }}
+{{ end }}
