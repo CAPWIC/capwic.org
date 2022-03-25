@@ -707,7 +707,6 @@ schedule:
               name: Career & Graduate School Fair
               details: >
                 <div class="card-body">
-                  <p class="card-text">Bloomberg</p>
                   <p class="card-text">Cask Government Services</p>
                   <p class="card-text">CodeVA</p>
                   <p class="card-text">Full Visibility, LLC</p>
