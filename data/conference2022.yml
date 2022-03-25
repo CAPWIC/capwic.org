@@ -418,8 +418,20 @@ sponsors:
       class: light
 
 careerfair:
-  - level: Gold 
+  - level: CareerFairOnly 
     careerfair:
+    - name: Cask Government Services
+      link: https://caskgov.com/ 
+      description: >
+         <p>Cask provides consulting services to Acquisition, System, and Technology leaders in the Federal
+         Government that require support to achieve mission, ensure compliance, and maintain continuous
+         technological transformation. Your team, continuously tailored to meet your mission needs – today
+         and in the future.</p> 
+    - name: CodeVA 
+      img: codeva.png
+      link: https://www.codevirginia.org/
+      class: light
+      description: >
     - name: Full Visibility, LLC 
       img: fv.png
       link: https://www.fullvisibility.com/
@@ -432,12 +444,24 @@ careerfair:
          <p>Our listed achievements demonstrate our success - Inc. 5000 "Fastest-Growing Private Companies" list
          from 2014 to 2021; nine-time honoree of the Washington Business Journal's "Best Places to Work",
          ranked #1 in 2021.</p> 
-  - level: Academic
-    careerfair:
-    - name: CodeVA 
-      img: codeva.png
-      link: https://www.codevirginia.org/
+    - name: Internal Revenue Service (IRS) 
+      description: >
+    - name: Loyola University Maryland
+      img: loyola.jpg
+      link: https://www.loyola.edu/academics/computer-science
       class: light
+      description: >
+         <p>Take your career to the next level with an online Master of Science in Data Science from Loyola
+         University Maryland.</p>
+         <p>Learn Python to turn messy web data into clean data, mine and analyze data with SAS, and apply
+         sophisticated statistical modeling using R to answer complex, data-driven problems.</p>
+         <p>The online learning format means work-life-class balance. And upon graduation enjoy a rewarding
+         career path with high earning potential in a field that consistently ranks as one of the best.</p> 
+    - name: Naval Surface Warfare Center (NSWC)
+      link: https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/ 
+      description: >
+    - name: SimVentions 
+      link: https://www.simventions.com/ 
       description: >
     - name: University of Pennsylvania Engineering
       img: upenn-engr.gif
@@ -452,25 +476,6 @@ careerfair:
          unparalleled access to opportunities for our graduates as they go on to careers in industry or academia.
          Visit our website to learn how Penn Engineering can help you to succeed:
              https://gradadm.seas.upenn.edu/</p> 
-    - name: Loyola University Maryland
-      img: loyola.jpg
-      link: https://www.loyola.edu/academics/computer-science
-      class: light
-      description: >
-         <p>Take your career to the next level with an online Master of Science in Data Science from Loyola
-         University Maryland.</p>
-         <p>Learn Python to turn messy web data into clean data, mine and analyze data with SAS, and apply
-         sophisticated statistical modeling using R to answer complex, data-driven problems.</p>
-         <p>The online learning format means work-life-class balance. And upon graduation enjoy a rewarding
-         career path with high earning potential in a field that consistently ranks as one of the best.</p> 
-  - level: CareerFairOnly 
-    careerfair:
-    - name: Cask Government Services 
-      description: >
-         <p>Cask provides consulting services to Acquisition, System, and Technology leaders in the Federal
-         Government that require support to achieve mission, ensure compliance, and maintain continuous
-         technological transformation. Your team, continuously tailored to meet your mission needs – today
-         and in the future.</p> 
     - name: Virginia Tech Graduate School
       description: >
          <p>The Virginia Tech Innovation Campus will be both a place and a culture that unlocks the power of
@@ -479,10 +484,6 @@ careerfair:
          Science and Computer Engineering will include project based learning and strong industry and
          government partnerships. Accelerated Bachelor's to Masters (4+1) programs are available to fast track
          the degree. Apply at vt.edu/masters and send questions to techtalent@vt.edu.</p> 
-    - name: Internal Revenue Service (IRS) 
-      description: >
-    - name: Naval Surface Warfare Center (NSWC) 
-      description: >
 speakers:
   - name: Colleen Lewis
     img: Lewis2022.jpg
