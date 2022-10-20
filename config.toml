@@ -45,7 +45,7 @@ theme = "timer-hugo"
     logo = "images/capwic-logo-2-bw-40.jpeg"
     logo_alt = "logo"
     #logo_text = "logo_text"
-    current_conf_year = "2022"
+    current_conf_year = "2023"
 
     # Banner Section
     [params.banner]
