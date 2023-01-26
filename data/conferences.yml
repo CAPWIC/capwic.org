@@ -1,7 +1,7 @@
 enable  : true
 conferences :
   - name: 2023
-    image : images/banner2022.png
+    image : images/banner2023.png
     url: /conferences/2023/
     when: March 31-April 1, 2023
     where: Richmond, VA
