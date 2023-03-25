@@ -6,6 +6,14 @@ description: >
 
   The conference will be hosted by Virginia State University, on March 31 - April 1, 2023.  All levels of experience are welcome. <br> <br>
 
+  <h4>Suggested Hotels</h4>
+
+  <ul style="padding-left: 20px;">
+  <li style="list-style: circle;">Hampton Inn Petersburg-Southpark Mall<br>403 E Roslyn Rd, Colonial Heights, VA 232834</li>
+  <li style="list-style: circle;">Holiday Inn Petersburg North-Fort Lee<br>401 E Roslyn Rd, Colonial Heights, VA 23834</li>
+  <li style="list-style: circle;">SpringHill Suites Chester<br>12301 Redwater Creek Rd, Chester, VA 23831</li>
+  </ul>
+
 image   : images/banner2023.png
 
 deadlines:
@@ -13,21 +21,23 @@ deadlines:
   - date: January 24, 2023
     description: <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-515332953737">Registration Open! <i class="icon ion-ios-open"></i></a>
 
-  - date: February 3, 2023
-    description: Abstract Submission Deadline
-    description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2023">Abstract Submission <i class="icon ion-ios-open"></i></a>
+  - date: February 10, 2023
+    description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2023">Abstract Submission (Extended) <i class="icon ion-ios-open"></i></a>
 
-  - date: February 15, 2023
-    description: Student Scholarship Application Deadline
+  - date: February 23, 2023
+    description: <a target="_top" rel="noopener noreferrer" href="https://forms.gle/YTpkK4WwJefG6iip8">Student Scholarship Application Deadline <i class="icon ion-ios-open"></i></a>
 
-  - date: February 25, 2023
+  - date: March 3, 2023
     description: Deadline for Group Registration 
 
-  - date: March 1, 2023 
-    description: Deadline to Register Individually
+  - date: March 16, 2023 
+    description: Deadline to Register Individually with Hotel
+
+  - date: March 20, 2023 
+    description: Deadline to Register Individually without Hotel
 
   - date: March 31-April 1, 2023
-    description: Attend in-Person!!
+    description: Attend in-Person!!<br><a href="/conferences/2023/schedule">Schedule</a><br><a href="/2023/flyers/capwic2023-parking.pdf">Parking Map</a>
 
 rates:
   - description: Conference Registration + Private Hotel Room
@@ -41,7 +51,7 @@ rates:
 submission:
   lead: |
     <p>There are seven tracks to which you can submit your work.
-      Please submit by the <span style="font-weight: bold;">February 3</span><strong>, 2023 submission deadline</strong>.</p>
+      Please submit by the <span style="font-weight: bold;">February 10</span><strong>, 2023 submission deadline</strong>.</p>
 
       <p>CAPWIC 2023, the ACM Capital Region Celebration of Women in Computing, will be held 
       at Virginia State University, in Petersburg, Virginia. The goal of CAPWIC
@@ -51,7 +61,7 @@ submission:
       in computing in each of the formats below.</p>
       <p><b>Submission instructions</b>: For each category,
     submit an abstract of no more than 250 words
-    using the submission link by FEBRUARY 3, 2023.
+    using the submission link by FEBRUARY 10, 2023.
     All submissions will require the name(s) and
     affiliation(s) of the presenters, and for students,
     their year in school. More details are available on
@@ -101,6 +111,8 @@ nav:
   - name: Registration
     class: external-link
     url: https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-515332953737 
+  - name: Schedule
+    url: /conferences/2023/schedule
   - name: Sponsorship
     url: /conferences/2023/sponsorship
   - name: Organizers
@@ -113,6 +125,8 @@ policies:
 flyers:
   - link: capwic2023-submission-flyer.pdf
     text: Call for Submissions 
+  - link: capwic2023-highschool-flyer.pdf
+    text: Information for High School Students
   - link: capwic2023-sponsor.pdf
     text: Information for Sponsors
 
@@ -219,7 +233,7 @@ organizer_photos:
   - name: Dr. Megan Olsen 
     last_name: Olsen
     link: https://www.loyola.edu/about/community/faculty/olsen
-    avatar: http://www.cs.loyola.edu/~olsen/me.jpg 
+    avatar: https://www.loyola.edu/-/media/about/community/images/faculty/olsen,-d-,min.ashx?h=737&la=en&w=700&hash=640EF3AD9437E2EEB8ECAC1C62C5B8F33D98E7F5 
     affiliation: Loyola University Maryland
   - name: Dr. Robbie Hott
     last_name: Hott
@@ -257,6 +271,16 @@ organizer_photos:
     avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/simmons.png 
     email: info@capwic.org
     affiliation: James Madison University
+  - name: Dr. Chandani Shrestha 
+    last_name: Shrestha
+    link: https://www.jmu.edu/cise/people/faculty/shrestha-chandani.shtml
+    avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/shrestha.png
+    affiliation: James Madison University
+  - name: Dr. Samy El-Tawab
+    last_name: El-Tawab
+    link: http://educ.jmu.edu/~eltawass/
+    avatar: http://educ.jmu.edu/~eltawass/images/Dr%20El-Tawab%20-%2003.jpg
+    affiliation: James Madison University
 
 aboutItem:
   - title : Registration
@@ -287,17 +311,52 @@ sponsors:
     - name: Hilton
       img: hilton.jpg
       class: light
+    - name: Verizon
+      img: verizon.png
+      link: https://www.verizon.com
+      class: light
+  - level: Gold 
+    sponsors:
+    - name: UPenn Computer Science
+      img: upenn-engr.png
+      link: http://www.cis.upenn.edu/index.php
+      class: light
+    - name: Virginia Tech Innovation Campus 
+      img: vt_ic.jpg
+      link: https://vt.edu/innovationcampus/index.html
+      class: light
   - level: Silver 
     sponsors:
+    - name: Dominion Energy 
+      img: dominion.png
+      link: https://www.dominionenergy.com
+      class: light
     - name: JMU College of Integrated Science and Engineering
       img: jmu-cise.png
       link: https://www.jmu.edu/cise/
+      class: light
+  - level: Recruiter 
+    sponsors:
+    - name: iXperience
+      img: ix.svg 
+      link: https://ixlink.co/jan23 
+      class: light
+    - name: SimVentions 
+      img: simventions.png
+      link: https://simventions.com 
       class: light
   - level: Academic/Non-Profit 
     sponsors:
     - name: CNU Computer Science
       img: cnu-stacked.jpg
       link: http://cnu.edu/academics/departments/pcse/
+      class: light
+    - name: George Mason University 
+      img: gmu.png
+      link: https://cec.gmu.edu/
+      class: light
+    - name: Joint Warfare Analysis Center 
+      img: jwac.png
       class: light
     - name: Loyola University Maryland
       img: loyola.jpg
@@ -307,6 +366,14 @@ sponsors:
       img: navsea.jpg 
       link: https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/ 
       class: light
+    - name: Northeastern University 
+      img: northeastern.jpg 
+      link: https://www.khoury.northeastern.edu/ 
+      class: light
+    - name: Randolph-Macon College 
+      img: rmclogo.png
+      link: https://www.rmc.edu/departments/computer-science
+      class: light
     - name: University of Mary Washington 
       img: umw.png
       link: https://www.umw.edu 
@@ -315,11 +382,48 @@ sponsors:
       img: uva_cs.jpg
       link: https://engineering.virginia.edu/departments/computer-science 
       class: light
+    - name: Virginia State University 
+      img: vsu.png
+      link: https://www.vsu.edu/
+      class: light
+    - name: Virginia Tech Computer Science 
+      img: vt_cs.jpg
+      link: https://cs.vt.edu/
+      class: light
+    - name: William & Mary Computer Science
+      img: wm.png
+      link: https://www.wm.edu/as/computerscience/
+      class: light
 
 speakers:
-  - name:  
+  - name: Lance Collins
+    img: collins.jpg
     bio: |
-      <p>Coming soon!</p>
+      <p>Lance R. Collins in 2020 was named the inaugural vice president and executive director of the
+      Virginia Tech Innovation Campus. Prior to that he was dean of engineering at Cornell. In 2011,
+      he was part of the team that successfully bid to partner with New York City to build Cornell
+      Tech. As dean, Collins accelerated the college’s diversity efforts, overseeing the increase in
+      underrepresented minority students from 8 to 19 percent, and undergraduate women from 33
+      to 50 percent. Collins’ research uses simulation to study turbulent processes. In 2021 he was
+      elected to the National Academy of Engineering.</p>
+      <h5>Inspiration from “hidden figure”, Dr. Gladys B. West, who made seminal contributions to the global positioning system (GPS)</h5>
+      <p>The Earth is not a perfect sphere.  Indeed, it’s shape is far from round, and that complexity must be accounted for to achieve accurate GPS.  My presentation chronicles the contributions made by Dr. Gladys B. West, an African American mathematician.  Born in rural Dinwiddie County, Virginia in 1930, Dr. West studied mathematics at Virginia State University before joining the Naval Proving Ground in Dahlgren, Virginia, where she led the effort to accurately map the surface of the Earth, leading to centimeter precision in modern GPS systems.  Her remarkable achievements against all odds are an inspiration to us all; however, this talk is not just a tale of individual exceptionalism, but rather a reminder of the lost opportunity incurred by society overlooking the talents that women and minorities can bring to the technological workforce.  Indeed, this motivates our goal to make the Virginia Tech Innovation Campus the most diverse graduate tech program in the country.</p>
+  - name: Anjali Mirchandani
+    img: anjali.jpg
+    bio: |
+      <p>Anjali is a hospitality technology professional with over 25 years of experience. Currently she is a customer platform delivery director at Hilton. In her long career at Hilton, she has helped launch many leading-edge technologies to craft seamless guest experiences. Anjali is passionate about innovation and building great teams. She enjoys coaching and mentoring others to become a better version of themselves. </p>
+  - name: Kendra Schmid 
+    img: kendra.jpg
+    bio: |
+      <p>Kendra is an Agile Transformation Lead Consultant for WillowTree Apps partnering with clients across all industries to build enterprise- and consumer-critical digital products.  Kendra specializes in helping organizations transform how they build products, interact with customers, and foster great work environments; all while continuing to deliver software products on time primarily using Agile methodologies .  Kendra has worked with multinational Fortune 500 companies across hospitality, e-commerce, streaming media, and education.  Kendra has a Masters in Computer Science from University of Virginia where she participated in ACM-W. She is a certified Project Management Professional (PMP), SAFe Program Consultant (SPC), Certified Scrum Product Owner (CSPO), Certified Scrum Master (CSM).
+      </p>
+      <h5>Agile Mindset through Games</h5>
+      <p>Agile is a mindset that takes practice! This session is an extremely interactive experience that revolves around the Agile core values and principles that we will explore through challenges, games, and discussion.  These values and principles underlay the meetings, ceremonies, and ways of working of the major Agile frameworks such as Scrum and Kanban. These frameworks are used in startups to major corporations with many customized flavors that are adapted through returning to the mindset as the guiding principle.   </p>
+  - name: Sandhya Dwarkadas 
+    img: sandhya.jpg
+    bio: |
+      <p>Sandhya Dwarkadas is the Walter N. Munster Professor and Chair of Computer Science at the University of Virginia. Previously, she was the Albert Arendt Hopeman Professor of Engineering at the University of Rochester, where she was professor of computer science with a secondary appointment in electrical and computer engineering, and also served as department chair for 6 years. In 2020, she received the Edmund A. Hajim Outstanding Faculty Award from the University of Rochester. She received her Bachelor’s degree from the Indian Institute of Technology, Madras, India, and her M.S. and Ph.D. from Rice University. She currently also serves on the Computing Research Association (CRA) board as well as on its committee to widen participation in research computing (CRA-WP).</p>
+      <p>Her areas of research interest include parallel and distributed computing, computer architecture, and the interaction and interface between the compiler, runtime/operating system, and underlying architecture. She was named a fellow of the ACM and of the IEEE for fundamental contributions to the design and implementation of shared memory both in hardware and in software, and to hardware and software energy- and resource-aware configurability.</p>
 
 sponsorshipCosts:
   - name: diamond
@@ -496,45 +600,92 @@ sponsorship:
 schedule:
   heading: Schedule 
   body: |
-    The CAPWIC 2023 preliminary schedule.
+    <p>Parking is provided in Lot 27 at Virginia State University.  See the <a href="/2023/flyers/capwic2023-parking.pdf">parking map</a> for more details.</p>
   days:
     - name: Friday March 31, 2023
       color: capwic-primary
       font: white
       events: 
         - name: Registration
-          location: tbd
-          time_start: 3:00PM
-          time_end: 6:30PM
+          location: Jones Dining Hall 
+          time_start: 4:00PM
+          time_end: 8:00PM
           description: > 
             Check in at Registration.
-        - name: Keynote 
-          location: tbd
-          time_start: 5:00PM
-          time_end: 5:40PM
-          description: tbd
         - name: Dinner and Keynote 
-          location: tbd
-          time_start: 5:45PM
-          time_end: 6:30PM
-          description: tbd
+          location: Jones Dining Hall 
+          time_start: 5:30PM
+          time_end: 6:45PM
+          description: >
+            <div>
+              <h5>Inspiration from “hidden figure”, Dr. Gladys B. West, who made seminal contributions to the global positioning system (GPS)</h5>
+              <h7>Lance Collins<h7>
+              <p><i>Virginia Tech</i></p>
+              <p>The Earth is not a perfect sphere.  Indeed, it’s shape is far from round, and that complexity must be accounted for to achieve accurate GPS.  My presentation chronicles the contributions made by Dr. Gladys B. West, an African American mathematician.  Born in rural Dinwiddie County, Virginia in 1930, Dr. West studied mathematics at Virginia State University before joining the Naval Proving Ground in Dahlgren, Virginia, where she led the effort to accurately map the surface of the Earth, leading to centimeter precision in modern GPS systems.  Her remarkable achievements against all odds are an inspiration to us all; however, this talk is not just a tale of individual exceptionalism, but rather a reminder of the lost opportunity incurred by society overlooking the talents that women and minorities can bring to the technological workforce.  Indeed, this motivates our goal to make the Virginia Tech Innovation Campus the most diverse graduate tech program in the country.</p>
+            </div>
+        - name: Game Night and Ice Cream Social
+          location: Jones Dining Hall 
+          time_start: 7:00PM
+          time_end: 9:00PM
+          description: Bring your own board game!
     - name: Saturday April 1, 2023
       color: warning
       font: dark
       events: 
-        - name: Breakfast<br>and Registration
+        - name: Breakfast and Registration
           location: tbd 
           time_start: 8:00AM
-          time_end: 8:45AM
+          time_end: 8:50AM
+          description: tbd
+        - name: Opening Remarks 
+          location: tbd 
+          time_start: 8:50AM
+          time_end: 9:00AM
+          description: tbd
+        - name: Keynote 
+          location: tbd 
+          time_start: 9:00AM
+          time_end: 9:40AM
+          description: >
+            <div>
+              <h7>Anjali Mirchandani<h7>
+              <p><i>Hilton</i></p>
+              <p>Anjali is a hospitality technology professional with over 25 years of experience. Currently she is a customer platform delivery director at Hilton. In her long career at Hilton, she has helped launch many leading-edge technologies to craft seamless guest experiences. Anjali is passionate about innovation and building great teams. She enjoys coaching and mentoring others to become a better version of themselves. </p>
+            </div>
+        - name: Parallel Sessions
+          location: tbd 
+          time_start: 9:50AM
+          time_end: 12:50PM
+          description: tbd
+        - name: College and Career Fair 
+          location: tbd 
+          time_start: 11:50AM
+          time_end: 2:50PM
+          description: tbd
+        - name: Lunch and Poster Session 
+          location: tbd 
+          time_start: 12:50PM
+          time_end: 2:10PM
           description: tbd
         - name: Parallel Sessions
           location: tbd 
-          time_start: 9:45AM
-          time_end: 12:40PM
+          time_start: 2:10PM
+          time_end: 4:50PM
           description: tbd
-        - name: Parallel Sessions
+        - name: Keynote 
           location: tbd 
-          time_start: 1:50PM
-          time_end: 4:300PM
+          time_start: 5:00PM
+          time_end: 5:40PM
+          description: >
+            <div>
+              <h7>Sandhya Dwarkadas<h7>
+              <p><i>University of Virginia</i></p>
+              <p>Sandhya Dwarkadas is the Walter N. Munster Professor and Chair of Computer Science at the University of Virginia. Previously, she was the Albert Arendt Hopeman Professor of Engineering at the University of Rochester, where she was professor of computer science with a secondary appointment in electrical and computer engineering, and also served as department chair for 6 years. In 2020, she received the Edmund A. Hajim Outstanding Faculty Award from the University of Rochester. She received her Bachelor’s degree from the Indian Institute of Technology, Madras, India, and her M.S. and Ph.D. from Rice University. She currently also serves on the Computing Research Association (CRA) board as well as on its committee to widen participation in research computing (CRA-WP).</p>
+              <p>Her areas of research interest include parallel and distributed computing, computer architecture, and the interaction and interface between the compiler, runtime/operating system, and underlying architecture. She was named a fellow of the ACM and of the IEEE for fundamental contributions to the design and implementation of shared memory both in hardware and in software, and to hardware and software energy- and resource-aware configurability.</p>
+            </div>
+        - name: Closing and Award Ceremony 
+          location: tbd 
+          time_start: 5:40PM
+          time_end: 6:00PM
           description: tbd
 

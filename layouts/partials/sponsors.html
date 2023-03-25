@@ -2,18 +2,18 @@
 {{$data := print "conference" $yr}}
 {{with index .Site.Data $data }}
     {{ with .sponsors }}
-<div class="col-md-2 order-md-first order-lg-first order-xl-first order-last wow fadeInLeft" data-wow-delay=".3s">
+<div class="col-md-2 order-md-first order-lg-first order-xl-first order-last wow fadeInLeft" style="padding:0px 7px;" data-wow-delay=".3s">
     <h2>Sponsors</h2>
     {{ range $i := .}}
         {{ if gt (len $i.sponsors) 0 }}
             {{ if and (ne $i.level "PRE") (ne $i.level "POST") }}
-                <h3>{{$i.level}}</h3>
+                <h3 style="border-bottom: 1px solid #444; padding-top: 20px;">{{$i.level}}</h3>
             {{ else if eq $i.level "POST" }}
                 <hr>
             {{ end }}
         {{ end }}
         {{ range $sponsor := $i.sponsors}}
-            <div class="card sponsor">
+            <div class="sponsor" style="padding-bottom: 10px; padding-top: 10px;">
                 <a href="{{$sponsor.link}}" rel="noopener noreferrer" target="_blank"><img class="card-img-top {{$sponsor.class}}" src="/{{$yr}}/sponsors/{{$sponsor.img}}" alt="{{$sponsor.name}}"></a>
                 {{ if $sponsor.subtext }}
                 <div class="card-body">
