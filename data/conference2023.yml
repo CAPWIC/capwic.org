@@ -412,6 +412,8 @@ speakers:
     img: anjali.jpg
     bio: |
       <p>Anjali is a hospitality technology professional with over 25 years of experience. Currently she is a customer platform delivery director at Hilton. In her long career at Hilton, she has helped launch many leading-edge technologies to craft seamless guest experiences. Anjali is passionate about innovation and building great teams. She enjoys coaching and mentoring others to become a better version of themselves. </p>
+      <h5>Keynote</h5>
+      <p>There is a whole big world of computing beyond the traditional technology companies that can lead to exciting careers. Through this talk Anjali gives us a glimpse of the technology that runs the international hotel chain giant and the endless opportunities it holds for women in technology. Anjali invites you to go over her journey at Hilton and share her personal experiences as a woman in technology and some compelling take aways to lead a fulfilling life.</p>
   - name: Kendra Schmid 
     img: kendra.jpg
     bio: |
@@ -424,7 +426,9 @@ speakers:
     bio: |
       <p>Sandhya Dwarkadas is the Walter N. Munster Professor and Chair of Computer Science at the University of Virginia. Previously, she was the Albert Arendt Hopeman Professor of Engineering at the University of Rochester, where she was professor of computer science with a secondary appointment in electrical and computer engineering, and also served as department chair for 6 years. In 2020, she received the Edmund A. Hajim Outstanding Faculty Award from the University of Rochester. She received her Bachelor’s degree from the Indian Institute of Technology, Madras, India, and her M.S. and Ph.D. from Rice University. She currently also serves on the Computing Research Association (CRA) board as well as on its committee to widen participation in research computing (CRA-WP).</p>
       <p>Her areas of research interest include parallel and distributed computing, computer architecture, and the interaction and interface between the compiler, runtime/operating system, and underlying architecture. She was named a fellow of the ACM and of the IEEE for fundamental contributions to the design and implementation of shared memory both in hardware and in software, and to hardware and software energy- and resource-aware configurability.</p>
-
+      <h5>Computing Research Careers</h5>
+      <p>In this talk, Sandhya will give you a glimpse into the challenges and rewards of academic, industry, and national lab careers in computing research, and the skills for success in each.</p>
+        
 sponsorshipCosts:
   - name: diamond
     cost: $8000
@@ -633,59 +637,268 @@ schedule:
       font: dark
       events: 
         - name: Breakfast and Registration
-          location: tbd 
+          location: Hunter McDaniel Atrium 
           time_start: 8:00AM
           time_end: 8:50AM
-          description: tbd
+          description: 
         - name: Opening Remarks 
-          location: tbd 
+          location: Hunter McDaniel 150w
           time_start: 8:50AM
           time_end: 9:00AM
-          description: tbd
+          description: 
         - name: Keynote 
-          location: tbd 
+          location: Hunter McDaniel 150w
           time_start: 9:00AM
           time_end: 9:40AM
           description: >
             <div>
               <h7>Anjali Mirchandani<h7>
               <p><i>Hilton</i></p>
-              <p>Anjali is a hospitality technology professional with over 25 years of experience. Currently she is a customer platform delivery director at Hilton. In her long career at Hilton, she has helped launch many leading-edge technologies to craft seamless guest experiences. Anjali is passionate about innovation and building great teams. She enjoys coaching and mentoring others to become a better version of themselves. </p>
+              <p>There is a whole big world of computing beyond the traditional technology companies that can lead to exciting careers. Through this talk Anjali gives us a glimpse of the technology that runs the international hotel chain giant and the endless opportunities it holds for women in technology. Anjali invites you to go over her journey at Hilton and share her personal experiences as a woman in technology and some compelling take aways to lead a fulfilling life.</p>
             </div>
-        - name: Parallel Sessions
-          location: tbd 
+        - name: Break
+          location: 
+          time_start: 9:40AM
+          time_end: 9:50AM
+          description: Break
+        - name: Resume Review
+          location: Hunter McDaniel 154w
           time_start: 9:50AM
           time_end: 12:50PM
-          description: tbd
+          description: Bring your resume to be reviewed by VSU Career Center and other tech professionals
+        - name: Parallel Sessions
+          time_start: 9:50AM
+          time_end: 10:50AM
+          sessions:
+            - location: Hunter McDaniel 150w 
+              name: WillowTree Apps Workshop
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Agile Mindset through Games</i></h7>
+                </div>
+            - location: Hunter McDaniel 151w 
+              name: Birds of a Feather
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>ChatGPT in the Classroom</i></h7>
+                  <p class="card-text">Nargess Tahmasbi</p>
+                </div>
+            - location: Hunter McDaniel 153w 
+              name: Panel
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Pursuing Graduate School in Computing</i></h7>
+                  <p class="card-text"></p>
+                </div>
+        - name: Break
+          location: 
+          time_start: 10:50AM
+          time_end: 11:00AM
+          description: Break
+        - name: Parallel Sessions
+          time_start: 11:00AM
+          time_end: 11:40AM
+          sessions:
+            - location: Hunter McDaniel 150w 
+              name: WillowTree Apps Workshop
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Agile Mindset through Games (continued)</i></h7>
+                </div>
+            - location: Hunter McDaniel 151w 
+              name: Birds of a Feather
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>What does your [Women in] CS club do?</i></h7>
+                  <p class="card-text">Jennifer Kay</p>
+                </div>
+            - location: Hunter McDaniel 153w 
+              name: Tech Talk
+              details: >
+                <div class="card-body">
+                <h7 class="card-title"><i>ThoughtSwap: Reinfrastructuring Classroom Discourse to promote Conscientious Discourse</i></h7>
+                  <p class="card-text">Chandani Shrestha, Michael C. Stewart and Deborah Tatar</p>
+                </div>
+        - name: Break
+          location: 
+          time_start: 11:40AM
+          time_end: 11:50AM
+          description: Break
         - name: College and Career Fair 
-          location: tbd 
+          location: Hunter McDaniel Atrium 
           time_start: 11:50AM
           time_end: 2:50PM
-          description: tbd
+          description: 
+        - name: Parallel Sessions
+          time_start: 11:50AM
+          time_end: 12:50PM
+          sessions:
+            - location: Hunter McDaniel 150w 
+              name: Panel
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Becoming a Tech Leader</i></h7>
+                </div>
+            - location: Hunter McDaniel 151w 
+              name: Student Research Shorts
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>JACart: James Madison University Autonomous Cart - A Research Prototype</i></h7>
+                  <p class="card-text">Amber Oliver, Samy El-Tawab and Nathan Sprague</p>
+                  <h7 class="card-title"><i>Automatic Detection of News Media Framing</i></h7>
+                  <p class="card-text">Syeda Sabrina Akter and Antonios Anastasopoulos</p>
+                  <h7 class="card-title"><i>Accessibility in Web Design</i></h7>
+                  <p class="card-text">Sarah Blevins</p>
+                </div>
+            - location: Hunter McDaniel 153w 
+              name: Panel
+              details: >
+                <div class="card-body">
+                <h7 class="card-title"><i>Designing Apps for Diversity: Building Bridges through Mobile and Web App Development</i></h7>
+                  <p class="card-text">Scott McCrickard, Joon-Suk Lee, Chandani Shrestha and Mohammed Seyam</p>
+                </div>
         - name: Lunch and Poster Session 
-          location: tbd 
+          location: Hunter McDaniel Atrium
           time_start: 12:50PM
           time_end: 2:10PM
-          description: tbd
+          description: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Towards Improving Access to Healthcare in Virginia : A Cross-Dataset Analysis</i></h7>
+                  <p class="card-text">Ebtesam Al Haque, Angela Smith and Brittany Johnson</p>
+                  <h7 class="card-title"><i>How do cybersecurity attack vectors affect our perception of personal data?</i></h7>
+                  <p class="card-text">Lauren Rousseau</p>
+                  <h7 class="card-title"><i>A Parallel Spatiotemporal Clustering Algorithm with MPI in Analyzing Ground-lightning Dataset</i></h7>
+                  <p class="card-text">Mia Pham, Endre Szakal, Zhuojun Duan, Mace Bentley, Tobias Gerken and Dudley Bonsal</p>
+                  <h7 class="card-title"><i>Assessing the Effect of Urbanization on Water Quality in Chesapeake Bay: An Analysis with Geospatial Tools</i></h7>
+                  <p class="card-text">Zahra Rizvi</p>
+                  <h7 class="card-title"><i>Using Lexicon and Machine Learning-Based Models for Sentiment Analysis in Arabic to Predict Migration Routes</i></h7>
+                  <p class="card-text">Jenny Park, Lisa Singh and Ameeta Agrawal</p>
+                  <h7 class="card-title"><i>Playlist Manager: Understanding Data Structures</i></h7>
+                  <p class="card-text">Lillian Powell</p>
+                  <h7 class="card-title"><i>Hybrid Prediction Markets for Estimating Research Reproducibility</i></h7>
+                  <p class="card-text">Tatiana Chakravorti and Sarah Rajtmajer</p>
+                  <h7 class="card-title"><i>Parody, Joke, or Insanity? Retracted Publications Continue to Garner Attention</i></h7>
+                  <p class="card-text">Autumn Toney and Sara Abdulla</p>
+                  <h7 class="card-title"><i>Determining the Factors that Contribute to the Retention of Women in Cybersecurity</i></h7>
+                  <p class="card-text">Neha Shijo</p>
+                </div>
         - name: Parallel Sessions
-          location: tbd 
           time_start: 2:10PM
+          time_end: 2:50PM
+          sessions:
+            - location: Hunter McDaniel 150w 
+              name: Tech Talk 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Building Strong Foundations: An Introduction to AI Foundation Models</i></h7>
+                    <p class="card-text">Cheryl Howard</p>
+                </div>
+            - location: Hunter McDaniel 151w 
+              name: Student Research Shorts
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>A Study of Computational Reproducibility using URLs Linking to Open Access Datasets and Software</i></h7>
+                  <p class="card-text">Lamia Salsabil, Jian Wu, Muntabir Hasan Choudhury, William A. Ingram, Edward A. Fox, Sarah M. Rajtmajer and C. Lee Giles</p>
+                  <h7 class="card-title"><i>Authenticating Truth in Motion: A Decentralized Framework for Identifying Fake Messages in VANETs</i></h7>
+                  <p class="card-text">Susan Zehra</p>
+                </div>
+            - location: Hunter McDaniel 153w 
+              name: Flash Talks
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Fighting Imposter Syndrome with your Authentic Self</i></h7>
+                  <p class="card-text">Kennedy Toomey</p>
+                  <h7 class="card-title"><i>Knowledge Graphs of TV Show Plots</i></h7>
+                  <p class="card-text">Veronica Cagle, Rachel Potter and Laman Aliyeva</p>
+                  <h7 class="card-title"><i>Priam: A Solution for Handling Concerns of Virginia State University Students</i></h7>
+                  <p class="card-text">Isaiah Freeman</p>
+                </div>
+        - name: Break
+          location: 
+          time_start: 2:50PM
+          time_end: 3:00PM
+          description: Break
+        - name: Parallel Sessions
+          time_start: 3:00PM
+          time_end: 4:00PM
+          sessions:
+            - location: Hunter McDaniel 150w 
+              name: Workshop 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Workshop: Designing Mobile Games for the Outdoors: From Interesting Ideas to Working Games</i></h7>
+                  <p class="card-text">Scott McCrickard, Morva Saaty and Jaitun Patel</p>
+                </div>
+            - location: Hunter McDaniel 151w 
+              name: Student Research Shorts
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Inside the echo chamber: Linguistic underpinnings of misinformation on Twitter</i></h7>
+                  <p class="card-text">Xinyu Wang and Sarah Rajtmajer</p>
+                  <h7 class="card-title"><i>Detecting Digital Chameleons: How Phone Type and Personality Impact Likability of Texters</i></h7>
+                  <p class="card-text">Brooke Nixon, Lisa Kiang and Nicole Guajardo</p>
+                </div>
+            - location: Hunter McDaniel 153w 
+              name: Panel 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Choosing a Career in Tech</i></h7>
+                </div>
+        - name: Break
+          location: 
+          time_start: 4:00PM
+          time_end: 4:10PM
+          description: Break
+        - name: Parallel Sessions
+          time_start: 4:10PM
           time_end: 4:50PM
-          description: tbd
+          sessions:
+            - location: Hunter McDaniel 150w 
+              name: Tech Talk 
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Automated Attendance-checking System Using Bluetooth</i></h7>
+                  <p class="card-text">Mona Rizvi</p>
+                </div>
+            - location: Hunter McDaniel 151w 
+              name: Tech Talk
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>Reliable Operation of Heterogenous Systems: Challenges & Opportunities</i></h7>
+                  <p class="card-text">Lishan Yang</p>
+                </div>
+            - location: Hunter McDaniel 153w 
+              name: Flash Talks
+              details: >
+                <div class="card-body">
+                  <h7 class="card-title"><i>AI in the Next Generation of Networking</i></h7>
+                  <p class="card-text">Sophia Stil</p>
+                  <h7 class="card-title"><i>Designing Non-blocking Data Structures</i></h7>
+                  <p class="card-text">Emil Hofstetter</p>
+                  <h7 class="card-title"><i>AI Uses in Oil Transportation Infrastructure</i></h7>
+                  <p class="card-text">Eleanor Haas</p>
+                  <h7 class="card-title"><i>Visual Descriptor Extraction from Patent Figure Captions: A Case Study of Data Efficiency Between BiLSTM and Transformer</i></h7>
+                  <p class="card-text">Xin Wei and Jian Wu</p>
+                </div>
+        - name: Break
+          location: 
+          time_start: 4:50PM
+          time_end: 5:00PM
+          description: Break
         - name: Keynote 
-          location: tbd 
+          location: Hunter McDaniel 150w
           time_start: 5:00PM
           time_end: 5:40PM
           description: >
             <div>
+              <h5>Computing Research Careers</h5>
               <h7>Sandhya Dwarkadas<h7>
               <p><i>University of Virginia</i></p>
-              <p>Sandhya Dwarkadas is the Walter N. Munster Professor and Chair of Computer Science at the University of Virginia. Previously, she was the Albert Arendt Hopeman Professor of Engineering at the University of Rochester, where she was professor of computer science with a secondary appointment in electrical and computer engineering, and also served as department chair for 6 years. In 2020, she received the Edmund A. Hajim Outstanding Faculty Award from the University of Rochester. She received her Bachelor’s degree from the Indian Institute of Technology, Madras, India, and her M.S. and Ph.D. from Rice University. She currently also serves on the Computing Research Association (CRA) board as well as on its committee to widen participation in research computing (CRA-WP).</p>
-              <p>Her areas of research interest include parallel and distributed computing, computer architecture, and the interaction and interface between the compiler, runtime/operating system, and underlying architecture. She was named a fellow of the ACM and of the IEEE for fundamental contributions to the design and implementation of shared memory both in hardware and in software, and to hardware and software energy- and resource-aware configurability.</p>
+              <p>In this talk, Sandhya will give you a glimpse into the challenges and rewards of academic, industry, and national lab careers in computing research, and the skills for success in each.</p>
             </div>
         - name: Closing and Award Ceremony 
-          location: tbd 
+          location: Hunter McDaniel 150w
           time_start: 5:40PM
           time_end: 6:00PM
-          description: tbd
+          description: 
 
