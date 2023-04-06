@@ -682,7 +682,7 @@ schedule:
               details: >
                 <div class="card-body">
                   <h7 class="card-title"><i>ChatGPT in the Classroom</i></h7>
-                  <p class="card-text">Nargess Tahmasbi</p>
+                  <p class="card-text">Nargess Tahmasbi, presented by Megan Olsen</p>
                 </div>
             - location: Hunter McDaniel 155W 
               name: Panel
@@ -711,7 +711,7 @@ schedule:
               details: >
                 <div class="card-body">
                   <h7 class="card-title"><i>What does your [Women in] CS club do?</i></h7>
-                  <p class="card-text">Jennifer Kay</p>
+                  <p class="card-text">Emma Dougherty, Alexa Gonzalez, Mary Monaco, Kayla Weldon, Jennifer Kay, and Nancy Tinkham</p>
                 </div>
             - location: Hunter McDaniel 155W 
               name: Tech Talk
@@ -748,8 +748,6 @@ schedule:
                   <p class="card-text">Amber Oliver, Samy El-Tawab and Nathan Sprague</p>
                   <h7 class="card-title"><i>Automatic Detection of News Media Framing</i></h7>
                   <p class="card-text">Syeda Sabrina Akter and Antonios Anastasopoulos</p>
-                  <h7 class="card-title"><i>Accessibility in Web Design</i></h7>
-                  <p class="card-text">Sarah Blevins</p>
                 </div>
             - location: Hunter McDaniel 155W 
               name: Panel
@@ -878,8 +876,6 @@ schedule:
                   <p class="card-text">Emil Hofstetter</p>
                   <h7 class="card-title"><i>AI Uses in Oil Transportation Infrastructure</i></h7>
                   <p class="card-text">Eleanor Haas</p>
-                  <h7 class="card-title"><i>Visual Descriptor Extraction from Patent Figure Captions: A Case Study of Data Efficiency Between BiLSTM and Transformer</i></h7>
-                  <p class="card-text">Xin Wei and Jian Wu</p>
                 </div>
         - name: Break
           location: 
