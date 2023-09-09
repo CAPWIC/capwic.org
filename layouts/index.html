@@ -1,0 +1,22 @@
+{{ $yr := $.Site.Params.current_conf_year }}
+{{$data := print "/conferences/" $yr "/_index.md"}}
+<!-- {{$data}} -->
+<!-- Display the actual site by uncommenting the following line
+
+{{ with .GetPage $data }}{{.Render}}{{end}} 
+-->
+
+{{ partial "header.html" . }}
+
+{{ partial "banner.html" . }}
+{{ partial "nav.html" . }}
+
+{{ partial "about.html" . }}
+
+{{ partial "portfolio.html" . }}
+
+{{ partial "feature.html" . }}
+
+{{ partial "cta.html" . }}
+
+{{ partial "footer.html" . }}

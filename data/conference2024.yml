@@ -1,0 +1,354 @@
+enable  : true
+title   : April 5-6, 2024 
+name    : CAPWIC 2024
+description: >
+  CAPWIC is the ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
+
+  The conference will be hosted by the University of Virginia, on April 5-6, 2024.  All levels of experience are welcome. <br> <br>
+image   : images/banner2024.png
+
+deadlines:
+  - date: April 5-6, 2024
+    description: Attend in-Person!
+speakers:
+rates:
+submission:
+  lead: |
+    <p>There are seven tracks to which you can submit your work.</p>
+
+      <p>CAPWIC 2024, the ACM Capital Region Celebration of Women in Computing, will be held 
+      at the University of Virginia, in Charlottesville, Virginia. The goal of CAPWIC
+      is to bring together female students and allies to promote the recruitment,
+      retention, and progression of women in computing fields. We invite submissions
+      in the area of computing research as well as on efforts to increase diversity
+      in computing in each of the formats below.</p>
+  tracks:
+    - name: Flash Talks
+      description: >
+        Five-minute presentations with five minutes for questions. Fast-paced talks on preliminary results, work-in progress, or anything fun and creative related to the conference are welcome in this category. All levels of experience are welcome.
+    - name: Student Posters
+      description: >
+        Before the conference, presenters create a 24” x 32” poster of research, a class project, or other type of work-in-progress including efforts to diversify computing and are present at the poster during the session to discuss content. Open to all students. Prizes will be awarded. 
+    - name: Student Research Shorts
+      description: >
+        Research shorts are an opportunity to give a 15-minute presentation with an additional 5 minutes for questions, similar to a talk at a research conference. Work should be technical in nature, investigating new ideas in any area of computer science. The intention is to give presenters a friendly environment in which to practice a future technical talk or work out details in an ongoing project to get constructive feedback. Only an abstract is required, so future publication of the work is not limited. 
+    - name: Technical Workshops
+      description: >
+        Workshops present a valuable and current technical skill in a hands-on training session. Proposals must include abstract, the intended audience and power/AV equipment/space needs.
+    - name: Panels
+      description: >
+        Panels present multiple perspectives on a topic. Proposals should include abstract, a list of presenters including their affiliation and perspective, along with a proposed length of 25 or 50 minutes.
+    - name: Birds-of-a-Feather
+      description: >
+        Birds-of-a-feather (BOF) sessions are opportunities for a group of participants with similar concerns to have an informal discussion. BOF sessions will be 30 minutes.
+    - name: Technical Talks
+      description: >
+        25 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
+
+
+
+nav:
+#  - name: CAPWIC 2024
+#    url: /conferences/2024
+    #submission:
+#Flier information that exists on main page
+#Community standard that exists on main page
+#- name: Submissions
+#    url: /conferences/2023/submission
+  - name: Sponsorship
+    url: /conferences/2024/sponsorship
+  - name: Organizers
+    url: /conferences/2024/organizers
+policies:
+  - name: Code of Conduct
+    body: |
+      CAPWIC's top priority is that participants feel welcome, comfortable, respected, and safe while attending. As an official ACM-W celebration, we adhere to <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener noreferrer">the ACM Code of Conduct <i class="icon ion-ios-open"></i></a>.
+flyers:
+
+
+#This section modifies the list of organizers (chairs, local arrangements...etc) that runs down the right-hand side of the organizers page
+organizers:
+  - Chairs:
+    - name: Dr. Sharon Simmons
+      link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+      avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/simmons.png 
+      email: info@capwic.org
+      affiliation: James Madison University
+    - name: Dr. Robbie Hott
+      link: https://engineering.virginia.edu/faculty/john-r-hott
+      affiliation: University of Virginia
+    - name: Dr. Nada Basit 
+      link: https://engineering.virginia.edu/faculty/nada-basit
+      avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public//NadaBasit_headshot.jpg?itok=NfTyLG4y
+      affiliation: University of Virginia
+
+
+
+#This section populates the organizers page with images and contact information. This data is NOT replicated from above.
+organizer_photos:
+  - name: Dr. Swapneel Sheth
+    last_name: Sheth
+    link: https://www.cis.upenn.edu/~swapneel/
+    avatar: https://www.cis.upenn.edu/~swapneel/images/me.JPG
+    affiliation: University of Pennsylvania
+  - name: Dr. Robin Givens
+    last_name: Givens
+    avatar: /2019/organizers/robin.jpg
+    link: https://www.rmc.edu/departments/computer-science/faculty
+    affiliation: Randolph-Macon College
+  - name: Dr. Jason Forsyth
+    last_name: Forsyth
+    link: https://www.jasonforsyth.net
+    avatar: https://scholar.google.com/citations?view_op=medium_photo&user=EY6SBHcAAAAJ&citpid=3
+    affiliation: James Madison University
+  - name: Dr. Megan Olsen 
+    last_name: Olsen
+    link: https://www.loyola.edu/about/community/faculty/olsen
+    avatar: https://www.loyola.edu/-/media/about/community/images/faculty/olsen,-d-,min.ashx?h=737&la=en&w=700&hash=640EF3AD9437E2EEB8ECAC1C62C5B8F33D98E7F5 
+    affiliation: Loyola University Maryland
+  - name: Dr. Robbie Hott
+    last_name: Hott
+    link: https://engineering.virginia.edu/faculty/john-r-hott
+    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg?itok=VsPBmqqo
+    affiliation: University of Virginia
+  - name: Dr. Veena Ravishankar
+    last_name: Ravishankar
+    link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
+    avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2018/04/Ravishankar_Veena_149c-150x150.jpg
+    affiliation: University of Mary Washington
+  - name: Dr. Nada Basit 
+    last_name: Basit
+    link: https://engineering.virginia.edu/faculty/nada-basit
+    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public//NadaBasit_headshot.jpg?itok=NfTyLG4y
+    affiliation: University of Virginia
+  - name: Dr. Sharon Simmons
+    last_name: Simmons
+    link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+    avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/simmons.png 
+    email: info@capwic.org
+    affiliation: James Madison University
+
+aboutItem:
+  - title : Registration
+    type: registration
+    description: > 
+      Registration information coming in January 2024!
+
+  - title : Scholarships
+    description: | 
+      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school.
+
+#this field however ends up as its own Sponsorship page
+  - title : Sponsorship
+    type: sponsorship
+    description: > 
+      CAPWIC is in its 15th year, and we are so thankful for all the support over the years. See below for more information. If you have any questions or concerns please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>
+
+sponsors:
+  - level: PRE
+    sponsors:
+    - name: ACM
+      img: acm.jpg
+      link: https://www.acm.org/
+      class: light
+  - level: Academic/Non-Profit 
+    sponsors:
+    - name: University of Virginia Computer Science 
+      img: uva_cs.jpg
+      link: https://engineering.virginia.edu/departments/computer-science 
+      class: light
+
+
+sponsorshipCosts:
+  - name: diamond
+    cost: $8000
+  - name: platinum
+    cost: $5000
+  - name: gold
+    cost: $2500
+  - name: silver
+    cost: $1000
+  - name: recruiter
+    cost: $750
+  - name: non-profit/academic
+    cost: $500
+sponsorship:
+  - type: General
+    perks: 
+      - name: Get a Table at the Career Fair
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: 2 FREE tickets to attend the celebration
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Send Engineers/Mentors
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Host a Technical Workshop
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Hold a keynote or a presentation
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: false
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+  - type: Recruiting and Branding
+    perks: 
+      - name: Swag in Attendee bag
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Blurb in Program & Website
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Company Logo on Attendee bag
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Receive Resume Book
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Company Logo on event t-shirt
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Award Branded Prize
+        levels:
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: false
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+schedule:
+  heading: Schedule 
+  days:
+    - name: Friday April 5, 2024
+      color: capwic-primary
+      font: white
+      events: 
+        - name: Registration, Dinner, and Keynote
+          location: Alumni Hall
+          time_start: 4:00PM
+          time_end: 8:00PM
+          description:
+    - name: Saturday April 6, 2023
+      color: warning
+      font: dark
+      events: 
+        - name: Parallel Sessions, Career Fair, and more
+          location: Rice Hall and Olsson Hall 
+          time_start: 8:00AM
+          time_end: 5:00pm
+          description: 

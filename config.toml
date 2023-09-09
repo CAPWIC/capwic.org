@@ -45,13 +45,13 @@ theme = "timer-hugo"
     logo = "images/capwic-logo-2-bw-40.jpeg"
     logo_alt = "logo"
     #logo_text = "logo_text"
-    current_conf_year = "2023"
+    current_conf_year = "2024"
 
     # Banner Section
     [params.banner]
         enable  = true
         bgImage = "images/conferences/IMG_1523-zoomed.jpeg"
-        heading = "SAVE THE DATE FOR CAPWIC 2022!<br>March 25-26, 2022 <br> VIRTUAL"
+        heading = "SAVE THE DATE FOR CAPWIC 2024!<br>April 5-6, 2024 <br> The University of Virginia"
         description = "The <u>Cap</u>ital Region Celebration of <u>W</u>omen <u>i</u>n <u>C</u>omputing Conference."
     #    [[params.banner.btn]]
     #        btnText = "Learn More"
@@ -78,7 +78,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "CAPWIC"
-        content = "The Capital Region includes Colleges and Universities as far North as Pennsylvania, and as far south as Virginia. The Capital Region Celebration of Women in Computing Conference brings together students, faculty, and industry partners to engage with research and development in computing through discussion and community-building."
+        content = "CAPWIC 2024, the ACM Capital Region Celebration of Women in Computing, will be held at the University of Virginia, in Charlottesville, Virginia. The goal of CAPWIC is to bring together female students and allies to promote the recruitment, retention, and progression of women in computing fields. <br><br> The Capital Region includes Colleges and Universities as far North as Pennsylvania, and as far south as Virginia. The Capital Region Celebration of Women in Computing Conference brings together students, faculty, and industry partners to engage with research and development in computing through discussion and community-building."
         image   = "images/capwic-logo-2-bw.jpg"
 
     # Call to Action
@@ -87,7 +87,7 @@ theme = "timer-hugo"
         title   = "Join Us!"
         content = "Whether you would like to sponsor our conference, volunteer to organize, or simply to attend or keep in touch, we'd love to hear from you."
         btnText = "Contact us"
-        btnURL  = "/contact"
+        btnURL  = "mailto:info@capwic.org"
 
     # Portfolio Section On Homepage
     [params.portfolio]
