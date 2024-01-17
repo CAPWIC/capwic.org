@@ -1,5 +1,11 @@
 enable  : true
 conferences :
+  - name: 2024
+    image : images/banner2024.png
+    url: /conferences/2024/
+    when: April 5-6, 2024
+    where: Charlottesville, VA
+    institution: The University of Virginia 
   - name: 2023
     image : images/banner2023.png
     url: /conferences/2023/

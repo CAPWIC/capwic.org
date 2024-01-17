@@ -1,12 +1,19 @@
 {{ $yr := $.Site.Params.current_conf_year }}
 {{$data := print "/conferences/" $yr "/_index.md"}}
+
+<!-- this next line is just for debugging.  -->
+<!-- uncommenting it should result in the top of the page printing the path -->
+<!-- to the current year's _index.md, e.g. /conferences/2024/_index.md  -->
+
 <!-- {{$data}} -->
-<!-- Display the actual site by uncommenting the following line
 
-{{ with .GetPage $data }}{{.Render}}{{end}} 
--->
+<!-- Display the actual site by uncommenting the following line-->
 
-{{ partial "header.html" . }}
+{{ with .GetPage $data }}{{.Render "list"}}{{end}} 
+
+<!-- "list" parameter only recently required. huge thanks to https://discourse.gohugo.io/t/error-no-layout-given-after-hugo-upgrade/45345 -->
+
+<!-- {{ partial "header.html" . }}
 
 {{ partial "banner.html" . }}
 {{ partial "nav.html" . }}
@@ -19,4 +26,4 @@
 
 {{ partial "cta.html" . }}
 
-{{ partial "footer.html" . }}
+{{ partial "footer.html" . }} -->
