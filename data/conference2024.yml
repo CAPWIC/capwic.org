@@ -5,23 +5,43 @@ description: >
   CAPWIC is the ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
 
   The conference will be hosted by the University of Virginia, on April 5-6, 2024.  All levels of experience are welcome. <br> <br>
+  <hr style="width:39vw">
+  <h4> Suggested Hotels</h4>
+  <ul style="padding-left: 20px;">
+  <li style="list-style: circle;">Coming soon!</li>
+  </ul>
 image   : images/banner2024.png
 
 deadlines:
+  - date: February 9, 2024
+    description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/cfp/ACM-CAPWIC2024">Abstract Submission <i class="icon ion-ios-open"></i></a>
   - date: April 5-6, 2024
     description: Attend in-Person!
 speakers:
 rates:
 submission:
   lead: |
-    <p>There are seven tracks to which you can submit your work.</p>
-
-      <p>CAPWIC 2024, the ACM Capital Region Celebration of Women in Computing, will be held 
-      at the University of Virginia, in Charlottesville, Virginia. The goal of CAPWIC
-      is to bring together female students and allies to promote the recruitment,
-      retention, and progression of women in computing fields. We invite submissions
-      in the area of computing research as well as on efforts to increase diversity
-      in computing in each of the formats below.</p>
+    <p>There are seven tracks to which you can submit your work. Please submit by the <span style="font-weight: bold;">February 10</span><strong>, 2023 submission deadline</strong>.</p>
+    <p>CAPWIC 2024, the ACM Capital Region Celebration of Women in Computing, will be held 
+    at the University of Virginia, in Charlottesville, Virginia. The goal of CAPWIC
+    is to bring together female students and allies to promote the recruitment,
+    retention, and progression of women in computing fields. We invite submissions
+    in the area of computing research as well as on efforts to increase diversity
+    in computing in each of the formats below.</p>
+    <p><b>Submission instructions</b>: For each category,
+    submit an abstract of no more than 250 words
+    using the submission link by FEBRUARY 9, 2024.
+    All submissions will require the name(s) and
+    affiliation(s) of the presenters, and for students,
+    their year in school. More details are available on
+    the submission site. If you have questions,
+    please contact Jason Forsyth, Program Chair, at
+    techchair@capwic.org</p>
+    <p>Our <a href="/2024/flyers/capwic-2024-submission-flyer.pdf" download>call for submissions flyer<i class="ion-ios-cloud-download"></i> is available for download here</a>.</p>
+    <hr class="my-4">
+    <p>
+    <a class="float-right btn btn-primary btn-lg" rel="noopener noreferrer" target='_blank' href="https://easychair.org/cfp/ACM-CAPWIC2024" role="button">Submit now!</a>
+    </p>
   tracks:
     - name: Flash Talks
       description: >
@@ -48,13 +68,13 @@ submission:
 
 
 nav:
-#  - name: CAPWIC 2024
-#    url: /conferences/2024
+  - name: CAPWIC 2024
+    url: /conferences/2024
     #submission:
 #Flier information that exists on main page
 #Community standard that exists on main page
-#- name: Submissions
-#    url: /conferences/2023/submission
+  - name: Call for Submissions
+    url: /conferences/2024/participation
   - name: Sponsorship
     url: /conferences/2024/sponsorship
   - name: Organizers
@@ -69,19 +89,110 @@ flyers:
 #This section modifies the list of organizers (chairs, local arrangements...etc) that runs down the right-hand side of the organizers page
 organizers:
   - Chairs:
-    - name: Dr. Sharon Simmons
-      link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
-      avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/simmons.png 
-      email: info@capwic.org
-      affiliation: James Madison University
+    #- name: Dr. Sharon Simmons
+    #  link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+    #  avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/simmons.png 
+    #  email: info@capwic.org
+    #  affiliation: James Madison University
     - name: Dr. Robbie Hott
       link: https://engineering.virginia.edu/faculty/john-r-hott
       affiliation: University of Virginia
+      #avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg
+      last_name: Hott
+      email: info@capwic.org
     - name: Dr. Nada Basit 
+      last_name: Basit 
+      email: info@capwic.org
       link: https://engineering.virginia.edu/faculty/nada-basit
-      avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public//NadaBasit_headshot.jpg?itok=NfTyLG4y
+      #avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public//NadaBasit_headshot.jpg?itok=NfTyLG4y
       affiliation: University of Virginia
-
+  - Technical Program:
+    - name: Dr. Jason Forsyth
+      last_name: Forsyth
+      link: https://www.jasonforsyth.net
+      affiliation: James Madison University
+      email: techchair@capwic.org
+  - Sponsorship / Career Fair:
+    - name: Dr. Swapneel Sheth
+      last_name: Sheth
+      link: https://www.cis.upenn.edu/~swapneel/
+      affiliation: University of Pennsylvania
+    - name: Dr. Sharon Simmons
+      last_name: Simmons
+      link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+      #avatar: https://www.jmu.edu/cs/images/faculty-staff-images/simmons.jpg
+      email: info@capwic.org
+      affiliation: James Madison University
+  - Scholarships:
+    - name: Dr. Daniel Graham
+      last_name: Graham
+      #avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/cropped%20picture.jpg
+      link: https://danielggraham.com/
+      affiliation: University of Virginia
+      email: scholarship@capwic.org
+  - Publicity: 
+    - name: Dr. Zhuojun Duan 
+      last_name: Duan
+      affiliation: James Madison University
+      link: https://www.jmu.edu/cise/cs/people/faculty-staff/duan-zhuojun.shtml
+  - Publicity Materials Designer: 
+    - name: Dr. Robin Givens
+      last_name: Givens
+      link: https://www.rmc.edu/departments/computer-science/faculty
+      affiliation: Randolph-Macon College
+  - Program Committee:
+    - name: Dr. Jason Forsyth
+      last_name: Forsyth
+      link: https://www.jasonforsyth.net
+      affiliation: James Madison University
+    - name: Dr. Briana Morrison 
+      last_name: Morrison
+      link: https://engineering.virginia.edu/faculty/briana-morrison
+      #avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/Morrison03.JPG?itok=TLYFroEY 
+      affiliation: University of Virginia
+    - name: Dr. Megan Olsen 
+      last_name: Olsen
+      link: https://www.loyola.edu/about/community/faculty/olsen
+      #avatar: https://www.loyola.edu/-/media/about/community/images/faculty/olsen.ashx?h=737&la=en&w=700&hash=EDA0ADCC03C172F165CCA952C6A8E3E2AAFC1789
+      affiliation: Loyola University Maryland
+    - name: Dr. Veena Ravishankar
+      last_name: Ravishankar
+      link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
+      #avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2018/04/Ravishankar_Veena_149c-150x150.jpg
+      affiliation: University of Mary Washington
+    - name: Dr. Michael Stewart
+      last_name: Stewart
+      #avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg
+      link: https://hcientist.com
+      affiliation: James Madison University
+    - name: Dr. Pinar Yanardag
+      last_name: Yanardag
+      link: https://website.cs.vt.edu/people/new-faculty/pinar-yanardag.html
+      #avatar: https://website.cs.vt.edu/content/website_cs_vt_edu/en/people/new-faculty/pinar-yanardag/jcr:content/bio-image.transform/xl-medium/image.jpg
+      affiliation: Virginia Tech
+  - Finance:
+    - name: Dr. Robbie Hott
+      last_name: Hott
+      link: https://engineering.virginia.edu/faculty/john-r-hott
+      affiliation: University of Virginia
+      #avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg
+    - name: Dr. Nada Basit 
+      last_name: Basit 
+      link: https://engineering.virginia.edu/faculty/nada-basit
+      #avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public//NadaBasit_headshot.jpg?itok=NfTyLG4y
+      affiliation: University of Virginia
+    - name: Dr. Sharon Simmons
+      last_name: Simmons
+      link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+      #avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/simmons.png 
+      email: info@capwic.org
+      affiliation: James Madison University
+  - Website:
+    - name: Dr. Michael Stewart
+      last_name: Stewart
+      #avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg
+      link: https://hcientist.com
+      affiliation: James Madison University
 
 
 #This section populates the organizers page with images and contact information. This data is NOT replicated from above.
@@ -101,6 +212,7 @@ organizer_photos:
     link: https://www.jasonforsyth.net
     avatar: https://scholar.google.com/citations?view_op=medium_photo&user=EY6SBHcAAAAJ&citpid=3
     affiliation: James Madison University
+    email: techchair@capwic.org
   - name: Dr. Megan Olsen 
     last_name: Olsen
     link: https://www.loyola.edu/about/community/faculty/olsen
@@ -111,6 +223,7 @@ organizer_photos:
     link: https://engineering.virginia.edu/faculty/john-r-hott
     avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg?itok=VsPBmqqo
     affiliation: University of Virginia
+    email: info@capwic.org
   - name: Dr. Veena Ravishankar
     last_name: Ravishankar
     link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
@@ -121,12 +234,40 @@ organizer_photos:
     link: https://engineering.virginia.edu/faculty/nada-basit
     avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public//NadaBasit_headshot.jpg?itok=NfTyLG4y
     affiliation: University of Virginia
+    email: info@capwic.org
   - name: Dr. Sharon Simmons
     last_name: Simmons
     link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
     avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/simmons.png 
     email: info@capwic.org
     affiliation: James Madison University
+  - name: Dr. Pinar Yanardag
+    last_name: Yanardag
+    link: https://website.cs.vt.edu/people/new-faculty/pinar-yanardag.html
+    avatar: https://website.cs.vt.edu/content/website_cs_vt_edu/en/people/new-faculty/pinar-yanardag/jcr:content/bio-image.transform/xl-medium/image.jpg
+    affiliation: Virginia Tech
+  - name: Dr. Michael Stewart
+    last_name: Stewart
+    email: web@capwic.org
+    avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg
+    link: https://hcientist.com
+    affiliation: James Madison University
+  - name: Dr. Briana Morrison 
+    last_name: Morrison
+    link: https://engineering.virginia.edu/faculty/briana-morrison
+    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/Morrison03.JPG?itok=TLYFroEY 
+    affiliation: University of Virginia
+  - name: Dr. Zhuojun Duan 
+    last_name: Duan
+    avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/duan.png
+    link: https://www.jmu.edu/cise/cs/people/faculty-staff/duan-zhuojun.shtml
+    affiliation: James Madison University
+  - name: Dr. Daniel Graham
+    last_name: Graham
+    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/cropped%20picture.jpg
+    link: https://danielggraham.com/
+    affiliation: University of Virginia
+    email: scholarship@capwic.org
 
 aboutItem:
   - title : Registration
