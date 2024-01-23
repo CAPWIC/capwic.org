@@ -294,9 +294,17 @@ sponsors:
       class: light
   - level: Academic/Non-Profit 
     sponsors:
+    - name: Northeastern University 
+      img: northeastern.jpg 
+      link: https://www.khoury.northeastern.edu/ 
+      class: light
     - name: University of Virginia Computer Science 
       img: uva_cs.jpg
       link: https://engineering.virginia.edu/departments/computer-science 
+      class: light
+    - name: William & Mary Computer Science
+      img: wm.png
+      link: https://www.wm.edu/as/computerscience/
       class: light
 
 
