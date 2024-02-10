@@ -13,7 +13,7 @@ description: >
 image   : images/banner2024.png
 
 deadlines:
-  - date: February 9, 2024
+  - date: February <del>9</del> 12, 2024
     description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/cfp/ACM-CAPWIC2024">Abstract Submission <i class="icon ion-ios-open"></i></a>
   - date: February 9, 2024
     description: Student Scholarship Applications Open...
@@ -154,7 +154,7 @@ organizers:
       affiliation: University of Virginia
     - name: Dr. Megan Olsen 
       last_name: Olsen
-      link: https://www.loyola.edu/about/community/faculty/olsen
+      link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/olsen-megan.html
       #avatar: https://www.loyola.edu/-/media/about/community/images/faculty/olsen.ashx?h=737&la=en&w=700&hash=EDA0ADCC03C172F165CCA952C6A8E3E2AAFC1789
       affiliation: Loyola University Maryland
     - name: Dr. Veena Ravishankar
@@ -217,8 +217,8 @@ organizer_photos:
     email: techchair@capwic.org
   - name: Dr. Megan Olsen 
     last_name: Olsen
-    link: https://www.loyola.edu/about/community/faculty/olsen
-    avatar: https://www.loyola.edu/-/media/about/community/images/faculty/olsen.ashx?h=737&la=en&w=700&hash=EDA0ADCC03C172F165CCA952C6A8E3E2AAFC1789
+    link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/olsen-megan.html
+    avatar: https://capwic.org/2024/organizers/olsenweb.jpeg
     affiliation: Loyola University Maryland
   - name: Dr. Robbie Hott
     last_name: Hott
@@ -270,13 +270,46 @@ organizer_photos:
     link: https://danielggraham.com/
     affiliation: University of Virginia
     email: scholarship@capwic.org
-
+attending:
+  image: /images/banner.png
+  title: Information for Attendees
+  description: something desc
+  aboutItem: 
+    - title: Lodging
+      description: >
+          Deadline: March 5
+          <p class="wow fadeInUp" data-wow-delay=".5s" data-wow-duration="500ms">We have arranged a block of rooms at each of the following hotels. In addition to these, some attendees choose to seek lodging accommodations at other hotels or via AirBNB.</p>
+          <ol>
+            <li>
+              <a target="_blank" rel="noopener noreferrer" href="https://www.marriott.com/events/start.mi?id=1697730739679&key=GRP">Draftsman - $252/night</a> with the following room types:
+              <ol>
+                <li>Doubles</li>
+              </ol>
+            </li>
+            <li>
+              <a target="_blank" rel="noopener noreferrer" href="https://www.marriott.com/events/start.mi?id=1696796568013&key=GRP">Courtyard Marriott - $249/night</a> with the following room types:
+              <ol>
+                <li>Double Queens</li>
+                <li>King + Pull-out Sofa</li>
+              </ol>
+            </li>
+          </ol>
+    - title: Parking
+      description: >
+        The conference events will be in different places between Friday and Saturday, so parking in different places would be most convenient:
+        <dl>
+          <dt>Friday</dt>
+          <dd><a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/yuEeGtgFxKUEPdfE9">Central Grounds Garage (code required)</a></dd>
+          <dt>Saturday</dt>
+          <dd>Scott Stadium Lot (free)</dd>
+        </dl>
+    - title: What's a conference?
+      description: Research conferences vary widely. They are often categorized in part by the geographic region from which they aim to recruit participants, e.g. regional, national, international. Typically they have a "program" (or "technical program") which is the term used for the part of the conference schedule that involves presentations of the accepted authors' research. Usually the technical program is for some set of academic disciplines or fields of research. Different conferences aim for different amounts of participation from students of different academic stages, researchers, industry members, and community members. Conferences are a great place to meet others in a field from the previous, same, and later stages of their careers and learn about their experiences and their scholarship.
 aboutItem:
   - title : Registration
     type: registration
     description: > 
       Registration information coming in January 2024!
-
   - title : Scholarships
     description: | 
       Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school.
