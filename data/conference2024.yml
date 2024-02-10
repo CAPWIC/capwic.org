@@ -72,6 +72,8 @@ submission:
 nav:
   - name: CAPWIC 2024
     url: /conferences/2024
+  - name: Attending
+    url: /conferences/2024/attending
     #submission:
 #Flier information that exists on main page
 #Community standard that exists on main page
@@ -273,7 +275,7 @@ organizer_photos:
 attending:
   image: /images/banner.png
   title: Information for Attendees
-  description: something desc
+  description: Attending a conference is a great part of professional development, and fun! We hope the details on this page help you prepare for your CAPWIC experience.
   aboutItem: 
     - title: Lodging
       description: >
