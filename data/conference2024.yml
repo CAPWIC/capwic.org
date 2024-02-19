@@ -180,6 +180,14 @@ organizers:
       last_name: Loerraker
       link: https://research.chalmers.se/person/meagan
       affiliation: Chalmers University of Technology
+    - name: Sally Hamouda
+      last_name: Hamouda
+      link: https://sallyhamouda.com/
+      affiliation: Virginia Tech
+    - name: Sehrish Basir Nizamani
+      last_name: Nizamani
+      link: https://website.cs.vt.edu/people/new-faculty/sehrish-basir.html
+      affiliation: Virginia Tech
   - Finance:
     - name: Dr. Robbie Hott
       last_name: Hott
@@ -282,6 +290,17 @@ organizer_photos:
     last_name: Loerraker
     link: https://research.chalmers.se/person/meagan
     affiliation: Chalmers University of Technology
+    avatar: https://capwic.org/2024/organizers/meagan_loerakker.jpg
+  - name: Sally Hamouda
+    last_name: Hamouda
+    link: https://sallyhamouda.com/
+    affiliation: Virginia Tech
+    avatar: https://capwic.org/2024/organizers/sally-h.webp
+  - name: Sehrish Basir Nizamani
+    last_name: Nizamani
+    link: https://website.cs.vt.edu/people/new-faculty/sehrish-basir.html
+    affiliation: Virginia Tech
+    avatar: https://website.cs.vt.edu/content/website_cs_vt_edu/en/people/new-faculty/sehrish-basir/jcr:content/bio-image.transform/xl-medium/image.jpg
 attending:
   image: /images/banner.png
   title: Information for Attendees
