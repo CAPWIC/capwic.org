@@ -79,6 +79,9 @@ nav:
   - name: Attending
     url: /conferences/2024/attending
     #submission:
+  - name: Registration
+    class: external-link
+    url: https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator
 #Flier information that exists on main page
 #Community standard that exists on main page
   - name: Call for Submissions
@@ -315,7 +318,7 @@ organizer_photos:
 attending:
   image: /images/banner.png
   title: Information for Attendees
-  description: Attending a conference is a great part of professional development, and fun! We hope the details on this page help you prepare for your CAPWIC experience.
+  description: Attending a conference is a great part of professional development, and fun! We hope the details on this page help you prepare for your CAPWIC experience. <h3><a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator">Register to attend now! <i class="icon ion-ios-open"></i></a></a></h3>
   aboutItem: 
     - title: Lodging
       description: >
