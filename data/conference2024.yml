@@ -16,7 +16,9 @@ deadlines:
   - date: February <del>9</del> 12, 2024
     description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/cfp/ACM-CAPWIC2024">Abstract Submission <i class="icon ion-ios-open"></i></a>
   - date: February 9, 2024
-    description: <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/Psgj8ke8EtP5TLfD7">Student Scholarship Applications Opened! <i class="icon ion-ios-open"></i></a>
+    description: <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/Psgj8ke8EtP5TLfD7">Student Scholarship Applications Opened <i class="icon ion-ios-open"></i></a>
+  - date: February 22, 2024
+    description: <a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator">Register to attend now! <i class="icon ion-ios-open"></i></a>
   - date: March 5, 2024
     description: <a href="/conferences/2024/attending">Reserve Hotel</a>
   - date: April 5-6, 2024
@@ -188,6 +190,10 @@ organizers:
       last_name: Nizamani
       link: https://website.cs.vt.edu/people/new-faculty/sehrish-basir.html
       affiliation: Virginia Tech
+    - name: Angela Orebaugh
+      last_name: Orebaugh
+      link: https://engineering.virginia.edu/faculty/angela-orebaugh
+      affiliation: University of Virginia
   - Finance:
     - name: Dr. Robbie Hott
       last_name: Hott
@@ -301,6 +307,11 @@ organizer_photos:
     link: https://website.cs.vt.edu/people/new-faculty/sehrish-basir.html
     affiliation: Virginia Tech
     avatar: https://website.cs.vt.edu/content/website_cs_vt_edu/en/people/new-faculty/sehrish-basir/jcr:content/bio-image.transform/xl-medium/image.jpg
+  - name: Angela Orebaugh
+    last_name: Orebaugh
+    link: https://engineering.virginia.edu/faculty/angela-orebaugh
+    affiliation: University of Virginia
+    avatar: /2024/organizers/Angela_Orebaugh.jpg
 attending:
   image: /images/banner.png
   title: Information for Attendees
@@ -358,6 +369,12 @@ sponsors:
       img: acm.jpg
       link: https://www.acm.org/
       class: light
+  - level: Gold
+    sponsors:
+    - name: JMU CISE
+      img: jmu-cise.png
+      link: https://www.jmu.edu/cise/
+      class: light
   - level: Academic/Non-Profit 
     sponsors:
     - name: Northeastern University 
@@ -371,6 +388,10 @@ sponsors:
     - name: William & Mary Computer Science
       img: wm.png
       link: https://www.wm.edu/as/computerscience/
+      class: light
+    - name: Virginia Tech Computer Science 
+      img: vt_cs.jpg
+      link: https://cs.vt.edu/
       class: light
 
 
