@@ -316,7 +316,8 @@ organizer_photos:
     affiliation: University of Virginia
     avatar: /2024/organizers/Angela_Orebaugh.jpg
 attending:
-  image: /images/banner.png
+  # image: /images/banner.png
+  code: <iframe src="https://www.google.com/maps/d/embed?mid=1TbNi6LH0vNbNyGSYoODzW2uCRooLdoc&ehbc=2E312F" width="480" height="360"></iframe>
   title: Information for Attendees
   description: Attending a conference is a great part of professional development, and fun! We hope the details on this page help you prepare for your CAPWIC experience. <h3><a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator">Register to attend now! <i class="icon ion-ios-open"></i></a></a></h3>
   aboutItem: 
