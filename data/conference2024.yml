@@ -1,15 +1,32 @@
 enable  : true
 title   : April 5-6, 2024 
 name    : CAPWIC 2024
-description: >
+description: |
   CAPWIC is the ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
 
   The conference will be hosted by the University of Virginia, on April 5-6, 2024.  All levels of experience are welcome. <br> <br>
+  <a href="/2024/flyers/2024 ACM CAPWIC Pre-Program.pdf" class="btn btn-info float-right" download><i class="icon ion-ios-book"></i> View the pre-program</a>
+  <br> <br>
+  <hr style="width:39vw">
+  If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us so that we help with group payments and registration.<br><br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning float-right"><i class="icon ion-ios-mail"></i> Email us to register your group</a><br><br>
   <hr style="width:39vw">
   <h4> Suggested Hotels</h4>
-  <ul style="padding-left: 20px;">
-  <li style="list-style: circle;">Coming soon!</li>
-  </ul>
+  We have arranged a block of rooms at each of the following hotels. In addition to these, some attendees choose to seek lodging accommodations at other hotels or via AirBNB.</p>
+  <ol>
+    <li>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.marriott.com/events/start.mi?id=1697730739679&key=GRP">Draftsman - $252/night</a> with the following room types:
+      <ol>
+        <li>Doubles</li>
+      </ol>
+    </li>
+    <li>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.marriott.com/events/start.mi?id=1696796568013&key=GRP">Courtyard Marriott - $249/night</a> with the following room types:
+      <ol>
+        <li>Double Queens</li>
+        <li>King + Pull-out Sofa</li>
+      </ol>
+    </li>
+  </ol>
 image   : images/banner2024.png
 
 deadlines:
@@ -18,9 +35,11 @@ deadlines:
   - date: February 9, 2024
     description: <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/Psgj8ke8EtP5TLfD7">Student Scholarship Applications Opened <i class="icon ion-ios-open"></i></a>
   - date: February 22, 2024
-    description: <a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator">Register to attend now! <i class="icon ion-ios-open"></i></a>
-  - date: March 5, 2024
-    description: <a href="/conferences/2024/attending">Reserve Hotel</a>
+    description: <ul><li><a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator">Register to attend now! <i class="icon ion-ios-open"></i></a></li><li><a href="/conferences/2024/attending/#group-reg">Registering a group?</a></li>
+  - date: March 4, 2024
+    description: <a href="/conferences/2024/attending">Reserve Hotel at Conference Rate</a>
+  - date: March 22, 2024
+    description: Registration Deadline for Individuals and Groups
   - date: April 5-6, 2024
     description: Attend in-Person!
 speakers:
@@ -29,7 +48,17 @@ speakers:
     bio: |
       <p>Cynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford. She has a PhD in high-performance computing from UC San Diego, and her other scholarly specializations include computer science education, tech/AI ethics and social impact, and machine learning/AI algorithms. Her teaching awards include the President's Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, a "Top 10 Papers of All Time" award at the 50th anniversary of the ACM SIGCSE technical symposium, and the Stanford Society of Women Engineers' Professor of the Year. Outside of academia, her work experience includes NASA Ames, startups, and expert witness testifying for top intellectual property law firms. She is on leave from Stanford this year to work on AI Policy in the U.S. Senate, as a AAAS AI Policy Fellow.</p>
       <h5>Computing with a Conscience: crafting a career that matches your values</h5>
-      <p>Did you fall in love with coding, but have concerns about the negative impacts some technology has had on society and the planet? Are you excited about the potential for technology to improve the world, and want to do your part to realize the best vision of what’s possible? I’ll share stories of my own journey: from writing simple games, to designing AI algorithms at a startup, to teaching at Stanford, and now advising the US government on AI policy. And I’ll share advice on how you can shape your own journey. </p>
+      <p>Did you fall in love with coding, but have concerns about the negative impacts some technology has had on society and the planet? Are you excited about the potential for technology to improve the world, and want to do your part to realize the best vision of what's possible? I'll share stories of my own journey: from writing simple games, to designing AI algorithms at a startup, to teaching at Stanford, and now advising the US government on AI policy. And I'll share advice on how you can shape your own journey. </p>
+  - name: "Beyond Graduation: Finding Your Community as a Professional Woman in Technology"
+    img: author-bg.jpg
+    bio: |
+      <p>As college students, women who are in technology fields often find themselves in the minority. Luckily, most students are able to access supportive student groups such as SWE, WIC, women in data science, and others. But what happens when you graduate and land your first job working as a women in tech? Many women find themselves at companies that are even more gender- imbalanced than their college programs, often in new cities where they have to build new connections from scratch. Many networking groups for women in technology are hard to find or only offer conferences or meetups once or twice a year. It can be challenging to find a supportive community that offers guidance from women's perspective on professional situations such as salary negotiation, getting recognition for your work, and professional development. And as women progress in their careers, additional challenges emerge, including navigating management tracks, maternity leave policies, and juggling family life. Charlottesville Women in Tech (CWIT) is a non-profit that was created to address this need for connection and support among women who work in technology careers. This panel will feature CWIT board members who will share their stories about feeling alone in new jobs, seeking connections, and creating a strong, thriving group of local women who can network and guide each other through career (and life) challenges. The panel will discuss ways to find women in similar situations, how to create networking opportunities, and how to continue fostering connections throughout your entire career.</p>
+      <h5>Panelists</h5>
+      <ul>
+      <li>Eileen Krepkovich, Senior Research Scientist at Barron Associates and President of Charlottesville Women in Tech</li>
+      <li>Kim Wilkens, Education and Outreach Director at the UVA School of Education and Vice President of Charlottesville Women in Tech</li>
+      <li>Elaine Cheng, Chief Information Officer at Shentel and Board Member of Charlottesville Women in Tech</li>
+      </ul>
 rates:
 submission:
   lead: |
@@ -315,7 +344,7 @@ attending:
   # image: /images/banner.png
   code: <iframe src="https://www.google.com/maps/d/embed?mid=1TbNi6LH0vNbNyGSYoODzW2uCRooLdoc&ehbc=2E312F" width="480" height="360"></iframe>
   title: Information for Attendees
-  description: Attending a conference is a great part of professional development, and fun! We hope the details on this page help you prepare for your CAPWIC experience. <h3><a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator">Register to attend now! <i class="icon ion-ios-open"></i></a></a></h3>
+  description: Attending a conference is a great part of professional development, and fun! We hope the details on this page help you prepare for your CAPWIC experience.<br><a target="_blank" rel="noopener noreferrer" class="btn btn-primary" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator">Register to attend now! <i class="icon ion-ios-open"></i></a></h3><h3 id="group-reg">Registering a group?</h3><p>If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us at info@capwic.org so that we help with group payments and registration.<br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning"><i class="icon ion-ios-mail"></i> Email us to register your group</a>
   aboutItem: 
     - title: Lodging
       description: >
@@ -369,29 +398,49 @@ sponsors:
       img: acm.jpg
       link: https://www.acm.org/
       class: light
+  - level: Diamond
+    sponsors:
+    - name: Verizon
+      img: verizon.png
+      link: https://www.jmu.edu/cise/
+      class: light
   - level: Gold
     sponsors:
     - name: JMU CISE
       img: jmu-cise.png
       link: https://www.jmu.edu/cise/
       class: light
+  - level: Recruiter 
+    sponsors:
+    - name: SimVentions 
+      img: simventions.png
+      link: https://simventions.com 
+      class: light
   - level: Academic/Non-Profit 
     sponsors:
+    - name: Loyola
+      img: loyola.jpg
+      link: https://www.loyola.edu/
+      class: light
     - name: Northeastern University 
       img: northeastern.jpg 
       link: https://www.khoury.northeastern.edu/ 
+      class: light
+    - name: University of Mary Washington 
+      img: umw.png
+      link: https://www.umw.edu 
       class: light
     - name: University of Virginia Computer Science 
       img: uva_cs.jpg
       link: https://engineering.virginia.edu/departments/computer-science 
       class: light
-    - name: William & Mary Computer Science
-      img: wm.png
-      link: https://www.wm.edu/as/computerscience/
-      class: light
     - name: Virginia Tech Computer Science 
       img: vt_cs.jpg
       link: https://cs.vt.edu/
+      class: light
+    - name: William & Mary Computer Science
+      img: wm.png
+      link: https://www.wm.edu/as/computerscience/
       class: light
 
 
