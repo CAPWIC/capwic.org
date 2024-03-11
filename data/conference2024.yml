@@ -412,6 +412,10 @@ sponsors:
       class: light
   - level: Recruiter 
     sponsors:
+    - name: CoStar Group
+      img: costar-brand-thumbnail-V1.jpg
+      link: https://www.costargroup.com/
+      class: light
     - name: SimVentions 
       img: simventions.png
       link: https://simventions.com 
