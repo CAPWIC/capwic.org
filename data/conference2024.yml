@@ -263,12 +263,12 @@ organizer_photos:
   - name: Dr. Megan Olsen 
     last_name: Olsen
     link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/olsen-megan.html
-    avatar: https://capwic.org/2024/organizers/olsenweb.jpeg
+    avatar: /2024/organizers/olsenweb.jpeg
     affiliation: Loyola University Maryland
   - name: Dr. Robbie Hott
     last_name: Hott
     link: https://engineering.virginia.edu/faculty/john-r-hott
-    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/small.jpg?itok=VsPBmqqo
+    avatar: /2024/organizers/robbie_hott.webp
     affiliation: University of Virginia
     email: info@capwic.org
   - name: Dr. Veena Ravishankar
@@ -279,7 +279,7 @@ organizer_photos:
   - name: Dr. Nada Basit 
     last_name: Basit
     link: https://engineering.virginia.edu/faculty/nada-basit
-    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public//NadaBasit_headshot.jpg?itok=NfTyLG4y
+    avatar: /2024/organizers/NadaBasit_headshot.webp
     affiliation: University of Virginia
     email: info@capwic.org
   - name: Dr. Sharon Simmons
@@ -302,7 +302,7 @@ organizer_photos:
   - name: Dr. Briana Morrison 
     last_name: Morrison
     link: https://engineering.virginia.edu/faculty/briana-morrison
-    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/Morrison03.JPG?itok=TLYFroEY 
+    avatar: /2024/organizers/brianna_morrison.JPG
     affiliation: University of Virginia
   - name: Dr. Zhuojun Duan 
     last_name: Duan
@@ -311,7 +311,7 @@ organizer_photos:
     affiliation: James Madison University
   - name: Dr. Daniel Graham
     last_name: Graham
-    avatar: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/cropped%20picture.jpg
+    avatar: /2024/organizers/daniel_graham.webp
     link: https://danielggraham.com/
     affiliation: University of Virginia
     email: scholarship@capwic.org
