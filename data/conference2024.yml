@@ -410,6 +410,10 @@ sponsors:
       img: jmu-cise.png
       link: https://www.jmu.edu/cise/
       class: light
+    - name: UPenn Computer Science
+      img: upenn-engr.png
+      link: http://www.cis.upenn.edu/index.php
+      class: light
   - level: Recruiter 
     sponsors:
     - name: CoStar Group
@@ -426,6 +430,10 @@ sponsors:
       img: loyola.jpg
       link: https://www.loyola.edu/
       class: light
+    - name: Naval Surface Warfare Center Dahlgren Division
+      img: navsea.jpg 
+      link: https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/ 
+      class: light
     - name: Northeastern University 
       img: northeastern.jpg 
       link: https://www.khoury.northeastern.edu/ 
@@ -437,6 +445,10 @@ sponsors:
     - name: University of Virginia Computer Science 
       img: uva_cs.jpg
       link: https://engineering.virginia.edu/departments/computer-science 
+      class: light
+    - name: Virginia State University 
+      img: vsu.png
+      link: https://www.vsu.edu/
       class: light
     - name: Virginia Tech Computer Science 
       img: vt_cs.jpg
