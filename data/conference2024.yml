@@ -34,8 +34,8 @@ deadlines:
     description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/cfp/ACM-CAPWIC2024">Abstract Submission <i class="icon ion-ios-open"></i></a>
   - date: February 9, 2024
     description: <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/Psgj8ke8EtP5TLfD7">Student Scholarship Applications Opened <i class="icon ion-ios-open"></i></a>
-  - date: February 22, 2024
-    description: <ul><li><a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator">Register to attend now! <i class="icon ion-ios-open"></i></a></li><li><a href="/conferences/2024/attending/#group-reg">Registering a group?</a></li>
+  - date: <span class="bg-warning">March&nbsp;26,&nbsp;2024<br>(🚨Registration Extended!)</span>
+    description: <ul class="bg-warning"><li><a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator">Register to attend now! <i class="icon ion-ios-open"></i></a></li><li><a href="/conferences/2024/attending/#group-reg">Registering a group?</a></li>
   - date: March 4, 2024
     description: <a href="/conferences/2024/attending">Reserve Hotel at Conference Rate</a>
   - date: March 22, 2024
