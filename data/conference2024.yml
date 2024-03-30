@@ -56,9 +56,17 @@ speakers:
       <h5>Panelists</h5>
       <ul>
       <li>Eileen Krepkovich, Senior Research Scientist at Barron Associates and President of Charlottesville Women in Tech</li>
-      <li>Kim Wilkens, Education and Outreach Director at the UVA School of Education and Vice President of Charlottesville Women in Tech</li>
       <li>Elaine Cheng, Chief Information Officer at Shentel and Board Member of Charlottesville Women in Tech</li>
+      <li>Jane Jackson, Senior Software Engineer, Q-Centrix</li>
+      <li>Kim Wilkens, Education and Outreach Director at the UVA School of Education and Vice President of Charlottesville Women in Tech</li>
+      <li><hr></li>
+      <li>Moderated by Briana Morrison, UVA Computer Science</li>
       </ul>
+  - name: Melanie Frank
+    img: Melanie Headshot 1.2020.PNG
+    bio: |
+      <h5>What Rocket Science & Banking Have in Common</h5>
+      <p>When you think of Rocket Science and Banking you probably don’t think of them as interchangeable careers, but they actually have a lot more in common than you might imagine. Join <a href="/2024/speakers/Melanie Frank Bio 2024.pdf" download>Melanie Frank <i class="icon ion-md-cloud-download"></i></a> as she talks about how her dream to become an astronaut led her down the unanticipated path to software engineer.<p>
 rates:
 submission:
   lead: |
@@ -114,13 +122,16 @@ nav:
   - name: Attending
     url: /conferences/2024/attending
     #submission:
+  - name: Schedule
+    class: external-link
+    url: https://easychair.org/smart-program/ACMCAPWIC2024/
   - name: Registration
     class: external-link
     url: https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator
 #Flier information that exists on main page
 #Community standard that exists on main page
-  - name: Call for Submissions
-    url: /conferences/2024/participation
+  #- name: Call for Submissions
+  #  url: /conferences/2024/participation
   - name: Sponsorship
     url: /conferences/2024/sponsorship
   - name: Organizers
@@ -344,7 +355,12 @@ attending:
   # image: /images/banner.png
   code: <iframe src="https://www.google.com/maps/d/embed?mid=1TbNi6LH0vNbNyGSYoODzW2uCRooLdoc&ehbc=2E312F" width="480" height="360"></iframe>
   title: Information for Attendees
-  description: Attending a conference is a great part of professional development, and fun! We hope the details on this page help you prepare for your CAPWIC experience.<br><a target="_blank" rel="noopener noreferrer" class="btn btn-primary" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator">Register to attend now! <i class="icon ion-ios-open"></i></a></h3><h3 id="group-reg">Registering a group?</h3><p>If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us at info@capwic.org so that we help with group payments and registration.<br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning"><i class="icon ion-ios-mail"></i> Email us to register your group</a>
+  description: |
+    <div class="alert alert-warning" role="alert">
+      The conference schedule is now posted!<br>
+      Check out our <a class="text-dark " href="https://easychair.org/smart-program/ACMCAPWIC2024/"><strong>CAPWIC&nbsp;2024&nbsp;Program&nbsp;<i class="icon ion-ios-open"></i></strong></a>
+    </div>
+    Attending a conference is a great part of professional development, and fun! We hope the details on this page help you prepare for your CAPWIC experience.<br><a target="_blank" rel="noopener noreferrer" class="btn btn-primary" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator">Register to attend now! <i class="icon ion-ios-open"></i></a></h3><h3 id="group-reg">Registering a group?</h3><p>If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us at info@capwic.org so that we help with group payments and registration.<br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning"><i class="icon ion-ios-mail"></i> Email us to register your group</a>
   aboutItem: 
     - title: Lodging
       description: >
@@ -370,7 +386,7 @@ attending:
         The conference events will be in different places between Friday and Saturday, so parking in different places would be most convenient:
         <dl>
           <dt>Friday</dt>
-          <dd><a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/yuEeGtgFxKUEPdfE9">Central Grounds Garage (code required)</a></dd>
+          <dd>Alumni Hall Lot</dd>
           <dt>Saturday</dt>
           <dd>Scott Stadium Lot (free)</dd>
         </dl>
