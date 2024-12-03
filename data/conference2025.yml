@@ -16,10 +16,10 @@ image   : images/banner2024.png
 deadlines:
   - date: March 29, 2025
     description: Attend in-Person!
-speakers:
-  - name: Coming Soon!
-    bio: |
-      <p>We're excited to share the details with you soon!</p>
+      #speakers:
+      # - name: Coming Soon!
+      #bio: |
+      #<p>We're excited to share the details with you soon!</p>
 rates:
 submission:
   lead: |
@@ -72,8 +72,8 @@ submission:
 nav:
   - name: CAPWIC 2025
     url: /conferences/2025
-  - name: Attending
-    url: /conferences/2025/attending
+      #- name: Attending
+      #url: /conferences/2025/attending
     #submission:
     #- name: Schedule
     #  class: external-link
@@ -383,10 +383,8 @@ sponsorshipCosts:
     cost: $5000
   - name: gold
     cost: $2500
-  - name: silver
-    cost: $1000
   - name: recruiter
-    cost: $750
+    cost: $500
   - name: non-profit/academic
     cost: $500
 sponsorship:
@@ -400,8 +398,6 @@ sponsorship:
             enabled: true
           - name: gold
             enabled: true
-          - name: silver
-            enabled: true
           - name: recruiter
             enabled: true
           - name: non
@@ -414,26 +410,10 @@ sponsorship:
             enabled: true
           - name: gold
             enabled: true
-          - name: silver
-            enabled: true
           - name: recruiter
             enabled: true
           - name: non
             enabled: true
-      - name: Send Engineers/Mentors
-        levels: 
-          - name: diamond
-            enabled: true
-          - name: platinum
-            enabled: true
-          - name: gold
-            enabled: true
-          - name: silver
-            enabled: true
-          - name: recruiter
-            enabled: false
-          - name: non
-            enabled: false
       - name: Host a Technical Workshop
         levels: 
           - name: diamond
@@ -441,8 +421,6 @@ sponsorship:
           - name: platinum
             enabled: true
           - name: gold
-            enabled: false
-          - name: silver
             enabled: false
           - name: recruiter
             enabled: false
@@ -455,8 +433,6 @@ sponsorship:
           - name: platinum
             enabled: false
           - name: gold
-            enabled: false
-          - name: silver
             enabled: false
           - name: recruiter
             enabled: false
@@ -472,8 +448,6 @@ sponsorship:
             enabled: true
           - name: gold
             enabled: true
-          - name: silver
-            enabled: true
           - name: recruiter
             enabled: true
           - name: non
@@ -485,8 +459,6 @@ sponsorship:
           - name: platinum
             enabled: true
           - name: gold
-            enabled: true
-          - name: silver
             enabled: true
           - name: recruiter
             enabled: true
@@ -500,8 +472,18 @@ sponsorship:
             enabled: true
           - name: gold
             enabled: true
-          - name: silver
+          - name: recruiter
             enabled: false
+          - name: non
+            enabled: false
+      - name: Company Logo on event t-shirt
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
           - name: recruiter
             enabled: false
           - name: non
@@ -514,22 +496,6 @@ sponsorship:
             enabled: true
           - name: gold
             enabled: false
-          - name: silver
-            enabled: false
-          - name: recruiter
-            enabled: false
-          - name: non
-            enabled: false
-      - name: Company Logo on event t-shirt
-        levels: 
-          - name: diamond
-            enabled: true
-          - name: platinum
-            enabled: true
-          - name: gold
-            enabled: false
-          - name: silver
-            enabled: false
           - name: recruiter
             enabled: false
           - name: non
@@ -541,8 +507,6 @@ sponsorship:
           - name: platinum
             enabled: false
           - name: gold
-            enabled: false
-          - name: silver
             enabled: false
           - name: recruiter
             enabled: false
