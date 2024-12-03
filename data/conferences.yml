@@ -1,5 +1,11 @@
 enable  : true
 conferences :
+  - name: 2025
+    image : images/banner2025.png
+    url: /conferences/2025/
+    when: March 29, 2025
+    where: Washington, D.C.
+    institution: The George Washington University
   - name: 2024
     image : images/banner2024.png
     url: /conferences/2024/
