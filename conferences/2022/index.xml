@@ -4,9 +4,8 @@
     <title>Home on CAPWIC</title>
     <link>//capwic.org/conferences/2022/</link>
     <description>Recent content in Home on CAPWIC</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="//capwic.org/conferences/2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Nov 2019 22:14:57 -0500</lastBuildDate><atom:link href="//capwic.org/conferences/2022/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
