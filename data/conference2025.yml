@@ -354,6 +354,10 @@ sponsors:
   #     class: light
   - level: Academic/Non-Profit 
     sponsors:
+    - name: George Washington University
+      img: gw.png
+      link: https://www.gwu.edu/
+      class: light
     - name: Loyola
       img: loyola.jpg
       link: https://www.loyola.edu/
