@@ -5,15 +5,21 @@ description: |
   CAPWIC is the ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
 
   The conference will be hosted by The George Washington University, on March 29, 2025.  All levels of experience are welcome. 
-  <br> <br>
-  <hr style="width:39vw">
-  If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us so that we help with group payments and registration.<br><br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning float-right"><i class="icon ion-ios-mail"></i> Email us to register your group</a><br><br>
-  <hr style="width:39vw">
-  <h4> Suggested Hotels</h4>
-  Coming soon!
+#  <br> <br>
+#  <hr style="width:39vw">
+#  If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us so that we help with group payments and registration.<br><br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning float-right"><i class="icon ion-ios-mail"></i> Email us to register your group</a><br><br>
+#  <hr style="width:39vw">
+#  <h4> Suggested Hotels</h4>
+#  Coming soon!
 image   : images/banner2024.png
 
 deadlines:
+  - date: February 3, 2025
+    description: Submission Deadline
+  - date: February 20, 2025
+    description: Scholarship Deadline
+  - date: March 5, 2025
+    description: Registration Deadline 
   - date: March 29, 2025
     description: Attend in-Person!
       #speakers:
@@ -23,7 +29,7 @@ deadlines:
 rates:
 submission:
   lead: |
-    <p>There are seven tracks to which you can submit your work. Please submit by the <span style="font-weight: bold;">TBD</span><strong>, submission deadline</strong>.</p>
+    <p>There are seven tracks to which you can submit your work. Please submit by <span style="font-weight: bold;">Febrary 3, 2025</span><strong>, the submission deadline</strong>.</p>
     <p>CAPWIC 2025, the ACM Capital Region Celebration of Women in Computing, will be held 
     at The George Washington University, in Washington, D.C. The goal of CAPWIC
     is to bring together female students and allies to promote the recruitment,
@@ -32,7 +38,7 @@ submission:
     in computing in each of the formats below.</p>
     <p><b>Submission instructions</b>: For each category,
     submit an abstract of no more than 250 words
-    using the submission link by Deadline TBD.
+    using the submission link below.
     All submissions will require the name(s) and
     affiliation(s) of the presenters, and for students,
     their year in school. More details are available on
@@ -83,8 +89,8 @@ nav:
     # url: https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator
 #Flier information that exists on main page
 #Community standard that exists on main page
-  #- name: Call for Submissions
-  #  url: /conferences/2025/participation
+  - name: Call for Submissions
+    url: /conferences/2025/participation
   - name: Sponsorship
     url: /conferences/2025/sponsorship
   - name: Organizers
@@ -177,11 +183,12 @@ organizers:
       affiliation: George Washington University
       email: local@capwic.org
   - Website:
-    - name: Dr. Michael Stewart
-      last_name: Stewart
-      link: https://hcientist.com
-      affiliation: James Madison University
+    - name: Dr. Robbie Hott
+      last_name: Hott
+      affiliation: University of Virginia 
       email: web@capwic.org
+      link: https://engineering.virginia.edu/faculty/john-r-hott
+      avatar: /2024/organizers/robbie_hott.webp
 #This section populates the organizers page with images and contact information. This data is NOT replicated from above.
 organizer_photos:
   - name: Dr. Swapneel Sheth
@@ -294,7 +301,8 @@ attending:
     <div class="alert alert-warning" role="alert">
       More info soon!
     </div>
-    Attending a conference is a great part of professional development, and fun! We hope the details on this page help you prepare for your CAPWIC experience.<br><a target="_blank" rel="noopener noreferrer" class="btn btn-primary" href="#">Registration Link coming soon! <i class="icon ion-ios-open"></i></a></h3><h3 id="group-reg">Registering a group?</h3><p>If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us at info@capwic.org so that we help with group payments and registration.<br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning"><i class="icon ion-ios-mail"></i> Email us to register your group</a>
+    Attending a conference is a great part of professional development, and fun! We hope the details on this page help you prepare for your CAPWIC experience.<br><a target="_blank" rel="noopener noreferrer" class="btn btn-primary" href="#">Registration Link coming soon! <i class="icon ion-ios-open"></i></a></h3>
+    #<h3 id="group-reg">Registering a group?</h3><p>If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us at info@capwic.org so that we help with group payments and registration.<br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning"><i class="icon ion-ios-mail"></i> Email us to register your group</a>
   aboutItem: 
     - title: Lodging
       description: >

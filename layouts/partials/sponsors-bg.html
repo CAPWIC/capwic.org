@@ -4,7 +4,7 @@
     {{ with .sponsors }}
 <div class="row order-last wow fadeInLeft" data-wow-delay=".3s">
     <div class="col-md-12">
-    <h2 id="sponsors" style="border-bottom: 1px solid #bbb;">Sponsors</h2>
+    <h2 id="sponsors" style="border-bottom: 1px solid #bbb; padding-top: 10px">Sponsors</h2>
     <div class="row justify-content-center">
     {{ range $i := .}}
         {{ if gt (len $i.sponsors) 0 }}
