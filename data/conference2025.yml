@@ -15,7 +15,7 @@ image   : images/banner2024.png
 
 deadlines:
   - date: February 3, 2025
-    description: Submission Deadline
+    description: <a href="https://capwic25.hotcrp.com" target="_blank" rel="noopener noreferrer">Submission Deadline <i class="icon ion-ios-open"></i></a>
   - date: February 20, 2025
     description: Scholarship Deadline
   - date: March 5, 2025
@@ -48,7 +48,7 @@ submission:
     
     <hr class="my-4">
     <p>
-    Submission link coming soon!
+    <a href="https://capwic25.hotcrp.com" target="_blank" rel="noopener noreferrer">Submission Deadline <i class="icon ion-ios-open"></i></a>
     </p>
   tracks:
     - name: Flash Talks
