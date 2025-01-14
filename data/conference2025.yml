@@ -2,7 +2,7 @@ enable  : true
 title   : March 29, 2025
 name    : CAPWIC 2025
 description: |
-  CAPWIC is the ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
+  CAPWIC is an ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
 
   The conference will be hosted by The George Washington University, on March 29, 2025.  All levels of experience are welcome. 
 #  <br> <br>
@@ -19,7 +19,7 @@ deadlines:
   - date: February 20, 2025
     description: Scholarship Deadline
   - date: March 5, 2025
-    description: Registration Deadline 
+    description: <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-2025-tickets-1155233367099" target="_blank" rel="noopener noreferrer">Registration Deadline <i class="icon ion-ios-open"></i></a>
   - date: March 29, 2025
     description: Attend in-Person!
       #speakers:
@@ -30,7 +30,7 @@ rates:
 submission:
   lead: |
     <p>There are seven tracks to which you can submit your work. Please submit by <span style="font-weight: bold;">Febrary 3, 2025</span><strong>, the submission deadline</strong>.</p>
-    <p>CAPWIC 2025, the ACM Capital Region Celebration of Women in Computing, will be held 
+    <p>CAPWIC 2025, an ACM Capital Region Celebration of Women in Computing, will be held 
     at The George Washington University, in Washington, D.C. The goal of CAPWIC
     is to bring together female students and allies to promote the recruitment,
     retention, and progression of women in computing fields. We invite submissions
