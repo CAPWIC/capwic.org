@@ -47,8 +47,8 @@ submission:
     techchair@capwic.org</p>
     
     <hr class="my-4">
-    <p>
-    <a href="https://capwic25.hotcrp.com" target="_blank" rel="noopener noreferrer">Submit Your Abstract <i class="icon ion-ios-open"></i></a>
+    <p class="text-center">
+    <a href="https://capwic25.hotcrp.com" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Submit Your Abstract <i class="icon ion-ios-open"></i></a>
     </p>
   tracks:
     - name: Flash Talks
