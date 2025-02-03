@@ -14,7 +14,7 @@ description: |
 image   : images/banner2024.png
 
 deadlines:
-  - date: February <span style="color: red;"><del>&nbsp;3&nbsp;</del></span> 10, 2025
+  - date: February <del>&nbsp;3&nbsp;</del> 10, 2025
     description: <a href="https://capwic.org/conferences/2025/participation/">Submission Deadline (extended!)<i class="icon ion-ios-open"></i></a>
   - date: February 20, 2025
     description: Scholarship Deadline
