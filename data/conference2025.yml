@@ -14,8 +14,8 @@ description: |
 image   : images/banner2024.png
 
 deadlines:
-  - date: February 3, 2025
-    description: <a href="https://capwic.org/conferences/2025/participation/">Submission Deadline <i class="icon ion-ios-open"></i></a>
+  - date: February <del>3</del> 10, 2025
+    description: <a href="https://capwic.org/conferences/2025/participation/">Submission Deadline (extended!)<i class="icon ion-ios-open"></i></a>
   - date: February 20, 2025
     description: Scholarship Deadline
   - date: March 5, 2025
@@ -29,7 +29,7 @@ deadlines:
 rates:
 submission:
   lead: |
-    <p>There are seven tracks to which you can submit your work. Please submit by <span style="font-weight: bold;">Febrary 3, 2025</span><strong>, the submission deadline</strong>.</p>
+    <p>There are seven tracks to which you can submit your work. Please submit by <span style="font-weight: bold;">Febrary 10, 2025</span><strong>, the submission deadline</strong>.</p>
     <p>CAPWIC 2025, an ACM Capital Region Celebration of Women in Computing, will be held 
     at The George Washington University, in Washington, D.C. The goal of CAPWIC
     is to bring together female students and allies to promote the recruitment,
