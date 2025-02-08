@@ -15,13 +15,13 @@ image   : images/banner2024.png
 
 deadlines:
   - date: February <del>&nbsp;3&nbsp;</del> 10, 2025
-    description: <a href="https://capwic.org/conferences/2025/participation/">Submission Deadline (extended!)<i class="icon ion-ios-open"></i></a>
+    description: <a href="https://capwic.org/conferences/2025/participation/">Submission Deadline (extended!) <i class="icon ion-ios-open"></i></a>
   - date: February 20, 2025
-    description: Scholarship Deadline
+    description: <a href="https://forms.gle/oHmjYxmycAjR3jvM7">Scholarship Deadline <i class="icon ion-ios-open"></i></a>
   - date: March 5, 2025
-    description: <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-2025-tickets-1155233367099" target="_blank" rel="noopener noreferrer">Registration Deadline <i class="icon ion-ios-open"></i></a>
+    description: <a href="/conferences/2025/attending">Registration Deadline</a>
   - date: March 29, 2025
-    description: Attend in-Person!
+    description: <a href="/conferences/2025/attending">Attend in-Person!</a>
       #speakers:
       # - name: Coming Soon!
       #bio: |
@@ -78,8 +78,8 @@ submission:
 nav:
   - name: CAPWIC 2025
     url: /conferences/2025
-      #- name: Attending
-      #url: /conferences/2025/attending
+  - name: Attending
+    url: /conferences/2025/attending
     #submission:
     #- name: Schedule
     #  class: external-link
@@ -113,7 +113,7 @@ organizers:
       email: info@capwic.org
     - name: Dr. Sehrish Basir Nizamani
       last_name: Nizamani
-      link: https://website.cs.vt.edu/people/new-faculty/sehrish-basir.html
+      link: https://website.cs.vt.edu/people/faculty/sehrish-basir.html 
       affiliation: Virginia Tech
       email: info@capwic.org
   - Education Liaison: 
@@ -162,13 +162,7 @@ organizers:
       link: https://www.rmc.edu/departments/computer-science/faculty
       affiliation: Randolph-Macon College
       email: scholarship@capwic.org
-  - Publicity: 
-    - name: Dr. Daniel Graham
-      last_name: Graham
-      avatar: /2024/organizers/daniel_graham.webp
-      link: https://danielggraham.com/
-      affiliation: University of Virginia
-      email: publicity@capwic.org
+        #- Publicity: 
   - Local Arrangements:
     - name: Dr. Timothy Wood
       last_name: Wood
@@ -240,6 +234,11 @@ organizer_photos:
   #   link: https://website.cs.vt.edu/people/new-faculty/pinar-yanardag.html
   #   avatar: https://website.cs.vt.edu/content/website_cs_vt_edu/en/people/new-faculty/pinar-yanardag/jcr:content/bio-image.transform/xl-medium/image.jpg
   #   affiliation: Virginia Tech
+  - name: Dr. Jin-Hee Cho 
+    last_name: Cho
+    avatar: /2025/organizers/cho.jpg 
+    link: https://people.cs.vt.edu/~jicho/
+    affiliation: Virginia Tech
   - name: Dr. Michael Stewart
     last_name: Stewart
     email: web@capwic.org
@@ -253,15 +252,9 @@ organizer_photos:
     affiliation: University of Virginia
   - name: Dr. Zhuojun Duan 
     last_name: Duan
-    avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/duan.png
+    avatar: https://www.jmu.edu/cise/_images/faculty-staff/duan.jpg 
     link: https://www.jmu.edu/cise/cs/people/faculty-staff/duan-zhuojun.shtml
     affiliation: James Madison University
-  - name: Dr. Daniel Graham
-    last_name: Graham
-    avatar: /2024/organizers/daniel_graham.webp
-    link: https://danielggraham.com/
-    affiliation: University of Virginia
-    email: scholarship@capwic.org
   - name: Dr. Sally Hamouda
     last_name: Hamouda
     link: https://sallyhamouda.com/
@@ -269,7 +262,7 @@ organizer_photos:
     avatar: https://capwic.org/2024/organizers/sally-h.jpg
   - name: Dr. Sehrish Basir Nizamani
     last_name: Nizamani
-    link: https://website.cs.vt.edu/people/new-faculty/sehrish-basir.html
+    link: https://website.cs.vt.edu/people/faculty/sehrish-basir.html 
     affiliation: Virginia Tech
     avatar: https://experts.vt.edu/27768-sehrish-basir-nizamani/thumbnail
   - name: Deborah Kariuki
@@ -296,27 +289,35 @@ organizer_photos:
 attending:
   # image: /images/banner.png
   # code: <iframe src="https://www.google.com/maps/d/embed?mid=1TbNi6LH0vNbNyGSYoODzW2uCRooLdoc&ehbc=2E312F" width="480" height="360"></iframe>
-  title: Information for Attendees
+  code: |
+    <h3>Registration</h3>
+    <p>Registration is now open for CAPWIC 2025 at the <b>George Washington University</b> in Washington, D.C. on <b>March 29, 2025</b>.  If you are registering individually, please use the link below.  Registration this year is $50, which includes meals, snacks, and events.
+    <p class="text-center">
+    <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-2025-tickets-1155233367099" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Register at Eventbrite</a>
+    </p>
+    <h3>Scholarships</h3>
+    <p>Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. If you would like to apply for a scholarship, please fill out the following form before registering.</p>
+    <p class="text-center">
+    <a href="https://forms.gle/oHmjYxmycAjR3jvM7" target="_blank" rel="noopener noreferrer" class="btn btn-info">Apply for Scholarship</a>
+    </p>
+    <h3 id="group-reg">Registering a group?</h3>
+    <p>If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us at info@capwic.org so that we help with group payments and registration.</p>
+    <p class="text-center"><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning"><i class="icon ion-ios-mail"></i> Email us to register your group</a></p>
   description: |
-    <div class="alert alert-warning" role="alert">
-      More info soon!
-    </div>
-    Attending a conference is a great part of professional development, and fun! We hope the details on this page help you prepare for your CAPWIC experience.<br><a target="_blank" rel="noopener noreferrer" class="btn btn-primary" href="#">Registration Link coming soon! <i class="icon ion-ios-open"></i></a></h3>
-    #<h3 id="group-reg">Registering a group?</h3><p>If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us at info@capwic.org so that we help with group payments and registration.<br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning"><i class="icon ion-ios-mail"></i> Email us to register your group</a>
-  aboutItem: 
-    - title: Lodging
-      description: >
-          Info coming soon
-    - title: Parking
-      description: >
-        Parking info soon
-    - title: What's a conference?
-      description: Research conferences vary widely. They are often categorized in part by the geographic region from which they aim to recruit participants, e.g. regional, national, international. Typically they have a "program" (or "technical program") which is the term used for the part of the conference schedule that involves presentations of the accepted authors' research. Usually the technical program is for some set of academic disciplines or fields of research. Different conferences aim for different amounts of participation from students of different academic stages, researchers, industry members, and community members. Conferences are a great place to meet others in a field from the previous, same, and later stages of their careers and learn about their experiences and their scholarship.
+    <h3>Date</h3>
+    <p>March 29, 2025, 10am - 7pm</p>
+    <h3>Location</h3>
+    <p>The event will be held at the Science and Engineering Building at the George Washington University.</p>
+    <p class="text-right"><iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-77.05159038305284%2C38.89915132809984%2C-77.04804986715318%2C38.90111349058216&amp;layer=mapnik&amp;marker=38.90013241611862%2C-77.049820125103"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=38.900132&amp;mlon=-77.049820#map=19/38.900132/-77.049820">View Larger Map</a></small></p>
+    <h3>Hotels</h3>
+    <p>We have reserved a block in the following hotels.</p>
+    <p class="alert alert-warning">More information coming soon</p>
+
 aboutItem:
   - title : Registration
     type: registration
     description: > 
-      Registration information coming in January 2025!
+      Registration is now open!  More details on our <a href="/conferences/2025/attending">Attending</a> page.  Registration rates are made possible by our sponsors.
   - title : Scholarships
     description: | 
       Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school.
@@ -334,12 +335,18 @@ sponsors:
       img: acm.jpg
       link: https://www.acm.org/
       class: light
-  # - level: Diamond
-  #   sponsors:
-  #   - name: Verizon
-  #     img: verizon.png
-  #     link: https://www.verizon.com
-  #     class: light
+  - level: Diamond
+    sponsors:
+    - name: James Madison University Computer Science
+      img: jmucs.png
+      link: https://www.jmu.edu/cise/cs/
+      class: light
+  - level: Gold 
+    sponsors:
+    - name: GAMA-1 Technologies
+      img: gama-1.png
+      link: https://www.gama1tech.com/ 
+      class: light
   # - level: Gold
   #   sponsors:
   #   - name: JMU CISE
@@ -370,6 +377,14 @@ sponsors:
       img: loyola.jpg
       link: https://www.loyola.edu/
       class: light
+    - name: University of Virginia Computer Science 
+      img: uva_cs.jpg
+      link: https://engineering.virginia.edu/departments/computer-science 
+      class: light
+    - name: University of Mary Washington 
+      img: umw.png
+      link: https://www.umw.edu 
+      class: light
     # - name: Naval Surface Warfare Center Dahlgren Division
     #   img: navsea.jpg 
     #   link: https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/ 
@@ -377,14 +392,6 @@ sponsors:
     # - name: Northeastern University 
     #   img: northeastern.jpg 
     #   link: https://www.khoury.northeastern.edu/ 
-    #   class: light
-    # - name: University of Mary Washington 
-    #   img: umw.png
-    #   link: https://www.umw.edu 
-    #   class: light
-    # - name: University of Virginia Computer Science 
-    #   img: uva_cs.jpg
-    #   link: https://engineering.virginia.edu/departments/computer-science 
     #   class: light
     # - name: Virginia State University 
     #   img: vsu.png
