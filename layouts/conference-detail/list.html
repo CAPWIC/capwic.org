@@ -1,0 +1,181 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+{{ partial "page-title.html" . }}
+
+{{ "<!-- Company Description Section Start -->" | safeHTML }}
+{{ $yr := .Params.year }}
+{{$data := print "conference" $yr}}
+<!-- {{$url := print $yr "/sponsors.html"}} -->
+{{with index .Site.Data $data }}
+<section class="company-description">
+    <div class="container">
+        <div class="row">
+            <div class="col-md">
+                <div class="row">
+                    <div class="col-md">
+                        <div class="block">
+                            {{ with .title }}
+                                <h3 class="subtitle wow fadeInUp" data-wow-delay=".3s"
+                                data-wow-duration="500ms">{{ . }}</h3>
+                            {{ end }}
+                            {{ with .description }}
+                                {{ . | safeHTML }}
+                            {{ end }}
+                        </div>
+                    </div>
+                    <div class="col-md">
+                        <div class="block">
+                            {{ with .deadlines }}
+                            <dl class="row">
+                                {{ range $index, $element := . }}
+                                <dt class="col-md-5 text-right">{{ .date | safeHTML }}</dt>
+                                <dd class="col-md">{{ .description | safeHTML }}</dd>
+                                {{ end }}
+                            </dl>
+                            {{ end }}
+                            {{ if not .deadlines }}
+                                {{ with .policies }}
+                                    <h3>Community Standards</h3>
+                                    {{ range $index, $element := . }}
+                                        <h4>{{ .name }}</h4>
+                                        <p>{{ .body | safeHTML }}</p>
+                                    {{ end }}
+                                {{ end }}
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        {{ with .speakers }}
+                
+                        {{ $yr := $.Params.year }}
+                        {{$data := print "conference" $yr}}
+                        <h2 id="speakers" style="margin-top: 10px;">Speakers</h2>
+                        <div class="row">
+                        {{ range $index, $speaker := . }}
+                        <div class="col-md-4">
+                        <div class="card mb-3">
+                            <img src="/{{$yr}}/speakers/{{ $speaker.img }}" class="card-img-top" alt="{{ $speaker.name }}" style="max-width: inherit;">
+                            <div class="card-body">
+                                <h5 class="card-title">
+                                    {{if $speaker.link}}
+                                    <a href="{{$speaker.link}}">{{ $speaker.name }}</a>
+                                    {{else}}
+                                    {{ $speaker.name }}
+                                    {{ end }}
+                                </h5>
+                                <p class="card-text">
+                                    {{ $speaker.bio| safeHTML | truncate 250}}
+                                    {{ if gt (len $speaker.bio) 250 }}
+                                    <!-- <a data-toggle="collapse" href="#{{$index}}-more-bio">Read more</a> -->
+                                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#speakerModalScrollable-{{$index}}">
+                                        Read more
+                                    </button>
+                                    {{ end }}
+                                </p>
+                                <!-- <p class="card-text collapse" id="{{$index}}-more-bio">{{ substr $speaker.bio 243 | safeHTML}}</p> -->
+                            </div>
+                        </div></div>
+                        <div class="modal fade" id="speakerModalScrollable-{{$index}}" tabindex="-1" role="dialog"
+                            aria-labelledby="speakerModalScrollableTitle-{{$index}}" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-scrollable" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="speakerModalScrollableTitle-{{$index}}">{{ $speaker.name }}</h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="media">
+                                            <img src="/{{$yr}}/speakers/{{ $speaker.img }}" class="mr-3 speaker-modal-pic" alt="{{ $speaker.name }}">
+                                            <div class="media-body">
+                                                {{ $speaker.bio | safeHTML}}
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-primary">Save changes</button>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+                        {{ end }}
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+                {{ partial "sponsors-bg.html" $ }}
+            </div>
+            
+        </div>
+        
+    </div>
+</section>
+
+{{ "<!--  Company Feature Section Start -->" | safeHTML }}
+<section class="about-feature clearfix">
+    <div class="container-fluid">
+        <div class="row">
+            {{ range $index, $element := .aboutItem }}
+            {{ if ne .type "sponsorship"}}
+            
+            {{ $class := add $index 1 }}
+            <div class="col-md-3 px-0 about-feature-{{ $class }}">
+                <div class="block wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
+                    {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+                    {{ with .description }}<p>{{ .| safeHTML }}</p>{{ end }}
+                    {{ if eq .type "registration" }}
+                        {{ with . }}
+                            <dl class="row">
+                                {{with index $.Site.Data $data }}
+                                    {{ range $rindex, $rate := .rates }}
+                                        <dt class="col-md-10">{{ .description }}</dt>
+                                        <dd class="col-md-2">{{ .cost }}</dd>
+                                    {{ end }}
+                                {{ end }}
+                            </dl>
+                        {{ end }}
+                    
+                    {{ end }}
+
+                </div>
+            </div>
+            {{ end }}
+            {{ end }}
+            <div class="col-md-3 px-0 about-feature-3">
+                <div class="block wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
+                        {{ with .flyers }}
+                        {{ $yr := $.Params.year }}
+                        {{$data := print "conference" $yr}}
+                        <h3>Flyers</h3>
+                        <ul>
+                            {{ range $index, $element := . }}
+                            <li><a href="/{{$yr}}/flyers/{{ .link }}">{{ .text }} <i class="icon ion-md-cloud-download"></i></a></li>
+                            {{ end }}
+                        </ul>
+                        {{ end }}
+                </div>
+                    </div>
+            <div class="col-md-3 px-0 about-feature-1">
+                <div class="block wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
+                        {{ if .deadlines}}
+                            {{ with .policies }}
+                                <h3>Community Standards</h3>
+                                {{ range $index, $element := . }}
+                                    <h4>{{ .name }}</h4>
+                                    <p>{{ .body | safeHTML }}</p>
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
+                </div>
+                    </div>
+        </div>
+    </div>
+</section>
+{{ "<!--  Company Feature Section End -->" | safeHTML }}
+{{ end }}
+{{ partial "footer.html" . }}
