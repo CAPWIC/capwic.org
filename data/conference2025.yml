@@ -234,6 +234,11 @@ organizer_photos:
   #   link: https://website.cs.vt.edu/people/new-faculty/pinar-yanardag.html
   #   avatar: https://website.cs.vt.edu/content/website_cs_vt_edu/en/people/new-faculty/pinar-yanardag/jcr:content/bio-image.transform/xl-medium/image.jpg
   #   affiliation: Virginia Tech
+  - name: Dr. Melissa Cameron
+    last_name: Cameron
+    avatar: /2025/organizers/cameron.png 
+    link: https://www.vt.edu/innovationcampus/about/faculty/cameron-melissa.html 
+    affiliation: Virginia Tech
   - name: Dr. Jin-Hee Cho 
     last_name: Cho
     avatar: /2025/organizers/cho.jpg 
