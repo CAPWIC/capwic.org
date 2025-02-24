@@ -176,6 +176,13 @@ organizers:
       link: https://adamaviv.com/
       affiliation: George Washington University
       email: local@capwic.org
+  - Registration:
+    - name: Dr. Swapneel Sheth
+      last_name: Sheth
+      email: info@capwic.org
+      link: https://www.cis.upenn.edu/~swapneel/
+      avatar: https://www.cis.upenn.edu/~swapneel/images/me.JPG
+      affiliation: University of Pennsylvania
   - Website:
     - name: Dr. Robbie Hott
       last_name: Hott
@@ -347,6 +354,12 @@ sponsors:
       img: jmucs.png
       link: https://www.jmu.edu/cise/cs/
       class: light
+  - level: Platinum 
+    sponsors:
+    - name: George Washington University
+      img: gw.png
+      link: https://www.gwu.edu/
+      class: light
   - level: Gold 
     sponsors:
     - name: GAMA-1 Technologies
@@ -375,10 +388,6 @@ sponsors:
   #     class: light
   - level: Academic/Non-Profit 
     sponsors:
-    - name: George Washington University
-      img: gw.png
-      link: https://www.gwu.edu/
-      class: light
     - name: Loyola
       img: loyola.jpg
       link: https://www.loyola.edu/
@@ -395,18 +404,18 @@ sponsors:
     #   img: navsea.jpg 
     #   link: https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/ 
     #   class: light
-    # - name: Northeastern University 
-    #   img: northeastern.jpg 
-    #   link: https://www.khoury.northeastern.edu/ 
+    - name: Northeastern University 
+      img: northeastern.jpg 
+      link: https://www.khoury.northeastern.edu/ 
     #   class: light
     # - name: Virginia State University 
     #   img: vsu.png
     #   link: https://www.vsu.edu/
     #   class: light
-    # - name: Virginia Tech Computer Science 
-    #   img: vt_cs.jpg
-    #   link: https://cs.vt.edu/
-    #   class: light
+    - name: Virginia Tech Computer Science 
+      img: vt_cs.jpg
+      link: https://cs.vt.edu/
+      class: light
     # - name: William & Mary Computer Science
     #   img: wm.png
     #   link: https://www.wm.edu/as/computerscience/

@@ -15,7 +15,7 @@
             {{ end }}
         {{ end }}
         {{ range $sponsor := $i.sponsors}}
-            {{ if or (eq $i.level "Gold") (eq $i.level "Diamond") }}
+            {{ if or (eq $i.level "Gold") (eq $i.level "Diamond") (eq $i.level "Platinum")}}
             <div class="col-md-4">
             {{ else }}
             <div class="col-md-3">
