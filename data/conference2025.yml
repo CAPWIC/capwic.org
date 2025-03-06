@@ -56,10 +56,10 @@ submission:
         Five-minute presentations with five minutes for questions. Fast-paced talks on preliminary results, work-in progress, or anything fun and creative related to the conference are welcome in this category. All levels of experience are welcome.
     - name: Student Posters
       description: >
-        Before the conference, presenters create a 24” x 32” poster of research, a class project, or other type of work-in-progress including efforts to diversify computing and are present at the poster during the session to discuss content. Open to all students. Prizes will be awarded. 
+        Before the conference, presenters create a 36” x 48” poster of research, a class project, or other type of work-in-progress including efforts to diversify computing and are present at the poster during the session to discuss content. Open to all students. Prizes will be awarded. 
     - name: Student Research Shorts
       description: >
-        Research shorts are an opportunity to give a 15-minute presentation with an additional 5 minutes for questions, similar to a talk at a research conference. Work should be technical in nature, investigating new ideas in any area of computer science. The intention is to give presenters a friendly environment in which to practice a future technical talk or work out details in an ongoing project to get constructive feedback. Only an abstract is required, so future publication of the work is not limited. 
+        Research shorts are an opportunity to give a 13-minute presentation with an additional 5 minutes for questions, similar to a talk at a research conference. Work should be technical in nature, investigating new ideas in any area of computer science. The intention is to give presenters a friendly environment in which to practice a future technical talk or work out details in an ongoing project to get constructive feedback. Only an abstract is required, so future publication of the work is not limited. 
     - name: Technical Workshops
       description: >
         Workshops present a valuable and current technical skill in a hands-on training session. Proposals must include abstract, the intended audience and power/AV equipment/space needs.
@@ -68,10 +68,10 @@ submission:
         Panels present multiple perspectives on a topic. Proposals should include abstract, a list of presenters including their affiliation and perspective, along with a proposed length of 25 or 50 minutes.
     - name: Birds-of-a-Feather
       description: >
-        Birds-of-a-feather (BOF) sessions are opportunities for a group of participants with similar concerns to have an informal discussion. BOF sessions will be 30 minutes.
+        Birds-of-a-feather (BOF) sessions are opportunities for a group of participants with similar concerns to have an informal discussion. BOF sessions will be 50-60 minutes.
     - name: Technical Talks
       description: >
-        25 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
+        20 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
 
 
 
@@ -80,6 +80,8 @@ nav:
     url: /conferences/2025
   - name: Attending
     url: /conferences/2025/attending
+  - name: Schedule
+    url: /conferences/2025/schedule
     #submission:
     #- name: Schedule
     #  class: external-link
@@ -561,12 +563,272 @@ sponsorship:
 schedule:
   heading: Schedule 
   days:
-    - name: Friday April 5, 2024
+    - name: Saturday, March 29, 2025 
       color: capwic-primary
       font: white
       events: 
-        - name: Registration, Dinner, and Keynote
-          location: Alumni Hall
-          time_start: 4:00PM
-          time_end: 8:00PM
+        - name: Registration and Breakfast 
+          location: SEH First Floor Atrium
+          time_start: 9:00AM
+          time_end: 9:45AM
           description:
+        - name: Welcome 
+          location: SEH Lehman Auditorium 
+          time_start: 9:45AM
+          time_end: 10:00AM
+          description:
+        - name: Keynote 
+          location: SEH Lehman Auditorium 
+          time_start: 10:00AM
+          time_end: 10:45AM
+          description: >
+            <p><b>Dr. Brown-Kissiedu</b><br>
+            <i>Details coming soon</i></p>
+        - name: Career Fair 
+          location: SEH First Floor Atrium 
+          time_start: 11:00AM
+          time_end: 2:00PM
+        - name: Parallel Sessions
+          time_start: 11:00AM
+          time_end: 10:50AM
+          sessions:
+            - location: SEH Lehman Auditorium
+              type: Panel 
+              name: Thinking about Graduate School? Come learn more!
+              details: >
+                <p></p>
+            - location: SEH 1300
+              type: Research Shorts
+              name: Cybersecurity 1 
+              details: >
+                <p>Combining Open-Source Intelligence (OSINT) with AI for Threat Detection<br>
+                <i>J. Fahmy</i></p>
+                <p>Leveraging Memory Forensics Techniques to detect Python-based Malware<br>
+                <i>H. Ali</i></p>
+                <p>A Hierarchical Deep Reinforcement Learning Chatbot for Cybergrooming Prevention<br>
+                <i>H. An, Q. Zhang, A. Singh, J. Cho</i></p>
+            - location: SEH 1400 
+              type: Research Shorts
+              name: Artificial Intelligence 
+              details: >
+                <p>Plot'n Polish: Zero-shot Story Visualization and Disentangled Editing with Text-to-Image Diffusion Models<br>
+                <i>K. Akdemir, P. Yanardag</i></p>
+                <p>Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG<br>
+                <i>K. Venkatesh, Y. Dalva, I. Lourentzou, P. Yanardag</i></p>
+        - name: Lunch 
+          location: SEH First Floor Atrium
+          time_start: 12:00PM
+          time_end: 12:50PM
+          description: >
+            <p style="font-weight: bold">Student Research Posters</p>
+            <p>Home Tech Care: Symbiotic Tech Caregiving</p>
+            <p>The Web in Schools</p>
+            <p>US Computer Science Faculty Pipeline Dashboard</p>
+            <p>Enhancement of Deep Learning for Segmentation of Protein Secondary Structures from Cryo-EM</p>
+            <p>AI-Powered Enhancement of Student Learning in Large Programming Courses</p>
+            <p>Analyzing Ground-lightning Dataset Using the Density Based Spatial Clustering of Applications with Noise (DBSCAN)</p>
+            <p>P2VFL: Performance and Privacy-enhanced Incentive Mechanism for Vertical Federated Learning</p>
+            <p>Roots for STEM Organization</p>
+            <p>Exploring QUIC Load Balancing Computation Offload to the Kerne</p>
+            <p>Characterizing GPU Memory Errors: Insights from a Cross-supercomputer Study</p>
+            <p>Investigating the Impact of AI-Assisted Tools on Practitioner Well-Being</p>
+            <p>Investigating the Effectiveness of Using K-Nearest-Neighbors and Random Forest in Hybrid Recommendation Systems to Improve Personalized User Experience</p>
+            <p>Voices in Code</p>
+            <p>Designing an Accessible Web Platform to Connect Refugees with Essential Services</p>
+            <p>Redirects Unraveled: From Lost Links to Rickrolls</p>
+            <p>Computational Analysis of Urbanization's Impact on Water Quality Using Earth Observation and GIS</p>
+            <p>Crowdsourced Litter Mapping: A Smart App for Community Cleanup</p>
+            <p>A Solution for Seizures: Developing Machine-Learning Algorithms For Use In Real-Time Seizure Detection Applications</p>
+            <p>Praxly: An Online IDE for the Praxis CS Test Pseudocode</p>
+            <p>Campus Health Tracker: A Location-Based Disease Monitoring App for College Students and Highly Populous Areas</p>
+            <p>Dynamic Quantization: An Era of Reduction</p>
+        - name: Parallel Sessions
+          time_start: 1:00PM
+          time_end: 1:50PM
+          sessions:
+            - location: SEH B1220 
+              type: Technical Talks 
+              name: Artificial Intelligence 
+              details: >
+                <p>Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models<br>
+                <i>T. Kazimi, R. Allada, P. Yanardag</i></p>
+                <p>Enhanced methods for incorporating resiliency in UAV swarms<br>
+                <i>A. Phadke</i></p>
+            - location: SEH B1270
+              type: Research Shorts
+              name: Humans and Artificial Intelligence
+              details: >
+                <p>Human AI Collaboration for Scalable Rationale Generation to Support Explainable Stance Detection Systems<br>
+                <i>A. Gupta, H. Purohit</i></p>
+                <p>Code-Decomp: Automated Prompt Decomposition for Code Generation<br>
+                <i>E. Al Haque, A. Gupta, B. Johnson</i></p>
+                <p>Strategic Questioning and Enhanced Engagement: Developing a Counselor Chatbot Using LLMs and Deep Reinforcement Learning for Deeper Self-Exploration and Therapeutic Dialogue<br>
+                <i>Q. Zhang, H. An, A. Singh, J. Cho</i></p>
+            - location: SEH 1300
+              type: Research Shorts
+              name: Cybersecurity 2
+              details: >
+                <p>Use of Control Flow Graphs with Edges Consideration for Fault Localization<br>
+                <i>Z. Chen, C. Murphy</i></p>
+                <p>Building Trust and Transparency for Government Cloud Adoption: a Data Security Posture Management (DSPM) Perspective <br>
+                <i>D. Twum Gyamrah</i></p>
+                <p>Mitigating In-Transit Vision Noise for Enhanced Vehicle Safety<br>
+                <i>Y. Luo, J. Chen, X. Chen, S. Lu</i></p>
+            - location: SEH 1400
+              type: Technical Workshop 
+              name: Breaking Machine Learning Models to Understand Security Implications
+              details: >
+                <p>P. Reddy</p>
+            - location: SEH 1450 
+              type: Research Shorts
+              name: Artificial Intelligence 2
+              details: >
+                <p>Using virtual reality to simulate wilderness search and rescue 'clue-finding' tasks<br>
+                <i>P. Luby, A. Mathis, B. White, R. Penn, A. Robbins, M. Hout</i></p>
+                <p>Emerging Technologies and Autonomous Interaction<br>
+                <i></i></p>
+                <p>Accelerated Community Detection using Directed Graphs on GPUs<br>
+                <i>B. Gul</i></p>
+        - name: Parallel Sessions
+          time_start: 2:00PM
+          time_end: 2:50PM
+          sessions:
+            - location: SEH B1220 
+              type: Technical Talks
+              name: Smart Healthcare
+              details: >
+                <p>HealthLens: AI-Powered Insights for Healthcare Data<br>
+                <i>N. Gaddam, S. Gurunathan‬</i></p>
+                <p>Ethical AI for Healthcare Systems: Uncertainty-Aware, Fair Federated Learning<br>
+                <i>D. chen, Q. Zhang, L. Kaplan, A. Josang, D. Jeong, F. Chen, J. Cho</i></p>
+            - location: SEH B1270
+              type: Research Shorts
+              name: CS Education 
+              details: >
+                <p>Who Gets In? The Role of AI in Shaping the Next Generation of Computer Scientists<br>
+                <i>A. Prakash, M. Seyam</i></p>
+                <p>Increasing Digital Literacy Amongst Older Adults<br>
+                <i>I. Divietro</i></p>
+                <p>Machine Learning Insights into Academic Success in CS3: The Role of Mathematics and CS Coursework<br>
+                <i>N. Wali, S. Hooshangi</i></p>
+            - location: SEH 1300
+              type: Research Shorts
+              name: Artificial Intelligence 3
+              details: >
+                <p>Data Collection Pipeline to Diversify AI Training Data<br>
+                <i>V. Wiegand, S. Cooney</i></p>
+                <p>Agentic AI for the Rescue: Factual Summarisation of Crisis-Related Documents<br>
+                <i>H. Klair</i></p>
+                <p>Driver Facial Expression Classification: A Comparative Study of Computer Vision Techniques<br>
+                <i>Y. Bond, S. Hasan, M. Hamza, M. Rehman</i></p>
+            - location: SEH 1400 
+              type: Technical Workshop
+              name:  Breaking Machine Learning Models to understand Security Implications
+              details: >
+                <p>P. Reddy</p>
+            - location: SEH 1450 
+              type: Birds of a Feather 
+              name:  Economic Impact of Decision-Making Software on Minorities
+              details: >
+                <p>E. Olimpiew</p>
+        - name: Snacks 
+          location: SEH First Floor Atrium
+          time_start: 2:30PM
+          time_end: 3:30PM
+          description: >
+            <p>Snacks available for pickup starting at 2:30</p>
+        - name: Parallel Sessions
+          time_start: 3:00PM
+          time_end: 3:50PM
+          sessions:
+            - location: SEH B1220 
+              type: Birds of a Feather
+              name: Women and non-binary undergraduate students
+              details: >
+            - location: SEH B1270
+              type: Flash Talks
+              details: >
+                <p>FoodieSafety<br>
+                <i>T. Emokpae, P. Ramkumar</i></p>
+                <p>Fairness Tools in Practice: The Researcher Perspective<br>
+                <i>S. Mim, B. Johnson</i></p>
+                <p>LLM-Driven Heuristic Evaluation of Code Snippets from Website Homepages<br>
+                <i>N. Platt, E. Luchs, S. Nizamani</i></p>
+                <p>Exploring The Role of Electrodermal Activity (EDA) in Estimating Attention Via Wearable Devices<br>
+                <i>F. Faiz, V. Motti</i></p>
+                <p>AI-Based Usability Evaluations of Low-Fidelity vs. High-Fidelity Prototypes<br>
+                <i>S. Monisha, K. Hissan, S. Nizamani</i></p>
+                <p>Beyond the Surface: Rethinking Pulse Oximetry for Equitable Healthcare<br>
+                <i>A. Bhutani, M. Sanghavi, K. Kramarczuk</i></p>
+            - location: SEH 1300
+              type: Research Shorts
+              name: Cybersecurity 3
+              details: >
+                <p>Detecting Stealthy Manipulations of Control logic in Programmable Logic Controllers<br>
+                <i>A. Ayub, I. Ahmed</i></p>
+                <p>SCVI: Bridging Social and Cyber Dimensions for Comprehensive Vulnerability Assessment<br>
+                <i>S. Mitra, T. Nguyen, Q. Zhang, H. Kim, H. Salemi, C. Chang, F. Zhang, M. Hong, C. Lu, H. Purohit, J. Cho</i></p>
+                <p>Mitigating Cyber Threats in V2V and V2I Networks: A Security-Centric Approach<br>
+                <i>S. Zehra, S. Rizvi</i></p>
+            - location: SEH 1400 
+              type: Research Shorts
+              name: Games and Virtual Reality
+              details: >
+                <p>DBWorkout: A Collaborative and Gamified Web-Based Platform for SQL Learning<br>
+                <i>S. Ravella, A. Pochamreddy, J. Wang, Q. Chen, S. Nizamani, S. Hamouda, S. Nizamani</i></p>
+                <p>Examining Visual Attention in Gaze-Driven VR Learning: An Eye-Tracking Study<br>
+                <i>Y. Abeysinghe, K. Cauchi, V. Ashok, S. Jayarathna</i></p>
+                <p>Web-based PDC Educational Video Games<br>
+                <i>M. Cameron, S. Kasera</i></p>
+            - location: SEH 1450 
+              type: Birds of a Feather 
+              name: CAPWIC Male Allies
+              details: >
+        - name: Parallel Sessions
+          time_start: 4:00PM
+          time_end: 4:50PM
+          sessions:
+            - location: SEH B1220 
+              type: Technical Workshop
+              name: Cybersecurity
+              details: >
+            - location: SEH B1270
+              type: Panel 
+              name: Career Paths in Computing
+              details: >
+            - location: SEH 1300
+              type: Research Shorts
+              name: Social Media
+              details: >
+                <p>Evaluating Children's Ability to Distinguish Between Traditional and AI-Generated Media<br>
+                <i>S. Kumari, F. Shah, S. Nizamani</i></p>
+                <p>Assessing Public Perception of AI-Generated Social Media Content of the 2024 U.S. Presidential Debate<br>
+                <i>R. Ansell, P. Bode, D. Paik, P. Singh, A. Toney-Wails, D. Ventura</i></p>
+                <p>Infrastructure for Tracking Information Flow from Social Media to U.S. TV News<br>
+                <i>H. Jayanetti, A. Nwala, M. Nelson, M. Weigle</i></p>
+            - location: SEH 1400 
+              type: Research Shorts
+              name:  Human Computer Interaction
+              details: >
+                <p>Leveraging Smartwatch Sensors For Detecting Off-Task Behaviors Of Neurodivergent Individuals<br>
+                <i>A. Islam, V. Motti</i></p>
+                <p>Usability Heuristics and Large Language Models: Enhancing University Website Evaluations<br>
+                <i>M. Hirakawa, M. Saritha, M. Goel, S. Bapat, N. Dawar, R. Reddy, S. Nizamani</i></p>
+                <p>Advanced Gaze Measures for Analyzing Joint Visual Attention<br>
+                <i>K. Thennakoon, Y. Abeysinghe, B. Mahanama, R. Obadage, V. Ashok, S. Jayarathna</i></p>
+            - location: SEH 1450 
+              type: Research Shorts
+              name: Machine Learning
+              details: >
+                <p>An Investigation into Maintenance Support for Neural Networks<br>
+                <i>F. Zohra, B. Johnson</i></p>
+                <p>Enhancing Neuronal Connectivity Inference with Cross-Correlograms and Interpretations from Learned Model Representations<br>
+                <i>X. Sun, R. Simha, C. Zheng, H. Lu</i></p>
+                <p>Analysis of Subtelomere and Telomere Regions of Cancer Genomes on the Cloud<br>
+                <i>E. Adam, D. Ranjan, H. Riethman</i></p>
+        - name: Dinner, Keynote, Closing Remarks 
+          location: SEH Lehman Auditorium 
+          time_start: 5:00PM
+          time_end: 7:00PM
+          description: >
+            <p><i>Details coming soon</i></p>

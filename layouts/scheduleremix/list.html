@@ -1,0 +1,104 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+<div class="capwic-body">
+{{ partial "page-title.html" . }}
+{{ $yr := $.Params.year }}
+{{ $data := print "conference" $yr}}
+{{ with index .Site.Data $data }}
+<section class="company-description">
+    <div class="container">
+        <div class="row">
+            {{ partial "sponsors.html" $ }}
+            <div class="col-md wow fadeInRight" data-wow-delay=".3s">
+                {{ with .schedule }}
+                <div class="row">
+                    <div class="col-12">
+
+                            <h1 class="display-4">{{ .heading }}</h1>
+                            <p class="lead">{{ .body | safeHTML }}</p>
+                    </div> 
+                </div>
+
+                <div id="program">
+                    {{ range $i, $day := .days}}
+                    <div class="card border-{{$day.color}}" id="{{$i}}">
+                        <div class="card-header bg-{{$day.color}} text-{{$day.font}}" id="headingOne">
+                            <h5 class="mb-0">
+                                <a href="#{{$i}}"class="btn btn-lg btn-link text-{{$day.font}}" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
+                                    aria-controls="collapseOne">
+                                    {{ $day.name }}
+                                </a>
+                            </h5>
+                        </div>
+                    
+                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne">
+                            <div class="card-body">
+                                <table class="table table-responsive table-hover table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th>Time</th>
+                                            <th style="width: 65%">Description</th>
+                                            <th>Location</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        {{ range $eventIndex, $event := $day.events}}
+                                        {{ $eventId := print $i "-" $eventIndex }}
+                                        <tr id="{{ $eventId }}">
+                                            {{ if $event.sessions}}
+                                            <td> <p>{{ $event.time_start| safeHTML }}<!-- - {{ $event.time_end | safeHTML }}--></p></td>
+                                                <td colspan="2">
+                                                    <p style="font-weight: bold;">{{$event.name | safeHTML}}</p>
+                                                    <table class="table-responsive table-hover">
+                                                        <tbody>
+                                                            {{ range $evtItemIdx, $ev := $event.sessions }}
+                                                            <tr>
+                                                              <td class="col-1"><p style="font-weight: bold">{{ $ev.type | safeHTML }}</p></td>
+
+                                                                <td class="col-7">
+                                                                  {{ with $ev.name }}
+                                                                  <p style="font-weight: bold">{{ $ev.name | safeHTML }}</p>
+                                                                  {{ end }}
+                                                                {{ with $ev.details }}
+                                                                {{ $ev.details | safeHTML }}
+                                                                {{ end }}
+                                                                </td>
+                                                              <td class="col-3"><p>{{ $ev.location | safeHTML }}</p></td>
+                                                            </tr>
+                                                            {{ end }}
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </td>
+                                            {{ else }}
+                                                <td>
+                                                  <p>{{ $event.time_start| safeHTML }}<!-- - {{ $event.time_end | safeHTML }}--></p>
+                                                </td>
+                                                {{ with $event.name }}
+                                                <td>
+                                                    <p style="font-weight: bold;">{{$event.name | safeHTML}}</p>
+                                                    <p>{{ $event.description | safeHTML }}</p>
+                                                </td>
+                                                {{ end }}
+                                                <td>
+                                                  <p>{{ $event.location | safeHTML }}</p>
+                                                </td>
+                                            {{ end }}
+                                        </tr>
+                                        {{ end }}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
+</div>
+{{ partial "footer.html" . }}
