@@ -24,6 +24,15 @@ deadlines:
     description: <a href="/conferences/2025/attending">Attend in-Person!</a>
 
 speakers:
+  - name: Dr. Quincy K. Brown, Ph.D.
+    img: brown.jpg
+    bio: |
+      <p>Quincy drives high-impact programs at the intersection of education, workforce development, and technology, with a focus on equity, diversity, and inclusion.</p>
+      <p>Across two presidencies, she has shaped national policy, aligning federal agencies, nonprofit and industry partners to launch novel initiatives. She is a proven expert who leverages data-driven insights, strategic partnerships, and evidence-based research to shape national policy, scale innovative initiatives, and cultivate cross-sector collaborations.</p>
+      <p>Quincy is adept at guiding federal agencies, nonprofits, and industry stakeholders to address critical challenges in STEM education, workforce development, and inclusive technology adoption. She is passionate about advancing economic inclusion and sustainable growth through the responsible application of emerging technologies.</p>
+      <h5>Oh, The Places You'll Go!</h5>
+      <p>Dr. Quincy K. Brown is an accomplished computer scientist, educator, former Policy Director in the White House, and expert on STEM education, policy development, cross-agency collaboration, and workforce initiatives in space, computing, technology, and STEM.</p>
+      <p>Dr. Brown will discuss leveraging her background as a computer scientist across research, education, and policy to drive innovation and shape the future. Her expertise offers valuable perspectives and practical insights on innovation, collaboration, and career navigation. </p>
   - name: Becky Robertson 
     img: robertson.jpg
     bio: |
@@ -595,8 +604,10 @@ schedule:
           time_start: 10:00AM
           time_end: 10:45AM
           description: >
-            <p><b>Dr. Brown-Kissiedu</b><br>
-            <i>Details coming soon</i></p>
+            <p><b>Oh, The Places You'll Go!</b><br>
+            <i>Dr. Quincy K. Brown, Ph.D.</i><br>
+            Dr. Quincy K. Brown is an accomplished computer scientist, educator, former Policy Director in the White House, and expert on STEM education, policy development, cross-agency collaboration, and workforce initiatives in space, computing, technology, and STEM.<br><br>
+            Dr. Brown will discuss leveraging her background as a computer scientist across research, education, and policy to drive innovation and shape the future. Her expertise offers valuable perspectives and practical insights on innovation, collaboration, and career navigation. </p>
         - name: Career Fair 
           location: SEH First Floor Atrium 
           time_start: 11:00AM
@@ -858,5 +869,5 @@ schedule:
           time_start: 5:00PM
           time_end: 7:00PM
           description: >
-            <p><b>Becky Robertson</b><br>
+            <p><i>Becky Robertson</i><br>
             Becky Robertson is a Vice President at Booz Allen Hamilton, where she leads amazingly innovative teams building advanced technology solutions and products to accelerate outcomes for the Nation. In her more than 30-year career, Becky has blended her technical expertise, problem solving skills, and passion for collaboration in roles including web-based training development, software engineering project management, systems engineering and integration, commercial satellite vulnerability analysis, large contract management, competitive contract capture and negotiation, as well as leading corporate investments in next wave technologies. In her current role, Becky leads Booz Allen’s National Missions team, tackling priority national cyber issues with collective ingenuity and unmatched mission understanding. She lives in the Annapolis area with her family and spends almost all of her spare time reading mysteries, cooking for the people she loves, or on soccer and lacrosse fields.</p>
