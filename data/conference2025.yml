@@ -390,6 +390,10 @@ sponsors:
       img: gama-1.png
       link: https://www.gama1tech.com/ 
       class: light
+    - name: James Madison University Computer Science
+      img: jmucs.png
+      link: https://www.jmu.edu/cise/cs/
+      class: light
   # - level: Gold
   #   sponsors:
   #   - name: JMU CISE
@@ -416,14 +420,6 @@ sponsors:
       img: loyola.jpg
       link: https://www.loyola.edu/
       class: light
-    - name: University of Virginia Computer Science 
-      img: uva_cs.jpg
-      link: https://engineering.virginia.edu/departments/computer-science 
-      class: light
-    - name: University of Mary Washington 
-      img: umw.png
-      link: https://www.umw.edu 
-      class: light
     # - name: Naval Surface Warfare Center Dahlgren Division
     #   img: navsea.jpg 
     #   link: https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/ 
@@ -436,6 +432,18 @@ sponsors:
     #   img: vsu.png
     #   link: https://www.vsu.edu/
     #   class: light
+    - name: University of Mary Washington 
+      img: umw.png
+      link: https://www.umw.edu 
+      class: light
+    - name: University of Maryland Baltimore County
+      img: umbc_csee_logo.jpg
+      link: https://www.csee.umbc.edu/undergraduate/computer-engineering-bs/
+      class: light
+    - name: University of Virginia Computer Science 
+      img: uva_cs.jpg
+      link: https://engineering.virginia.edu/departments/computer-science 
+      class: light
     - name: Virginia Tech Computer Science 
       img: vt_cs.jpg
       link: https://cs.vt.edu/
@@ -589,6 +597,12 @@ schedule:
       color: capwic-primary
       font: white
       events: 
+        - name: Breakfast
+          location: SEH First Floor Atrium
+          time_start: 8:00AM
+          time_end: 10:00AM
+          description: >
+            <p>Light break fast options will be available as follows: 🥯 bagels, fruit, pastries, orange juice, ☕️ coffee, and 🫖 tea.</p>
         - name: Registration
           location: SEH First Floor Atrium
           time_start: 8:30AM
