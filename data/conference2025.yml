@@ -345,6 +345,13 @@ attending:
     <h3>Location</h3>
     <p>The event will be held at the Science and Engineering Building at the George Washington University.</p>
     <p class="text-right"><iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-77.05159038305284%2C38.89915132809984%2C-77.04804986715318%2C38.90111349058216&amp;layer=mapnik&amp;marker=38.90013241611862%2C-77.049820125103"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=38.900132&amp;mlon=-77.049820#map=19/38.900132/-77.049820">View Larger Map</a></small></p>
+    <h3>Parking</h3>
+    <p><b>Science and Engineering Hall Garage</b><br>
+    Access via H Street between 22nd and 23rd streets, NW<br>
+    <b>Hours:</b> Open 24/7, Weekend Daily Maximum (2am Saturday - 2am Monday).<br>
+    <b>Weekday maximum:</b> $24<br>
+    <b>Weekend maximum:</b> $12<br>
+          <a href="https://business-services.gwu.edu/visitor-parking">https://business-services.gwu.edu/visitor-parking</a></p>
     <h3>Hotels</h3>
     <p>We have reserved a block in the following hotels:</p>
     <p><b>Hotel Hive</b><br>2224 F Street NW, Washington, District Of Columbia, United States, 20037<br>$219-$239/night (must book by March 5, 2025)<br><a href="https://be.synxis.com/?adult=1&arrive=2025-03-28&chain=22582&child=0&currency=USD&depart=2025-03-30&group=C2901&hotel=40986&level=hotel&locale=en-US&productcurrency=USD&rooms=1" class="btn btn-primary">Book in our block</a></p>
@@ -663,27 +670,46 @@ schedule:
           time_start: 12:00PM
           time_end: 12:50PM
           description: >
-            <p>Home Tech Care: Symbiotic Tech Caregiving</p>
-            <p>The Web in Schools</p>
-            <p>US Computer Science Faculty Pipeline Dashboard</p>
-            <p>Enhancement of Deep Learning for Segmentation of Protein Secondary Structures from Cryo-EM</p>
-            <p>AI-Powered Enhancement of Student Learning in Large Programming Courses</p>
-            <p>Analyzing Ground-lightning Dataset Using the Density Based Spatial Clustering of Applications with Noise (DBSCAN)</p>
-            <p>P2VFL: Performance and Privacy-enhanced Incentive Mechanism for Vertical Federated Learning</p>
-            <p>Roots for STEM Organization</p>
-            <p>Exploring QUIC Load Balancing Computation Offload to the Kerne</p>
-            <p>Characterizing GPU Memory Errors: Insights from a Cross-supercomputer Study</p>
-            <p>Investigating the Impact of AI-Assisted Tools on Practitioner Well-Being</p>
-            <p>Investigating the Effectiveness of Using K-Nearest-Neighbors and Random Forest in Hybrid Recommendation Systems to Improve Personalized User Experience</p>
-            <p>Voices in Code</p>
-            <p>Designing an Accessible Web Platform to Connect Refugees with Essential Services</p>
-            <p>Redirects Unraveled: From Lost Links to Rickrolls</p>
-            <p>Computational Analysis of Urbanization's Impact on Water Quality Using Earth Observation and GIS</p>
-            <p>Crowdsourced Litter Mapping: A Smart App for Community Cleanup</p>
-            <p>A Solution for Seizures: Developing Machine-Learning Algorithms For Use In Real-Time Seizure Detection Applications</p>
-            <p>Praxly: An Online IDE for the Praxis CS Test Pseudocode</p>
-            <p>Campus Health Tracker: A Location-Based Disease Monitoring App for College Students and Highly Populous Areas</p>
-            <p>Dynamic Quantization: An Era of Reduction</p>
+            <p>Home Tech Care: Symbiotic Tech Caregiving<br>
+              <i>N. Andrus, O. Mbanefo, V. Pettit, W. Wang, D. Scott McCrickard </i></p>
+              <p>The Web in Schools<br>
+              <i>A. Kozlowski</i></p>
+              <p>US Computer Science Faculty Pipeline Dashboard<br>
+              <i>L. Frew, M. Weigle</i></p>
+              <p>Enhancement of Deep Learning for Segmentation of Protein Secondary Structures from Cryo-EM<br>
+              <i>T. Nguyen, Y. Mu, J. Sun, J. He</i></p>
+              <p>AI-Powered Enhancement of Student Learning in Large Programming Courses<br>
+              <i>T. Zhan, B. Hou, S. Nizamani</i></p>
+              <p>Analyzing Ground-lightning Dataset Using the Density Based Spatial Clustering of Applications with Noise (DBSCAN)<br>
+              <i>J. Agresto, Z. Duan, M. Bentley, T. Gerken, D. Bonsal</i></p>
+              <p>Roots for STEM Organization<br>
+              <i>G. Venturi, L. Quick, S. Leyva, H. Mroczkowski</i></p>
+              <p>Exploring QUIC Load Balancing Computation Offload to the Kerne<br>
+              <i>D. Ghazy, Q. Fu, D. Williams</i></p>
+            <p>Characterizing GPU Memory Errors: Insights from a Cross-supercomputer Study<br>
+              <i>Z. Zhu</i></p>
+              <p>Investigating the Impact of AI-Assisted Tools on Practitioner Well-Being<br>
+              <i>F. Meem, B. Johnson</i></p>
+              <p>Investigating the Effectiveness of Using K-Nearest-Neighbors and Random Forest in Hybrid Recommendation Systems to Improve Personalized User Experience<br>
+              <i>A. Zhang, N. Gray, N. Basit</i></p>
+              <p>Voices in Code<br>
+              <i>M. Van Buren, J. Zeitz</i></p>
+              <p>Designing an Accessible Web Platform to Connect Refugees with Essential Services<br>
+              <i>A. Milea-Ciobanu, M. Rizvi</i></p>
+            <p>Redirects Unraveled: From Lost Links to Rickrolls<br>
+              <i>K. Garg, S. Alam, M. Weigle, M. Nelson</i></p>
+              <p>Computational Analysis of Urbanization's Impact on Water Quality Using Earth Observation and GIS<br>
+              <i>Z. Rizvi, S. Rizvi </i></p>
+            <p>Crowdsourced Litter Mapping: A Smart App for Community Cleanup<br>
+              <i>Z. Rizvi, S. Rizvi</i></p>
+            <p>A Solution for Seizures: Developing Machine-Learning Algorithms For Use In Real-Time Seizure Detection Applications<br>
+              <i>R. Jain, A. Harandi, M. Schaffer, I. Punna, S. Nizamani</i></p>
+            <p>Praxly: An Online IDE for the Praxis CS Test Pseudocode<br>
+              <i>E. Macmillan, C. Mayfield</i></p>
+            <p>Campus Health Tracker: A Location-Based Disease Monitoring App for College Students and Highly Populous Areas<br>
+              <i>S. Gupta, M. Patel, O. Stuckman</i></p>
+            <p>Dynamic Quantization: An Era of Reduction<br>
+              <i>F. Amin</i></p>
         - name: Parallel Sessions
           time_start: 1:00PM
           time_end: 1:50PM
@@ -696,6 +722,8 @@ schedule:
                 <i>T. Kazimi, R. Allada, P. Yanardag</i></p>
                 <p>Enhanced methods for incorporating resiliency in UAV swarms<br>
                 <i>A. Phadke</i></p>
+                <p>P2VFL: Performance and Privacy-enhanced Incentive Mechanism for Vertical Federated Learning<br>
+                <i>S. Madabushi, H. Ali, A. Khan, J. Cho</i></p>
             - location: SEH B1270
               type: Research Shorts
               name: Humans and Artificial Intelligence
@@ -729,7 +757,7 @@ schedule:
                 <p>Using virtual reality to simulate wilderness search and rescue 'clue-finding' tasks<br>
                 <i>P. Luby, A. Mathis, B. White, R. Penn, A. Robbins, M. Hout</i></p>
                 <p>Emerging Technologies and Autonomous Interaction<br>
-                <i></i></p>
+                <i>I. Perez Ruiz</i></p>
                 <p>Accelerated Community Detection using Directed Graphs on GPUs<br>
                 <i>B. Gul</i></p>
         - name: Parallel Sessions
