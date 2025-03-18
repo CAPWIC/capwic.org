@@ -914,8 +914,3 @@ schedule:
           time_start: 5:45PM
           time_end: 6:30PM
           description: >
-        - name: Closing Remarks and Award Winners
-          location: SEH Lehman Auditorium 
-          time_start: 6:30PM
-          time_end: 7:00PM
-          description: >
