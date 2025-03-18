@@ -639,9 +639,9 @@ schedule:
           sessions:
             - location: SEH Lehman Auditorium
               type: Panel 
-              name: Thinking about Graduate School? Come learn more!
+              name: "Choosing a grad school...or not: Questions, reflections, and discussion "
               details: >
-                <p></p>
+                <p><i>S. McCrickard, N. Basit, N. Andrus, F. Delavari, A. Shahid, A. Prakash<br>Moderator: M. Seyam</i></p>
             - location: SEH 1300
               type: Research Shorts
               name: Cybersecurity 1 
@@ -869,8 +869,9 @@ schedule:
                 <p><i>D. Kariuki, I. Ngambeki</i></p>
             - location: SEH B1270
               type: Panel 
-              name: Career Paths in Computing
+              name: Exploring Various Career Paths in Computer Science and the Tech Industry 
               details: >
+                <p><i>N. Perodin, N. Schneider, I. Gupta<br>Moderator: N. Basit</i></p>
             - location: SEH 1300
               type: Research Shorts
               name: Social Media
