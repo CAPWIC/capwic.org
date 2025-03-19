@@ -660,6 +660,8 @@ schedule:
                 <i>K. Akdemir, P. Yanardag</i></p>
                 <p>Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG<br>
                 <i>K. Venkatesh, Y. Dalva, I. Lourentzou, P. Yanardag</i></p>
+                <p>P2VFL: Performance and Privacy-enhanced Incentive Mechanism for Vertical Federated Learning<br>
+                <i>S. Madabushi, H. Ali, A. Khan, J. Cho</i></p>
         - name: Lunch 
           location: SEH Basement Atrium 
           time_start: 12:00PM
@@ -684,8 +686,6 @@ schedule:
               <i>J. Agresto, Z. Duan, M. Bentley, T. Gerken, D. Bonsal</i></p>
               <p>Roots for STEM Organization<br>
               <i>G. Venturi, L. Quick, S. Leyva, H. Mroczkowski</i></p>
-              <p>Exploring QUIC Load Balancing Computation Offload to the Kerne<br>
-              <i>D. Ghazy, Q. Fu, D. Williams</i></p>
             <p>Characterizing GPU Memory Errors: Insights from a Cross-supercomputer Study<br>
               <i>Z. Zhu</i></p>
               <p>Investigating the Impact of AI-Assisted Tools on Practitioner Well-Being<br>
@@ -722,8 +722,6 @@ schedule:
                 <i>T. Kazimi, R. Allada, P. Yanardag</i></p>
                 <p>Enhanced methods for incorporating resiliency in UAV swarms<br>
                 <i>A. Phadke</i></p>
-                <p>P2VFL: Performance and Privacy-enhanced Incentive Mechanism for Vertical Federated Learning<br>
-                <i>S. Madabushi, H. Ali, A. Khan, J. Cho</i></p>
             - location: SEH B1270
               type: Research Shorts
               name: Humans and Artificial Intelligence
