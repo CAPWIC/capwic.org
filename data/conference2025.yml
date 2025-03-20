@@ -433,7 +433,8 @@ sponsors:
     #   class: light
     - name: Northeastern University 
       img: northeastern.jpg 
-      link: https://www.khoury.northeastern.edu/ 
+      link: https://www.khoury.northeastern.edu/
+      subtext: At Khoury College, we believe computer science is for everyone — transforming nearly every aspect of our daily lives throughout all industries. As leaders in CS education and research, we are driven to make a positive impact and are vigilant about the responsibility that entails. It’s only by seeking curious thinkers with diverse backgrounds and perspectives that we can maximize the power of computing for the benefit of all. 
     #   class: light
     # - name: Virginia State University 
     #   img: vsu.png
@@ -652,6 +653,7 @@ schedule:
                 <i>H. Ali</i></p>
                 <p>A Hierarchical Deep Reinforcement Learning Chatbot for Cybergrooming Prevention<br>
                 <i>H. An, Q. Zhang, A. Singh, J. Cho</i></p>
+                <p><b>Session Chair:</b> Robbie Hott</p>
             - location: SEH 1400 
               type: Research Shorts
               name: Artificial Intelligence 
@@ -662,6 +664,7 @@ schedule:
                 <i>K. Venkatesh, Y. Dalva, I. Lourentzou, P. Yanardag</i></p>
                 <p>P2VFL: Performance and Privacy-enhanced Incentive Mechanism for Vertical Federated Learning<br>
                 <i>S. Madabushi, H. Ali, A. Khan, J. Cho</i></p>
+                <p><b>Session Chair:</b> Brad McCoy</p>
         - name: Lunch 
           location: SEH Basement Atrium 
           time_start: 12:00PM
@@ -710,6 +713,7 @@ schedule:
               <i>S. Gupta, M. Patel, O. Stuckman</i></p>
             <p>Dynamic Quantization: An Era of Reduction<br>
               <i>F. Amin</i></p>
+                <p><b>Organizer:</b> Michael Stewart</p>
         - name: Parallel Sessions
           time_start: 1:00PM
           time_end: 1:50PM
@@ -722,6 +726,7 @@ schedule:
                 <i>T. Kazimi, R. Allada, P. Yanardag</i></p>
                 <p>Enhanced methods for incorporating resiliency in UAV swarms<br>
                 <i>A. Phadke</i></p>
+                <p><b>Session Chair:</b> Melissa Cameron</p>
             - location: SEH B1270
               type: Research Shorts
               name: Humans and Artificial Intelligence
@@ -732,6 +737,7 @@ schedule:
                 <i>E. Al Haque, A. Gupta, B. Johnson</i></p>
                 <p>Strategic Questioning and Enhanced Engagement: Developing a Counselor Chatbot Using LLMs and Deep Reinforcement Learning for Deeper Self-Exploration and Therapeutic Dialogue<br>
                 <i>Q. Zhang, H. An, A. Singh, J. Cho</i></p>
+                <p><b>Session Chair:</b> Briana Morrison</p>
             - location: SEH 1300
               type: Research Shorts
               name: Cybersecurity 2
@@ -742,12 +748,14 @@ schedule:
                 <i>D. Twum Gyamrah</i></p>
                 <p>Mitigating In-Transit Vision Noise for Enhanced Vehicle Safety<br>
                 <i>Y. Luo, J. Chen, X. Chen, S. Lu</i></p>
+                <p><b>Session Chair:</b> Robbie Hott</p>
             - location: SEH 1400
               type: Technical Workshop 
               name: Breaking Machine Learning Models to Understand Security Implications
               details: >
                 <p><i>P. Reddy</i><br>
                 Note that this workshop runs 1pm-2:50pm.</p>
+                <p><b>Session Chair:</b> Jin-Hee Cho</p>
             - location: SEH 1450 
               type: Research Shorts
               name: Artificial Intelligence 2
@@ -758,6 +766,7 @@ schedule:
                 <i>I. Perez Ruiz</i></p>
                 <p>Accelerated Community Detection using Directed Graphs on GPUs<br>
                 <i>B. Gul</i></p>
+                <p><b>Session Chair:</b> Sehrish Basir Nizamani</p>
         - name: Parallel Sessions
           time_start: 2:00PM
           time_end: 2:50PM
@@ -770,6 +779,7 @@ schedule:
                 <i>N. Gaddam, S. Gurunathan‬</i></p>
                 <p>Ethical AI for Healthcare Systems: Uncertainty-Aware, Fair Federated Learning<br>
                 <i>D. chen, Q. Zhang, L. Kaplan, A. Josang, D. Jeong, F. Chen, J. Cho</i></p>
+                <p><b>Session Chair:</b> Melissa Cameron</p>
             - location: SEH B1270
               type: Research Shorts
               name: CS Education 
@@ -780,6 +790,7 @@ schedule:
                 <i>I. Divietro</i></p>
                 <p>Machine Learning Insights into Academic Success in CS3: The Role of Mathematics and CS Coursework<br>
                 <i>N. Wali, S. Hooshangi</i></p>
+                <p><b>Session Chair:</b> Briana Morrison</p>
             - location: SEH 1300
               type: Research Shorts
               name: Artificial Intelligence 3
@@ -790,17 +801,20 @@ schedule:
                 <i>H. Klair</i></p>
                 <p>Driver Facial Expression Classification: A Comparative Study of Computer Vision Techniques<br>
                 <i>Y. Bond, S. Hasan, M. Hamza, M. Rehman</i></p>
+                <p><b>Session Chair:</b> Robbie Hott</p>
             - location: SEH 1400 
               type: Technical Workshop
               name:  Breaking Machine Learning Models to understand Security Implications
               details: >
                 <p><i>P. Reddy</i><br>
                 Continued from the prior 1pm session.</p>
+                <p><b>Session Chair:</b> Jin-Hee Cho</p>
             - location: SEH 1450 
               type: Birds of a Feather 
               name:  Economic Impact of Decision-Making Software on Minorities
               details: >
                 <p>E. Olimpiew</p>
+                <p><b>Session Chair:</b> Megan Olsen &amp; Tim Wood</p>
         - name: Snacks 
           location: SEH First Floor Atrium
           time_start: 2:30PM
@@ -816,6 +830,7 @@ schedule:
               name: Women and non-binary undergraduate students
               details: >
                 <p><i>N. Andrus</i></p>
+                <p><b>Session Chair:</b> Megan Olsen &amp; Tim Wood</p>
             - location: SEH B1270
               type: Flash Talks
               details: >
@@ -831,6 +846,7 @@ schedule:
                 <i>S. Monisha, K. Hissan, S. Nizamani</i></p>
                 <p>Beyond the Surface: Rethinking Pulse Oximetry for Equitable Healthcare<br>
                 <i>A. Bhutani, M. Sanghavi, K. Kramarczuk</i></p>
+                <p><b>Session Chair:</b> Briana Morrison</p>
             - location: SEH 1300
               type: Research Shorts
               name: Cybersecurity 3
@@ -841,6 +857,7 @@ schedule:
                 <i>S. Mitra, T. Nguyen, Q. Zhang, H. Kim, H. Salemi, C. Chang, F. Zhang, M. Hong, C. Lu, H. Purohit, J. Cho</i></p>
                 <p>Mitigating Cyber Threats in V2V and V2I Networks: A Security-Centric Approach<br>
                 <i>S. Zehra, S. Rizvi</i></p>
+                <p><b>Session Chair:</b> Zhoujun Duan</p>
             - location: SEH 1400 
               type: Research Shorts
               name: Games and Virtual Reality
@@ -851,11 +868,13 @@ schedule:
                 <i>Y. Abeysinghe, K. Cauchi, V. Ashok, S. Jayarathna</i></p>
                 <p>Web-based PDC Educational Video Games<br>
                 <i>M. Cameron, S. Kasera</i></p>
+                <p><b>Session Chair:</b> Jin-Hee Cho</p>
             - location: SEH 1450 
               type: Birds of a Feather 
               name: CAPWIC Male Allies
               details: >
                 <p><i>J. Hott, S. McCrickard, S. Sheth, M. Stewart, M. Seyam</i></p> 
+                <p><b>Session Chair:</b> Megan Olsen &amp; Tim Wood</p>
         - name: Parallel Sessions
           time_start: 4:00PM
           time_end: 4:50PM
@@ -865,6 +884,7 @@ schedule:
               name: "Cybersecurity: Strengthening Workforce Education Excellence in Programming Securely (SWEEPS)"
               details: >
                 <p><i>D. Kariuki, I. Ngambeki</i></p>
+                <p><b>Session Chair:</b> Sehrish Basir Nizamani</p>
             - location: SEH B1270
               type: Panel 
               name: Exploring Various Career Paths in Computer Science and the Tech Industry 
@@ -880,6 +900,7 @@ schedule:
                 <i>R. Ansell, P. Bode, D. Paik, P. Singh, A. Toney-Wails, D. Ventura</i></p>
                 <p>Infrastructure for Tracking Information Flow from Social Media to U.S. TV News<br>
                 <i>H. Jayanetti, A. Nwala, M. Nelson, M. Weigle</i></p>
+                <p><b>Session Chair:</b> Zhoujun Duan</p>
             - location: SEH 1400 
               type: Research Shorts
               name:  Human Computer Interaction
@@ -890,6 +911,7 @@ schedule:
                 <i>M. Hirakawa, M. Saritha, M. Goel, S. Bapat, N. Dawar, R. Reddy, S. Nizamani</i></p>
                 <p>Advanced Gaze Measures for Analyzing Joint Visual Attention<br>
                 <i>K. Thennakoon, Y. Abeysinghe, B. Mahanama, R. Obadage, V. Ashok, S. Jayarathna</i></p>
+                <p><b>Session Chair:</b> Jin-Hee Cho</p>
             - location: SEH 1450 
               type: Research Shorts
               name: Machine Learning
@@ -900,6 +922,7 @@ schedule:
                 <i>X. Sun, R. Simha, C. Zheng, H. Lu</i></p>
                 <p>Analysis of Subtelomere and Telomere Regions of Cancer Genomes on the Cloud<br>
                 <i>E. Adam, D. Ranjan, H. Riethman</i></p>
+                <p><b>Session Chair:</b> Brad McCoy</p>
         - name: Keynote, Closing Remarks
           location: SEH Lehman Auditorium 
           time_start: 5:00PM
