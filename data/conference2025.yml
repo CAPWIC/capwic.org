@@ -600,7 +600,8 @@ sponsorship:
           - name: non
             enabled: false
 schedule:
-  heading: Schedule 
+  heading: Schedule
+  body: <p>Download <a target="_blank" rel="noopener noreferrer" href="/2025/files/program-CAPWIC25v1.pdf" download>this year's program with abstracts here <i class="icon ion-md-cloud-download"></i></a>.</p>
   days:
     - name: Saturday, March 29, 2025 
       color: capwic-primary
