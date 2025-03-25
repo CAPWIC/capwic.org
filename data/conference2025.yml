@@ -608,7 +608,7 @@ schedule:
       font: white
       events: 
         - name: Breakfast
-          location: SEH First Floor Atrium
+          location: SEH Basement Atrium
           time_start: 8:00AM
           time_end: 10:00AM
           description: >
@@ -933,7 +933,7 @@ schedule:
             <p><i>Becky Robertson</i><br>
             Becky Robertson is a Vice President at Booz Allen Hamilton, where she leads amazingly innovative teams building advanced technology solutions and products to accelerate outcomes for the Nation. In her more than 30-year career, Becky has blended her technical expertise, problem solving skills, and passion for collaboration in roles including web-based training development, software engineering project management, systems engineering and integration, commercial satellite vulnerability analysis, large contract management, competitive contract capture and negotiation, as well as leading corporate investments in next wave technologies. In her current role, Becky leads Booz Allen’s National Missions team, tackling priority national cyber issues with collective ingenuity and unmatched mission understanding. She lives in the Annapolis area with her family and spends almost all of her spare time reading mysteries, cooking for the people she loves, or on soccer and lacrosse fields.</p>
         - name: Dinner
-          location: SEH Lehman Auditorium 
+          location: SEH Basement Atrium
           time_start: 5:45PM
           time_end: 6:30PM
           description: >
