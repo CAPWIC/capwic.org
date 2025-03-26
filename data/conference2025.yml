@@ -81,7 +81,7 @@ submission:
         Before the conference, presenters create a 36” x 48” poster of research, a class project, or other type of work-in-progress including efforts to diversify computing and are present at the poster during the session to discuss content. Open to all students. Prizes will be awarded. 
     - name: Student Research Shorts
       description: >
-        Research shorts are an opportunity to give a 13-minute presentation with an additional 5 minutes for questions, similar to a talk at a research conference. Work should be technical in nature, investigating new ideas in any area of computer science. The intention is to give presenters a friendly environment in which to practice a future technical talk or work out details in an ongoing project to get constructive feedback. Only an abstract is required, so future publication of the work is not limited. 
+        Research shorts are an opportunity to give a 13-minute presentation with an additional 2 minutes for questions, similar to a talk at a research conference. Work should be technical in nature, investigating new ideas in any area of computer science. The intention is to give presenters a friendly environment in which to practice a future technical talk or work out details in an ongoing project to get constructive feedback. Only an abstract is required, so future publication of the work is not limited. 
     - name: Technical Workshops
       description: >
         Workshops present a valuable and current technical skill in a hands-on training session. Proposals must include abstract, the intended audience and power/AV equipment/space needs.
@@ -651,10 +651,10 @@ schedule:
               details: >
                 <p>Combining Open-Source Intelligence (OSINT) with AI for Threat Detection<br>
                 <i>J. Fahmy</i></p>
-                <p>Leveraging Memory Forensics Techniques to detect Python-based Malware<br>
-                <i>H. Ali</i></p>
                 <p>A Hierarchical Deep Reinforcement Learning Chatbot for Cybergrooming Prevention<br>
                 <i>H. An, Q. Zhang, A. Singh, J. Cho</i></p>
+                <p>Mitigating Cyber Threats in V2V and V2I Networks: A Security-Centric Approach<br>
+                <i>S. Zehra, S. Rizvi</i></p>
                 <p><b>Session Chair:</b> Robbie Hott</p>
             - location: SEH 1400 
               type: Research Shorts
@@ -699,8 +699,6 @@ schedule:
               <i>A. Zhang, N. Gray, N. Basit</i></p>
               <p>Voices in Code<br>
               <i>M. Van Buren, J. Zeitz</i></p>
-              <p>Designing an Accessible Web Platform to Connect Refugees with Essential Services<br>
-              <i>A. Milea-Ciobanu, M. Rizvi</i></p>
             <p>Redirects Unraveled: From Lost Links to Rickrolls<br>
               <i>K. Garg, S. Alam, M. Weigle, M. Nelson</i></p>
               <p>Computational Analysis of Urbanization's Impact on Water Quality Using Earth Observation and GIS<br>
@@ -857,8 +855,6 @@ schedule:
                 <i>A. Ayub, I. Ahmed</i></p>
                 <p>SCVI: Bridging Social and Cyber Dimensions for Comprehensive Vulnerability Assessment<br>
                 <i>S. Mitra, T. Nguyen, Q. Zhang, H. Kim, H. Salemi, C. Chang, F. Zhang, M. Hong, C. Lu, H. Purohit, J. Cho</i></p>
-                <p>Mitigating Cyber Threats in V2V and V2I Networks: A Security-Centric Approach<br>
-                <i>S. Zehra, S. Rizvi</i></p>
                 <p><b>Session Chair:</b> Zhoujun Duan</p>
             - location: SEH 1400 
               type: Research Shorts
