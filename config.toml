@@ -45,13 +45,13 @@ theme = "timer-hugo"
     logo = "images/capwic-logo-2-bw-40.jpeg"
     logo_alt = "logo"
     #logo_text = "logo_text"
-    current_conf_year = "2025"
+    current_conf_year = "2026"
 
     # Banner Section
     [params.banner]
         enable  = true
         bgImage = "images/conferences/IMG_1523-zoomed.jpeg"
-        heading = "SAVE THE DATE FOR CAPWIC 2025!<br>March 29, 2025 <br> The George Washington University"
+        heading = "SAVE THE DATE FOR CAPWIC 2026!<br>March 27-28, 2026 <br> Virginia Tech Innovation Campus"
         description = "The <u>Cap</u>ital Region Celebration of <u>W</u>omen <u>i</u>n <u>C</u>omputing Conference."
     #    [[params.banner.btn]]
     #        btnText = "Learn More"
@@ -78,7 +78,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "CAPWIC"
-        content = "CAPWIC 2025, the ACM Capital Region Celebration of Women in Computing, will be held at The George Washington University, in Washington, D.C. The goal of CAPWIC is to bring together female students and allies to promote the recruitment, retention, and progression of women in computing fields. <br><br> The Capital Region includes Colleges and Universities as far North as Pennsylvania, and as far south as Virginia. The Capital Region Celebration of Women in Computing Conference brings together students, faculty, and industry partners to engage with research and development in computing through discussion and community-building."
+        content = "CAPWIC 2026, the ACM Capital Region Celebration of Women in Computing, will be held at Virginia Tech's Innovation Campus in Alexandria, VA. The goal of CAPWIC is to bring together female students and allies to promote the recruitment, retention, and progression of women in computing fields. <br><br> The Capital Region includes Colleges and Universities as far North as Pennsylvania, and as far south as Virginia. The Capital Region Celebration of Women in Computing Conference brings together students, faculty, and industry partners to engage with research and development in computing through discussion and community-building."
         image   = "images/capwic-logo-2-bw.jpg"
 
     # Call to Action
