@@ -9,11 +9,11 @@
 
 <!-- Display the actual site by uncommenting the following line-->
 
-<!--{{ with .GetPage $data }}{{.Render "list"}}{{end}}-->
+{{ with .GetPage $data }}{{.Render "list"}}{{end}}
 
 <!-- "list" parameter only recently required. huge thanks to https://discourse.gohugo.io/t/error-no-layout-given-after-hugo-upgrade/45345 -->
 
-{{ partial "header.html" . }}
+<!-- {{ partial "header.html" . }}
 
 {{ partial "banner.html" . }}
 {{ partial "nav.html" . }}
@@ -26,4 +26,4 @@
 
 {{ partial "cta.html" . }}
 
-{{ partial "footer.html" . }} 
+{{ partial "footer.html" . }}  -->

@@ -1,0 +1,576 @@
+enable  : true
+title   : March 27-28, 2026
+name    : CAPWIC 2026
+description: |
+  CAPWIC is an ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
+
+  The conference will be hosted by The George Washington University, on March 27-28, 2026.  All levels of experience are welcome. 
+#  <br> <br>
+#  <hr style="width:39vw">
+#  If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us so that we help with group payments and registration.<br><br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning float-right"><i class="icon ion-ios-mail"></i> Email us to register your group</a><br><br>
+#  <hr style="width:39vw">
+#  <h4> Suggested Hotels</h4>
+#  Coming soon!
+image   : images/banner2024.png
+
+deadlines:
+  - date: February 3, 2026
+    description: Submission Deadline
+  - date: February 20, 2026
+    description: Scholarship Deadline
+  - date: March 5, 2026
+    description: Registration Deadline
+  - date: March 27-28, 2026
+    description: Attend in-Person!
+
+# speakers:
+#   - name: Dr. Quincy K. Brown, Ph.D.
+#     img: brown.jpg
+#     bio: |
+#       <p>Quincy drives high-impact programs at the intersection of education, workforce development, and technology, with a focus on equity, diversity, and inclusion.</p>
+#       <p>Across two presidencies, she has shaped national policy, aligning federal agencies, nonprofit and industry partners to launch novel initiatives. She is a proven expert who leverages data-driven insights, strategic partnerships, and evidence-based research to shape national policy, scale innovative initiatives, and cultivate cross-sector collaborations.</p>
+#       <p>Quincy is adept at guiding federal agencies, nonprofits, and industry stakeholders to address critical challenges in STEM education, workforce development, and inclusive technology adoption. She is passionate about advancing economic inclusion and sustainable growth through the responsible application of emerging technologies.</p>
+#       <h5>Oh, The Places You'll Go!</h5>
+#       <p>Dr. Quincy K. Brown is an accomplished computer scientist, educator, former Policy Director in the White House, and expert on STEM education, policy development, cross-agency collaboration, and workforce initiatives in space, computing, technology, and STEM.</p>
+#       <p>Dr. Brown will discuss leveraging her background as a computer scientist across research, education, and policy to drive innovation and shape the future. Her expertise offers valuable perspectives and practical insights on innovation, collaboration, and career navigation. </p>
+#   - name: Becky Robertson 
+#     img: robertson.jpg
+#     bio: |
+#       <p>Becky Robertson is a Vice President at Booz Allen Hamilton, where she leads amazingly innovative
+#       teams building advanced technology solutions and products to accelerate outcomes for the
+#       Nation. In her more than 30-year career, Becky has blended her technical expertise, problem
+#       solving skills, and passion for collaboration in roles including web-based training development,
+#       software engineering project management, systems engineering and integration, commercial
+#       satellite vulnerability analysis, large contract management, competitive contract capture and
+#       negotiation, as well as leading corporate investments in next wave technologies. In her current role,
+#       Becky leads Booz Allen’s National Missions team, tackling priority national cyber issues with
+#       collective ingenuity and unmatched mission understanding. She lives in the Annapolis area with her
+#       family and spends almost all of her spare time reading mysteries, cooking for the people she loves,
+#       or on soccer and lacrosse fields.</p>
+
+rates:
+submission:
+  lead: |
+    <p>There are seven tracks to which you can submit your work. Please submit by <span style="font-weight: bold;">Febrary 10, 2026</span><strong>, the submission deadline</strong>.</p>
+    <p>CAPWIC 2026, an ACM Capital Region Celebration of Women in Computing, will be held 
+    at The George Washington University, in Washington, D.C. The goal of CAPWIC
+    is to bring together female students and allies to promote the recruitment,
+    retention, and progression of women in computing fields. We invite submissions
+    in the area of computing research as well as on efforts to increase diversity
+    in computing in each of the formats below.</p>
+    <p><b>Submission instructions</b>: For each category,
+    submit an abstract of no more than 250 words
+    using the submission link below.
+    All submissions will require the name(s) and
+    affiliation(s) of the presenters, and for students,
+    their year in school. More details are available on
+    the submission site. If you have questions,
+    please contact Michael Stewart, Program Chair, at
+    techchair@capwic.org</p>
+    
+    <hr class="my-4">
+    <p class="text-center">
+    <a href="https://capwic25.hotcrp.com" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Submit Your Abstract <i class="icon ion-ios-open"></i></a>
+    </p>
+  tracks:
+    - name: Flash Talks
+      description: >
+        Five-minute presentations with five minutes for questions. Fast-paced talks on preliminary results, work-in progress, or anything fun and creative related to the conference are welcome in this category. All levels of experience are welcome.
+    - name: Student Posters
+      description: >
+        Before the conference, presenters create a 36” x 48” poster of research, a class project, or other type of work-in-progress including efforts to diversify computing and are present at the poster during the session to discuss content. Open to all students. Prizes will be awarded. 
+    - name: Student Research Shorts
+      description: >
+        Research shorts are an opportunity to give a 13-minute presentation with an additional 2 minutes for questions, similar to a talk at a research conference. Work should be technical in nature, investigating new ideas in any area of computer science. The intention is to give presenters a friendly environment in which to practice a future technical talk or work out details in an ongoing project to get constructive feedback. Only an abstract is required, so future publication of the work is not limited. 
+    - name: Technical Workshops
+      description: >
+        Workshops present a valuable and current technical skill in a hands-on training session. Proposals must include abstract, the intended audience and power/AV equipment/space needs.
+    - name: Panels
+      description: >
+        Panels present multiple perspectives on a topic. Proposals should include abstract, a list of presenters including their affiliation and perspective, along with a proposed length of 25 or 50 minutes.
+    - name: Birds-of-a-Feather
+      description: >
+        Birds-of-a-feather (BOF) sessions are opportunities for a group of participants with similar concerns to have an informal discussion. BOF sessions will be 50-60 minutes.
+    - name: Technical Talks
+      description: >
+        20 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
+
+
+
+nav:
+  - name: CAPWIC 2026
+    url: /conferences/2026
+  - name: Attending
+    url: /conferences/2026/attending
+  - name: Schedule
+    url: /conferences/2026/schedule
+    #submission:
+    #- name: Schedule
+    #  class: external-link
+    #  url: https://easychair.org/smart-program/ACMCAPWIC2025/
+    # - name: Registration
+    # class: external-link
+    # url: https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator
+#Flier information that exists on main page
+#Community standard that exists on main page
+  - name: Call for Submissions
+    url: /conferences/2026/participation
+  - name: Sponsorship
+    url: /conferences/2026/sponsorship
+  - name: Organizers
+    url: /conferences/2026/organizers
+policies:
+  - name: Code of Conduct
+    body: |
+      CAPWIC's top priority is that participants feel welcome, comfortable, respected, and safe while attending. As an official ACM-W celebration, we adhere to <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener noreferrer">the ACM Code of Conduct <i class="icon ion-ios-open"></i></a>.
+flyers:
+
+
+#This section modifies the list of organizers (chairs, local arrangements...etc) that runs down the right-hand side of the organizers page
+organizers:
+  - Chairs:
+    - name: Dr. Megan Olsen 
+      last_name: Olsen
+      link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/olsen-megan.html
+      avatar: /2024/organizers/olsenweb.jpeg
+      affiliation: Loyola University Maryland
+      email: info@capwic.org
+    - name: Dr. Sehrish Basir Nizamani
+      last_name: Nizamani
+      link: https://website.cs.vt.edu/people/faculty/sehrish-basir.html 
+      affiliation: Virginia Tech
+      email: info@capwic.org
+  - Education Liaison: 
+    - name: Deborah Kariuki
+      last_name: Kariuki
+      avatar: /2026/organizers/DeborahKariuki-634x792.jpg
+      link: https://education.umbc.edu/deborahkariuki/
+      affiliation: University of Maryland, Baltimore County
+      email: educators@capwic.org
+    # - name: Dr. Robbie Hott
+    #   link: https://engineering.virginia.edu/faculty/john-r-hott
+    #   affiliation: University of Virginia
+    #   last_name: Hott
+    #   email: info@capwic.org
+    # - name: Dr. Nada Basit 
+    #   last_name: Basit 
+    #   email: info@capwic.org
+    #   link: https://engineering.virginia.edu/faculty/nada-basit
+    #   affiliation: University of Virginia
+  - Technical Program:
+    - name: Dr. Nguyen Ho
+      last_name: Ho
+      avatar: https://www.loyola.edu/_media/academics/computer-science/images/faculty-staff/ho%20pic.jpg
+      link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/Ho-Nguyen.html
+      affiliation: Loyola University Maryland
+      email: techchair@capwic.org
+    - name: Dr. Michael Stewart
+      last_name: Stewart
+      email: techchair@capwic.org
+      avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg
+      link: https://hcientist.com
+      affiliation: James Madison University
+  # - Sponsorship / Career Fair:
+  #   - name: Dr. Swapneel Sheth
+  #     last_name: Sheth
+  #     link: https://www.cis.upenn.edu/~swapneel/
+  #     affiliation: University of Pennsylvania
+  #   - name: Dr. Sharon Simmons
+  #     last_name: Simmons
+  #     link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+  #     email: info@capwic.org
+  #     affiliation: James Madison University
+  - Scholarships:
+    - name: Dr. Robin Givens
+      last_name: Givens
+      link: https://www.rmc.edu/departments/computer-science/faculty
+      affiliation: Randolph-Macon College
+      email: scholarship@capwic.org
+        #- Publicity: 
+  - Local Arrangements:
+    - name: Dr. Timothy Wood
+      last_name: Wood
+      avatar: https://engineering.gwu.edu/sites/g/files/zaxdzs5436/files/image/wood.jpg
+      link: https://faculty.cs.gwu.edu/timwood/
+      affiliation: George Washington University
+      email: local@capwic.org
+    - name: Dr. Adam Aviv
+      last_name: Aviv
+      avatar: https://engineering.gwu.edu/sites/g/files/zaxdzs5436/files/image/adamaviv-4x3-reduced.png
+      link: https://adamaviv.com/
+      affiliation: George Washington University
+      email: local@capwic.org
+  - Registration:
+    - name: Dr. Swapneel Sheth
+      last_name: Sheth
+      email: info@capwic.org
+      link: https://www.cis.upenn.edu/~swapneel/
+      avatar: https://www.cis.upenn.edu/~swapneel/images/me.JPG
+      affiliation: University of Pennsylvania
+  - Website:
+    - name: Dr. Robbie Hott
+      last_name: Hott
+      affiliation: University of Virginia 
+      email: web@capwic.org
+      link: https://engineering.virginia.edu/faculty/john-r-hott
+      avatar: /2024/organizers/robbie_hott.webp
+#This section populates the organizers page with images and contact information. This data is NOT replicated from above.
+organizer_photos:
+  - name: Dr. Swapneel Sheth
+    last_name: Sheth
+    link: https://www.cis.upenn.edu/~swapneel/
+    avatar: https://www.cis.upenn.edu/~swapneel/images/me.JPG
+    affiliation: University of Pennsylvania
+  - name: Dr. Robin Givens
+    last_name: Givens
+    avatar: /2019/organizers/robin.jpg
+    link: https://www.rmc.edu/departments/computer-science/faculty
+    affiliation: Randolph-Macon College
+  # - name: Dr. Jason Forsyth
+  #   last_name: Forsyth
+  #   link: https://www.jasonforsyth.net
+  #   avatar: https://scholar.google.com/citations?view_op=medium_photo&user=EY6SBHcAAAAJ&citpid=3
+  #   affiliation: James Madison University
+  #   email: techchair@capwic.org
+  - name: Dr. Megan Olsen 
+    last_name: Olsen
+    link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/olsen-megan.html
+    avatar: /2024/organizers/olsenweb.jpeg
+    affiliation: Loyola University Maryland
+  - name: Dr. Robbie Hott
+    last_name: Hott
+    link: https://engineering.virginia.edu/faculty/john-r-hott
+    avatar: /2024/organizers/robbie_hott.webp
+    affiliation: University of Virginia
+    email: info@capwic.org
+  - name: Dr. Veena Ravishankar
+    last_name: Ravishankar
+    link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
+    avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2018/04/Ravishankar_Veena_149c-150x150.jpg
+    affiliation: University of Mary Washington
+  - name: Dr. Nada Basit 
+    last_name: Basit
+    link: https://engineering.virginia.edu/faculty/nada-basit
+    avatar: /2024/organizers/NadaBasit_headshot.webp
+    affiliation: University of Virginia
+    email: info@capwic.org
+  # - name: Dr. Sharon Simmons
+  #   last_name: Simmons
+  #   link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
+  #   avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/simmons.png 
+  #   email: info@capwic.org
+  #   affiliation: James Madison University
+  # - name: Dr. Pinar Yanardag
+  #   last_name: Yanardag
+  #   link: https://website.cs.vt.edu/people/new-faculty/pinar-yanardag.html
+  #   avatar: https://website.cs.vt.edu/content/website_cs_vt_edu/en/people/new-faculty/pinar-yanardag/jcr:content/bio-image.transform/xl-medium/image.jpg
+  #   affiliation: Virginia Tech
+  - name: Dr. Melissa Cameron
+    last_name: Cameron
+    avatar: /2026/organizers/cameron.png 
+    link: https://www.vt.edu/innovationcampus/about/faculty/cameron-melissa.html 
+    affiliation: Virginia Tech
+  - name: Dr. Jin-Hee Cho 
+    last_name: Cho
+    avatar: /2026/organizers/cho.jpg 
+    link: https://people.cs.vt.edu/~jicho/
+    affiliation: Virginia Tech
+  - name: Dr. Michael Stewart
+    last_name: Stewart
+    email: web@capwic.org
+    avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg
+    link: https://hcientist.com
+    affiliation: James Madison University
+  - name: Dr. Briana Morrison 
+    last_name: Morrison
+    link: https://engineering.virginia.edu/faculty/briana-morrison
+    avatar: /2024/organizers/brianna_morrison.JPG
+    affiliation: University of Virginia
+  - name: Dr. Zhuojun Duan 
+    last_name: Duan
+    avatar: https://www.jmu.edu/cise/_images/faculty-staff/duan.jpg 
+    link: https://www.jmu.edu/cise/cs/people/faculty-staff/duan-zhuojun.shtml
+    affiliation: James Madison University
+  - name: Dr. Sally Hamouda
+    last_name: Hamouda
+    link: https://sallyhamouda.com/
+    affiliation: Virginia Tech
+    avatar: https://capwic.org/2024/organizers/sally-h.jpg
+  - name: Dr. Sehrish Basir Nizamani
+    last_name: Nizamani
+    link: https://website.cs.vt.edu/people/faculty/sehrish-basir.html 
+    affiliation: Virginia Tech
+    avatar: https://experts.vt.edu/27768-sehrish-basir-nizamani/thumbnail
+  - name: Deborah Kariuki
+    last_name: Kariuki
+    avatar: /2026/organizers/DeborahKariuki-634x792.jpg
+    link: https://education.umbc.edu/deborahkariuki/
+    affiliation: University of Maryland, Baltimore County
+    email: educators@capwic.org
+  - name: Dr. Sanjeev Khanna
+    last_name: Khanna
+    avatar: https://www.cis.upenn.edu/~sanjeev/sanjeev.jpg
+    link: https://www.cis.upenn.edu/~sanjeev/
+    affiliation: University of Pennsylvania
+  - name: Dr. Nguyen Ho
+    last_name: Ho
+    avatar: https://www.loyola.edu/_media/academics/computer-science/images/faculty-staff/ho%20pic.jpg
+    link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/Ho-Nguyen.html
+    affiliation: Loyola University Maryland
+  - name: Dr. Brad McCoy
+    last_name: McCoy
+    avatar: https://www.jmu.edu/cise/_images/faculty-staff/mccoy.jpg
+    link: https://www.jmu.edu/cise/people/faculty/mccoy-bradley.shtml
+    affiliation: James Madison University
+attending:
+  # image: /images/banner.png
+  # code: <iframe src="https://www.google.com/maps/d/embed?mid=1TbNi6LH0vNbNyGSYoODzW2uCRooLdoc&ehbc=2E312F" width="480" height="360"></iframe>
+  code: |
+    <h3>Coming Soon!</h3>
+  # description: |
+    
+aboutItem:
+  - title : Registration
+    type: registration
+    description: > 
+      Registration is now closed!  More details about attending are on our <a href="/conferences/2026/attending">Attending</a> page.  Registration rates are made possible by our sponsors.
+  - title : Scholarships
+    description: | 
+      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school.
+
+#this field however ends up as its own Sponsorship page
+  - title : Sponsorship
+    type: sponsorship
+    description: > 
+      CAPWIC is in its 15th year, and we are so thankful for all the support over the years. See below for more information. If you have any questions or concerns please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>
+
+# sponsors:
+#   - level: PRE
+#     sponsors:
+#     - name: ACM
+#       img: acm.jpg
+#       link: https://www.acm.org/
+#       class: light
+# #  - level: Diamond
+# #    sponsors:
+# #    - name: James Madison University Computer Science
+# #      img: jmucs.png
+# #      link: https://www.jmu.edu/cise/cs/
+# #      class: light
+#   - level: Platinum 
+#     sponsors:
+#     - name: George Washington University
+#       img: gw.png
+#       link: https://www.gwu.edu/
+#       class: light
+#   - level: Gold 
+#     sponsors:
+#     - name: GAMA-1 Technologies
+#       img: gama-1.png
+#       link: https://www.gama1tech.com/ 
+#       class: light
+#     - name: James Madison University Computer Science
+#       img: jmucs.png
+#       link: https://www.jmu.edu/cise/cs/
+#       class: light
+#   # - level: Gold
+#   #   sponsors:
+#   #   - name: JMU CISE
+#   #     img: jmu-cise.png
+#   #     link: https://www.jmu.edu/cise/
+#   #     class: light
+#   #   - name: UPenn Computer Science
+#   #     img: upenn-engr.png
+#   #     link: http://www.cis.upenn.edu/index.php
+#   #     class: light
+#   # - level: Recruiter 
+#   #   sponsors:
+#   #   - name: CoStar Group
+#   #     img: costar-brand-thumbnail-V1.jpg
+#   #     link: https://www.costargroup.com/
+#   #     class: light
+#   #   - name: SimVentions 
+#   #     img: simventions.png
+#   #     link: https://simventions.com 
+#   #     class: light
+#   - level: Academic/Non-Profit 
+#     sponsors:
+#     - name: Loyola
+#       img: loyola.jpg
+#       link: https://www.loyola.edu/
+#       class: light
+#     # - name: Naval Surface Warfare Center Dahlgren Division
+#     #   img: navsea.jpg 
+#     #   link: https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/ 
+#     #   class: light
+#     - name: Northeastern University 
+#       img: northeastern.jpg 
+#       link: https://www.khoury.northeastern.edu/
+#       subtext: At Khoury College, we believe computer science is for everyone — transforming nearly every aspect of our daily lives throughout all industries. As leaders in CS education and research, we are driven to make a positive impact and are vigilant about the responsibility that entails. It’s only by seeking curious thinkers with diverse backgrounds and perspectives that we can maximize the power of computing for the benefit of all. 
+#     #   class: light
+#     # - name: Virginia State University 
+#     #   img: vsu.png
+#     #   link: https://www.vsu.edu/
+#     #   class: light
+#     - name: University of Mary Washington 
+#       img: umw.png
+#       link: https://www.umw.edu 
+#       class: light
+#     - name: University of Maryland Baltimore County
+#       img: umbc_csee_logo.jpg
+#       link: https://www.csee.umbc.edu/undergraduate/computer-engineering-bs/
+#       class: light
+#     - name: University of Virginia Computer Science 
+#       img: uva_cs.jpg
+#       link: https://engineering.virginia.edu/departments/computer-science 
+#       class: light
+#     - name: Virginia Tech Computer Science 
+#       img: vt_cs.jpg
+#       link: https://cs.vt.edu/
+#       class: light
+#     # - name: William & Mary Computer Science
+#     #   img: wm.png
+#     #   link: https://www.wm.edu/as/computerscience/
+#     #   class: light
+
+
+sponsorshipCosts:
+  # - name: diamond
+  #   cost: $8000
+  - name: platinum
+    cost: $5000
+  - name: gold
+    cost: $2500
+  - name: silver
+    cost: $500
+  - name: in-kind
+    cost: Discuss with sponsorship chair
+sponsorship:
+  - type: General
+    perks: 
+      - name: Get a Table at the Career Fair
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: 2 FREE tickets to attend the celebration
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Host a Technical Workshop
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Hold a keynote or a presentation
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: false
+          - name: gold
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+  - type: Recruiting and Branding
+    perks: 
+      - name: Swag in Attendee bag
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Blurb in Program & Website
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: recruiter
+            enabled: true
+          - name: non
+            enabled: true
+      - name: Company Logo on Attendee bag
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Company Logo on event t-shirt
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Receive Resume Book
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+      - name: Award Branded Prize
+        levels:
+          - name: diamond
+            enabled: true
+          - name: platinum
+            enabled: false
+          - name: gold
+            enabled: false
+          - name: recruiter
+            enabled: false
+          - name: non
+            enabled: false
+# schedule:
+#   heading: Schedule
+#   body: Coming Soon!
+  
