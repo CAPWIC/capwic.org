@@ -4,7 +4,9 @@ name    : CAPWIC 2026
 description: |
   CAPWIC is an ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
 
-  The conference will be hosted by The George Washington University, on March 27-28, 2026.  All levels of experience are welcome. 
+  CAPWIC 2026, the ACM Capital Region Celebration of Women in Computing, will be held at Virginia Tech's Innovation Campus in Alexandria, VA. The goal of CAPWIC is to bring together female students and allies to promote the recruitment, retention, and progression of women in computing fields. <br><br> The Capital Region includes Colleges and Universities as far North as Pennsylvania, and as far south as Virginia. The Capital Region Celebration of Women in Computing Conference brings together students, faculty, and industry partners to engage with research and development in computing through discussion and community-building.
+
+   All levels of experience are welcome.
 #  <br> <br>
 #  <hr style="width:39vw">
 #  If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us so that we help with group payments and registration.<br><br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning float-right"><i class="icon ion-ios-mail"></i> Email us to register your group</a><br><br>
@@ -100,25 +102,8 @@ submission:
 nav:
   - name: CAPWIC 2026
     url: /conferences/2026
-  - name: Attending
-    url: /conferences/2026/attending
-  - name: Schedule
-    url: /conferences/2026/schedule
-    #submission:
-    #- name: Schedule
-    #  class: external-link
-    #  url: https://easychair.org/smart-program/ACMCAPWIC2025/
-    # - name: Registration
-    # class: external-link
-    # url: https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-844855765337?aff=oddtdtcreator
-#Flier information that exists on main page
-#Community standard that exists on main page
-  - name: Call for Submissions
-    url: /conferences/2026/participation
   - name: Sponsorship
     url: /conferences/2026/sponsorship
-  - name: Organizers
-    url: /conferences/2026/organizers
 policies:
   - name: Code of Conduct
     body: |
@@ -333,7 +318,7 @@ aboutItem:
   - title : Registration
     type: registration
     description: > 
-      Registration is now closed!  More details about attending are on our <a href="/conferences/2026/attending">Attending</a> page.  Registration rates are made possible by our sponsors.
+      Coming Soon
   - title : Scholarships
     description: | 
       Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school.
