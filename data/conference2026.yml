@@ -420,8 +420,7 @@ aboutItem:
 
 
 sponsorshipCosts:
-  # - name: diamond
-  #   cost: $8000
+  
   - name: platinum
     cost: $5000
   - name: gold
@@ -429,132 +428,75 @@ sponsorshipCosts:
   - name: silver
     cost: $500
   - name: in-kind
-    cost: Discuss with sponsorship chair
+    cost: 
 sponsorship:
   - type: General
     perks: 
       - name: Get a Table at the Career Fair
         levels: 
-          - name: diamond
-            enabled: true
           - name: platinum
             enabled: true
           - name: gold
             enabled: true
-          - name: recruiter
+          - name: silver
             enabled: true
-          - name: non
-            enabled: true
+          - name: in-kind
+            enabled: false
       - name: 2 FREE tickets to attend the celebration
         levels: 
-          - name: diamond
-            enabled: true
           - name: platinum
             enabled: true
           - name: gold
             enabled: true
-          - name: recruiter
+          - name: silver
             enabled: true
-          - name: non
-            enabled: true
-      - name: Host a Technical Workshop
-        levels: 
-          - name: diamond
-            enabled: true
-          - name: platinum
-            enabled: true
-          - name: gold
-            enabled: false
-          - name: recruiter
-            enabled: false
-          - name: non
-            enabled: false
-      - name: Hold a keynote or a presentation
-        levels: 
-          - name: diamond
-            enabled: true
-          - name: platinum
-            enabled: false
-          - name: gold
-            enabled: false
-          - name: recruiter
-            enabled: false
-          - name: non
+          - name: in-kind
             enabled: false
   - type: Recruiting and Branding
     perks: 
-      - name: Swag in Attendee bag
-        levels: 
-          - name: diamond
-            enabled: true
-          - name: platinum
-            enabled: true
-          - name: gold
-            enabled: true
-          - name: recruiter
-            enabled: true
-          - name: non
-            enabled: true
       - name: Blurb in Program & Website
         levels: 
-          - name: diamond
-            enabled: true
           - name: platinum
             enabled: true
           - name: gold
             enabled: true
-          - name: recruiter
+          - name: silver
             enabled: true
-          - name: non
-            enabled: true
-      - name: Company Logo on Attendee bag
+          - name: in-kind
+            enabled: false
+      - name: Swag in Attendee bag
         levels: 
-          - name: diamond
-            enabled: true
           - name: platinum
             enabled: true
           - name: gold
             enabled: true
-          - name: recruiter
+          - name: silver
             enabled: false
-          - name: non
-            enabled: false
-      - name: Company Logo on event t-shirt
-        levels: 
-          - name: diamond
-            enabled: true
-          - name: platinum
-            enabled: true
-          - name: gold
-            enabled: true
-          - name: recruiter
-            enabled: false
-          - name: non
-            enabled: false
-      - name: Receive Resume Book
-        levels: 
-          - name: diamond
-            enabled: true
-          - name: platinum
-            enabled: true
-          - name: gold
-            enabled: false
-          - name: recruiter
-            enabled: false
-          - name: non
+          - name: in-kind
             enabled: false
       - name: Award Branded Prize
         levels:
-          - name: diamond
-            enabled: true
           - name: platinum
-            enabled: false
+            enabled: true
           - name: gold
             enabled: false
-          - name: recruiter
+          - name: silver
             enabled: false
-          - name: non
+          - name: in-kind
             enabled: false
+  - type: Others
+    perks: 
+      - name: Discuss your involvement with the chair
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: in-kind
+            enabled: true
+
 # schedule:
 #   heading: Schedule
 #   body: Coming Soon!

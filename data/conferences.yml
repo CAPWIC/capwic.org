@@ -1,5 +1,11 @@
 enable  : true
 conferences :
+  - name: 2026
+    image : images/banner2026.png
+    url: /conferences/2026/
+    when: March 27-28, 2026
+    where: Alexandria, VA.
+    institution: Virginia Tech
   - name: 2025
     image : images/banner2025.png
     url: /conferences/2025/
