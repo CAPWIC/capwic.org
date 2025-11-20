@@ -4,9 +4,21 @@ name    : CAPWIC 2026
 description: |
   CAPWIC is an ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
 
-  CAPWIC 2026, the ACM Capital Region Celebration of Women in Computing, will be held at Virginia Tech's Innovation Campus in Alexandria, VA. The goal of CAPWIC is to bring together female students and allies to promote the recruitment, retention, and progression of women in computing fields. <br><br> The Capital Region includes Colleges and Universities as far North as Pennsylvania, and as far south as Virginia. The Capital Region Celebration of Women in Computing Conference brings together students, faculty, and industry partners to engage with research and development in computing through discussion and community-building.
+  CAPWIC 2026, the ACM Capital Region Celebration of Women in Computing, will be held at Virginia Tech's Institute for Advanced Computing (IAC) in Alexandria, VA. The goal of CAPWIC is to bring together female students and allies to promote the recruitment, retention, and progression of women in computing fields.<br><br>
+  
+  The Capital Region includes Colleges and Universities as far North as Pennsylvania, and as far south as Virginia. The Capital Region Celebration of Women in Computing Conference brings together students, faculty, and industry partners to engage with research and development in computing through discussion and community-building.<br><br>
 
-   All levels of experience are welcome.
+  All levels of experience are welcome.
+
+  <br><br>
+  <h4>Conference Location:</h4>
+  <a href="https://iac.vt.edu/">Institute for Advanced Computing (IAC)</a><br>
+  Virginia Tech, Academic Building One<br>
+  3625 Potomac Avenue<br>
+  Alexandria, VA 22305<br>
+  
+
+
 #  <br> <br>
 #  <hr style="width:39vw">
 #  If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us so that we help with group payments and registration.<br><br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning float-right"><i class="icon ion-ios-mail"></i> Email us to register your group</a><br><br>
@@ -104,6 +116,8 @@ nav:
     url: /conferences/2026
   - name: Sponsorship
     url: /conferences/2026/sponsorship
+  - name: organizers
+    url: /conferences/2026/organizers
 policies:
   - name: Code of Conduct
     body: |
@@ -113,92 +127,107 @@ flyers:
 
 #This section modifies the list of organizers (chairs, local arrangements...etc) that runs down the right-hand side of the organizers page
 organizers:
-  - Chairs:
+  - Chair:
+    - name: Dr. Basir Nizamani
+      last_name: Nizamani
+      link: https://website.cs.vt.edu/people/faculty/sehrish-basir.html 
+      affiliation: Virginia Tech
+      email: info@capwic.org
+    # - name: Dr. Megan Olsen 
+    #   last_name: Olsen
+    #   link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/olsen-megan.html
+    #   avatar: /2024/organizers/olsenweb.jpeg
+    #   affiliation: Loyola University Maryland
+    #   email: info@capwic.org
+
+  - Past Chair:
     - name: Dr. Megan Olsen 
       last_name: Olsen
       link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/olsen-megan.html
       avatar: /2024/organizers/olsenweb.jpeg
       affiliation: Loyola University Maryland
-      email: info@capwic.org
-    - name: Dr. Sehrish Basir Nizamani
-      last_name: Nizamani
-      link: https://website.cs.vt.edu/people/faculty/sehrish-basir.html 
+      email: mmolsen@loyola.edu
+    
+  - Local Chairs:
+    - name: Dr. Melissa Cameron
+      last_name: Cameron
+      link: https://iac.vt.edu/about/faculty/cameron-melissa.html
       affiliation: Virginia Tech
-      email: info@capwic.org
-  - Education Liaison: 
-    - name: Deborah Kariuki
-      last_name: Kariuki
-      avatar: /2026/organizers/DeborahKariuki-634x792.jpg
-      link: https://education.umbc.edu/deborahkariuki/
-      affiliation: University of Maryland, Baltimore County
-      email: educators@capwic.org
-    # - name: Dr. Robbie Hott
-    #   link: https://engineering.virginia.edu/faculty/john-r-hott
-    #   affiliation: University of Virginia
-    #   last_name: Hott
-    #   email: info@capwic.org
-    # - name: Dr. Nada Basit 
-    #   last_name: Basit 
-    #   email: info@capwic.org
-    #   link: https://engineering.virginia.edu/faculty/nada-basit
-    #   affiliation: University of Virginia
-  - Technical Program:
+      email: melissacameron@vt.edu
+    - name: Dr. Erika Olimpiew
+      last_name: Olimpiew
+      link: https://iac.vt.edu/about/faculty/olimpiew-erika.html
+      affiliation: Virginia Tech
+      email: eolimpie@vt.edu
+
+  # - Education Liaison: 
+  #   - name: Deborah Kariuki
+  #     last_name: Kariuki
+  #     avatar: /2026/organizers/DeborahKariuki-634x792.jpg
+  #     link: https://education.umbc.edu/deborahkariuki/
+  #     affiliation: University of Maryland, Baltimore County
+  #     email: educators@capwic.org
+
+  - Web Registrations:
+    - name: Dr. Swapneel Sheth
+      last_name: Sheth
+      link: https://www.cis.upenn.edu/~swapneel/
+      affiliation: University of Pennsylvania
+      email: swapneel@cis.upenn.edu 
+  
+  - Publicity and Outreach:
+    - name: Dr. Zhuojun Duan 
+      last_name: Duan
+      avatar: https://www.jmu.edu/cise/_images/faculty-staff/duan.jpg 
+      link: https://www.jmu.edu/cise/cs/people/faculty-staff/duan-zhuojun.shtml
+      affiliation: James Madison University
+      email: duanzx@jmu.edu
+  
+  - Scholarships:
+    - name: Dr. Maha Elouni
+      last_name: Elouni
+      link: https://www.rmc.edu/profile/maha-elouni/
+      affiliation: Randolph-Macon College 
+      email: mahaelouni@rmc.edu
+
+  - Technical Program Chair:
+    - name: Dr. Jin-Hee Cho 
+      last_name: Cho
+      avatar: /2026/organizers/cho.jpg 
+      link: https://people.cs.vt.edu/~jicho/
+      affiliation: Virginia Tech
+      email: jicho@vt.edu
+
+  - Keynote Speakers Recruiter:
+    - name: Dr. Megan Olsen 
+      last_name: Olsen
+      link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/olsen-megan.html
+      avatar: /2024/organizers/olsenweb.jpeg
+      affiliation: Loyola University Maryland
+      email: mmolsen@loyola.edu
+
+  - Technical Workshops:
     - name: Dr. Nguyen Ho
       last_name: Ho
       avatar: https://www.loyola.edu/_media/academics/computer-science/images/faculty-staff/ho%20pic.jpg
       link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/Ho-Nguyen.html
       affiliation: Loyola University Maryland
-      email: techchair@capwic.org
+      email: tnho@loyola.edu
+  - Website Management:
     - name: Dr. Michael Stewart
       last_name: Stewart
-      email: techchair@capwic.org
+      email: web@capwic.org
       avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg
       link: https://hcientist.com
       affiliation: James Madison University
-  # - Sponsorship / Career Fair:
-  #   - name: Dr. Swapneel Sheth
-  #     last_name: Sheth
-  #     link: https://www.cis.upenn.edu/~swapneel/
-  #     affiliation: University of Pennsylvania
-  #   - name: Dr. Sharon Simmons
-  #     last_name: Simmons
-  #     link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
-  #     email: info@capwic.org
-  #     affiliation: James Madison University
-  - Scholarships:
-    - name: Dr. Robin Givens
-      last_name: Givens
-      link: https://www.rmc.edu/departments/computer-science/faculty
-      affiliation: Randolph-Macon College
-      email: scholarship@capwic.org
-        #- Publicity: 
-  - Local Arrangements:
-    - name: Dr. Timothy Wood
-      last_name: Wood
-      avatar: https://engineering.gwu.edu/sites/g/files/zaxdzs5436/files/image/wood.jpg
-      link: https://faculty.cs.gwu.edu/timwood/
-      affiliation: George Washington University
-      email: local@capwic.org
-    - name: Dr. Adam Aviv
-      last_name: Aviv
-      avatar: https://engineering.gwu.edu/sites/g/files/zaxdzs5436/files/image/adamaviv-4x3-reduced.png
-      link: https://adamaviv.com/
-      affiliation: George Washington University
-      email: local@capwic.org
-  - Registration:
-    - name: Dr. Swapneel Sheth
-      last_name: Sheth
-      email: info@capwic.org
-      link: https://www.cis.upenn.edu/~swapneel/
-      avatar: https://www.cis.upenn.edu/~swapneel/images/me.JPG
-      affiliation: University of Pennsylvania
-  - Website:
-    - name: Dr. Robbie Hott
-      last_name: Hott
-      affiliation: University of Virginia 
+    - name: Dr. Javier Tibau
+      last_name: Tibau
       email: web@capwic.org
-      link: https://engineering.virginia.edu/faculty/john-r-hott
-      avatar: /2024/organizers/robbie_hott.webp
+      link: https://www.javiertibau.com
+      affiliation: Unaffiliated
+  
+
+
 #This section populates the organizers page with images and contact information. This data is NOT replicated from above.
 organizer_photos:
   - name: Dr. Swapneel Sheth
@@ -206,11 +235,11 @@ organizer_photos:
     link: https://www.cis.upenn.edu/~swapneel/
     avatar: https://www.cis.upenn.edu/~swapneel/images/me.JPG
     affiliation: University of Pennsylvania
-  - name: Dr. Robin Givens
-    last_name: Givens
-    avatar: /2019/organizers/robin.jpg
-    link: https://www.rmc.edu/departments/computer-science/faculty
-    affiliation: Randolph-Macon College
+  # - name: Dr. Robin Givens
+  #   last_name: Givens
+  #   avatar: /2019/organizers/robin.jpg
+  #   link: https://www.rmc.edu/departments/computer-science/faculty
+  #   affiliation: Randolph-Macon College
   # - name: Dr. Jason Forsyth
   #   last_name: Forsyth
   #   link: https://www.jasonforsyth.net
@@ -222,23 +251,42 @@ organizer_photos:
     link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/olsen-megan.html
     avatar: /2024/organizers/olsenweb.jpeg
     affiliation: Loyola University Maryland
-  - name: Dr. Robbie Hott
-    last_name: Hott
-    link: https://engineering.virginia.edu/faculty/john-r-hott
-    avatar: /2024/organizers/robbie_hott.webp
-    affiliation: University of Virginia
-    email: info@capwic.org
-  - name: Dr. Veena Ravishankar
-    last_name: Ravishankar
-    link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
-    avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2018/04/Ravishankar_Veena_149c-150x150.jpg
-    affiliation: University of Mary Washington
+  # - name: Dr. Robbie Hott
+  #   last_name: Hott
+  #   link: https://engineering.virginia.edu/faculty/john-r-hott
+  #   avatar: /2024/organizers/robbie_hott.webp
+  #   affiliation: University of Virginia
+  #   email: info@capwic.org
+  # - name: Dr. Veena Ravishankar
+  #   last_name: Ravishankar
+  #   link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
+  #   avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2018/04/Ravishankar_Veena_149c-150x150.jpg
+  #   affiliation: University of Mary Washington
   - name: Dr. Nada Basit 
     last_name: Basit
     link: https://engineering.virginia.edu/faculty/nada-basit
     avatar: /2024/organizers/NadaBasit_headshot.webp
     affiliation: University of Virginia
     email: info@capwic.org
+  - name: Dr. Javier Tibau 
+    last_name: Tibau
+    link: https://javiertibau.com
+    avatar: 
+    affiliation: Unaffiliated
+    email: javier@javiertibau.com
+  - name: Dr. Erika Olimpiew
+    last_name: Olimpiew
+    link: https://iac.vt.edu/about/faculty/olimpiew-erika.html
+    avatar:
+    affiliation: Virginia Tech
+    email: eolimpie@vt.edu
+  - name: Dr. Maha Elouni
+    last_name: Elouni
+    link: https://www.rmc.edu/profile/maha-elouni/
+    avatar:
+    affiliation: Randolph-Macon College 
+    email: mahaelouni@rmc.edu
+
   # - name: Dr. Sharon Simmons
   #   last_name: Simmons
   #   link: https://www.jmu.edu/cs/people/faculty-staff/simmons-sharon.shtml
@@ -266,21 +314,21 @@ organizer_photos:
     avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg
     link: https://hcientist.com
     affiliation: James Madison University
-  - name: Dr. Briana Morrison 
-    last_name: Morrison
-    link: https://engineering.virginia.edu/faculty/briana-morrison
-    avatar: /2024/organizers/brianna_morrison.JPG
-    affiliation: University of Virginia
+  # - name: Dr. Briana Morrison 
+  #   last_name: Morrison
+  #   link: https://engineering.virginia.edu/faculty/briana-morrison
+  #   avatar: /2024/organizers/brianna_morrison.JPG
+  #   affiliation: University of Virginia
   - name: Dr. Zhuojun Duan 
     last_name: Duan
     avatar: https://www.jmu.edu/cise/_images/faculty-staff/duan.jpg 
     link: https://www.jmu.edu/cise/cs/people/faculty-staff/duan-zhuojun.shtml
     affiliation: James Madison University
-  - name: Dr. Sally Hamouda
-    last_name: Hamouda
-    link: https://sallyhamouda.com/
-    affiliation: Virginia Tech
-    avatar: https://capwic.org/2024/organizers/sally-h.jpg
+  # - name: Dr. Sally Hamouda
+  #   last_name: Hamouda
+  #   link: https://sallyhamouda.com/
+  #   affiliation: Virginia Tech
+  #   avatar: https://capwic.org/2024/organizers/sally-h.jpg
   - name: Dr. Sehrish Basir Nizamani
     last_name: Nizamani
     link: https://website.cs.vt.edu/people/faculty/sehrish-basir.html 
@@ -292,21 +340,21 @@ organizer_photos:
     link: https://education.umbc.edu/deborahkariuki/
     affiliation: University of Maryland, Baltimore County
     email: educators@capwic.org
-  - name: Dr. Sanjeev Khanna
-    last_name: Khanna
-    avatar: https://www.cis.upenn.edu/~sanjeev/sanjeev.jpg
-    link: https://www.cis.upenn.edu/~sanjeev/
-    affiliation: University of Pennsylvania
+  # - name: Dr. Sanjeev Khanna
+  #   last_name: Khanna
+  #   avatar: https://www.cis.upenn.edu/~sanjeev/sanjeev.jpg
+  #   link: https://www.cis.upenn.edu/~sanjeev/
+  #   affiliation: University of Pennsylvania
   - name: Dr. Nguyen Ho
     last_name: Ho
     avatar: https://www.loyola.edu/_media/academics/computer-science/images/faculty-staff/ho%20pic.jpg
     link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/Ho-Nguyen.html
     affiliation: Loyola University Maryland
-  - name: Dr. Brad McCoy
-    last_name: McCoy
-    avatar: https://www.jmu.edu/cise/_images/faculty-staff/mccoy.jpg
-    link: https://www.jmu.edu/cise/people/faculty/mccoy-bradley.shtml
-    affiliation: James Madison University
+  # - name: Dr. Brad McCoy
+  #   last_name: McCoy
+  #   avatar: https://www.jmu.edu/cise/_images/faculty-staff/mccoy.jpg
+  #   link: https://www.jmu.edu/cise/people/faculty/mccoy-bradley.shtml
+  #   affiliation: James Madison University
 attending:
   # image: /images/banner.png
   # code: <iframe src="https://www.google.com/maps/d/embed?mid=1TbNi6LH0vNbNyGSYoODzW2uCRooLdoc&ehbc=2E312F" width="480" height="360"></iframe>
