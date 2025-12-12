@@ -12,10 +12,10 @@ theme = "timer-hugo"
     #    name    = "Service"
     #    url     = "/service"
     #    weight  = 3
-    #[[menu.nav]]
-    #    name    = "Gallery"
-    #    url     = "/gallery"
-    #    weight  = 4
+    [[menu.nav]]
+        name    = "Photos"
+        url     = "/photos"
+        weight  = 4
     #[[menu.nav]]
     #    name    = "Conferences"
     #    url     = "/conferences"
