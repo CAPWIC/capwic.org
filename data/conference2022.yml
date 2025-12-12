@@ -23,7 +23,7 @@ deadlines:
 
   - date: February 7, 2022
     description: Abstract Submission Deadline (Extended)
-    description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2022">Abstract Submission <i class="icon ion-ios-open"></i></a>
+    # description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2022">Abstract Submission <i class="icon ion-ios-open"></i></a>
 
   - date: February 23, 2022
     description: Notification of Acceptances
@@ -240,7 +240,7 @@ organizer_photos:
     avatar: https://www.odu.edu/content/dam/odu/faculty-staff/f/fpoursar-faryaneh-poursardar.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg 
     affiliation: University of Mary Washington
     link: https://www.odu.edu/directory/people/f/fpoursar
-    affiliation: Old Dominion University
+    # affiliation: Old Dominion University
 
 aboutItem:
   - title : Registration
@@ -530,7 +530,6 @@ schedule:
           time_start: 3:00PM
           time_end: 3:15PM
           description: > 
-
         - name: 0A Parallel Sessions
           time_start: 3:15PM
           time_end: 4:15PM
