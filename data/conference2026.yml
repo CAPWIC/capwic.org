@@ -116,8 +116,10 @@ nav:
     url: /conferences/2026
   - name: Sponsorship
     url: /conferences/2026/sponsorship
-  - name: organizers
+  - name: Organizers
     url: /conferences/2026/organizers
+  - name: photos
+    url: /photos
 policies:
   - name: Code of Conduct
     body: |
