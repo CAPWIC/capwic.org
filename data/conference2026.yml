@@ -28,22 +28,35 @@ description: |
 image   : images/banner2024.png
 
 deadlines:
-  - date: January 12, 2025 (Monday)
-    description: Submission system opens
-  - date: January 20, 2026 (Tuesday)
-    description: Registration opens
-  - date: January 20, 2026 (Tuesday)
-    description: Scholarship applications open
-  - date: February 2, 2026 (Monday)
-    description: Abstract submission deadline
-  - date: February 17, 2026 (Tuesday)
-    description: Scholarship application deadline
-  - date: February 19, 2026 (Thursday)
-    description: Scholarship Deadline
-  - date: March 5, 2026 (Thursday)
-    description: Registration Deadline
-  - date: March 27-28, 2026 (Friday and Saturday)
-    description: Attend in-Person!
+  - date: |
+      <time datetime="2026-01-12">January 12</time>
+    description:
+    - Submission system opens
+  - date: |
+      <time datetime="2026-01-27">January 27</time>
+    description:
+    - Registration opens
+    - Scholarship applications open
+  - date: |
+      <time datetime="2026-02-2">February 2</time>
+    description:
+    - Abstract submission deadline
+  - date: |
+      <time datetime="2026-02-17">February 17</time>
+    description:
+    - Scholarship application deadline
+  - date: |
+      <time datetime="2026-02-19">February 19</time>
+    description:
+    - Scholarship Deadline
+  - date: |
+      <time datetime="2026-03-5">March 5</time>
+    description:
+    - Registration Deadline
+  - date: |
+      March <time datetime="2026-03-27">27</time>&mdash;<time datetime="2026-03-28">28</time>
+    description:
+    - Attend in-Person!
 
 # speakers:
 #   - name: Dr. Quincy K. Brown, Ph.D.

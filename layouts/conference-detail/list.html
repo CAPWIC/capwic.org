@@ -27,10 +27,16 @@
                     <div class="col-md">
                         <div class="block">
                             {{ with .deadlines }}
-                            <dl class="row">
+                            <dl>
                                 {{ range $index, $element := . }}
-                                <dt class="col-md-5 text-right">{{ .date | safeHTML }}</dt>
-                                <dd class="col-md">{{ .description | safeHTML }}</dd>
+                                <div class="row">
+                                    <dt class="col-5 text-right">{{ .date | safeHTML }}</dt>
+                                    <div class="col">
+                                        {{ range $descindex, $descelement := .description }}
+                                        <dd>{{ $descelement | safeHTML }}</dd>
+                                        {{ end }}
+                                    </div>
+                                </div>
                                 {{ end }}
                             </dl>
                             {{ end }}
