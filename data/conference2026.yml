@@ -28,13 +28,21 @@ description: |
 image   : images/banner2024.png
 
 deadlines:
-  - date: February 2, 2026
-    description: Submission Deadline
-  - date: February 20, 2026
+  - date: January 12, 2025 (Monday)
+    description: Submission system opens
+  - date: January 20, 2026 (Tuesday)
+    description: Registration opens
+  - date: January 20, 2026 (Tuesday)
+    description: Scholarship applications open
+  - date: February 2, 2026 (Monday)
+    description: Abstract submission deadline
+  - date: February 17, 2026 (Tuesday)
+    description: Scholarship application deadline
+  - date: February 19, 2026 (Thursday)
     description: Scholarship Deadline
-  - date: March 5, 2026
+  - date: March 5, 2026 (Thursday)
     description: Registration Deadline
-  - date: March 27-28, 2026
+  - date: March 27-28, 2026 (Friday and Saturday)
     description: Attend in-Person!
 
 # speakers:
@@ -149,7 +157,6 @@ organizers:
       avatar: /2024/organizers/olsenweb.jpeg
       affiliation: Loyola University Maryland
       email: mmolsen@loyola.edu
-    
   - Local Chairs:
     - name: Dr. Melissa Cameron
       last_name: Cameron
@@ -161,22 +168,12 @@ organizers:
       link: https://iac.vt.edu/about/faculty/olimpiew-erika.html
       affiliation: Virginia Tech
       email: eolimpie@vt.edu
-
-  # - Education Liaison: 
-  #   - name: Deborah Kariuki
-  #     last_name: Kariuki
-  #     avatar: /2026/organizers/DeborahKariuki-634x792.jpg
-  #     link: https://education.umbc.edu/deborahkariuki/
-  #     affiliation: University of Maryland, Baltimore County
-  #     email: educators@capwic.org
-
   - Web Registrations:
     - name: Dr. Swapneel Sheth
       last_name: Sheth
       link: https://www.cis.upenn.edu/~swapneel/
       affiliation: University of Pennsylvania
       email: swapneel@cis.upenn.edu 
-  
   - Publicity and Outreach:
     - name: Dr. Zhuojun Duan 
       last_name: Duan
@@ -191,7 +188,20 @@ organizers:
       link: https://www.rmc.edu/profile/maha-elouni/
       affiliation: Randolph-Macon College 
       email: mahaelouni@rmc.edu
-
+  - Education Liaison: 
+    - name: Deborah Kariuki
+      last_name: Kariuki
+      avatar: /2026/organizers/DeborahKariuki-634x792.jpg
+      link: https://education.umbc.edu/deborahkariuki/
+      affiliation: University of Maryland, Baltimore County
+      email: educators@capwic.org
+  - Data Chair:
+    - name: Allyson Senger
+      last_name: Senger
+      avatar: https://website.cs.vt.edu/content/website_cs_vt_edu/en/people/faculty/allyson-senger/jcr:content/bio-image.transform/xl-medium/image.jpg
+      link: https://website.cs.vt.edu/people/faculty/allyson-senger.html
+      email: asenger@vt.edu
+      affiliation: Virginia Tech
   - Technical Program Chair:
     - name: Dr. Jin-Hee Cho 
       last_name: Cho
@@ -199,7 +209,12 @@ organizers:
       link: https://people.cs.vt.edu/~jicho/
       affiliation: Virginia Tech
       email: jicho@vt.edu
-
+    - name: Dr. Mohammed Farghally
+      last_name: Farghally
+      avatar: https://lh3.googleusercontent.com/sitesv/AAzXCkducIC3BANzRIfhAKfoaMMeE_Geud16N8X6SeLhKhRO7HPcnetUbnK6zd_Prv1kz8pm-FEaCMObLO2pf53ecx91mlDKROdXe4pdvcBtqmd0OBASqXGBPxCyvR6XVgfsOI91fib48UdGmbPS_-cxraD_JhtuerAKqEe7HaaC3JBeMv8-_-nVaH-5fIPK205zuIj-u83w_q5zKsGbIqV4rWsWu45272M7FMp1=w1280
+      link: https://sites.google.com/vt.edu/mfseddik
+      affiliation: Virginia Tech
+      email: mfseddik@vt.edu
   - Keynote Speakers Recruiter:
     - name: Dr. Megan Olsen 
       last_name: Olsen
@@ -207,7 +222,6 @@ organizers:
       avatar: /2024/organizers/olsenweb.jpeg
       affiliation: Loyola University Maryland
       email: mmolsen@loyola.edu
-
   - Technical Workshops:
     - name: Dr. Nguyen Ho
       last_name: Ho
@@ -215,6 +229,27 @@ organizers:
       link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/Ho-Nguyen.html
       affiliation: Loyola University Maryland
       email: tnho@loyola.edu
+  - Student Posters & Competition:
+    - name: Dr. Jessica Zeitz
+      last_name: Zeitz
+      avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2016/08/Self_Jessica_175c-150x150.jpg
+      link: https://www.umw.edu/directory/employee/jessica-self-jzeitz/
+      affiliation: University of Mary Washington
+      email: jzeitz@umw.edu
+  - Research Shorts & Competition: 
+    - name: Dr. Mai Dahshan
+      last_name: Dahshan
+      avatar: https://api.dsi.virginia.edu/sites/default/files/styles/square_sm/public/2024-08/headshot.jpeg?w=1500
+      link: https://mdahshan.wixsite.com/mdahs
+      affiliation: University of Virginia
+      email: xuu6qc@virginia.edu
+  - Panels: 
+    - name: Dr. Chandani Shrestha
+      last_name: Shrestha
+      avatar: https://www.jmu.edu/cise/_images/faculty-staff/shrestha.png
+      link: https://www.jmu.edu/cise/people/faculty/shrestha-chandani.shtml
+      affiliation: James Madison University
+      email: shrestcx@jmu.edu
   - Website Management:
     - name: Dr. Michael Stewart
       last_name: Stewart
@@ -232,11 +267,30 @@ organizers:
 
 #This section populates the organizers page with images and contact information. This data is NOT replicated from above.
 organizer_photos:
+  - name: Dr. Mai Dahshan
+    last_name: Dahshan
+    avatar: https://api.dsi.virginia.edu/sites/default/files/styles/square_sm/public/2024-08/headshot.jpeg?w=1500
+    link: https://mdahshan.wixsite.com/mdahs
+    affiliation: University of Virginia
+    email: xuu6qc@virginia.edu  
+  - name: Dr. Chandani Shrestha
+    last_name: Shrestha
+    avatar: https://www.jmu.edu/cise/_images/faculty-staff/shrestha.png
+    link: https://www.jmu.edu/cise/people/faculty/shrestha-chandani.shtml
+    affiliation: James Madison University
+    email: shrestcx@jmu.edu
+  - name: Allyson Senger
+    last_name: Senger
+    avatar: https://website.cs.vt.edu/content/website_cs_vt_edu/en/people/faculty/allyson-senger/jcr:content/bio-image.transform/xl-medium/image.jpg
+    link: https://website.cs.vt.edu/people/faculty/allyson-senger.html
+    email: asenger@vt.edu
+    affiliation: Virginia Tech
   - name: Dr. Mona Rizvi
-    last_name: Rizvi
+    last_name: Rizvi 
     link: https://www.jmu.edu/cise/people/faculty/rizvi-mona.shtml
-    avatar: /2026/organizers/rizvi.png
-    affiliation: James Madison
+    avatar: https://www.jmu.edu/cise/_images/faculty-staff/rizvi.png
+    affiliation: James Madison University
+    email: elkadima@jmu.edu
   - name: Dr. Swapneel Sheth
     last_name: Sheth
     link: https://www.cis.upenn.edu/~swapneel/
@@ -253,6 +307,12 @@ organizer_photos:
   #   avatar: https://scholar.google.com/citations?view_op=medium_photo&user=EY6SBHcAAAAJ&citpid=3
   #   affiliation: James Madison University
   #   email: techchair@capwic.org
+  - name: Dr. Jessica Zeitz
+    last_name: Zeitz
+    avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2016/08/Self_Jessica_175c-150x150.jpg
+    link: https://www.umw.edu/directory/employee/jessica-self-jzeitz/
+    affiliation: University of Mary Washington
+    email: jzeitz@umw.edu
   - name: Dr. Megan Olsen 
     last_name: Olsen
     link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/olsen-megan.html
@@ -269,6 +329,12 @@ organizer_photos:
   #   link: https://www.umw.edu/directory/employee/veena-ravishankar-vravisha/
   #   avatar: https://www.umw.edu/directory/wp-content/uploads/sites/4/2018/04/Ravishankar_Veena_149c-150x150.jpg
   #   affiliation: University of Mary Washington
+  - name: Dr. Mohammed Farghally
+    last_name: Farghally
+    avatar: https://lh3.googleusercontent.com/sitesv/AAzXCkducIC3BANzRIfhAKfoaMMeE_Geud16N8X6SeLhKhRO7HPcnetUbnK6zd_Prv1kz8pm-FEaCMObLO2pf53ecx91mlDKROdXe4pdvcBtqmd0OBASqXGBPxCyvR6XVgfsOI91fib48UdGmbPS_-cxraD_JhtuerAKqEe7HaaC3JBeMv8-_-nVaH-5fIPK205zuIj-u83w_q5zKsGbIqV4rWsWu45272M7FMp1=w1280
+    link: https://sites.google.com/vt.edu/mfseddik
+    affiliation: Virginia Tech
+    email: mfseddik@vt.edu
   - name: Dr. Nada Basit 
     last_name: Basit
     link: https://engineering.virginia.edu/faculty/nada-basit
@@ -278,19 +344,19 @@ organizer_photos:
   - name: Dr. Javier Tibau 
     last_name: Tibau
     link: https://javiertibau.com
-    avatar: 
+    avatar: http://thirdlab.cs.vt.edu/wp-content/uploads/2015/07/jtibau.jpeg
     affiliation: Unaffiliated
     email: javier@javiertibau.com
   - name: Dr. Erika Olimpiew
     last_name: Olimpiew
     link: https://iac.vt.edu/about/faculty/olimpiew-erika.html
-    avatar:
+    avatar: https://iac.vt.edu/content/iac_vt_edu/en/about/faculty/olimpiew-erika/jcr:content/bio-image.transform/xl-medium/image.jpg
     affiliation: Virginia Tech
     email: eolimpie@vt.edu
   - name: Dr. Maha Elouni
     last_name: Elouni
     link: https://www.rmc.edu/profile/maha-elouni/
-    avatar:
+    avatar: https://www.digitalmeasures.com/services/self-service-reporting/profiles/clients/2cbba8ec-11b1-5bc4-84d6-b98242e79aa2/users/2366354/instruments/2580/images?fieldId=2223052
     affiliation: Randolph-Macon College 
     email: mahaelouni@rmc.edu
 
