@@ -17,36 +17,45 @@ deadlines:
   #    <a href="mailto:techchair@capwic.org">Volunteer to Review! <i class="icon ion-ios-mail"></i></a>
 
   - date: January 28, 2021
-    description: <a href="/2021/flyers/capwic-2021-submission-call.pdf"> Call for Submissions </a>
+    description:
+    - <a href="/2021/flyers/capwic-2021-submission-call.pdf"> Call for Submissions </a>
 
   - date: February 23, 2021
-    description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2021">Abstract Submission <i class="icon ion-ios-open"></i></a>
+    description:
+    - <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2021">Abstract Submission <i class="icon ion-ios-open"></i></a>
 
   - date: March 9, 2021 
-    description: Notification of Acceptances
+    description:
+    - Notification of Acceptances
 
   - date: March 10, 2021
-    description: Student Scholarship Application Open
+    description:
+    - Student Scholarship Application Open
 
   - date: March 13, 2021
-    description: <a href="https://www.eventbrite.com/e/145803673713">Registration Open!</a>
+    description:
+    - <a href="https://www.eventbrite.com/e/145803673713">Registration Open!</a>
 
   - date: >
       March 16, 2021 
-    description: >
+    description:
+    - >
       Scholarship Application Deadline
 
   - date: >
       March 19, 2021 
-    description: Notification of Scholarship Acceptances
+    description:
+    - Notification of Scholarship Acceptances
 
   - date: >
       March 25, 2021 
-    description: Registration deadline
+    description:
+    - Registration deadline
 
   - date: >
       March 26-27, 2021
-    description: Attend Virtually!!
+    description:
+    - Attend Virtually!!
 
 
 nav:

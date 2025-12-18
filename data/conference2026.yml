@@ -4,7 +4,7 @@ name    : CAPWIC 2026
 description: |
   CAPWIC is an ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
 
-  CAPWIC 2026, the ACM Capital Region Celebration of Women in Computing, will be held at Virginia Tech's Institute for Advanced Computing (IAC) in Alexandria, VA. The goal of CAPWIC is to bring together female students and allies to promote the recruitment, retention, and progression of women in computing fields.<br><br>
+  CAPWIC 2026, the ACM Capital Region Celebration of Women in Computing, will be held at  <a target="_blank" rel="noopener noreferrer" href="https://iac.vt.edu/">Virginia Tech's Institute for Advanced Computing (IAC) in Alexandria, VA</a>. The goal of CAPWIC is to bring together female students and allies to promote the recruitment, retention, and progression of women in computing fields.<br><br>
   
   The Capital Region includes Colleges and Universities as far North as Pennsylvania, and as far south as Virginia. The Capital Region Celebration of Women in Computing Conference brings together students, faculty, and industry partners to engage with research and development in computing through discussion and community-building.<br><br>
 
@@ -12,10 +12,10 @@ description: |
 
   <br><br>
   <h4>Conference Location:</h4>
-  <a href="https://iac.vt.edu/">Institute for Advanced Computing (IAC)</a><br>
+  Institute for Advanced Computing (IAC)<br>
   Virginia Tech, Academic Building One<br>
-  3625 Potomac Avenue<br>
-  Alexandria, VA 22305<br>
+  <a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/6fzhyBA4Yv57MXtR7"><i class="icon ion-ios-navigate"></i> 3625 Potomac Avenue<br>
+  Alexandria, VA 22305<br></a>
   
 
 
@@ -463,13 +463,13 @@ aboutItem:
     description: > 
       CAPWIC is in its 15th year, and we are so thankful for all the support over the years. See below for more information. If you have any questions or concerns please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>
 
-# sponsors:
-#   - level: PRE
-#     sponsors:
-#     - name: ACM
-#       img: acm.jpg
-#       link: https://www.acm.org/
-#       class: light
+sponsors:
+  - level: PRE
+    sponsors:
+    - name: ACM
+      img: acm.jpg
+      link: https://www.acm.org/
+      class: light
 # #  - level: Diamond
 # #    sponsors:
 # #    - name: James Madison University Computer Science

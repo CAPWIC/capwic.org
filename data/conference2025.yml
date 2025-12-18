@@ -15,13 +15,17 @@ image   : images/banner2024.png
 
 deadlines:
   - date: February <del>&nbsp;3&nbsp;</del> 10, 2025
-    description: <a href="https://capwic.org/conferences/2025/participation/">Submission Deadline (extended!) <i class="icon ion-ios-open"></i></a>
+    description:
+    - <a href="https://capwic.org/conferences/2025/participation/">Submission Deadline (extended!) <i class="icon ion-ios-open"></i></a>
   - date: February <del>&nbsp;20&nbsp;</del> 26, 2025
-    description: <a href="https://forms.gle/oHmjYxmycAjR3jvM7">Scholarship Deadline <i class="icon ion-ios-open"></i></a>
+    description:
+    - <a href="https://forms.gle/oHmjYxmycAjR3jvM7">Scholarship Deadline <i class="icon ion-ios-open"></i></a>
   - date: March <del>&nbsp; 5 &nbsp;</del> 10, 2025
-    description: <a href="/conferences/2025/attending">Registration Deadline (extended!)</a>
+    description:
+    - <a href="/conferences/2025/attending">Registration Deadline (extended!)</a>
   - date: March 29, 2025
-    description: <a href="/conferences/2025/attending">Attend in-Person!</a>
+    description:
+    - <a href="/conferences/2025/attending">Attend in-Person!</a>
 
 speakers:
   - name: Dr. Quincy K. Brown, Ph.D.

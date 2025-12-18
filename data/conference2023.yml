@@ -19,25 +19,32 @@ image   : images/banner2023.png
 deadlines:
   
   - date: January 24, 2023
-    description: <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-515332953737">Registration Open! <i class="icon ion-ios-open"></i></a>
+    description:
+    - <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-515332953737">Registration Open! <i class="icon ion-ios-open"></i></a>
 
   - date: February 10, 2023
-    description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2023">Abstract Submission (Extended) <i class="icon ion-ios-open"></i></a>
+    description:
+    - <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2023">Abstract Submission (Extended) <i class="icon ion-ios-open"></i></a>
 
   - date: February 23, 2023
-    description: <a target="_top" rel="noopener noreferrer" href="https://forms.gle/YTpkK4WwJefG6iip8">Student Scholarship Application Deadline <i class="icon ion-ios-open"></i></a>
+    description:
+    - <a target="_top" rel="noopener noreferrer" href="https://forms.gle/YTpkK4WwJefG6iip8">Student Scholarship Application Deadline <i class="icon ion-ios-open"></i></a>
 
   - date: March 3, 2023
-    description: Deadline for Group Registration 
+    description:
+    - Deadline for Group Registration 
 
   - date: March 16, 2023 
-    description: Deadline to Register Individually with Hotel
+    description:
+    - Deadline to Register Individually with Hotel
 
   - date: March 20, 2023 
-    description: Deadline to Register Individually without Hotel
+    description:
+    - Deadline to Register Individually without Hotel
 
   - date: March 31-April 1, 2023
-    description: Attend in-Person!!<br><a href="/conferences/2023/schedule">Schedule</a><br><a href="/2023/flyers/capwic2023-parking.pdf">Parking Map</a>
+    description:
+    - Attend in-Person!!<br><a href="/conferences/2023/schedule">Schedule</a><br><a href="/2023/flyers/capwic2023-parking.pdf">Parking Map</a>
 
 rates:
   - description: Conference Registration + Private Hotel Room

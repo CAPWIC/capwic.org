@@ -22,30 +22,39 @@ deadlines:
     #description: <a href="/2021/flyers/capwic-2021-submission-call.pdf"> Call for Submissions </a>
 
   - date: February 7, 2022
-    description: Abstract Submission Deadline (Extended)
+    description:
+    - Abstract Submission Deadline (Extended)
     # description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2022">Abstract Submission <i class="icon ion-ios-open"></i></a>
 
   - date: February 23, 2022
-    description: Notification of Acceptances
+    description:
+    - Notification of Acceptances
 
   - date: February 24, 2022
-    description: Student Scholarship Applications
+    description:
+    - Student Scholarship Applications
 
   - date: February 25, 2022
-    description: <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-276332948287">Registration Open!</a>
+    description:
+    - <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-tickets-276332948287">Registration Open!</a>
 
   - date: March 2, 2022
-    description: Student Scholarship Application Deadline
+    description:
+    - Student Scholarship Application Deadline
 
   - date: March 9, 2022
-    description: Notification of Scholarship Acceptances
+    description:
+    - Notification of Scholarship Acceptances
   - date: March 16, 2022
-    description: Deadline for Group Registration
+    description:
+    - Deadline for Group Registration
 
   - date: March 25, 2022 
-    description: Deadline to Register Individually
+    description:
+    - Deadline to Register Individually
   - date: March 25-26, 2022
-    description: Attend Virtually!!
+    description:
+    - Attend Virtually!!
 nav:
   - name: CAPWIC 2022
     url: /conferences/2022

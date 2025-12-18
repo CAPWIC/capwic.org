@@ -13,25 +13,32 @@ image   : images/banner2020.png
 #controlling text for "deadlines" on conference main/home page
 deadlines:
   - date: January 24, 2020 <i class="icon ion-ios-checkbox"></i>
-    description: >
+    description:
+    - >
       <a href="mailto:techchair@capwic.org">Volunteer to Review! <i class="icon ion-ios-mail"></i></a>
   - date: February 7, 2020<i class="icon ion-ios-checkbox"></i>
-    description: <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2020">Abstract Submission <i class="icon ion-ios-open"></i></a>
+    description:
+    - <a target="_top" rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=acmcapwic2020">Abstract Submission <i class="icon ion-ios-open"></i></a>
   - date: February 14, 2020 <i class="icon ion-ios-checkbox"></i>
-    description: Notification of Acceptances
+    description:
+    - Notification of Acceptances
   - date: >
       February 19, 2020 <i class="icon ion-ios-checkbox"></i>
-    description: >
+    description:
+    - >
       Scholarship Application
   - date: >
       February 26, 2020 <i class="icon ion-ios-square-outline"></i>
-    description: Notification of Scholarship Acceptances
+    description:
+    - Notification of Scholarship Acceptances
   - date: >
       March 4, 2020 <i class="icon ion-ios-square-outline"></i>
-    description: >
+    description:
+    - >
       <a rel="noopener noreferrer" target='_blank' href="#" data-toggle="modal" data-target="#registration-details-modal">Registration deadline <i class="icon ion-ios-open"></i></a>
   - date: <del>March 27-28, 2020 <i class="icon ion-ios-square-outline"></i></del>
-    description: <del>ATTEND!</del><br>CANCELLED 😢 due to COVID-19
+    description:
+    - <del>ATTEND!</del><br>CANCELLED 😢 due to COVID-19
 
 #sponsors list that is present on all pages left-hand side
 #images for sponsors are located in static/2020/sponsors/*
