@@ -58,30 +58,15 @@ deadlines:
     description:
     - Attend in-Person!
 
-# speakers:
-#   - name: Dr. Quincy K. Brown, Ph.D.
-#     img: brown.jpg
-#     bio: |
-#       <p>Quincy drives high-impact programs at the intersection of education, workforce development, and technology, with a focus on equity, diversity, and inclusion.</p>
-#       <p>Across two presidencies, she has shaped national policy, aligning federal agencies, nonprofit and industry partners to launch novel initiatives. She is a proven expert who leverages data-driven insights, strategic partnerships, and evidence-based research to shape national policy, scale innovative initiatives, and cultivate cross-sector collaborations.</p>
-#       <p>Quincy is adept at guiding federal agencies, nonprofits, and industry stakeholders to address critical challenges in STEM education, workforce development, and inclusive technology adoption. She is passionate about advancing economic inclusion and sustainable growth through the responsible application of emerging technologies.</p>
-#       <h5>Oh, The Places You'll Go!</h5>
-#       <p>Dr. Quincy K. Brown is an accomplished computer scientist, educator, former Policy Director in the White House, and expert on STEM education, policy development, cross-agency collaboration, and workforce initiatives in space, computing, technology, and STEM.</p>
-#       <p>Dr. Brown will discuss leveraging her background as a computer scientist across research, education, and policy to drive innovation and shape the future. Her expertise offers valuable perspectives and practical insights on innovation, collaboration, and career navigation. </p>
-#   - name: Becky Robertson 
-#     img: robertson.jpg
-#     bio: |
-#       <p>Becky Robertson is a Vice President at Booz Allen Hamilton, where she leads amazingly innovative
-#       teams building advanced technology solutions and products to accelerate outcomes for the
-#       Nation. In her more than 30-year career, Becky has blended her technical expertise, problem
-#       solving skills, and passion for collaboration in roles including web-based training development,
-#       software engineering project management, systems engineering and integration, commercial
-#       satellite vulnerability analysis, large contract management, competitive contract capture and
-#       negotiation, as well as leading corporate investments in next wave technologies. In her current role,
-#       Becky leads Booz Allen’s National Missions team, tackling priority national cyber issues with
-#       collective ingenuity and unmatched mission understanding. She lives in the Annapolis area with her
-#       family and spends almost all of her spare time reading mysteries, cooking for the people she loves,
-#       or on soccer and lacrosse fields.</p>
+speakers:
+  - name: Dr. Laurian Vega
+    # img: brown.jpg
+    affiliation: System Engineer, Senior at Booz Allen Hamilton.
+    bio: |
+      <h5>Tools in Your Toolbox: What I've Learned as a Professional Female Computer Scientist</h5>
+      <p>In today's rapidly evolving technological landscape, thriving as a professional in computer science requires not just technical expertise but also adaptability, resilience, and a toolkit of practical strategies for navigating challenges. For women in this field, this journey often involves overcoming unique obstacles while carving out space for innovation, leadership, and growth.</p>
+      <p>In this keynote address, I'll share the tools I've cultivated throughout my career as a female computer scientist—tools that have helped me break barriers, foster collaboration, and stay inspired in an ever-changing industry. From technical skills and problem-solving approaches to strategies for handling imposter syndrome and advocating for diversity, equity, and inclusion, this talk will offer actionable insights for professionals at every stage of their journey.</p>
+      <p>Whether you're just building your toolbox or looking to refine it, my goal is to equip you with empowering lessons learned from real-world experiences: navigating workplace dynamics, balancing competing demands, taking risks, and finding opportunities to mentor and uplift others. Join me as I reflect on what it means to innovate and thrive—not just as a computer scientist, but as a leader, a learner, and an advocate for change in the tech world. Together, let's add some powerful new tools to your toolbox.</p>
 
 rates:
 submission:
@@ -466,9 +451,21 @@ aboutItem:
 sponsors:
   - level: PRE
     sponsors:
-    - name: ACM
-      img: acm.jpg
-      link: https://www.acm.org/
+    - name: ACM-W
+      img: ACMW-hi-res-logo-noText-transparent.png
+      link: https://women.acm.org/
+      class: light
+    - name: Virginia Tech Institute for Advanced Computing
+      img: InstituteforAdvancedComputing_FullColor_RGB.svg
+      link: https://iac.vt.edu/
+      class: light
+    - name: Sanghani Center for Artificial Intelligence and Data Analytics
+      img: Sanghani Center-vrt-FC-CMYK.jpg
+      link: https://cs.vt.edu/
+      class: light
+    - name: Virginia Tech Computer Science 
+      img: vt_cs.jpg
+      link: https://cs.vt.edu/
       class: light
 # #  - level: Diamond
 # #    sponsors:

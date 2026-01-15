@@ -63,7 +63,9 @@
                         {{ range $index, $speaker := . }}
                         <div class="col-md-4">
                         <div class="card mb-3">
+                            {{if $speaker.img}}
                             <img src="/{{$yr}}/speakers/{{ $speaker.img }}" class="card-img-top" alt="{{ $speaker.name }}" style="max-width: inherit;">
+                            {{end}}
                             <div class="card-body">
                                 <h5 class="card-title">
                                     {{if $speaker.link}}
@@ -72,6 +74,11 @@
                                     {{ $speaker.name }}
                                     {{ end }}
                                 </h5>
+                                {{if $speaker.affiliation}}
+                                <h6 class="card-subtitle">
+                                    {{$speaker.affiliation}}
+                                </h6>
+                                {{end}}
                                 <p class="card-text">
                                     {{ $speaker.bio| safeHTML | truncate 250}}
                                     {{ if gt (len $speaker.bio) 250 }}
