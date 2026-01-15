@@ -60,7 +60,7 @@ deadlines:
 
 speakers:
   - name: Dr. Laurian Vega
-    # img: brown.jpg
+    img: laurian.jpg
     affiliation: System Engineer, Senior at Booz Allen Hamilton.
     bio: |
       <h5>Tools in Your Toolbox: What I've Learned as a Professional Female Computer Scientist</h5>
