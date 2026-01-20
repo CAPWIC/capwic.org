@@ -31,7 +31,8 @@ deadlines:
   - date: |
       <time datetime="2026-01-12">January 12</time>
     description:
-    - Submission system opens
+    - <a href="https://capwic.org/conferences/2026/participation/">Submissions Open<i class="icon ion-ios-open"></i></a>
+    # - Submission system opens
   - date: |
       <time datetime="2026-01-27">January 27</time>
     description:
@@ -71,9 +72,10 @@ speakers:
 rates:
 submission:
   lead: |
-    <p>There are seven tracks to which you can submit your work. Please submit by <span style="font-weight: bold;">Febrary 10, 2026</span><strong>, the submission deadline</strong>.</p>
+    <p>There are seven tracks to which you can submit your work.
+    Please submit by <span style="font-weight: bold;">Febrary 2, 2026</span><strong>, the abstract submission deadline</strong>.</p>
     <p>CAPWIC 2026, an ACM Capital Region Celebration of Women in Computing, will be held 
-    at The George Washington University, in Washington, D.C. The goal of CAPWIC
+    at Virginia Tech's Institute for Advanced Computing (IAC) in Alexandria, VA. The goal of CAPWIC
     is to bring together female students and allies to promote the recruitment,
     retention, and progression of women in computing fields. We invite submissions
     in the area of computing research as well as on efforts to increase diversity
@@ -85,32 +87,40 @@ submission:
     affiliation(s) of the presenters, and for students,
     their year in school. More details are available on
     the submission site. If you have questions,
-    please contact Michael Stewart, Program Chair, at
+    please contact the Program Chair, at
     techchair@capwic.org</p>
     
     <hr class="my-4">
     <p class="text-center">
-    <a href="https://capwic25.hotcrp.com" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Submit Your Abstract <i class="icon ion-ios-open"></i></a>
+    <img src="/images/Capwic_Authors_Flowchart.png" style='height: 100%; width: 100%; object-fit: contain' alt="Flowchart for Identifying Submission Categories">
     </p>
+
+    <hr class="my-4">
+    <p class="text-center">
+    <a href="https://easychair.org/conferences2/overview?a=35921198" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Submit Your Abstract <i class="icon ion-ios-open"></i></a>
+    </p>
+
+    
+
   tracks:
+    - name: Student Research Shorts
+      description: >
+        Research shorts are an opportunity to give a 13-minute presentation with an additional 2 minutes for questions, similar to a talk at a research conference. Work should be technical in nature, investigating new ideas in any area of computer science. The intention is to give presenters a friendly environment in which to practice a future technical talk or work out details in an ongoing project to get constructive feedback. Only an abstract is required, so future publication of the work is not limited. 
     - name: Flash Talks
       description: >
         Five-minute presentations with five minutes for questions. Fast-paced talks on preliminary results, work-in progress, or anything fun and creative related to the conference are welcome in this category. All levels of experience are welcome.
     - name: Student Posters
       description: >
         Before the conference, presenters create a 36” x 48” poster of research, a class project, or other type of work-in-progress including efforts to diversify computing and are present at the poster during the session to discuss content. Open to all students. Prizes will be awarded. 
-    - name: Student Research Shorts
-      description: >
-        Research shorts are an opportunity to give a 13-minute presentation with an additional 2 minutes for questions, similar to a talk at a research conference. Work should be technical in nature, investigating new ideas in any area of computer science. The intention is to give presenters a friendly environment in which to practice a future technical talk or work out details in an ongoing project to get constructive feedback. Only an abstract is required, so future publication of the work is not limited. 
-    - name: Technical Workshops
-      description: >
-        Workshops present a valuable and current technical skill in a hands-on training session. Proposals must include abstract, the intended audience and power/AV equipment/space needs.
-    - name: Panels
-      description: >
-        Panels present multiple perspectives on a topic. Proposals should include abstract, a list of presenters including their affiliation and perspective, along with a proposed length of 25 or 50 minutes.
     - name: Birds-of-a-Feather
       description: >
         Birds-of-a-feather (BOF) sessions are opportunities for a group of participants with similar concerns to have an informal discussion. BOF sessions will be 50-60 minutes.
+    - name: Panels
+      description: >
+        Panels present multiple perspectives on a topic. Proposals should include abstract, a list of presenters including their affiliation and perspective, along with a proposed length of 25 or 50 minutes.
+    - name: Technical Workshops
+      description: >
+        Workshops present a valuable and current technical skill in a hands-on training session. Proposals must include abstract, the intended audience and power/AV equipment/space needs.
     - name: Technical Talks
       description: >
         20 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
