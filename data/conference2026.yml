@@ -467,6 +467,12 @@ sponsors:
       img: vt_cs.jpg
       link: https://cs.vt.edu/
       class: light
+  - level: Silver
+    sponsors:
+      - name: University of Virginia
+        img: uva_logo.jpg
+        link: https://www.virginia.edu/
+        class: light
 # #  - level: Diamond
 # #    sponsors:
 # #    - name: James Madison University Computer Science
@@ -535,10 +541,6 @@ sponsors:
 #     - name: University of Maryland Baltimore County
 #       img: umbc_csee_logo.jpg
 #       link: https://www.csee.umbc.edu/undergraduate/computer-engineering-bs/
-#       class: light
-#     - name: University of Virginia Computer Science 
-#       img: uva_cs.jpg
-#       link: https://engineering.virginia.edu/departments/computer-science 
 #       class: light
 #     - name: Virginia Tech Computer Science 
 #       img: vt_cs.jpg
