@@ -36,8 +36,8 @@ deadlines:
   - date: |
       <time datetime="2026-01-27">January 27</time>
     description:
-    - Registration opens
-    - Scholarship applications open
+    - <a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-2026-tickets-1978434840867">Registration</a> opens
+    - <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSduWpjKU6T0LqthDI4_JW2ZKlf4pXzZN0ww6o38XjBH6Tx-Qw/viewform">Scholarship applications</a> open
   - date: |
       <time datetime="2026-02-2">February 2</time>
     description:
@@ -130,6 +130,8 @@ submission:
 nav:
   - name: CAPWIC 2026
     url: /conferences/2026
+  - name: Attending
+    url: /conferences/2026/attending
   - name: Sponsorship
     url: /conferences/2026/sponsorship
   - name: Participation
@@ -442,8 +444,43 @@ attending:
   # image: /images/banner.png
   # code: <iframe src="https://www.google.com/maps/d/embed?mid=1TbNi6LH0vNbNyGSYoODzW2uCRooLdoc&ehbc=2E312F" width="480" height="360"></iframe>
   code: |
-    <h3>Coming Soon!</h3>
-  # description: |
+    <h3>Registration</h3>
+    <p>Registration is open for CAPWIC 2025 at the <b>George Washington University</b> in Washington, D.C. on <b>March 29, 2025</b>.  
+    If you are registering individually, please use the link below.  Registration this year is $50, which includes meals, snacks, and events.
+    <p class="text-center">
+    <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-2026-tickets-1978434840867" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Register at Eventbrite</a>
+    </p>
+    <h3>Scholarships</h3>
+    <p>Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. If you would like to apply for a scholarship, please fill out the following form before registering.</p>
+    <p class="text-center">
+    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSduWpjKU6T0LqthDI4_JW2ZKlf4pXzZN0ww6o38XjBH6Tx-Qw/viewform" class="btn btn-info">Apply for the CAPWIC scholarship</a>
+    </p>
+    <h3 id="group-reg">Registering a group?</h3>
+    <p>If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us at info@capwic.org so that we help with group payments and registration.</p>
+    <p class="text-center"><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning"><i class="icon ion-ios-mail"></i> Email us to register your group</a></p>
+  description: |
+    <h3>Date</h3>
+    <p>March 27-28, 2026</p>
+    <h3>Location</h3>
+    <p>The event will be held at <a href="https://iac.vt.edu/">Virginia Tech's Institute for Advanced Computing (IAC) in Alexandria, VA</a>.</p>
+    <p class="text-right"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.4263726358877!2d-77.0486469!3d38.837851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b0d0efaf9c9d%3A0xa9238f8afb1abce1!2s3625%20Potomac%20Ave%2C%20Alexandria%2C%20VA%2022305!5e1!3m2!1sen!2sus!4v1769311886961!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+    <h3>Parking</h3>
+    <p>Parking is $4/hr or $20/day.
+    <figure>
+    <a href="/2026/vt-iac-by-core-studio-design.png"><img src="/2026/vt-iac-by-core-studio-design.png" width="300"></a>
+    <figcaption>There are two options for parking: the surface lots or the underground garage.
+    <ol>
+    <li>Surface parking is denoted by the green ellipses in the image below, and requires payment via <a target="_blank" rel="noopener noreferrer" href="https://parking.vt.edu/parking/parkmobile.html">ParkMobile</a></li>
+    <li>The garage entry is indicated by the yellow arrow, and requires payment via the parking stub Systems:
+    <ol><li>Upon entry, you will receive a parking stub in order to pay for your garage parking.</li>
+    <li>When exiting you have two options to pay for parking:<ol>
+    <li>Pay at the ticket machines located in the P1 and P2 elevator bays.</li>
+    <li>Pay as you exit by inserting the ticket stub into the exit gate and paying by card. </li></ol></li>
+    <ul>
+    <li>Note: to access the garage, vehicles must first drive through the smaller surface lot (upper green ellipse) before reaching the entrance.</li></ul></li></ol></figcaption></figure>
+    <b>Academic Building One Parking Garage</b><br>
+    Access via University Dr<br>
+    <b>Hours:</b> No overnight parking allowed. Must be out by 10 p.m. or car will not be accessible until 6 a.m. the following day.<br>
     
 aboutItem:
   - title : Registration
