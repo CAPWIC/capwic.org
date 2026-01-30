@@ -614,16 +614,16 @@ sponsorshipCosts:
 sponsorship:
   - type: General
     perks: 
-      - name: Get a Table at the Career Fair
-        levels: 
-          - name: platinum
-            enabled: true
-          - name: gold
-            enabled: true
-          - name: silver
-            enabled: true
-          - name: in-kind
-            enabled: false
+      # - name: Get a Table at the Career Fair
+      #   levels: 
+      #     - name: platinum
+      #       enabled: true
+      #     - name: gold
+      #       enabled: true
+      #     - name: silver
+      #       enabled: true
+      #     - name: in-kind
+      #       enabled: false
       - name: 2 FREE tickets to attend the celebration
         levels: 
           - name: platinum
