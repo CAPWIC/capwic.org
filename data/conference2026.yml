@@ -68,6 +68,14 @@ speakers:
       <p>In today's rapidly evolving technological landscape, thriving as a professional in computer science requires not just technical expertise but also adaptability, resilience, and a toolkit of practical strategies for navigating challenges. For women in this field, this journey often involves overcoming unique obstacles while carving out space for innovation, leadership, and growth.</p>
       <p>In this keynote address, I'll share the tools I've cultivated throughout my career as a female computer scientist—tools that have helped me break barriers, foster collaboration, and stay inspired in an ever-changing industry. From technical skills and problem-solving approaches to strategies for handling imposter syndrome and advocating for diversity, equity, and inclusion, this talk will offer actionable insights for professionals at every stage of their journey.</p>
       <p>Whether you're just building your toolbox or looking to refine it, my goal is to equip you with empowering lessons learned from real-world experiences: navigating workplace dynamics, balancing competing demands, taking risks, and finding opportunities to mentor and uplift others. Join me as I reflect on what it means to innovate and thrive—not just as a computer scientist, but as a leader, a learner, and an advocate for change in the tech world. Together, let's add some powerful new tools to your toolbox.</p>
+  - name: Candace Aku
+    img: CandaceAku-White-1.JPG
+    affiliation: Senior Technical Program Manager at Google Public Sector
+    bio: |
+      <h5>Goodbye Imposter, Hello Winner: Overcoming Perceptual Expectations to Reclaim Excellence</h5>
+      <p>What happens when your identity is shaped by the "perceptual expectations" of everyone around you? Others often develop their own thoughts about who you are and those thoughts become the very chains that limit your professional potential. For many women in tech, external narratives become a "groomed perfection" that can lead to identity crises, spiraling, and the heavy weight of imposter syndrome.</p>
+      <p>In this keynote, Candace Aku shares a transparent look at her journey from living under the shadow of others' expectations and traces her unconventional path through the tech industry. This session explores the process of identifying which parts of your professional identity are yours and which are merely the result of perceptual expectations.</p>
+      <p>Join us to learn how to stop meeting the expectations of others and start exceeding your own.</p>
 
 rates:
 submission:
@@ -464,29 +472,14 @@ attending:
     <h3>Location</h3>
     <p>The event will be held at <a href="https://iac.vt.edu/">Virginia Tech's Institute for Advanced Computing (IAC) in Alexandria, VA</a>.</p>
     <p class="text-right"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.4263726358877!2d-77.0486469!3d38.837851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b0d0efaf9c9d%3A0xa9238f8afb1abce1!2s3625%20Potomac%20Ave%2C%20Alexandria%2C%20VA%2022305!5e1!3m2!1sen!2sus!4v1769311886961!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
-    <h3>Parking</h3>
-    <p>Parking is $4/hr or $20/day.
-    <figure>
-    <a href="/2026/vt-iac-by-core-studio-design.png"><img src="/2026/vt-iac-by-core-studio-design.png" width="300"></a>
-    <figcaption>There are two options for parking: the surface lots or the underground garage.
-    <ol>
-    <li>Surface parking is denoted by the green ellipses in the image below, and requires payment via <a target="_blank" rel="noopener noreferrer" href="https://parking.vt.edu/parking/parkmobile.html">ParkMobile</a></li>
-    <li>The garage entry is indicated by the yellow arrow, and requires payment via the parking stub Systems:
-    <ol><li>Upon entry, you will receive a parking stub in order to pay for your garage parking.</li>
-    <li>When exiting you have two options to pay for parking:<ol>
-    <li>Pay at the ticket machines located in the P1 and P2 elevator bays.</li>
-    <li>Pay as you exit by inserting the ticket stub into the exit gate and paying by card. </li></ol></li>
-    <ul>
-    <li>Note: to access the garage, vehicles must first drive through the smaller surface lot (upper green ellipse) before reaching the entrance.</li></ul></li></ol></figcaption></figure>
-    <b>Academic Building One Parking Garage</b><br>
-    Access via University Dr<br>
-    <b>Hours:</b> No overnight parking allowed. Must be out by 10 p.m. or your car will not be accessible until 6 a.m. the following day.<br>
     
 aboutItem:
   - title : Registration
     type: registration
     description: > 
-      Coming Soon
+      Registration is open for CAPWIC 2025 at the <b>George Washington University</b> in Washington, D.C. on <b>March 29, 2025</b>.  
+      If you are registering individually, please use the link below.  Registration this year is $50, which includes meals, snacks, and events.
+      <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-2026-tickets-1978434840867" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Register at Eventbrite</a>
   - title : Scholarships
     description: | 
       Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school.
