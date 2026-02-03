@@ -463,26 +463,55 @@ attending:
     <p class="text-center">
     <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSduWpjKU6T0LqthDI4_JW2ZKlf4pXzZN0ww6o38XjBH6Tx-Qw/viewform" class="btn btn-info">Apply for the CAPWIC scholarship</a>
     </p>
-    <h3 id="group-reg">Registering a group?</h3>
-    <p>If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us at info@capwic.org so that we help with group payments and registration.</p>
-    <p class="text-center"><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning"><i class="icon ion-ios-mail"></i> Email us to register your group</a></p>
+    <h3>Lodging</h3>
+    <p>We're delighted to be partnering with Embassy Suites for lodging for CAPWIC.</p>
+    <address>
+    Embassy Suites by Hilton Alexandria Old Town<br>
+    1900 Diagonal Road<br>
+    Alexandria, VA 22314, US<br>
+    </address>
+    <p class="text-center"><a target="_blank" rel="noopener noreferrer" href="https://book.passkey.com/go/CAPWIC2026" class="btn btn-warning">Reserve a room</a> <a target="_blank" class="btn btn-primary" rel="noopener noreferrer" href="https://maps.app.goo.gl/8MoQV18NW6tLxsKTA"><i class="icon ion-ios-navigate"></i> Get Directions</a></p>
+    <p>Guests may also book reservations by calling <a href="tel:+18003622779">800-362-2779</a> and reference the code 919</p>
+    
   description: |
     <h3>Date</h3>
     <p>March 27-28, 2026</p>
     <h3>Location</h3>
     <p>The event will be held at <a href="https://iac.vt.edu/">Virginia Tech's Institute for Advanced Computing (IAC) in Alexandria, VA</a>.</p>
     <p class="text-right"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.4263726358877!2d-77.0486469!3d38.837851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b0d0efaf9c9d%3A0xa9238f8afb1abce1!2s3625%20Potomac%20Ave%2C%20Alexandria%2C%20VA%2022305!5e1!3m2!1sen!2sus!4v1769311886961!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+  fullwidth: |
+    <h3>Parking</h3>
+    <figure class="float-right"><a target="_blank" rel="noopener noreferrer" href="/2026/vt-iac-by-core-studio-design.png"><img src="/2026/vt-iac-by-core-studio-design.png" width="300"></a><figcaption style="max-width:300px;"><b>Academic Building One Parking Garage</b><br>
+    Access via University Dr<br>
+    <b>Hours:</b> No overnight parking allowed. Must be out by 10 p.m. or car will not be accessible until 6 a.m. the following day.</figcaption></figure>
+    <p>Parking is $4/hr or $20/day.</p>
+    <p>There are two options for parking: the surface lots or the underground garage.</p>
+    <ol>
+    <li>Surface parking is denoted by the green ellipses in the image, and requires payment via <a target="_blank" rel="noopener noreferrer" href="https://parking.vt.edu/parking/parkmobile.html">ParkMobile</a></li>
+    <li>The garage entry is indicated by the yellow arrow, and requires payment via the parking stub Systems:
+    <ol><li>Upon entry, you will receive a parking stub in order to pay for your garage parking.</li>
+    <li>When exiting you have two options to pay for parking:<ol>
+    <li>Pay at the ticket machines located in the P1 and P2 elevator bays.</li>
+    <li>Pay as you exit by inserting the ticket stub into the exit gate and paying by card. </li></ol></li></ol>
+    <ul>
+    <li>Note: to access the garage, vehicles must first drive through the smaller surface lot (upper green ellipse) before reaching the entrance.</li></ul></li></ol>
+    
     
 aboutItem:
   - title : Registration
     type: registration
     description: > 
-      Registration is open for CAPWIC 2025 at the <b>George Washington University</b> in Washington, D.C. on <b>March 29, 2025</b>.  
-      If you are registering individually, please use the link below.  Registration this year is $50, which includes meals, snacks, and events.
+      Registration is open for CAPWIC 2026 at <strong> Virginia Tech's Institute for Advanced Computing (IAC)</strong> in Alexandria, VA. on <strong>March 27-28, 2026</strong>.  
+      If you are registering individually, please use the link below.  Registration this year is $50, which includes meals, snacks, and events.<br>
       <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-2026-tickets-1978434840867" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Register at Eventbrite</a>
+  - title: Registering a group?
+    description: |
+      <p>If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us at info@capwic.org so that we help with group payments and registration.</p>
+      <p class="text-center"><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning"><i class="icon ion-ios-mail"></i> Email us to register your group</a></p>
   - title : Scholarships
     description: | 
-      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school.
+      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. If you would like to apply for a scholarship, please fill out the following form before registering.
+      <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSduWpjKU6T0LqthDI4_JW2ZKlf4pXzZN0ww6o38XjBH6Tx-Qw/viewform" class="btn btn-warning">Apply for the CAPWIC scholarship</a>
 
 #this field however ends up as its own Sponsorship page
   - title : Sponsorship

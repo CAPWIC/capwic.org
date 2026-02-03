@@ -23,6 +23,11 @@
                     {{ end }}
             </div>
         </div>
+        {{ with .attending.fullwidth }}
+            <div class="row">
+                <div class="col">{{ . | safeHTML }}</div>
+            </div>
+        {{ end }}
     </div>
 </section>
 
@@ -76,9 +81,9 @@
             </div>
             {{ end }}
             {{ end }}
+            {{ with .flyers }}
             <div class="col-md-3 px-0 about-feature-3">
                 <div class="block wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
-                        {{ with .flyers }}
                         {{ $yr := $.Params.year }}
                         {{$data := print "conference" $yr}}
                         <h3>Flyers</h3>
@@ -87,9 +92,9 @@
                             <li><a href="/{{$yr}}/flyers/{{ .link }}">{{ .text }} <i class="icon ion-md-cloud-download"></i></a></li>
                             {{ end }}
                         </ul>
-                        {{ end }}
-                </div>
                     </div>
+                </div>
+                {{ end }}
             <div class="col-md-3 px-0 about-feature-1">
                 <div class="block wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
                         {{ if .deadlines}}
