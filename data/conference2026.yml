@@ -47,10 +47,6 @@ deadlines:
     description:
     - Scholarship application deadline
   - date: |
-      <time datetime="2026-02-19">February 19</time>
-    description:
-    - Scholarship Deadline
-  - date: |
       <time datetime="2026-03-5">March 5</time>
     description:
     - Registration Deadline
@@ -158,7 +154,8 @@ policies:
     body: |
       CAPWIC's top priority is that participants feel welcome, comfortable, respected, and safe while attending. As an official ACM-W celebration, we adhere to <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener noreferrer">the ACM Code of Conduct <i class="icon ion-ios-open"></i></a>.
 flyers:
-
+  - link: Sponsor CAPWIC 2026 Flier.jpg
+    text: Information for Sponsors
 
 #This section modifies the list of organizers (chairs, local arrangements...etc) that runs down the right-hand side of the organizers page
 organizers:
