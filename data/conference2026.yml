@@ -2,7 +2,7 @@ enable  : true
 title   : March 27-28, 2026
 name    : CAPWIC 2026
 description: |
-  CAPWIC is an ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
+  CAPWIC is the ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
 
   CAPWIC 2026, the ACM Capital Region Celebration of Women in Computing, will be held at  <a target="_blank" rel="noopener noreferrer" href="https://iac.vt.edu/">Virginia Tech's Institute for Advanced Computing (IAC) in Alexandria, VA</a>. The goal of CAPWIC is to bring together female students and allies to promote the recruitment, retention, and progression of women in computing fields.<br><br>
   
@@ -287,6 +287,13 @@ organizers:
       link: https://www.jmu.edu/cise/people/faculty/shrestha-chandani.shtml
       affiliation: James Madison University
       email: shrestcx@jmu.edu
+  - Technical Talks: 
+    - name: Dr. Safdar Hussain Bouk
+      last_name: Bouk
+      avatar: bouk.jpg
+      link: https://www.odu.edu/directory/safdar-hussain-bouk
+      affiliation: Old Dominion University
+      email: sbouk@odu.edu
   - Website Management:
     - name: Dr. Michael Stewart
       last_name: Stewart
@@ -460,6 +467,11 @@ organizer_photos:
     avatar: https://www.loyola.edu/_media/academics/computer-science/images/faculty-staff/ho%20pic.jpg
     link: https://www.loyola.edu/academics/computer-science/faculty/directory-faculty/Ho-Nguyen.html
     affiliation: Loyola University Maryland
+  - name: Dr. Safdar Hussain Bouk
+    last_name: Bouk
+    avatar: /2026/organizers/bouk.jpg
+    link: https://www.odu.edu/directory/safdar-hussain-bouk
+    affiliation: Old Dominion University
   # - name: Dr. Brad McCoy
   #   last_name: McCoy
   #   avatar: https://www.jmu.edu/cise/_images/faculty-staff/mccoy.jpg
