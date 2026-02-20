@@ -37,7 +37,7 @@ deadlines:
       <time datetime="2026-01-27">January 27</time>
     description:
     - <a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-2026-tickets-1978434840867">Registration</a> opens
-    - <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSduWpjKU6T0LqthDI4_JW2ZKlf4pXzZN0ww6o38XjBH6Tx-Qw/viewform">Scholarship applications</a> open
+    - Scholarship application opens
   - date: |
       <time datetime="2026-02-6">February 6</time>
     description:
@@ -248,7 +248,7 @@ organizers:
       email: jicho@vt.edu
     - name: Dr. Mohammed Farghally
       last_name: Farghally
-      avatar: https://lh3.googleusercontent.com/sitesv/AAzXCkducIC3BANzRIfhAKfoaMMeE_Geud16N8X6SeLhKhRO7HPcnetUbnK6zd_Prv1kz8pm-FEaCMObLO2pf53ecx91mlDKROdXe4pdvcBtqmd0OBASqXGBPxCyvR6XVgfsOI91fib48UdGmbPS_-cxraD_JhtuerAKqEe7HaaC3JBeMv8-_-nVaH-5fIPK205zuIj-u83w_q5zKsGbIqV4rWsWu45272M7FMp1=w1280
+      avatar: /2026/organizers/farghally.jpg
       link: https://sites.google.com/vt.edu/mfseddik
       affiliation: Virginia Tech
       email: mfseddik@vt.edu
@@ -375,7 +375,7 @@ organizer_photos:
   #   affiliation: University of Mary Washington
   - name: Dr. Mohammed Farghally
     last_name: Farghally
-    avatar: https://lh3.googleusercontent.com/sitesv/AAzXCkducIC3BANzRIfhAKfoaMMeE_Geud16N8X6SeLhKhRO7HPcnetUbnK6zd_Prv1kz8pm-FEaCMObLO2pf53ecx91mlDKROdXe4pdvcBtqmd0OBASqXGBPxCyvR6XVgfsOI91fib48UdGmbPS_-cxraD_JhtuerAKqEe7HaaC3JBeMv8-_-nVaH-5fIPK205zuIj-u83w_q5zKsGbIqV4rWsWu45272M7FMp1=w1280
+    avatar: /2026/organizers/farghally.jpg
     link: https://sites.google.com/vt.edu/mfseddik
     affiliation: Virginia Tech
     email: mfseddik@vt.edu
@@ -490,7 +490,7 @@ attending:
     <h3>Scholarships</h3>
     <p>Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. If you would like to apply for a scholarship, please fill out the following form before registering.</p>
     <p class="text-center">
-    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSduWpjKU6T0LqthDI4_JW2ZKlf4pXzZN0ww6o38XjBH6Tx-Qw/viewform" class="btn btn-info">Apply for the CAPWIC scholarship</a>
+    Scholarship applications are closed for CAPWIC 2026
     </p>
     <h3>Lodging</h3>
     <p>We're delighted to be partnering with Embassy Suites for lodging for CAPWIC.</p>
@@ -539,8 +539,8 @@ aboutItem:
       <p class="text-center"><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning"><i class="icon ion-ios-mail"></i> Email us to register your group</a></p>
   - title : Scholarships
     description: | 
-      Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. If you would like to apply for a scholarship, please fill out the following form before registering.
-      <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSduWpjKU6T0LqthDI4_JW2ZKlf4pXzZN0ww6o38XjBH6Tx-Qw/viewform" class="btn btn-warning">Apply for the CAPWIC scholarship</a>
+      <p>Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. If you would like to apply for a scholarship, please fill out the following form before registering.</p>
+      <p>(The 2026 Scholarship Application has closed.)</p>
 
 #this field however ends up as its own Sponsorship page
   - title : Sponsorship
