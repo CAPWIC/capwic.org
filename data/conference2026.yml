@@ -135,7 +135,7 @@ submission:
         Five-minute presentations with two minutes for questions. Fast-paced talks on preliminary results, work-in progress, or anything fun and creative related to the conference are welcome in this category. All levels of experience are welcome.
     - name: Student Posters
       description: >
-        Before the conference, presenters create a 36” x 48” poster of research, a class project, or other type of work-in-progress including efforts to diversify computing and are present at the poster during the session to discuss content. Open to all students. Prizes will be awarded. 
+        Before the conference, presenters create a 36” x 48” poster of research, a class project, or other type of work-in-progress including efforts to diversify computing and are present at the poster during the session to discuss content. Open to all students. Prizes will be awarded. Poster stands will be provided.
     - name: Birds-of-a-Feather
       description: >
         Birds-of-a-feather (BOF) sessions are opportunities for a group of participants with similar concerns to have an informal discussion. BOF sessions will be 50-60 minutes.
@@ -493,15 +493,57 @@ attending:
     Scholarship applications are closed for CAPWIC 2026
     </p>
     <h3>Lodging</h3>
-    <p>We're delighted to be partnering with Embassy Suites for lodging for CAPWIC.</p>
-    <address>
-    Embassy Suites by Hilton Alexandria Old Town<br>
-    1900 Diagonal Road<br>
-    Alexandria, VA 22314, US<br>
-    </address>
-    <p class="text-center"><a target="_blank" rel="noopener noreferrer" href="https://book.passkey.com/go/CAPWIC2026" class="btn btn-warning">Reserve a room</a> <a target="_blank" class="btn btn-primary" rel="noopener noreferrer" href="https://maps.app.goo.gl/8MoQV18NW6tLxsKTA"><i class="icon ion-ios-navigate"></i> Get Directions</a></p>
-    <p>Guests may also book reservations by calling <a href="tel:+18003622779">800-362-2779</a> and reference the code 919</p>
-    
+    <div class="card-deck">
+    <div class="card" >
+      <div class="card-body">
+        <h5 class="card-title">Embassy Suites</h5>
+        <h6 class="card-subtitle mb-2 text-muted">by Hilton Alexandria Old Town</h6>
+        <p class="card-text">0.2 miles to King Street Metro<br>
+        <address>
+        Embassy Suites by Hilton Alexandria Old Town<br>
+        1900 Diagonal Road<br>
+        Alexandria, VA 22314, US<br>
+        </address>
+        </p>
+        <p>Guests may also book reservations by calling 800-362-2779 and reference the code 919</p>
+        <a target="_blank" class="btn btn-warning" rel="noopener noreferrer" href="https://book.passkey.com/go/CAPWIC2026">Reserve a Room</a>
+        <a target="_blank" class="btn btn-primary" rel="noopener noreferrer" href="https://maps.app.goo.gl/8MoQV18NW6tLxsKTA"><i class="icon ion-ios-navigate"></i> Get Directions</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Hilton Arlington</h5>
+        <h6 class="card-subtitle mb-2 text-muted">National Landing</h6>
+        <p class="card-text">0.4 miles to Crystal City Metro, also Complimentary shuttles from Reagan National<br>
+        <address>
+        Hilton Arlington National Landing<br>
+        2399 Richmond Hwy<br>
+        Arlington, VA 22202, US
+        </address>
+        </p>
+        <p></p>
+        <a target="_blank" class="btn btn-warning" rel="noopener noreferrer" href="https://book.passkey.com/go/capwic">Reserve a Room</a>
+        <a target="_blank" class="btn btn-primary" rel="noopener noreferrer" href="https://maps.app.goo.gl/rrntv9ZCq1Frw8536"><i class="icon ion-ios-navigate"></i> Get Directions</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Hampton Inn</h5>
+        <h6 class="card-subtitle mb-2 text-muted">Alexandria-Old Town/King St. Metro</h6>
+        <p class="card-text">0.4 miles to Crystal City Metro, also Complimentary shuttles from Reagan National<br>
+        <address>
+        Hilton Arlington National Landing<br>
+        1616 King Street<br>
+        Alexandria, VA, 22314, US
+        </address>
+        </p>
+        <p>Make reservations online or by calling the hotel directly at 703-299-9900, or 1-800-hampton. <strong>If you call the 800 number, be sure to mention specifically Hampton Inn Old Town/King Street Metro</strong>.</p>
+        <p>Guests can make reservations online at Hampton Inn King St. Metro Alexandria Virginia Hotel. After entering your dates, click on the box that says <code>special rates</code>. Then in the box under <code>Group Code</code>, enter the group code <code>CAP</code> and then click the done button, which will take you back to the home page where you can click the blue box that says check rooms and rates.</p>
+        <a target="_blank" class="btn btn-danger" rel="noopener noreferrer" href="https://www.hilton.com/en/hotels/wasalhx-hampton-alexandria-old-town-king-st-metro/">Reserve a Room <strong>(see note above)</strong></a>
+        <a target="_blank" class="btn btn-primary" rel="noopener noreferrer" href="https://maps.app.goo.gl/CUjnkSh2ct15d6AB7"><i class="icon ion-ios-navigate"></i> Get Directions</a>
+      </div>
+    </div>
+    </div>
   description: |
     <h3>Date</h3>
     <p>March 27-28, 2026</p>
