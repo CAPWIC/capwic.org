@@ -629,6 +629,10 @@ sponsors:
         img: northeastern.jpg 
         link: https://www.khoury.northeastern.edu/
         class: light
+      - name: Loyola
+        img: loyola.jpg
+        link: https://www.loyola.edu/
+        class: light
 # #  - level: Diamond
 # #    sponsors:
 # #    - name: James Madison University Computer Science
