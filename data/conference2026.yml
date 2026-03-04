@@ -609,11 +609,25 @@ sponsors:
       img: vt_cs.jpg
       link: https://cs.vt.edu/
       class: light
+  - level: Gold
+    sponsors:
+    - name: James Madison University Computer Science
+      img: jmucs.png
+      link: https://www.jmu.edu/cise/cs/
+      class: light
+    - name: University of Mary Washington 
+      img: umw.png
+      link: https://www.umw.edu 
+      class: light
   - level: Silver
     sponsors:
       - name: University of Virginia
         img: uva_logo.jpg
         link: https://www.virginia.edu/
+        class: light
+      - name: Northeastern University 
+        img: northeastern.jpg 
+        link: https://www.khoury.northeastern.edu/
         class: light
 # #  - level: Diamond
 # #    sponsors:
