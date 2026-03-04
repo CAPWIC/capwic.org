@@ -615,15 +615,15 @@ sponsors:
       img: jmucs.png
       link: https://www.jmu.edu/cise/cs/
       class: light
-    - name: University of Mary Washington 
-      img: umw.png
-      link: https://www.umw.edu 
-      class: light
   - level: Silver
     sponsors:
       - name: University of Virginia
         img: uva_logo.jpg
         link: https://www.virginia.edu/
+        class: light
+      - name: University of Mary Washington 
+        img: umw.png
+        link: https://www.umw.edu 
         class: light
       - name: Northeastern University 
         img: northeastern.jpg 
