@@ -47,9 +47,9 @@ deadlines:
     description:
     - Scholarship application deadline
   - date: |
-      <time datetime="2026-03-5">March 5</time>
+      <time datetime="2026-03-11">March 11</time>
     description:
-    - Registration Deadline
+    - <strong><a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-2026-tickets-1978434840867">Extended Registration Deadline</a></strong>
   - date: |
       March <time datetime="2026-03-27">27</time>&mdash;<time datetime="2026-03-28">28</time>
     description:
