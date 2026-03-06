@@ -635,6 +635,16 @@ sponsors:
         img: loyola.jpg
         link: https://www.loyola.edu/
         class: light
+      - name: Virginia Commonwealth University
+        img: vcu-eng.png
+        link: https://egr.vcu.edu/
+        class: light
+  - level: In-Kind
+    sponsors:
+      - name: Amazon Web Services
+        img: AWS_logo_RGB.png
+        link: https://aws.amazon.com/
+        class: light
 # #  - level: Diamond
 # #    sponsors:
 # #    - name: James Madison University Computer Science
