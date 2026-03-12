@@ -36,7 +36,7 @@ deadlines:
   - date: |
       <time datetime="2026-01-27">January 27</time>
     description:
-    - <a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-2026-tickets-1978434840867">Registration</a> opens
+    - Registration Opens
     - Scholarship application opens
   - date: |
       <time datetime="2026-02-6">February 6</time>
@@ -49,7 +49,7 @@ deadlines:
   - date: |
       <time datetime="2026-03-11">March 11</time>
     description:
-    - <strong><a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-2026-tickets-1978434840867">Extended Registration Deadline</a></strong>
+    - <strong>Registration is Closed</strong>
   - date: |
       March <time datetime="2026-03-27">27</time>&mdash;<time datetime="2026-03-28">28</time>
     description:
@@ -484,11 +484,7 @@ attending:
   # code: <iframe src="https://www.google.com/maps/d/embed?mid=1TbNi6LH0vNbNyGSYoODzW2uCRooLdoc&ehbc=2E312F" width="480" height="360"></iframe>
   code: |
     <h3>Registration</h3>
-    <p>Registration is open for CAPWIC 2026 at <b> Virginia Tech's Institute for Advanced Computing (IAC)</b> in Alexandria, VA. on <b>March 27-28, 2026</b>.  
-    If you are registering individually, please use the link below.  Registration this year is $50, which includes meals, snacks, and events.
-    <p class="text-center">
-    <a href="https://www.eventbrite.com/e/acm-capital-region-celebration-of-women-in-computing-2026-tickets-1978434840867" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Register at Eventbrite</a>
-    </p>
+    <p>Registration is <strong>closed</strong> for CAPWIC 2026 at <b> Virginia Tech's Institute for Advanced Computing (IAC)</b> in Alexandria, VA. on <b>March 27-28, 2026</b>.
     <h3>Scholarships</h3>
     <p>Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. If you would like to apply for a scholarship, please fill out the following form before registering.</p>
     <p class="text-center">
