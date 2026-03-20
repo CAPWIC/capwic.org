@@ -611,7 +611,7 @@ sponsors:
     sponsors:
     - name: George Washington University
       img: gwu-gold_sponsor.png
-      link: https://www.gwu.edu/
+      link: https://engineering.gwu.edu/
       class: light
     - name: JMU CISE
       img: College_of_Integrated_Science_and_Engineering_vert_purple.png
@@ -619,6 +619,10 @@ sponsors:
       class: light
   - level: Silver
     sponsors:
+      - name: Department of Computer Science, George Washington University
+        img: gw.png
+        link: https://cs.engineering.gwu.edu/
+        class: light
       - name: University of Virginia
         img: uva_logo.jpg
         link: https://www.virginia.edu/
