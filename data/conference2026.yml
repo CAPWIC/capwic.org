@@ -809,45 +809,64 @@ schedule:
   heading: Schedule
   body: Browse the CAPWIC 2026 Schedule.
   days:
-    - name: Friday, March 27, 2026 
+    - name: Friday, March 27, 2026
       color: capwic-primary
       font: white
-      events: 
+      events:
         - name: Registration
           location: Hallway/Atrium
-          time_start: 2:30PM
+          time_start: 2:00PM
           time_end: 6:45PM
         - name: AWS 101 Workshop
-          location: AB1-3140 Lecture Classroom 
+          location: AB1-3140 Lecture Classroom
           time_start: 3:00PM
           time_end: 5:00PM
-          description:
+          description: >
+            <p><strong>Registration only event (Registration Closed)</strong></p>
+            <p><i>Srinija Desiraju (AWS)</i></p>
+              <p><b>Session Chair:</b> Nguyen Ho (Loyola University Maryland)</p>
+        - name: Discover, Fly, Explore, Play (Campus Tour)
+          location: Boeing Auditorium
+          time_start: 3:00PM
+          time_end: 5:00PM
+          description: Experience innovation firsthand through immersive labs, a captivating drone display, a guided campus tour, and engaging group activities.
+        - name: Graduate/Career Fair
+          location: Hallway/Atrium
+          time_start: 3:00PM
+          time_end: 5:00PM
         - name: Break
           time_start: 5:00PM
           time_end: 5:15PM
+          description: Gather in the Atrium for group photographs.
         - name: Welcome
-          location: AB1-1100 Lecture Classroom / Boeing Auditorium
-          time_start: 5:15
-          time_end: 5:30
+          location: Boeing Auditorium
+          time_start: 5:15PM
+          time_end: 5:30PM
+          description: >
+            <p><i>Sehrish Basir Nizamani, Christine Julien (Virginia Tech)</i></p>
         - name: Dinner
-          location: AB1-1100 Lecture Classroom / Boeing Auditorium
-          time_start: 5:30
-          time_end: 7:00
+          location: Boeing Auditorium
+          time_start: 5:30PM
+          time_end: 7:00PM
         - name: Keynote Introduction
-          location: AB1-1100 Lecture Classroom / Boeing Auditorium
-          time_start: 6:00
-          time_end: 6:10
+          location: Boeing Auditorium
+          time_start: 6:00PM
+          time_end: 6:10PM
+          description: >
+            <p><i>Christine Julien (Virginia Tech)</i></p>
         - name: Keynote
-          location: AB1-1100 Lecture Classroom / Boeing Auditorium
-          time_start: 6:10
-          time_end: 6:55
+          location: Boeing Auditorium
+          time_start: 6:10PM
+          time_end: 6:55PM
           description: >
             <p><b>Tools in Your Toolbox: What I've Learned as a Professional Female Computer Scientist</b><br>
             <i>Laurian Vega, Ph.d.</i> Booz Allen Hamilton</p>
+            <p>Dr. Laurian Vega is a dynamic leader and accomplished technologist with over 15 years of experience driving innovation in enterprise software and system development. She holds a Ph.D. in Computer Science from Virginia Tech (2011) and has built an impressive career working at renowned organizations, including IBM (twice), PARC, and as a contractor supporting the Department of War. She currently supports Booz Allen Hamilton as a market and technical lead for 100 people. Her expertise spans technical leadership across more than 20 impactful projects, showcasing her ability to solve complex challenges at the intersection of technology and systems engineering.</p>
+            <p>A staunch advocate for diversity and inclusion in tech, Dr. Vega is passionate about empowering women to thrive in the computing industry. Her career demonstrates an unwavering commitment to excellence, adaptability, and collaboration in high-stakes environments. At this conference, she is eager to share her insights, experiences, and lessons learned, inspiring others to blaze their trails in technology.</p>
         - name: Q&A / Closing Remarks
-          location: AB1-1100 Lecture Classroom / Boeing Auditorium
-          time_start: 6:50
-          time_end: 7:00
+          location: Boeing Auditorium
+          time_start: 6:50PM
+          time_end: 7:00PM
     - name: Saturday, March 28, 2026
       color: capwic-primary
       font: white
@@ -857,30 +876,36 @@ schedule:
           time_start: 7:45AM
           time_end: 4:30PM
         - name: Breakfast
-          location: TBD
+          location: Hallway/Atrium
           time_start: 7:50AM
           time_end: 8:50AM
         - name: Keynote Introduction
-          location: AB1-1100 Lecture Classroom / Boeing Auditorium
+          location: Boeing Auditorium
           time_start: 9:00AM
           time_end: 9:05AM
+          description: >
+            <p>Erika Olimpiew (Virginia Tech)</p>
         - name: Keynote
-          location: AB1-1100 Lecture Classroom / Boeing Auditorium
+          location: Boeing Auditorium
           time_start: 9:05AM
           time_end: 9:50AM
           description: >
             <p><b>Goodbye Imposter, Hello Winner: Overcoming Perceptual Expectations to Reclaim Excellence</b><br>
             <i>Candace Aku</i>, Google Public Sector</p>
+        - name: Break
+          time_start: 9:55AM
+          time_end: 10:00AM
+          description: Gather in the Atrium for a group photograph.
         - name: Parallel Sessions
           time_start: 10:00AM
           time_end: 11:00AM
           sessions:
-            - location: AB1-1100 Lecture Classroom / Boeing Auditorium
+            - location: Boeing Auditorium
               type: Workshop
               name: Debugging Your Resume
               details: >
                 <p><i>Aubrey Baker (Red Van Workshop), Holly Wilsey (Purple Basil Games)</i></p>
-                <p><b>Session Chair:</b> Nguyen Ho</p>
+                <p><b>Session Chair:</b> Nguyen Ho (Loyola University Maryland)</p>
             - location: AB1-3130 Lecture Classroom
               type: Technical Talks
               name: Education & Inclusion
@@ -889,6 +914,7 @@ schedule:
                 <i>Shareka Robinson (Morgan State University)</i></p>
                 <p>Designing the AI-Ready Workforce<br>
                 <i>Denise D'Angelo (dynamicD)</i></p>
+                <p><b>Session Chair:</b> Mohammed Farghally (Virginia Tech)</p>
             - location: AB1-3100 SCALE-UP Classroom
               type: Flash Talks
               name: "Advancing AI Systems: Security, Evaluation, and Human-AI Collaboration"
@@ -907,25 +933,23 @@ schedule:
                 <i>Eman A. M. Amer and Jeannine Eddleton</i></p>
                 <p>A Structured Dataset for Analyzing Human Group Motion Across Spatial Formations<br>
                 <i>Meklet Berihun</i></p>
-                <p><b>Session Chair:</b> Mona Rizvi</p>
+                <p><b>Session Chair:</b> Mona Rizvi (James Madison University)</p>
             - location: AB1-3120 Breakout Connected Classroom
               type: Research Shorts
               name: "Education, Ethics & Inclusive AI"
               details: >
                 <p>From Deficits to Strengths: A Scoping Review on ADHD Adults & Productivity Technology<br>
                 <i>Suzanna Yaukey, Anita Komlodi, Ravi Kuber and Andrea Kleinsmith</i></p>
-                <p>Equity Responsive AI Learning Systems: A Framework for Personalized Learning and Inclusive Participation<br>
-                <i>Shalina Champa, Eshwitha Gali and Jayanth Reddy Bekkem</i></p>
                 <p>Ethics and AI in Education: Understanding Public Discourse on Twitter (X)<br>
                 <i>Akriti Bagale, Nafisa Mehjabin, Ali Unlu and Aditya Johri</i></p>
                 <p>CREA: A Collaborative Multi-Agent Framework for Creative Image Editing and Generation<br>
                 <i>Kavana Venkatesh, Connor Dunlop and Pinar Yanardag</i></p>
-                <p><b>Session Chair:</b> Mai Dahshan</p>
-            - type: Workshop
+                <p><b>Session Chair:</b> Mohammed Seyam (Virginia Tech)</p>
+            - location: AB1-3110
+              type: Workshop
               name: "Designing Safer AI Agents: Secure-by-Design Patterns for AI Systems"
               details: >
                 <p><i>Pavan Reddy (The George Washington University)</i></p>
-                <p><b>Session Chair:</b> Mohammed Seyam</p>
             - location: Hallway/Atrium
               type: Posters
               name: "Core AI & Machine Learning Methods"
@@ -952,18 +976,18 @@ schedule:
                 <i>Emily Lugos and Mauricio Gruppi</i></p>
                 <p>Information Quality Assessment Framework to Design Human-Centered AI Systems for Assistive Technology<br>
                 <i>Anuridhi Gupta and Hemant Purohit</i></p>
-                <p><b>Session Chair:</b> Jessica Zeitz</p>
+                <p><b>Session Chair:</b> Jessica Zeitz (University of Mary Washington)</p>
         - name: Parallel Sessions
           time_start: 11:10AM
           time_end: 12:10PM
           sessions:
-            - location: AB1-1100 Lecture Classroom / Boeing Auditorium
+            - location: Boeing Auditorium
               type: Workshop
               name: Best Practices for Using Gen AI to Manage Cloud Compliance
               details: >
                 <p><i>Srinija Desiraju (AWS), Alix Delgado (AWS)</i><br>
                 Limited seats available: Registration only event (Workshop registrations starts after CAPWIC registration deadline)</p>
-                <p><b>Session Chair:</b> Nguyen Ho</p>
+                <p><b>Session Chair:</b> Nguyen Ho (Loyola University Maryland)</p>
             - location: AB1-3130 Lecture Classroom
               type: Technical Talks
               name: "Human-Centered & Applied AI"
@@ -972,13 +996,11 @@ schedule:
                 <i>Emily Smith (Unaffiliated)</i></p>
                 <p>Houston, We Have a Model: Performance Assessment for Mission-Critical AI<br>
                 <i>Cheryl Howard (IBM), Peyton Cooper (IBM)</i></p>
-                <p><b>Session Chair:</b> Jin-Hee Cho</p>
+                <p><b>Session Chair:</b> Jin-Hee Cho (Virginia Tech)</p>
             - location: AB1-3100 SCALE-UP Classroom
               type: Flash Talks
               name: "Trust, Fairness, and Societal Impact of AI"
               details: >
-                <p>Discovering Hidden Bias in AI<br>
-                <i>Anne Nyangaga, Alma Ladino and Pam Bogdan</i></p>
                 <p>LLM-Guided Input Generation for Causal Fairness Testing<br>
                 <i>Sadia Afrin Mim</i></p>
                 <p>Data-Driven Exploration of Physiological Factors Perpetuating Bias in Pulse Oximetry Readings for At-Home Use<br>
@@ -989,7 +1011,7 @@ schedule:
                 <i>Christopher Parham, Sai Sindhu Tirumalasetty and Joseph Shelton</i></p>
                 <p>Understanding State-Level AI Readiness Policy<br>
                 <i>Saanvi Shashikiran, Henry Deng, Lisa Singh, Andrea Headley, Aditi Bhardwaj, Julie Dang and Vinuri Dissanayake</i></p>
-                <p><b>Session Chair:</b> Mona Rizvi</p>
+                <p><b>Session Chair:</b> Mona Rizvi (James Madison University)</p>
             - location: AB1-3120 Breakout Connected Classroom
               type: Research Shorts
               name: "Human-Centered Computing & HCI"
@@ -1002,8 +1024,9 @@ schedule:
                 <i>Khyati Goyal, Zannah Zeiw, Svastik Arora, Sehrish Basir Nizamani</i></p>
                 <p>Understanding Developer Acceptance of AI-Assisted Code Commenting: An Undergraduate Study Using the AI Code Comment Acceptance Model (AICCAM)<br>
                 <i>Yoonje Lee, Anurag Pokala, Jasser Darguech, Parth Mehta and Sehrish Basir Nizamani</i></p>
-                <p><b>Session Chair:</b> Mai Dahshan</p>
-            - type: Workshop
+                <p><b>Session Chair:</b> Nareman Hamdan (James Madison University)</p>
+            - location: AB1-3110
+              type: Workshop
               name: "Cyber Hygiene That Sticks: Research in the K-12 Space on Cybersecurity"
               details: >
                 <p><i>Deborah Kariuki (University of Maryland Baltimore County) and Hidare Debar (University of Maryland Baltimore County)</i></p>
@@ -1033,16 +1056,16 @@ schedule:
                 <i>Emma Faith</i></p>
                 <p>Drone Trajectory Tools with KKT Conditions and CasADi<br>
                 <i>Aubrie Kooiker</i></p>
-                <p><b>Session Chair:</b> Jessica Zeitz</p>
+                <p><b>Session Chair:</b> Jessica Zeitz (University of Mary Washington)</p>
         - name: Lunch
-          location: TBD
+          location: Hallway/Atrium
           time_start: 12:15PM
           time_end: 1:10PM
         - name: Parallel Sessions
           time_start: 1:20PM
           time_end: 2:20PM
           sessions:
-            - location: AB1-1100 Lecture Classroom / Boeing Auditorium
+            - location: Boeing Auditorium
               type: Panel
               name: "Navigating the Path to Grad School: Discuss, Reflect, and Make an Informed Decision"
               details: >
@@ -1069,24 +1092,24 @@ schedule:
                 <i>Dhanyasri Bolla</i></p>
                 <p>Multimodal Spatio-Temporal Representation Learning for Edge-Based Urban Traffic Control<br>
                 <i>Seyma Simsek, Betul Nur Guner and Chang-Tien Lu</i></p>
+                <p><b>Session Chair:</b> Nguyen Ho (Loyola University Maryland)</p>
             - location: AB1-3120 Breakout Connected Classroom
               type: Research Shorts
               name: "Systems, Architecture & Performance"
               details: >
-                <p>Heterogeneous Paging in PagedAttention: Adaptive Memory Management for LLM Inference Workloads<br>
-                <i>Nishat Sultana</i></p>
                 <p>MARCO: Multi-Agent Code Optimization for High-Performance Computing<br>
                 <i>Ariana Nafisi, Veljko Cvetkovic, Claire Shin, Kathleen Reece, Krishnateja Reddy, Bryan Torres, Sina Heidari, Margaret Ellis and Dimitrios Nikolopoulos</i></p>
                 <p>Automatic Identification of Relevant Scholarly Work for Initial Screening in Systematic Reviews<br>
                 <i>Minji Kang and Bipasha Banerjee</i></p>
                 <p>Relationship Extraction Using Retrieval Augmented Generation for Biomedical Dataset<br>
                 <i>Jannat Lnu, Bridget McInnes, Tomasz Arodz and Charlie Dil</i></p>
-                <p><b>Session Chair:</b> Mai Dahshan</p>
-            - type: Workshop
+                <p><b>Session Chair:</b> Zhoujun Duan (James Madison University)</p>
+            - location: AB1-3110
+              type: Workshop
               name: "Augmenting Datasets with Generated Data: Methods and Evaluation"
               details: >
                 <p><i>Rebecca Ansell (Georgetown University) and Lisa Singh (Georgetown University)</i></p>
-                <p><b>Session Chair:</b> Nguyen Ho</p>
+                <p><b>Session Chair:</b> Nguyen Ho (Loyola University Maryland)</p>
             - location: Hallway/Atrium
               type: Posters
               name: "Cybersecurity, Privacy & Responsible AI"
@@ -1105,18 +1128,16 @@ schedule:
                 <i>Fairuz Nawer Meem, Fatema Tuz Zohra, Justin Smith and Brittany Johnson</i></p>
                 <p>Well-Being in AI-Assisted Software Development<br>
                 <i>Fairuz Nawer Meem, Justin Smith and Brittany Johnson</i></p>
-                <p>Exploring Socioeconomic Status Narratives of Computer Science Students<br>
-                <i>Jennifer Alexandra Thompson and Sara Hooshangi</i></p>
                 <p>Bridging the AI Education Gap: A Self-Funded AI Awareness Initiative in Cocoa-Farming Villages of Ghana<br>
                 <i>Zahra Rizvi, Sophia Rizvi and Derek Atiawu</i></p>
                 <p>Is it Ethical for Professors to Use AI Detectors on Human Papers?<br>
                 <i>Jerome Dizon</i></p>
-                <p><b>Session Chair:</b> Jessica Zeitz</p>
+                <p><b>Session Chair:</b> Jessica Zeitz (University of Mary Washington)</p>
         - name: Parallel Sessions
           time_start: 2:30PM
           time_end: 3:30PM
           sessions:
-            - location: AB1-1100 Lecture Classroom / Boeing Auditorium
+            - location: Boeing Auditorium
               type: Panel
               name: "Beyond Participation: Rethinking Classroom Discussion with ThoughtSwap"
               details: >
@@ -1129,6 +1150,7 @@ schedule:
                 <i>Sindhuja Madabushi (Virginia Tech), Arda Dogan (Virginia Tech), Jonathan Liu (Virginia Tech), Dian Chen (Virginia Tech), Dong S. Ha (Virginia Tech), Sook Shin (Virginia Tech), Jin-Hee Cho (Virginia Tech)</i></p>
                 <p>X-MAP: eXplainable Misclassification Analysis and Profiling for Spam and Phishing Detection<br>
                 <i>Qi Zhang (Virginia Tech), Dian Chen (Virginia Tech), Lance Kaplan (U.S. Army DEVCOM Army Research Laboratory), Audun Josang (University of Oslo), Dong Hyun Jeong (University of the District of Columbia), Feng Chen (University of Texas at Dallas), Jin-Hee Cho (Virginia Tech)</i></p>
+                <p><b>Session Chair:</b> Deborah Kariuki (UMBC)</p>
             - location: AB1-3100 SCALE-UP Classroom
               type: Research Shorts
               name: "Applied AI & Emerging Technologies"
@@ -1141,6 +1163,7 @@ schedule:
                 <i>Pratibha Zunjare and Michael Hsiao</i></p>
                 <p>Temperature and Interface Effects on Carrier Transport in Hydrogen-Terminated Diamond MOSFETs<br>
                 <i>Nuwayyir Alshammari</i></p>
+                <p><b>Session Chair:</b> Zhoujun Duan (James Madison University)</p>
             - location: AB1-3120 Breakout Connected Classroom
               type: Research Shorts
               name: "Cybersecurity, Trust & Resilience"
@@ -1153,12 +1176,13 @@ schedule:
                 <i>Xinyi Zhang, Mamtaj Akter, Heajun An, Qi Zhang, Lifu Huang, Jin-Hee Cho, Pamela Wisniewski and Sang Won Lee</i></p>
                 <p>Towards Large Language Model-Powered Automation of Detecting Metadata Related Bugs<br>
                 <i>Yeana Bond</i></p>
-                <p><b>Session Chair:</b> Mai Dahshan</p>
-            - type: Birds of a Feather
+                <p><b>Session Chair:</b> Nareman Hamdan (James Madison University)</p>
+            - location: AB1-3110
+              type: Birds of a Feather
               name: "Thriving in Computing Across Career Stages: A Values-Based Framework for Retention, Resilience, and Leadership"
               details: >
                 <p><i>Adalena Oliver (Amtrak)</i></p>
-                <p><b>Session Chair:</b> Allyson Senger</p>
+                <p><b>Session Chair:</b> Allyson Senger (Virginia Tech)</p>
             - location: Hallway/Atrium
               type: Posters
               name: "Human-Centered Computing, Education & Smart Systems"
@@ -1185,20 +1209,22 @@ schedule:
                 <i>Yuanqi Zhen</i></p>
                 <p>Virginia Transit Deserts: A Geo-Demographic Study of Public Transportation Access<br>
                 <i>Jayla Hall</i></p>
-                <p><b>Session Chair:</b> Jessica Zeitz</p>
+                <p><b>Session Chair:</b> Jessica Zeitz (University of Mary Washington)</p>
         - name: Keynote Introduction
-          location: AB1-1100 Lecture Classroom / Boeing Auditorium
+          location: Boeing Auditorium
           time_start: 3:40PM
           time_end: 3:50PM
+          description: >
+            <p><i>Jessica Zeitz (University of Mary Washington)</i></p>
         - name: Keynote
-          location: AB1-1100 Lecture Classroom / Boeing Auditorium
+          location: Boeing Auditorium
           time_start: 3:50PM
           time_end: 4:35PM
           description: >
             <p><b>Human-Centered Automation: A Journey through HCI, AI, and the Future of Robotics</b><br>
             <i>Meg Dickey-Kurdziolek</i>, Intrinsic</p>
         - name: Closing
-          location: AB1-1100 Lecture Classroom / Boeing Auditorium
+          location: Boeing Auditorium
           time_start: 4:35PM
           time_end: 5:05PM
         
