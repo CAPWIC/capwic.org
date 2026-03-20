@@ -609,6 +609,10 @@ sponsors:
       class: light
   - level: Gold 
     sponsors:
+    - name: George Washington University
+      img: gwu-gold_sponsor.png
+      link: https://www.gwu.edu/
+      class: light
     - name: JMU CISE
       img: College_of_Integrated_Science_and_Engineering_vert_purple.png
       link: https://www.jmu.edu/cise/
@@ -620,7 +624,7 @@ sponsors:
         link: https://www.virginia.edu/
         class: light
       - name: University of Mary Washington 
-        img: umw.png
+        img: UMW-COB-Icon.png
         link: https://www.umw.edu 
         class: light
       - name: Northeastern University 
@@ -640,6 +644,10 @@ sponsors:
       - name: Amazon Web Services
         img: AWS_logo_RGB.png
         link: https://aws.amazon.com/
+        class: light
+      - name: Women in CyberSecurity
+        img: wi-cys-in-kind.png
+        link: https://www.wicys.org/
         class: light
 # #  - level: Diamond
 # #    sponsors:
