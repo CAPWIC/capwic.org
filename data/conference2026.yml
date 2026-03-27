@@ -818,7 +818,7 @@ schedule:
           time_start: 2:00PM
           time_end: 6:45PM
         - name: AWS 101 Workshop
-          location: AB1-3140 Lecture Classroom
+          location: AB1-3140
           time_start: 3:00PM
           time_end: 5:00PM
           description: >
@@ -860,7 +860,7 @@ schedule:
           time_end: 6:55PM
           description: >
             <p><b>Tools in Your Toolbox: What I've Learned as a Professional Female Computer Scientist</b><br>
-            <i>Laurian Vega, Ph.d.</i> Booz Allen Hamilton</p>
+            <i>Laurian Vega (Booz Allen Hamilton)</i></p>
             <p>Dr. Laurian Vega is a dynamic leader and accomplished technologist with over 15 years of experience driving innovation in enterprise software and system development. She holds a Ph.D. in Computer Science from Virginia Tech (2011) and has built an impressive career working at renowned organizations, including IBM (twice), PARC, and as a contractor supporting the Department of War. She currently supports Booz Allen Hamilton as a market and technical lead for 100 people. Her expertise spans technical leadership across more than 20 impactful projects, showcasing her ability to solve complex challenges at the intersection of technology and systems engineering.</p>
             <p>A staunch advocate for diversity and inclusion in tech, Dr. Vega is passionate about empowering women to thrive in the computing industry. Her career demonstrates an unwavering commitment to excellence, adaptability, and collaboration in high-stakes environments. At this conference, she is eager to share her insights, experiences, and lessons learned, inspiring others to blaze their trails in technology.</p>
         - name: Q&A / Closing Remarks
@@ -891,7 +891,8 @@ schedule:
           time_end: 9:50AM
           description: >
             <p><b>Goodbye Imposter, Hello Winner: Overcoming Perceptual Expectations to Reclaim Excellence</b><br>
-            <i>Candace Aku</i>, Google Public Sector</p>
+            <i>Candace Aku (Google Public Sector)</i></p>
+            <p>Candace R. Aku is a strategic technology leader and accomplished program management professional with over 15 years of experience driving complex technical and organizational initiatives within a Fortune 500 company. Currently serving as a Senior Technical Program Manager for Google Public Sector, she leverages over 12 years at Google to deliver advanced technology solutions to the Federal Government. Her career journey has progressed through various technical and leadership roles, including Data Center Technician, Global Program Manager Lead over Network Deployments, and directing the scoping of simultaneous, multimillion-dollar projects. Her expertise spans organizational strategies, data analytics, and workflow optimization. An alumnus of Clemson University (B.S. in Industrial Engineering) and The Citadel Graduate College (M.S. in Technical Project Management), she is a certified Project Management Professional (PMP). Beyond her corporate achievements, Candace is a serial entrepreneur and a passionate advocate for bridging the gap between technology and business. A dedicated Change Architect, she is focused on inspiring youth in underserved communities to gravitate toward technology and empowering others to implement technology in their endeavors. At this conference, she is eager to share her journey and insights to inspire women to thrive in the computing industry.</p>  
         - name: Break
           time_start: 9:55AM
           time_end: 10:00AM
@@ -906,7 +907,7 @@ schedule:
               details: >
                 <p><i>Aubrey Baker (Red Van Workshop), Holly Wilsey (Purple Basil Games)</i></p>
                 <p><b>Session Chair:</b> Nguyen Ho (Loyola University Maryland)</p>
-            - location: AB1-3130 Lecture Classroom
+            - location: AB1-3130
               type: Technical Talks
               name: Education & Inclusion
               details: >
@@ -915,7 +916,7 @@ schedule:
                 <p>Designing the AI-Ready Workforce<br>
                 <i>Denise D'Angelo (dynamicD)</i></p>
                 <p><b>Session Chair:</b> Mohammed Farghally (Virginia Tech)</p>
-            - location: AB1-3100 SCALE-UP Classroom
+            - location: AB1-3100
               type: Flash Talks
               name: "Advancing AI Systems: Security, Evaluation, and Human-AI Collaboration"
               details: >
@@ -923,6 +924,8 @@ schedule:
                 <i>Fatemeh Vares and Brittany Johnson</i></p>
                 <p>AI Assisted Cross-border Cybersecurity Literacy<br>
                 <i>Norah Ondus and Sehrish Basir Nizamani</i></p>
+                <p>Discovering Hidden Bias In AI<br>
+                <i>Anne Nyangaga, Alma Ladino and Pam Bogdan</i></p>
                 <p>OSMoSIS: Enabling Metacognitive Feedback Reflection in LLMs<br>
                 <i>Isaiah Freeman and Joseph Shelton</i></p>
                 <p>Pebble<br>
@@ -934,14 +937,14 @@ schedule:
                 <p>A Structured Dataset for Analyzing Human Group Motion Across Spatial Formations<br>
                 <i>Meklet Berihun</i></p>
                 <p><b>Session Chair:</b> Mona Rizvi (James Madison University)</p>
-            - location: AB1-3120 Breakout Connected Classroom
+            - location: AB1-3120
               type: Research Shorts
               name: "Education, Ethics & Inclusive AI"
               details: >
                 <p>From Deficits to Strengths: A Scoping Review on ADHD Adults & Productivity Technology<br>
                 <i>Suzanna Yaukey, Anita Komlodi, Ravi Kuber and Andrea Kleinsmith</i></p>
                 <p>Ethics and AI in Education: Understanding Public Discourse on Twitter (X)<br>
-                <i>Akriti Bagale, Nafisa Mehjabin, Ali Unlu and Aditya Johri</i></p>
+                <i>Akriti Bagale, Nafisa Mehjabin, Ali Ünlü and Aditya Johri</i></p>
                 <p>CREA: A Collaborative Multi-Agent Framework for Creative Image Editing and Generation<br>
                 <i>Kavana Venkatesh, Connor Dunlop and Pinar Yanardag</i></p>
                 <p><b>Session Chair:</b> Mohammed Seyam (Virginia Tech)</p>
@@ -958,8 +961,6 @@ schedule:
                 <i>Okib Islam, Ayomide Bonojo, Joy Muchangi, Fahmi Khalifa and Mahmudur Rahman</i></p>
                 <p>Uncertainty-Aware Interfaces Between Neural Predictors and Large Language Models<br>
                 <i>Xinyue Zeng</i></p>
-                <p>Adaptive Block Diffusion With Cache Reuse and Confidence Calibration<br>
-                <i>Farhana Amin</i></p>
                 <p>Adaptive Knowledge Retrieval with Graph-Enhanced and Document-Centric RAG<br>
                 <i>Melike Yildiz Aktas, Min Zhang, Meenu Ravi and Chang-Tien Lu</i></p>
                 <p>Evaluating the Expressibility of Data Encoding Methods for Quantum Machine Learning<br>
@@ -973,7 +974,7 @@ schedule:
                 <p>Deep Metric Learning for Ancient Coin Identification<br>
                 <i>Dhanshree Atre, Nathan Sprague, Jason Forsyth and Trevor Schonbrun</i></p>
                 <p>Improving Automated Coding of News Data: A Machine Learning Approach to News Framing<br>
-                <i>Emily Lugos and Mauricio Gruppi</i></p>
+                <i>Emily Lugos and Maurício Gruppi</i></p>
                 <p>Information Quality Assessment Framework to Design Human-Centered AI Systems for Assistive Technology<br>
                 <i>Anuridhi Gupta and Hemant Purohit</i></p>
                 <p><b>Session Chair:</b> Jessica Zeitz (University of Mary Washington)</p>
@@ -985,10 +986,10 @@ schedule:
               type: Workshop
               name: Best Practices for Using Gen AI to Manage Cloud Compliance
               details: >
-                <p><i>Srinija Desiraju (AWS), Alix Delgado (AWS)</i><br>
-                Limited seats available: Registration only event (Workshop registrations starts after CAPWIC registration deadline)</p>
+                <p><i>Srinija Desiraju (AWS)
+                Registration only event (Registration Closed)</p>
                 <p><b>Session Chair:</b> Nguyen Ho (Loyola University Maryland)</p>
-            - location: AB1-3130 Lecture Classroom
+            - location: AB1-3130
               type: Technical Talks
               name: "Human-Centered & Applied AI"
               details: >
@@ -997,7 +998,7 @@ schedule:
                 <p>Houston, We Have a Model: Performance Assessment for Mission-Critical AI<br>
                 <i>Cheryl Howard (IBM), Peyton Cooper (IBM)</i></p>
                 <p><b>Session Chair:</b> Jin-Hee Cho (Virginia Tech)</p>
-            - location: AB1-3100 SCALE-UP Classroom
+            - location: AB1-3100
               type: Flash Talks
               name: "Trust, Fairness, and Societal Impact of AI"
               details: >
@@ -1012,7 +1013,7 @@ schedule:
                 <p>Understanding State-Level AI Readiness Policy<br>
                 <i>Saanvi Shashikiran, Henry Deng, Lisa Singh, Andrea Headley, Aditi Bhardwaj, Julie Dang and Vinuri Dissanayake</i></p>
                 <p><b>Session Chair:</b> Mona Rizvi (James Madison University)</p>
-            - location: AB1-3120 Breakout Connected Classroom
+            - location: AB1-3120
               type: Research Shorts
               name: "Human-Centered Computing & HCI"
               details: >
@@ -1061,6 +1062,10 @@ schedule:
           location: Hallway/Atrium
           time_start: 12:15PM
           time_end: 1:10PM
+        - name: Graduate/Career Fair
+          location: Hallway/Atrium
+          time_start: 12:15PM
+          time_end: 1:10PM
         - name: Parallel Sessions
           time_start: 1:20PM
           time_end: 2:20PM
@@ -1069,9 +1074,9 @@ schedule:
               type: Panel
               name: "Navigating the Path to Grad School: Discuss, Reflect, and Make an Informed Decision"
               details: >
-                <p><i>Madison Barton (Northeastern University), Mohammed Farghally (Virginia Tech), Promise Owa (Northeastern University), Chandani Shrestha (JMU)<br>
+                <p><i>Madison Barton (Northeastern University), Mohammed Farghally (Virginia Tech), Promise Owa (Northeastern University), Chandani Shrestha (James Madison University)<br>
                 Moderator: Mohammed Seyam (Virginia Tech)</i></p>
-            - location: AB1-3130 Lecture Classroom
+            - location: AB1-3130
               type: Technical Talks
               name: "AI Security & Training Systems"
               details: >
@@ -1080,7 +1085,7 @@ schedule:
                 <p>Beyond the Weakest Link<br>
                 <i>Deborah Kariuki (University of Maryland, Baltimore County), Hidare Debar (University of Maryland, Baltimore County)</i></p>
                 <p><b>Session Chair:</b> Nada Basit (University of Virginia)</p>
-            - location: AB1-3100 SCALE-UP Classroom
+            - location: AB1-3100
               type: Research Shorts
               name: "AI & Machine Learning Methods"
               details: >
@@ -1091,9 +1096,9 @@ schedule:
                 <p>Urban Giants Under Threat: Unveiling Climate Vulnerabilities and Adaptive Strategies in Megacities<br>
                 <i>Dhanyasri Bolla</i></p>
                 <p>Multimodal Spatio-Temporal Representation Learning for Edge-Based Urban Traffic Control<br>
-                <i>Seyma Simsek, Betul Nur Guner and Chang-Tien Lu</i></p>
+                <i>Seyma Simsek, Betül Nur Guner and Chang-Tien Lu</i></p>
                 <p><b>Session Chair:</b> Nguyen Ho (Loyola University Maryland)</p>
-            - location: AB1-3120 Breakout Connected Classroom
+            - location: AB1-3120
               type: Research Shorts
               name: "Systems, Architecture & Performance"
               details: >
@@ -1130,8 +1135,8 @@ schedule:
                 <i>Fairuz Nawer Meem, Justin Smith and Brittany Johnson</i></p>
                 <p>Bridging the AI Education Gap: A Self-Funded AI Awareness Initiative in Cocoa-Farming Villages of Ghana<br>
                 <i>Zahra Rizvi, Sophia Rizvi and Derek Atiawu</i></p>
-                <p>Is it Ethical for Professors to Use AI Detectors on Human Papers?<br>
-                <i>Jerome Dizon</i></p>
+                <p>Exploring Socioeconomic Status Narratives of Computer Science Students<br>
+                <i>Jennifer Alexandra Thompson; Sara Hooshangi</i></p>
                 <p><b>Session Chair:</b> Jessica Zeitz (University of Mary Washington)</p>
         - name: Parallel Sessions
           time_start: 2:30PM
@@ -1142,16 +1147,16 @@ schedule:
               name: "Beyond Participation: Rethinking Classroom Discussion with ThoughtSwap"
               details: >
                 <p><i>Chandani Shrestha (James Madison University), Mona Rizvi (James Madison University), Alexander Heckel (James Madison University), Michael Stewart (James Madison University)</i></p>
-            - location: AB1-3130 Lecture Classroom
+            - location: AB1-3130
               type: Technical Talks
               name: "AI for Agriculture & Domain Applications"
               details: >
                 <p>AGRI-Fidelity: Evaluating the Reliability of Listenable Explanations for Animal Disease Detection<br>
                 <i>Sindhuja Madabushi (Virginia Tech), Arda Dogan (Virginia Tech), Jonathan Liu (Virginia Tech), Dian Chen (Virginia Tech), Dong S. Ha (Virginia Tech), Sook Shin (Virginia Tech), Jin-Hee Cho (Virginia Tech)</i></p>
                 <p>X-MAP: eXplainable Misclassification Analysis and Profiling for Spam and Phishing Detection<br>
-                <i>Qi Zhang (Virginia Tech), Dian Chen (Virginia Tech), Lance Kaplan (U.S. Army DEVCOM Army Research Laboratory), Audun Josang (University of Oslo), Dong Hyun Jeong (University of the District of Columbia), Feng Chen (University of Texas at Dallas), Jin-Hee Cho (Virginia Tech)</i></p>
+                <i>Qi Zhang (Virginia Tech), Dian Chen (Virginia Tech), Lance Kaplan (U.S. Army DEVCOM Army Research Laboratory), Audun Jøsang (University of Oslo), Dong Hyun Jeong (University of the District of Columbia), Feng Chen (University of Texas at Dallas), Jin-Hee Cho (Virginia Tech)</i></p>
                 <p><b>Session Chair:</b> Deborah Kariuki (UMBC)</p>
-            - location: AB1-3100 SCALE-UP Classroom
+            - location: AB1-3100
               type: Research Shorts
               name: "Applied AI & Emerging Technologies"
               details: >
@@ -1164,7 +1169,7 @@ schedule:
                 <p>Temperature and Interface Effects on Carrier Transport in Hydrogen-Terminated Diamond MOSFETs<br>
                 <i>Nuwayyir Alshammari</i></p>
                 <p><b>Session Chair:</b> Zhoujun Duan (James Madison University)</p>
-            - location: AB1-3120 Breakout Connected Classroom
+            - location: AB1-3120
               type: Research Shorts
               name: "Cybersecurity, Trust & Resilience"
               details: >
@@ -1222,7 +1227,8 @@ schedule:
           time_end: 4:35PM
           description: >
             <p><b>Human-Centered Automation: A Journey through HCI, AI, and the Future of Robotics</b><br>
-            <i>Meg Dickey-Kurdziolek</i>, Intrinsic</p>
+            <i>Meg Dickey-Kurdziolek (Intrinsic)</p>
+            <p>Meg is the UX lead for Intrinsic.ai, where she focuses on making it easier to create automation solutions with industrial robotics. She is a “Xoogler” and previously worked on Vertex AI and Explainable AI services for Google Cloud. Meg has had a varied career working for start-ups and large corporations alike, and she has published on topics such as information visualization, educational-technology design, voice user interface (VUI) design, explainable AI (XAI), and human-robot interaction (HRI). Meg is a proud alumnus of Virginia Tech, where she received her Ph.D. in Human-Computer Interaction.</p>
         - name: Closing
           location: Boeing Auditorium
           time_start: 4:35PM
