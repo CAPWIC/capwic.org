@@ -807,7 +807,7 @@ sponsorship:
 
 schedule:
   heading: Schedule
-  body: Browse the CAPWIC 2026 Schedule.
+  body: Browse the CAPWIC 2026 Schedule below or <a download="CAPWIC 2026 Technical Program.pdf" href="/2026/CAPWIC 2026 Technical Program.pdf">download this PDF</a>.
   days:
     - name: Friday, March 27, 2026
       color: capwic-primary
