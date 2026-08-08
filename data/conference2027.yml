@@ -1,0 +1,300 @@
+enable  : true
+title   : April 9-10, 2027
+name    : CAPWIC 2027
+description: |
+  CAPWIC is the ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing. <br> <br>
+
+  CAPWIC 2027, the ACM Capital Region Celebration of Women in Computing, will be held at  <a target="_blank" rel="noopener noreferrer" href="https://www.jmu.edu/">James Madison University in Harrisonburg, VA</a>. The goal of CAPWIC is to bring together female students and allies to promote the recruitment, retention, and progression of women in computing fields.<br><br>
+  
+  The Capital Region includes Colleges and Universities as far North as Pennsylvania, and as far south as Virginia. The Capital Region Celebration of Women in Computing Conference brings together students, faculty, and industry partners to engage with research and development in computing through discussion and community-building.<br><br>
+
+  All levels of experience are welcome.
+
+  <br><br>
+  <h4>Conference Location:</h4>
+  James Madison University<br>
+  Harrisonburg, VA 22807
+  
+
+
+#  <br> <br>
+#  <hr style="width:39vw">
+#  If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us so that we help with group payments and registration.<br><br><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning float-right"><i class="icon ion-ios-mail"></i> Email us to register your group</a><br><br>
+#  <hr style="width:39vw">
+#  <h4> Suggested Hotels</h4>
+#  Coming soon!
+image   : images/banner2024.png
+
+# deadlines:
+#   - date: |
+#       <time datetime="2027-01-12">January 12</time>
+#     description:
+#     # - <a href="https://capwic.org/conferences/2027/participation/">Submissions Open<i class="icon ion-ios-open"></i></a>
+#     - Submission system closed
+#   - date: |
+#       <time datetime="2027-01-27">January 27</time>
+#     description:
+#     - Registration Opens
+#     - Scholarship application opens
+#   - date: |
+#       <time datetime="2027-02-6">February 6</time>
+#     description:
+#     - Abstract submission deadline
+#   - date: |
+#       <time datetime="2027-02-19">February 19</time>
+#     description:
+#     - Scholarship application deadline
+#   - date: |
+#       <time datetime="2027-03-11">March 11</time>
+#     description:
+#     - <strong>Registration is Closed</strong>
+#   - date: |
+#       March <time datetime="2027-03-27">27</time>&mdash;<time datetime="2027-03-28">28</time>
+#     description:
+#     - Attend in-Person!
+
+# speakers:
+#   - name: Dr. Laurian Vega
+#     img: laurian.jpg
+#     affiliation: System Engineer, Senior at Booz Allen Hamilton.
+#     bio: |
+#       <h5>Tools in Your Toolbox: What I've Learned as a Professional Female Computer Scientist</h5>
+#       <p>In today's rapidly evolving technological landscape, thriving as a professional in computer science requires not just technical expertise but also adaptability, resilience, and a toolkit of practical strategies for navigating challenges. For women in this field, this journey often involves overcoming unique obstacles while carving out space for innovation, leadership, and growth.</p>
+#       <p>In this keynote address, I'll share the tools I've cultivated throughout my career as a female computer scientist—tools that have helped me break barriers, foster collaboration, and stay inspired in an ever-changing industry. From technical skills and problem-solving approaches to strategies for handling imposter syndrome and advocating for diversity, equity, and inclusion, this talk will offer actionable insights for professionals at every stage of their journey.</p>
+#       <p>Whether you're just building your toolbox or looking to refine it, my goal is to equip you with empowering lessons learned from real-world experiences: navigating workplace dynamics, balancing competing demands, taking risks, and finding opportunities to mentor and uplift others. Join me as I reflect on what it means to innovate and thrive—not just as a computer scientist, but as a leader, a learner, and an advocate for change in the tech world. Together, let's add some powerful new tools to your toolbox.</p>
+#   - name: Candace Aku
+#     img: CandaceAku-White-1.JPG
+#     affiliation: Senior Technical Program Manager at Google Public Sector
+#     bio: |
+#       <h5>Goodbye Imposter, Hello Winner: Overcoming Perceptual Expectations to Reclaim Excellence</h5>
+#       <p>What happens when your identity is shaped by the "perceptual expectations" of everyone around you? Others often develop their own thoughts about who you are and those thoughts become the very chains that limit your professional potential. For many women in tech, external narratives become a "groomed perfection" that can lead to identity crises, spiraling, and the heavy weight of imposter syndrome.</p>
+#       <p>In this keynote, Candace Aku shares a transparent look at her journey from living under the shadow of others' expectations and traces her unconventional path through the tech industry. This session explores the process of identifying which parts of your professional identity are yours and which are merely the result of perceptual expectations.</p>
+#       <p>Join us to learn how to stop meeting the expectations of others and start exceeding your own.</p>
+#   - name: Dr. Meg Dickey-Kurdziolek
+#     img: MegHeadShot2024.jpg
+#     affiliation: UX Lead / Sr. Staff UX Researcher, Intrinsic.ai
+#     bio: |
+#       <h5>Human-Centered Automation: A Journey through HCI, AI, and the Future of Robotics</h5>
+#       <p>As AI shifts from digital chatbots to physical entities that move,
+#       build, and interact in our world, the role of the UX professional is
+#       undergoing a radical transformation. In this keynote, Dr. Meg
+#       Kurdziolek, UX Lead at Intrinsic.ai, explores the fascinating
+#       intersection of Human-Computer Interaction and industrial robotics.</p>
+#       <p>Drawing from her career journey, starting from a Ph.D. at Virginia
+#       Tech to leading UX at a Google-born robotics startup, Meg will share
+#       how her perspective on "human-centeredness" has evolved. She will dive
+#       into the unique challenges of designing for complex physical systems,
+#       the critical role of Explainable AI (XAI) in building trust with
+#       machines, and how AI tools are reshaping the very nature of UX
+#       research. Whether you are a student just starting out or a seasoned
+#       professional, this talk offers a roadmap for navigating the "wild
+#       west" of robotics and automation.</p>
+#       <p>Meg is the UX lead for Intrinsic.ai, where she focuses on making it easier to create automation solutions with industrial robotics. She is a “Xoogler” and previously worked on Vertex AI and Explainable AI services for Google Cloud. Meg has had a varied career working for start-ups and large corporations alike, and she has published on topics such as information visualization, educational-technology design, voice user interface (VUI) design, explainable AI (XAI), and human-robot interaction (HRI). Meg is a proud alumnus of Virginia Tech, where she received her Ph.D. in Human-Computer Interaction.</p>
+
+rates:
+submission:
+  lead: |
+    <p>More info coming in late 2026...</p>
+
+
+
+nav:
+  - name: CAPWIC 2027
+    url: /conferences/2027
+  - name: Attending
+    url: /conferences/2027/attending
+  # - name: Schedule
+  #   url: /conferences/2027/schedule
+  - name: Sponsorship
+    url: /conferences/2027/sponsorship
+  - name: Participation
+    url: /conferences/2027/participation
+  - name: Organizers
+    url: /conferences/2027/organizers
+  - name: photos
+    url: /photos
+policies:
+  - name: Code of Conduct
+    body: |
+      CAPWIC's top priority is that participants feel welcome, comfortable, respected, and safe while attending. As an official ACM-W celebration, we adhere to <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener noreferrer">the ACM Code of Conduct <i class="icon ion-ios-open"></i></a>.
+flyers:
+  - link: CAPWIC_2027_Sponsorship_Flyer.pdf
+    text: Information for Sponsors
+
+#This section modifies the list of organizers (chairs, local arrangements...etc) that runs down the right-hand side of the organizers page
+organizers:
+  - Chair:
+    - name: Dr. Mona Rizvi
+      last_name: Rizvi
+      link: https://www.jmu.edu/cise/people/faculty/rizvi-mona.shtml
+      avatar: /2027/organizers/rizvi.png
+      affiliation: James Madison University
+      email: info@capwic.org
+  - Past Chair:
+    - name: Dr. Sehrish Basir Nizamani
+      last_name: Basir
+      link: https://website.cs.vt.edu/people/faculty/sehrish-basir.html 
+      affiliation: Virginia Tech
+      email: info@capwic.org
+  - Local Chair:
+    - name: Dr. Michael Stewart
+      last_name: Stewart
+      email: web@capwic.org
+      avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg
+      link: https://hcientist.com
+      affiliation: James Madison University
+  - Website Management:
+    - name: Dr. Michael Stewart
+      last_name: Stewart
+      email: web@capwic.org
+      avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg
+      link: https://hcientist.com
+      affiliation: James Madison University
+  
+
+
+#This section populates the organizers page with images and contact information. This data is NOT replicated from above.
+organizer_photos:
+  - name: Dr. Mona Rizvi
+    last_name: Rizvi 
+    link: https://www.jmu.edu/cise/people/faculty/rizvi-mona.shtml
+    avatar: https://www.jmu.edu/cise/_images/faculty-staff/rizvi.png
+    affiliation: James Madison University
+    email: elkadima@jmu.edu
+  - name: Dr. Michael Stewart
+    last_name: Stewart
+    email: web@capwic.org
+    avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg
+    link: https://hcientist.com
+    affiliation: James Madison University
+  - name: Dr. Sehrish Basir Nizamani
+    last_name: Nizamani
+    link: https://website.cs.vt.edu/people/faculty/sehrish-basir.html 
+    affiliation: Virginia Tech
+    avatar: https://experts.vt.edu/27768-sehrish-basir-nizamani/thumbnail
+  # - name: Dr. Zhuojun Duan 
+  #   last_name: Duan
+  #   avatar: https://www.jmu.edu/cise/_images/faculty-staff/duan.jpg 
+  #   link: https://www.jmu.edu/cise/cs/people/faculty-staff/duan-zhuojun.shtml
+  #   affiliation: James Madison University
+attending:
+  code: |
+    <h3>Registration</h3>
+    <p>Registration will open in late 2026 for CAPWIC 2027 at <b> James Madison University</b> in Harrisonburg, VA. on <b>April 9-10, 2027</b>.</p>
+    <h3>Scholarships</h3>
+    <p>Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. If you would like to apply for a scholarship, please fill out the form before registering (it will be available in late 2026).</p>
+  description: |
+    <h3>Date</h3>
+    <p>April 9-10, 2027</p>
+    <h3>Location</h3>
+    <p>The event will be held at <a href="https://www.jmu.edu/">James Madison University</a> in Harrisonburg, VA.</p>
+  fullwidth: |
+    <h3>Parking</h3>
+    <p>More info coming soon...</p>
+    
+    
+    
+aboutItem:
+  - title : Registration
+    type: registration
+    description: > 
+      Registration will open in late 2026 for CAPWIC 2027 at <strong> James Madison University</strong> in Harrisonburg, VA. on <strong>April 9-10, 2027</strong>.  
+  - title: Registering a group?
+    description: |
+      <p>If you're bringing multiple attendees from your school or organization, we can work with you! Please contact us at info@capwic.org so that we help with group payments and registration.</p>
+      <p class="text-center"><a href="mailto:info@capwic.org" target="_blank" rel="noopener noreferrer" class="btn btn-warning"><i class="icon ion-ios-mail"></i> Email us to register your group</a></p>
+  - title : Scholarships
+    description: | 
+      <p>Scholarships 💰 are available to attend CAPWIC every year! CAPWIC Scholarship Awardees have ranged from first-year students in high school, to senior Ph.D. student in graduate school. If you would like to apply for a scholarship, please keep an eye on this page to fill out the application before registering for the conference.</p>
+
+#this field however ends up as its own Sponsorship page
+  - title : Sponsorship
+    type: sponsorship
+    description: |
+      CAPWIC is in its 16th year, and we are so thankful for all the support over the years. See <a target="_blank" rel="noopener noreferrer" href="/2027/flyers/CAPWIC_2027_Sponsorship_Flyer.pdf">our flyer</a> as well as below for more information. If you have any questions or concerns please <a href="mailto:sponsor@capwic.org" title="email sponsorship staff">contact us at sponsor@capwic.org</a>
+
+sponsors:
+  - level: PRE
+    sponsors:
+    - name: ACM-W
+      img: ACMW-hi-res-logo-noText-transparent.png
+      link: https://women.acm.org/
+      class: light
+
+sponsorshipCosts:
+  
+  - name: platinum
+    cost: $5000
+  - name: gold
+    cost: $2500
+  - name: silver
+    cost: $500
+  - name: in-kind
+    cost: 
+sponsorship:
+  - type: General
+    perks: 
+      # - name: Get a Table at the Career Fair
+      #   levels: 
+      #     - name: platinum
+      #       enabled: true
+      #     - name: gold
+      #       enabled: true
+      #     - name: silver
+      #       enabled: true
+      #     - name: in-kind
+      #       enabled: false
+      - name: 2 FREE tickets to attend the celebration
+        levels: 
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: in-kind
+            enabled: false
+  - type: Recruiting and Branding
+    perks: 
+      - name: Blurb in Program & Website
+        levels: 
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: true
+          - name: in-kind
+            enabled: false
+      - name: Swag in Attendee bag
+        levels: 
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: true
+          - name: silver
+            enabled: false
+          - name: in-kind
+            enabled: false
+      - name: Award Branded Prize
+        levels:
+          - name: platinum
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: in-kind
+            enabled: false
+  - type: Others
+    perks: 
+      - name: Discuss your involvement with the chair
+        levels: 
+          - name: diamond
+            enabled: true
+          - name: gold
+            enabled: false
+          - name: silver
+            enabled: false
+          - name: in-kind
+            enabled: true
