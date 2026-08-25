@@ -136,6 +136,12 @@ organizers:
       link: https://website.cs.vt.edu/people/faculty/sehrish-basir.html 
       affiliation: Virginia Tech
       email: info@capwic.org
+  - Technical Program Chair:
+    - name: Dr. Jason Forsyth
+      last_name: Forsyth
+      link: https://www.jasonforsyth.net
+      affiliation: James Madison University
+      email: techchair@capwic.org
   - Local Chair:
     - name: Dr. Michael Stewart
       last_name: Stewart
@@ -172,6 +178,12 @@ organizer_photos:
     link: https://website.cs.vt.edu/people/faculty/sehrish-basir.html 
     affiliation: Virginia Tech
     avatar: https://experts.vt.edu/27768-sehrish-basir-nizamani/thumbnail
+  - name: Dr. Jason Forsyth
+    last_name: Forsyth
+    link: https://www.jasonforsyth.net
+    avatar: https://scholar.google.com/citations?view_op=medium_photo&user=EY6SBHcAAAAJ&citpid=3
+    affiliation: James Madison University
+    email: techchair@capwic.org
   # - name: Dr. Zhuojun Duan 
   #   last_name: Duan
   #   avatar: https://www.jmu.edu/cise/_images/faculty-staff/duan.jpg 
