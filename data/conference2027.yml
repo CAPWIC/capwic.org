@@ -142,12 +142,17 @@ organizers:
       link: https://www.jasonforsyth.net
       affiliation: James Madison University
       email: techchair@capwic.org
-  - Local Chair:
+  - Local Arrangements Chairs:
     - name: Dr. Michael Stewart
       last_name: Stewart
       email: web@capwic.org
       avatar: https://www.jmu.edu/cise/cs/_images/faculty-staff-images/stewart.jpg
       link: https://hcientist.com
+      affiliation: James Madison University
+    - name: Dr. Chris Johnson
+      last_name: Johnson
+      avatar: https://www.jmu.edu/cise/_images/faculty-staff/johnson.png
+      link: https://twodee.org
       affiliation: James Madison University
   - Website Management:
     - name: Dr. Michael Stewart
@@ -184,6 +189,11 @@ organizer_photos:
     avatar: https://scholar.google.com/citations?view_op=medium_photo&user=EY6SBHcAAAAJ&citpid=3
     affiliation: James Madison University
     email: techchair@capwic.org
+  - name: Dr. Chris Johnson
+    last_name: Johnson
+    link: https://twodee.org/
+    avatar: https://www.jmu.edu/cise/_images/faculty-staff/johnson.png
+    affiliation: James Madison University
   # - name: Dr. Zhuojun Duan 
   #   last_name: Duan
   #   avatar: https://www.jmu.edu/cise/_images/faculty-staff/duan.jpg 
