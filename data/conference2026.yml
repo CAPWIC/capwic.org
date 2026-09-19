@@ -807,7 +807,7 @@ sponsorship:
 
 schedule:
   heading: Schedule
-  body: Browse the CAPWIC 2026 Schedule below or <a download="CAPWIC 2026 Technical Program.pdf" href="/2026/CAPWIC 2026 Technical Program.pdf">download this PDF</a>.
+  body: CAPWIC 2026 Technical Program (Abstracts) <a download="CAPWIC 2026 Technical Program.pdf" href="/2026/CAPWIC 2026 Technical Program.pdf">download this PDF</a>.
   days:
     - name: Friday, March 27, 2026
       color: capwic-primary
@@ -924,8 +924,6 @@ schedule:
                 <i>Fatemeh Vares and Brittany Johnson</i></p>
                 <p>AI Assisted Cross-border Cybersecurity Literacy<br>
                 <i>Norah Ondus and Sehrish Basir Nizamani</i></p>
-                <p>Discovering Hidden Bias In AI<br>
-                <i>Anne Nyangaga, Alma Ladino and Pam Bogdan</i></p>
                 <p>OSMoSIS: Enabling Metacognitive Feedback Reflection in LLMs<br>
                 <i>Isaiah Freeman and Joseph Shelton</i></p>
                 <p>Pebble<br>
@@ -1002,6 +1000,8 @@ schedule:
               type: Flash Talks
               name: "Trust, Fairness, and Societal Impact of AI"
               details: >
+                <p>Discovering Hidden Bias In AI<br>
+                <i>Anne Nyangaga, Alma Ladino and Pam Bogdan</i></p>
                 <p>LLM-Guided Input Generation for Causal Fairness Testing<br>
                 <i>Sadia Afrin Mim</i></p>
                 <p>Data-Driven Exploration of Physiological Factors Perpetuating Bias in Pulse Oximetry Readings for At-Home Use<br>
