@@ -25,12 +25,67 @@ description: |
 #  Coming soon!
 image   : images/banner2024.png
 
-# deadlines:
-#   - date: |
-#       <time datetime="2027-01-12">January 12</time>
-#     description:
-#     # - <a href="https://capwic.org/conferences/2027/participation/">Submissions Open<i class="icon ion-ios-open"></i></a>
-#     - Submission system closed
+
+
+
+submission:
+  lead: |
+    <p>There are seven tracks to which you can submit your work.</p>
+    <p>The goal of CAPWIC
+    is to bring together female students and allies to promote the recruitment,
+    retention, and progression of women in computing fields. We invite submissions
+    in the area of computing research as well as on efforts to increase diversity
+    in computing in each of the formats below.</p>
+    <p><b>Submission instructions</b>: For each category,
+    submit an abstract of no more than 250 words
+    using the submission link below.
+    All submissions will require the name(s) and
+    affiliation(s) of the presenters, and for students,
+    their year in school. More details are available on
+    the submission site. If you have questions,
+    please contact the Program Chair, at
+    techchair@capwic.org</p>
+    </p>
+  tracks:
+    - name: Student Research Shorts
+      description: >
+        Research shorts are an opportunity to give a 13-minute presentation with an additional 2 minutes for questions, similar to a talk at a research conference. Work should be technical in nature, investigating new ideas in any area of computer science. The intention is to give presenters a friendly environment in which to practice a future technical talk or work out details in an ongoing project to get constructive feedback. Only an abstract is required, so future publication of the work is not limited. 
+    - name: Flash Talks
+      description: >
+        Five-minute presentations with two minutes for questions. Fast-paced talks on preliminary results, work-in progress, or anything fun and creative related to the conference are welcome in this category. All levels of experience are welcome.
+    - name: Student Posters
+      description: >
+        Before the conference, presenters create a 36” x 48” poster of research, a class project, or other type of work-in-progress including efforts to diversify computing and are present at the poster during the session to discuss content. Open to all students. Prizes will be awarded. Poster stands will be provided.
+    - name: Birds-of-a-Feather
+      description: >
+        Birds-of-a-feather (BOF) sessions are opportunities for a group of participants with similar concerns to have an informal discussion. BOF sessions will be 50-60 minutes.
+    - name: Panels
+      description: >
+        Panels present multiple perspectives on a topic. Proposals should include abstract, a list of presenters including their affiliation and perspective, along with a proposed length of 25 or 50 minutes.
+    - name: Technical Workshops
+      description: >
+        Workshops present a valuable and current technical skill in a hands-on training session. Proposals must include abstract, the intended audience and power/AV equipment/space needs.
+    - name: Technical Talks
+      description: >
+        20 minute technical talk with 5 minutes for questions on a relevant and current technical topic. Priority given to younger faculty and industry partners.
+
+
+
+
+deadlines:
+  - date: |
+      <time datetime="2026-12-01">December 1</time>
+    description:
+    - Registration Opens
+    - Scholarship application opens
+  - date: |
+      <time datetime="2026-12-09">December 9</time>
+    description:
+    - <a href="https://capwic.org/conferences/2027/participation/">Submissions Open <i class="icon ion-ios-open"></i></a>
+  - date: |
+      <time datetime="2027-02-09">February 9</time>
+    description:
+    - <a href="https://capwic.org/conferences/2027/participation/">Submission deadline <i class="icon ion-ios-open"></i></a>
 #   - date: |
 #       <time datetime="2027-01-27">January 27</time>
 #     description:
@@ -48,10 +103,10 @@ image   : images/banner2024.png
 #       <time datetime="2027-03-11">March 11</time>
 #     description:
 #     - <strong>Registration is Closed</strong>
-#   - date: |
-#       March <time datetime="2027-03-27">27</time>&mdash;<time datetime="2027-03-28">28</time>
-#     description:
-#     - Attend in-Person!
+  - date: |
+      April <time datetime="2027-04-09">09</time>&mdash;<time datetime="2027-04-10">10</time>
+    description:
+    - Attend in-Person!
 
 # speakers:
 #   - name: Dr. Laurian Vega
@@ -92,11 +147,6 @@ image   : images/banner2024.png
 #       <p>Meg is the UX lead for Intrinsic.ai, where she focuses on making it easier to create automation solutions with industrial robotics. She is a “Xoogler” and previously worked on Vertex AI and Explainable AI services for Google Cloud. Meg has had a varied career working for start-ups and large corporations alike, and she has published on topics such as information visualization, educational-technology design, voice user interface (VUI) design, explainable AI (XAI), and human-robot interaction (HRI). Meg is a proud alumnus of Virginia Tech, where she received her Ph.D. in Human-Computer Interaction.</p>
 
 rates:
-submission:
-  lead: |
-    <p>More info coming in late 2026...</p>
-
-
 
 nav:
   - name: CAPWIC 2027
