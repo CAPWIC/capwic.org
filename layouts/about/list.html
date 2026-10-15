@@ -1,0 +1,41 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+{{ partial "page-title.html" . }}
+
+<section class="company-description">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 wow fadeInLeft" data-wow-delay=".3s">
+                {{ with site.Params.about.image }}<img src="{{ . | absURL }}" alt="CAPWIC logo" class="img-fluid">{{ end }}
+            </div>
+            <div class="col-md-8">
+                <div class="block">
+                    <h3 class="subtitle">{{ site.Params.banner.description | safeHTML }}</h3>
+                    <p>{{ site.Params.about.content | safeHTML }}</p>
+                    <h3 class="subtitle mt-4">CAPWIC through the years</h3>
+                    <ul>
+                        <li><a href="/supporters">Supporters</a> — the organizations that have sponsored CAPWIC each year</li>
+                        <li><a href="/organizers">Organizers</a> — the institutions represented on the organizing committee each year</li>
+                        <li><a href="/conferences">Past conferences</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ if .Content }}
+<section class="company-description">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{ partial "cta.html" . }}
+
+{{ partial "footer.html" . }}

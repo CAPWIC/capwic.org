@@ -1,0 +1,117 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+{{ partial "page-title.html" . }}
+{{ partial "history/styles.html" . }}
+
+{{/* level as written in the data -> display info; lower rank wins when a supporter appears twice in a year */}}
+{{ $partner := dict "label" "Partner" "short" "★" "class" "lvl-partner" "rank" 9 }}
+{{ $levels := dict
+  "Diamond" (dict "label" "Diamond" "short" "D" "class" "lvl-diamond" "rank" 1)
+  "Platinum" (dict "label" "Platinum" "short" "P" "class" "lvl-platinum" "rank" 2)
+  "Gold" (dict "label" "Gold" "short" "G" "class" "lvl-gold" "rank" 3)
+  "Silver" (dict "label" "Silver" "short" "S" "class" "lvl-silver" "rank" 4)
+  "Academic" (dict "label" "Academic" "short" "A" "class" "lvl-academic" "rank" 5)
+  "Academic/Non-Profit" (dict "label" "Academic" "short" "A" "class" "lvl-academic" "rank" 5)
+  "In-Kind" (dict "label" "In-Kind" "short" "IK" "class" "lvl-in-kind" "rank" 6)
+  "Recruiter" (dict "label" "Recruiter" "short" "R" "class" "lvl-recruiter" "rank" 7)
+  "CareerFairOnly" (dict "label" "Career Fair" "short" "CF" "class" "lvl-career-fair" "rank" 8)
+  "PRE" $partner
+  "POST" $partner
+}}
+
+{{ $years := partial "history/conference-years.html" . }}
+{{ $cells := newScratch }}
+{{ $links := newScratch }}
+{{ $names := slice }}
+{{ range $years }}
+  {{ $y := . }}
+  {{ range (index hugo.Data (print "conference" $y)).sponsors }}
+    {{ $level := index $levels (strings.TrimSpace .level) | default (dict "label" (strings.TrimSpace .level) "short" "•" "class" "" "rank" 10) }}
+    {{ range .sponsors }}
+      {{ $name := partial "history/canonical-name.html" (dict "name" .name "aliases" hugo.Data.aliases.sponsors) }}
+      {{ $names = $names | append $name }}
+      {{ with .link }}{{ $links.Set $name . }}{{ end }}
+      {{ $key := print $name "|" $y }}
+      {{ $prev := $cells.Get $key }}
+      {{ if or (not $prev) (lt $level.rank $prev.rank) }}
+        {{ $cells.Set $key (merge $level (dict "unit" $name "title" (printf "%s — %s %s" $name $y $level.label))) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* one row per supporter, tagged with its parent group (if any) from data/aliases.yml */}}
+{{ $supporters := slice }}
+{{ range uniq $names }}
+  {{ $name := . }}
+  {{ $group := "" }}
+  {{ range hugo.Data.aliases.sponsor_groups }}
+    {{ $match := in (.members | default slice) $name }}
+    {{ range .prefixes }}{{ if or (eq $name .) (hasPrefix $name (print . " ")) }}{{ $match = true }}{{ end }}{{ end }}
+    {{ if and $match (not $group) }}{{ $group = .name }}{{ end }}
+  {{ end }}
+  {{ $count := 0 }}
+  {{ range $years }}{{ if $cells.Get (print $name "|" .) }}{{ $count = add $count 1 }}{{ end }}{{ end }}
+  {{ $supporters = $supporters | append (dict "key" $name "link" ($links.Get $name) "count" $count "group" $group "sort" (printf "%04d %s" (sub 1000 $count) (lower $name))) }}
+{{ end }}
+{{ $supporters = sort $supporters "sort" }}
+
+{{/* collapse grouped supporters into a summary row whose cell shows the best level that year */}}
+{{ $rows := slice }}
+{{ $groupNames := slice }}
+{{ range $supporters }}{{ with .group }}{{ $groupNames = $groupNames | append . }}{{ end }}{{ end }}
+{{ range uniq $groupNames }}
+  {{ $g := . }}
+  {{ $members := where $supporters "group" $g }}
+  {{ if eq (len $members) 1 }}
+    {{ $rows = $rows | append (index $members 0) }}
+  {{ else }}
+    {{ $gkey := print "group:" $g }}
+    {{ $count := 0 }}
+    {{ range $y := $years }}
+      {{ $best := dict }}
+      {{ $units := slice }}
+      {{ range $members }}
+        {{ with $cells.Get (print .key "|" $y) }}
+          {{ $units = $units | append (printf "%s (%s)" .unit .label) }}
+          {{ if or (not $best) (lt .rank $best.rank) }}{{ $best = . }}{{ end }}
+        {{ end }}
+      {{ end }}
+      {{ if $units }}
+        {{ $count = add $count 1 }}
+        {{ $cells.Set (print $gkey "|" $y) (merge $best (dict
+          "class" (print $best.class " group-cell")
+          "extra" (cond (gt (len $units) 1) (printf "+%d" (sub (len $units) 1)) "")
+          "title" (printf "%s %s: %s" $g $y (delimit $units ", "))
+        )) }}
+      {{ end }}
+    {{ end }}
+    {{ $rows = $rows | append (dict "key" $gkey "label" $g "id" (urlize $g) "count" $count "members" $members "sort" (printf "%04d %s" (sub 1000 $count) (lower $g))) }}
+  {{ end }}
+{{ end }}
+{{ range where $supporters "group" "" }}{{ $rows = $rows | append . }}{{ end }}
+
+{{/* sort by number of years supported (desc), then name */}}
+{{ $rows = sort $rows "sort" }}
+
+<section class="company-description">
+  <div class="container-fluid px-md-5">
+    {{ .Content }}
+    <p class="history-legend">
+      {{ range slice "Diamond" "Platinum" "Gold" "Silver" "Academic" "In-Kind" "Recruiter" "CareerFairOnly" "PRE" }}
+        {{ with index $levels . }}<span class="{{ .class }}">{{ .short }} = {{ .label }}</span>{{ end }}
+      {{ end }}
+    </p>
+    {{ partial "history/matrix.html" (dict
+      "id" "supporters-matrix"
+      "rowHeading" "Supporter"
+      "rowsLabel" "supporter"
+      "rows" $rows
+      "years" $years
+      "cells" $cells
+      "yearLink" "/conferences/%s/sponsorship/"
+    ) }}
+  </div>
+</section>
+
+{{ partial "footer.html" . }}

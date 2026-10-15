@@ -531,7 +531,7 @@ participation:
 sponsors:
   - level: PRE
     sponsors:
-    - name: ACM
+    - name: ACM-W
       img: acm.jpg
       link: https://www.acm.org/
       class: light

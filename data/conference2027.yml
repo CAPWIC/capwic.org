@@ -292,6 +292,10 @@ sponsors:
       img: ACMW-hi-res-logo-noText-transparent.png
       link: https://women.acm.org/
       class: light
+    - name: James Madison University Computer Science
+      img: jmucs.png
+      link: https://www.jmu.edu/cise/cs/
+      class: light
 
 sponsorshipCosts:
   

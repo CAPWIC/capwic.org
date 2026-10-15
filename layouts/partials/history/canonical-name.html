@@ -1,0 +1,9 @@
+{{/* Trims .name and maps it to its canonical form using the .aliases list from data/aliases.yml. */}}
+{{ $name := strings.TrimSpace .name }}
+{{ $canonical := $name }}
+{{ range .aliases }}
+  {{ if or (eq .name $name) (in .aliases $name) }}
+    {{ $canonical = .name }}
+  {{ end }}
+{{ end }}
+{{ return $canonical }}

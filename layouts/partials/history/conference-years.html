@@ -1,0 +1,8 @@
+{{/* Returns the sorted list of years that have a data/conferenceYYYY.yml file. */}}
+{{ $years := slice }}
+{{ range $key, $_ := hugo.Data }}
+  {{ with findRESubmatch `^conference(\d{4})$` $key 1 }}
+    {{ $years = $years | append (index . 0 1) }}
+  {{ end }}
+{{ end }}
+{{ return sort $years }}

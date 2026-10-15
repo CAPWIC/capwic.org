@@ -1,0 +1,62 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+{{ partial "page-title.html" . }}
+{{ partial "history/styles.html" . }}
+
+{{ $years := partial "history/conference-years.html" . }}
+{{ $cells := newScratch }}
+{{ $affiliations := slice }}
+{{ range $years }}
+  {{ $y := . }}
+  {{ range (index hugo.Data (print "conference" $y)).organizers }}
+    {{ range $role, $members := . }}
+      {{ range $members }}
+        {{ $person := strings.TrimSpace .name }}
+        {{ with .affiliation }}
+          {{ $aff := partial "history/canonical-name.html" (dict "name" . "aliases" hugo.Data.aliases.affiliations) }}
+          {{ $affiliations = $affiliations | append $aff }}
+          {{ $key := print $aff "|" $y }}
+          {{ $names := ($cells.Get $key).people | default slice }}
+          {{ if not (in $names $person) }}
+            {{ $names = $names | append $person }}
+            {{ $cells.Set $key (dict
+              "people" $names
+              "label" (len $names)
+              "short" (len $names)
+              "class" "org-cell"
+              "title" (printf "%s %s: %s" $aff $y (delimit $names ", "))
+            ) }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* sort by number of years represented (desc), then name */}}
+{{ $rows := slice }}
+{{ range uniq $affiliations }}
+  {{ $aff := . }}
+  {{ $count := 0 }}
+  {{ range $years }}{{ if $cells.Get (print $aff "|" .) }}{{ $count = add $count 1 }}{{ end }}{{ end }}
+  {{ $rows = $rows | append (dict "key" $aff "count" $count "sort" (printf "%04d %s" (sub 1000 $count) (lower $aff))) }}
+{{ end }}
+{{ $rows = sort $rows "sort" }}
+
+<section class="company-description">
+  <div class="container-fluid px-md-5">
+    {{ .Content }}
+    <p class="history-legend">Each cell shows how many organizers came from that institution that year; hover a cell to see who.</p>
+    {{ partial "history/matrix.html" (dict
+      "id" "organizers-matrix"
+      "rowHeading" "Affiliation"
+      "rowsLabel" "affiliation"
+      "rows" $rows
+      "years" $years
+      "cells" $cells
+      "yearLink" "/conferences/%s/organizers/"
+    ) }}
+  </div>
+</section>
+
+{{ partial "footer.html" . }}

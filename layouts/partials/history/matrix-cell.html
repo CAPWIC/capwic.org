@@ -1,0 +1,7 @@
+{{/* One matrix cell. Params: cell (or nil), text ("label" or "short"), kind and gid (for collapsible group members). */}}
+{{ $member := cond (eq .kind "member") (printf ` data-group-member="%s"` .gid) "" }}
+{{ with .cell }}
+<td class="cell {{ .class }}" title="{{ .title }}"{{ $member | safeHTMLAttr }}>{{ index . $.text }}{{ with .extra }} <small class="units">{{ . }}</small>{{ end }}</td>
+{{ else }}
+<td{{ $member | safeHTMLAttr }}></td>
+{{ end }}

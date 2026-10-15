@@ -613,9 +613,9 @@ sponsors:
       img: gwu-gold_sponsor.png
       link: https://engineering.gwu.edu/
       class: light
-    - name: JMU CISE
-      img: College_of_Integrated_Science_and_Engineering_vert_purple.png
-      link: https://www.jmu.edu/cise/
+    - name: James Madison University Computer Science
+      img: jmucs.png
+      link: https://www.jmu.edu/cise/cs/
       class: light
   - level: Silver
     sponsors:

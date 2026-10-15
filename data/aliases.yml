@@ -1,0 +1,45 @@
+# Name normalization for the /supporters and /organizers history pages.
+# Names in the per-year conference files drift over time; list every variant
+# under the canonical name it should be grouped (and displayed) as.
+# Leading/trailing whitespace is ignored automatically.
+
+sponsors:
+  - name: JMU College of Integrated Science and Engineering
+    aliases:
+      - JMU CISE
+  - name: JMU Computer Science
+    aliases:
+      - James Madison University Computer Science
+  - name: UVA Computer Science
+    aliases:
+      - University of Virginia Computer Science
+  - name: Loyola University Maryland
+    aliases:
+      - Loyola
+  - name: GitHub
+    aliases:
+      - GitHub Education
+
+# Supporters that belong to the same parent institution are shown as one
+# collapsible group on /supporters. A supporter joins a group if its
+# (canonical) name equals or starts with one of the prefixes, or is listed
+# under members. Groups with only one supporter are shown as a plain row.
+sponsor_groups:
+  - name: James Madison University
+    prefixes: [JMU, James Madison University]
+  - name: University of Virginia
+    prefixes: [UVA, University of Virginia]
+  - name: Virginia Tech
+    prefixes: [Virginia Tech]
+    members:
+      - Sanghani Center for Artificial Intelligence and Data Analytics
+  - name: University of Pennsylvania
+    prefixes: [UPenn, University of Pennsylvania]
+  - name: George Washington University
+    prefixes: [George Washington University]
+    members:
+      - Department of Computer Science, George Washington University
+  - name: Virginia Commonwealth University
+    prefixes: [VCU, Virginia Commonwealth University]
+
+affiliations: []

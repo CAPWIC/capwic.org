@@ -1,0 +1,126 @@
+{{/*
+  Renders a rows x years matrix in two orientations with a toggle between them.
+  Params:
+    id         unique prefix for element ids
+    rowHeading column heading for the row names (e.g. "Supporter")
+    rowsLabel  plural noun for the toggle button (e.g. "supporter")
+    rows       slice of dicts: key, label (optional, defaults to key), link (optional), count,
+               and for a collapsible group: id and members (a slice of rows)
+    years      slice of year strings
+    cells      scratch keyed "key|year" -> dict: label, short, title, class, extra (optional)
+    yearLink   printf format for a year's page (e.g. "/conferences/%s/sponsorship/")
+*/}}
+{{ $p := . }}
+
+{{/* flatten groups into a header entry followed by its members */}}
+{{ $items := slice }}
+{{ range $p.rows }}
+  {{ if .members }}
+    {{ $gid := print $p.id "-" .id }}
+    {{ $items = $items | append (dict "row" . "kind" "group" "gid" $gid) }}
+    {{ range .members }}{{ $items = $items | append (dict "row" . "kind" "member" "gid" $gid) }}{{ end }}
+  {{ else }}
+    {{ $items = $items | append (dict "row" . "kind" "single" "gid" "") }}
+  {{ end }}
+{{ end }}
+
+<div class="history-matrix" id="{{ $p.id }}">
+  <div class="btn-group mb-3" role="group" aria-label="Matrix orientation">
+    <button type="button" class="btn btn-outline-dark active" data-view="by-{{ $p.rowsLabel }}">By {{ $p.rowsLabel }}</button>
+    <button type="button" class="btn btn-outline-dark" data-view="by-year">By year</button>
+  </div>
+
+  <div class="history-view table-responsive" data-view="by-{{ $p.rowsLabel }}">
+    <table class="table table-sm table-bordered">
+      <thead>
+        <tr>
+          <th class="row-head">{{ $p.rowHeading }}</th>
+          {{ range $p.years }}<th class="text-center"><a href="{{ printf $p.yearLink . }}">{{ . }}</a></th>{{ end }}
+          <th class="text-center">Years</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $items }}
+        {{ $item := . }}
+        {{ $row := .row }}
+        <tr class="{{ .kind }}-row"{{ if eq .kind "member" }} data-group-member="{{ .gid }}"{{ end }}>
+          <th class="row-head" scope="row">
+            {{ if eq .kind "group" }}<button type="button" class="group-toggle" data-toggle-group="{{ .gid }}" aria-expanded="true" title="Show/hide units">▾</button>{{ end }}
+            {{ $label := $row.label | default $row.key }}
+            {{ with $row.link }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ $label }}</a>{{ else }}{{ $label }}{{ end }}
+            {{ if eq .kind "group" }}<small class="text-muted">({{ len $row.members }} units)</small>{{ end }}
+          </th>
+          {{ range $p.years }}
+            {{ partial "history/matrix-cell.html" (dict "cell" ($p.cells.Get (print $row.key "|" .)) "text" "label") }}
+          {{ end }}
+          <td class="text-center">{{ $row.count }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+
+  <div class="history-view table-responsive" data-view="by-year" hidden>
+    <table class="table table-sm table-bordered">
+      <thead>
+        <tr>
+          <th class="row-head">Year</th>
+          {{ range $items }}
+          <th class="rotated {{ .kind }}-col"{{ if eq .kind "member" }} data-group-member="{{ .gid }}"{{ end }}>
+            {{ if eq .kind "group" }}<button type="button" class="group-toggle" data-toggle-group="{{ .gid }}" aria-expanded="true" title="Show/hide units">▾</button>{{ end }}
+            <span>{{ .row.label | default .row.key }}</span>
+          </th>
+          {{ end }}
+          <th class="rotated"><span>Total</span></th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $p.years }}
+        {{ $y := . }}
+        {{ $total := 0 }}
+        <tr>
+          <th class="row-head" scope="row"><a href="{{ printf $p.yearLink $y }}">{{ $y }}</a></th>
+          {{ range $items }}
+            {{ $cell := $p.cells.Get (print .row.key "|" $y) }}
+            {{ if and $cell (ne .kind "group") }}{{ $total = add $total 1 }}{{ end }}
+            {{ partial "history/matrix-cell.html" (dict "cell" $cell "text" "short" "kind" .kind "gid" .gid) }}
+          {{ end }}
+          <td class="text-center">{{ $total }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+(function () {
+  var root = document.getElementById({{ $p.id }});
+  var buttons = root.querySelectorAll('button[data-view]');
+  var views = root.querySelectorAll('.history-view');
+  function show(view) {
+    views.forEach(function (v) { v.hidden = v.dataset.view !== view; });
+    buttons.forEach(function (b) { b.classList.toggle('active', b.dataset.view === view); });
+  }
+  buttons.forEach(function (b) {
+    b.addEventListener('click', function () {
+      show(b.dataset.view);
+      history.replaceState(null, '', '#' + b.dataset.view);
+    });
+  });
+  if (location.hash === '#by-year') show('by-year');
+
+  // group expand/collapse, kept in sync across both views
+  root.querySelectorAll('button[data-toggle-group]').forEach(function (t) {
+    t.addEventListener('click', function () {
+      var gid = t.dataset.toggleGroup;
+      var expand = t.getAttribute('aria-expanded') !== 'true';
+      root.querySelectorAll('[data-group-member="' + gid + '"]').forEach(function (el) { el.hidden = !expand; });
+      root.querySelectorAll('button[data-toggle-group="' + gid + '"]').forEach(function (b) {
+        b.setAttribute('aria-expanded', expand);
+        b.textContent = expand ? '▾' : '▸';
+      });
+    });
+  });
+})();
+</script>
