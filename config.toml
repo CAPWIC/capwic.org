@@ -1,4 +1,4 @@
-baseURL = "//capwic.org/"
+baseURL = "https://capwic.org/"
 languageCode = "en-us"
 title = "CAPWIC"
 theme = "timer-hugo"
@@ -49,6 +49,26 @@ theme = "timer-hugo"
     logo_alt = "logo"
     #logo_text = "logo_text"
     current_conf_year = "2027"
+
+    # Link previews (Open Graph / Twitter). Pages can override with
+    # `description:` and `images: [...]` in front matter.
+    description = "CAPWIC, the ACM Capital Region Celebration of Women in Computing, brings together students, faculty, and industry partners for keynotes, workshops, research talks, and community-building. CAPWIC 2027: April 9-10, James Madison University."
+    socialImage = "images/social-card.jpg"
+    socialImageAlt = "A large group of CAPWIC attendees posing on the steps of a campus building"
+
+    # Structured data so Google can show the date & location in search results.
+    # Update each year along with current_conf_year.
+    [params.event]
+        name      = "CAPWIC 2027"
+        startDate = "2027-04-09"
+        endDate   = "2027-04-10"
+        status    = "EventScheduled"   # or EventPostponed / EventCancelled / EventRescheduled
+        venue     = "James Madison University"
+        street    = "800 S Main St"
+        city      = "Harrisonburg"
+        region    = "VA"
+        postal    = "22807"
+        country   = "US"
 
     # Banner Section
     [params.banner]
