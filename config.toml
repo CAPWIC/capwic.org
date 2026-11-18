@@ -53,8 +53,8 @@ theme = "timer-hugo"
     # Link previews (Open Graph / Twitter). Pages can override with
     # `description:` and `images: [...]` in front matter.
     description = "CAPWIC, the ACM Capital Region Celebration of Women in Computing, brings together students, faculty, and industry partners for keynotes, workshops, research talks, and community-building. CAPWIC 2027: April 9-10, James Madison University."
-    socialImage = "images/social-card.jpg"
-    socialImageAlt = "A large group of CAPWIC attendees posing on the steps of a campus building"
+    socialImage = "images/social-card.jpg"   # 1200x630, resized from images/capwic/CAPWIC_2027_Rainbow_Tech_Banner.png
+    socialImageAlt = "CAPWIC 2027: Celebrating Women in Computing. April 9-10, 2027, James Madison University, Harrisonburg, VA"
 
     # Structured data so Google can show the date & location in search results.
     # Update each year along with current_conf_year.
